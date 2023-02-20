@@ -97,6 +97,7 @@ wss://nostr.argdx.net
 wss://thes.ai
 wss://nostr-3.orba.ca
 wss://relay.nort.social
+wss://nostr.688.org
 wss://relay-local.cowdle.gg
 wss://lbrygen.xyz
 wss://relay.nostrid.com
@@ -248,6 +249,7 @@ wss://nostr.drss.io
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
 wss://nostr.swiss-enigma.ch
 wss://nostr-relay.australiaeast.cloudapp.azure.com
+wss://nostr.xmr.rocks
 wss://nostr-paid.h3z.jp
 wss://nostr.bitcoin-21.org
 wss://nostr.gromeul.eu
@@ -331,6 +333,7 @@ wss://relay.nostrgraph.net
 wss://nostr.messagepush.io
 wss://ragnar-relay.com
 wss://nostr.Oxtr.dev
+wss://relay.reeve.cn
 wss://nostr-relay.freeberty.net
 wss://3d515c5277e9.ngrok.io
 wss://freespeech.casa
@@ -348,6 +351,7 @@ wss://nostr.com.de
 wss://nostr.itssilvestre.com
 wss://relay.sdbtc.org
 wss://nostr.lnorb.com
+wss://chainza-estudio.tail33dda.ts.net:4848
 wss://relay.nostr.snblago.com
 wss://puravida.nostra.land
 wss://nostr-test.elastos.io
@@ -356,6 +360,7 @@ wss://nostrue.com
 wss://umbrel.tailnet-6ca2.ts.net:4848
 wss://nostr.liberty.fans
 wss://nostr.asdf.mx
+wss://nostrverifired.com
 wss://eden.nostr.land
 wss://no-str.wnhefei.cn:28443
 wss://lv01.tater.ninja
@@ -431,6 +436,7 @@ wss://Nostr.gromeul.eu
 wss://nostr.coinos.io
 wss://nostr.zeebedee.cloud
 wss://nostramsterdam.vpx.moe
+wss://nostr.dumpit.top
 wss://expensive-relay.fiatjaf.com
 wss://nostr.developer.li
 wss://bitcoiner.social
@@ -506,6 +512,7 @@ wss://rasca.asnubes.art
 wss://relay.kronkltd.net
 wss://relay.nor.st
 wss://familys.vip
+wss://nwmdev.com
 wss://rdafsvko2moo3qsmqojwcrjodp7vtjpcxrwjbacrw4mwppk6gwl4zbyd.onion
 wss://spore.ws
 wss://nostr-alpha.gruntwerk.org
@@ -539,6 +546,7 @@ wss://nostr.anchel.nl
 wss://nostr.ethtozero.fr
 wss://relay.nostrified.org
 wss://nostream-production-f83d.up.railway.app
+wss://nostr.21l.st
 wss://Relay.nostr.bg
 wss://student.chadpolytechnic.com
 wss://nostr.radixrat.com
@@ -630,14 +638,10 @@ wss://slick.mjex.me
 wss://puravida.nostr.land
 wss://nostr.adpo.co
 wss://relay.nostr.vision
-wss://notr.delo.software
-wss://nostr.sandwich.farm
-
-wss://nostr.21crypto.ch
-wss://nostr.robotesc.ro
-wss://nostr.tangzixiang.com
-wss://nostr.coollamer.com
-         wss://nostr-relay.smoove.net
+str.mom
+wss://nostr.sabross.xyz
+wss://nostr-relay.xbytez.io
+wss://nostr-relay.smoove.net
 wss://nostr.doufu-tech.com
 wss://moonbreeze.richardbondi.net
 wss://nostr.reamde.dev
@@ -681,6 +685,7 @@ wss://relay.nostr.xyz
 wss://nuccy-nuc715bnk.local:4848
 wss://nostr.sg
 wss://nostr.phenomenon.space
+wss://nostr.bybieyang.com
 wss://nostr2.rbel.co
 wss://eden.nostry.land
 wss://nostr.blocs.fr
