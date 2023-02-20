@@ -47,8 +47,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nostr-2.orba.ca
 wss://nuc-4.home:4848
+wss://nostr-2.orba.ca
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -75,6 +75,7 @@ wss://familys.vip:5700
 wss://nostr.lol
 wss://nostr.primz.org
 wss://nostrelay.yeghro.site
+wss://nostr.inprivate.network
 wss://nostr.sidnlabs.nl
 wss://nproxy.wil.bio
 wss://nostr.shmueli.org
@@ -132,6 +133,7 @@ wss://nostr.buythisdip.com
 wss://relay.nostrology.org
 wss://relay.hamnet.io
 wss://relay1.nostrich.cloud
+wss://nostr.truckenbucks.com
 wss://relay.bitcoiner.social
 wss://hunter1998.com
 wss://nostr.cro.social
@@ -270,6 +272,7 @@ wss://nostr.satoshi.fun
 wss://nostr.drss.io
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
 wss://relay.ohbe.me
+wss://relay.mutinywallet.com
 wss://nostr.swiss-enigma.ch
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.xmr.rocks
@@ -437,6 +440,7 @@ wss://jp-relay-nostr.invr.chat
 wss://nostr.v01.io
 wss://nostr.bongdong.com
 wss://eospark.com
+wss://next.nostr.watch
 wss://nostr-dev.wellorder.net
 wss://nostr-relay.eniehack.net
 wss://quirky-bunch-isubghsvoi26fbbt3n7o.wnext.app
@@ -448,6 +452,7 @@ wss://nostr.milou.lol
 wss://nostr.ch3n2k.com
 wss://relay.nostrcheck.me
 wss://wizards.wormrobot.org
+wss://nostr.verif-slothy.win
 wss://nostr-relay.nonce.academy
 wss://swiss-enigma.ch
 wss://nostrrelay.maciejz.net
@@ -478,6 +483,7 @@ wss://relay.damus.io
 wss://relay.nostropolis.xyz
 wss://nostrrr.bublina.eu.org
 wss://nostream-relay-nostr.831.pp.ua
+wss://nostr.bitcoiner.socia
 wss://relay.cryptocculture.com
 wss://Nostr.gromeul.eu
 wss://nostr.coinos.io
@@ -510,6 +516,7 @@ wss://relay.familys.vip
 wss://nostr.600.wtf
 wss://nostream.madbean.snowinning.com
 wss://nostr.formigator.eu
+wss://nostr.info
 wss://puravida.nostr.land.com
 wss://satstacker.cloud
 wss://nostr-relay.aapi.me
@@ -549,6 +556,7 @@ wss://nostr.fractalized.ovh
 wss://no.str.watch
 wss://alphapanda.pro
 wss://nostr.zue.news
+wss://nostril.frendship.tw
 wss://nostr.current.fyo
 wss://nostr.notmyhostna.me
 wss://nostr.web3infra.xyz
@@ -623,15 +631,13 @@ wss://nostr.w3ird.tech
 wss://relay.sendstr.com
 wss://relay.nostrich.land
 wss://nostr.datamagik.com
-wss://wagvwfrdrikrqzp7h3b5lwl6btyuttu7mqpeji35ljzq36ovzgjhsfqd.onion
-wss://notr.onsats.org
-wss://nostr-pub1.southflorida.ninja
-wss://relay.nosphr.com
-wss://foolay.nostr.moe
-wss://tmp-relay.cesc.trade
-wss://nostr.fredix.xyz
-wss://optiplex.wallaby-bass.ts.net:3333
-                 wss://relay.wtr.app
+                                                   wss://nostr.ncsa.illinois.edu
+wss://nostr21.com
+wss://nostr.bostonbtc.com
+wss://nostr.ibosilj.work
+wss://nostr.data.haus
+wss://nostr.actn.io
+wss://relay.wtr.app
 wss://nostr.semisol.dev
 wss://notr.zaprite.io
 wss://atlas.nostr.land
@@ -759,6 +765,7 @@ wss://nostr.stereosteve.com
 wss://nostr.lnnodeinsight.com
 wss://relay.nostr.xyz
 wss://nuccy-nuc715bnk.local:4848
+wss://nostr.private.network
 wss://nostr.sg
 wss://nostr.phenomenon.space
 wss://nostr.bybieyang.com
@@ -771,6 +778,7 @@ wss://nostream.dev.kronkltd.net
 wss://nostr.utxo.lol
 wss://nostr.massmux.com
 wss://nostream.gromeul.eu
+wss://nostr-relay.Inmarkets.com
 wss://relay.taxi
 wss://umbrel.local:4848
 wss://relay.nostriches.org
@@ -785,6 +793,7 @@ wss://Nostr.wine
 wss://nostr.guru
 wss://relay.johnnyasantos.com
 wss://nostr.fluidtrack.in
+wss://nostr.dojotunnel.online
 wss://node01.nostress.cc
 wss://xmr.usenostr.com
 wss://relay.lacosanostr.com
