@@ -67,6 +67,7 @@ wss://plebchain.nostr.land
 wss://nostr.nosphr.com
 wss://nostr-relay.wolfandcrow.tech
 wss://Nostr.8E23.net
+wss://familys.vip:5700
 wss://nostr.lol
 wss://nostr.primz.org
 wss://nostrelay.yeghro.site
@@ -447,6 +448,7 @@ wss://nostr.oxtr.dev
 wss://nostr-relay.gkbrk.com
 wss://nostr-pub.liujiale.me
 wss://nostrich.land
+wss://relay.familys.vip
 wss://nostr.600.wtf
 wss://nostream.madbean.snowinning.com
 wss://nostr.formigator.eu
@@ -503,6 +505,7 @@ wss://nostr.k3tan.com
 wss://rasca.asnubes.art
 wss://relay.kronkltd.net
 wss://relay.nor.st
+wss://familys.vip
 wss://rdafsvko2moo3qsmqojwcrjodp7vtjpcxrwjbacrw4mwppk6gwl4zbyd.onion
 wss://spore.ws
 wss://nostr-alpha.gruntwerk.org
@@ -607,6 +610,7 @@ wss://relay.nostr.info
 wss://relay.727whisky.com
 wss://nostr.btcmp.com
 wss://nostr.cheeserobot.org
+wss://familys.vip:7000
 wss://cheery-paddock-rsakdrtc35c55n6yregn.wnext.app
 wss://nostr.chainofimmortals.net
 wss://nostr.primedomain.fr
@@ -633,11 +637,20 @@ wss://nostr.21crypto.ch
 wss://nostr.robotesc.ro
 wss://nostr.tangzixiang.com
 wss://nostr.coollamer.com
-wss://nostr.app.runonflux.io
-wss://nostr.mom
-wss://nostr.sabross.xyz
-wss://nostr-relay.xbytez.io
-ss://nostr.nakamotosatoshi.cf
+         wss://nostr-relay.smoove.net
+wss://nostr.doufu-tech.com
+wss://moonbreeze.richardbondi.net
+wss://nostr.reamde.dev
+wss://relay.nostr3.io
+wss://Nostr.bongbong.com
+wss://global-relay.cesc.trade
+wss://nostr.cercatrova.me
+wss://Nostr.cercatrova.me
+wss://nostr.worldkey.io
+wss://nostr.forecastdao.com
+wss://nostr.einundzwanzig.space
+wss://nostrical.com
+wss://nostr.nakamotosatoshi.cf
 wss://nostr.rocks
 wss://nostr.exposd
 wss://pow.nostrati.com
