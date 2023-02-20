@@ -6,6 +6,7 @@ wss://relay.cynsar.foundation
 wss://translate.argosopentech.com
 wss://edennostr.land
 wss://Nostr.f44.dev
+wss://Nostr.mom
 wss://jarvis.taild68e2.ts.net:4848
 wss://nostr-relay.pcdkd.fyi
 wss://plebchain.nostr
@@ -168,6 +169,7 @@ wss://nr.yay.so
 wss://free-relay.nostrich.land
 wss://nostr.unknown.place
 wss://pow32.nostr.land
+wss://nostr.sactiontwo.org
 wss://relay.farscapian.com
 wss://nostr.21sats.net
 wss://o6ga6lxnax2z7pgkkenifollohkrv55r36mdzdtofi7d5yyif2f4o5yd.onion:5050
@@ -180,6 +182,7 @@ wss://nostream.nostr.parts
 wss://nostr.sovbit.host
 wss://nostr.mwmdev.com
 wss://relay.nostr.hu
+wss://replay.current.fyi
 wss://bhagos.org
 wss://relat.nostrica.com
 wss://relay.zhix.in
@@ -249,6 +252,7 @@ wss://blg.nostr.sx
 wss://nostr-relay.app.ikeji.ma
 wss://nostr1.saftup.xyz
 wss://Nostrica.com
+wss://replay.snort.social
 wss://Nostr.nodeofsven.com
 wss://public.nostr.swissrouting.com
 wss://nostr.minimue81.selfhost.co
@@ -304,6 +308,7 @@ wss://nostr-relay.untethr.me
 wss://nostr.bitcoin-basel.ch
 wss://dev2.hazlitt.fiatjaf.com
 wss://astra.nostr.land
+wss://eden.nosrt.land
 wss://Nostr.developer.li
 wss://Eden.nostr.land
 wss://nostr.ono.re
@@ -458,6 +463,8 @@ wss://Nostr1.Tunnelsats.com
 wss://relay.minds.com
 wss://umbrel.bobcat-perch.ts.net
 wss://spleenrider.herokuapp.com
+wss://relay.tnano.duckdns.org
+wss://ufyirz4f5sn5gbsx4mfabooievm3lxcx6fnsh4udzx7silws6kbpypid.onion
 wss://at.nostrworks.com
 wss://fiatdenier.com
 wss://relay.r3d.red
@@ -627,15 +634,17 @@ wss://nostr.bostonbtc.com
 wss://nostr.ibosilj.work
 wss://nostr.data.haus
 wss://nostr.actn.io
-wss://relay.wtr.app
-wss://nostr.semisol.dev
-wss://notr.zaprite.io
-wss://atlas.nostr.land
-wss://relay.nostr.moe
-wss://relay.nostr.wirednet.jp
-wss://nostr.ginuerzh.xyz
-wss://rsslay.nostr.net
-wss://nostream.nostrly.ionostr.masmux.com
+wss://nostr.bingtech.tk
+wss://relay.nvote.co:443
+wss://lpkue6jtz3pnp7zok4jwlct4n3mzuffsfrpagiffsuplyaswhdtmpoid.local
+wss://nostr.zerofeerouting.com
+wss://nostream.frank.snowinning.com
+wss://nostr.localhost.re
+wss://nostr.community.networks.deavmi.assigned.network
+wss://nostr3.actn.io
+wss://damus.io
+wss://nostream.kinchie.snowinning.com
+wss://nostr.masmux.com
 wss://node01.nostress.cc
 
 wss://relay.nostr.express
@@ -733,6 +742,7 @@ wss://nostr.gives.africa
 wss://shroomslab.net
 wss://relay.grunch.dev
 wss://nostr.verymad.net
+wss://nostr.hushvault.ie:4848
 wss://nostr-relay.alekberg.net
 wss://BTC.klendazu.com
 wss://relayer.pleb.social
