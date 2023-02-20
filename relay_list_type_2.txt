@@ -128,6 +128,7 @@ wss://nor.st
 wss://nostr-relay.j3s7m4n.com
 wss://598e-189-250-106-103.ngrok.io
 wss://nostr.buythisdip.com
+wss://relay.nostrology.org
 wss://relay.hamnet.io
 wss://relay1.nostrich.cloud
 wss://relay.bitcoiner.social
@@ -137,6 +138,7 @@ wss://knostr.neutrine.com:8880
 wss://einundzwanzig.relay.com
 wss://mule.platanito.org
 wss://nostr.pwnshop.cloud
+wss://nostr.cizmar.net
 wss://nostr.lordkno.ws
 wss://nostr.zxcvbn.space
 wss://nostr.nordlysln.net
@@ -157,6 +159,7 @@ wss://nos.lol
 wss://nostr-mv.ashiroid.com
 wss://nostr.services.thefockinfury.wtf
 wss://colin-hp-elitedesk-800-g1-dm.local:4848
+wss://nostr.lukeacl.com
 wss://relay.21baiwan.com
 wss://nostr.bitcoin.sex
 wss://CloudNull.land
@@ -168,6 +171,7 @@ wss://pow32.nostr.land
 wss://relay.farscapian.com
 wss://nostr.21sats.net
 wss://o6ga6lxnax2z7pgkkenifollohkrv55r36mdzdtofi7d5yyif2f4o5yd.onion:5050
+wss://nostr.soscary.net
 wss://nostr01.vida.dev
 wss://nostr.1f52b.xyz
 wss://zur.nostr.sx
@@ -175,6 +179,7 @@ wss://nostr.up.railway.app
 wss://nostream.nostr.parts
 wss://nostr.sovbit.host
 wss://nostr.mwmdev.com
+wss://relay.nostr.hu
 wss://bhagos.org
 wss://relat.nostrica.com
 wss://relay.zhix.in
@@ -193,6 +198,7 @@ wss://nostr.sebastix.dev
 wss://dev2.hazilitt.fiatjaf.com
 wss://relay.zeh.app
 wss://brb.io
+wss://relay.nostr.lu
 wss://nostr.foundrydigital.com
 wss://nostr-relay-dev.wlvs.space
 wss://md.hugo.nostr
@@ -222,8 +228,10 @@ wss://nostr.rdfried.com
 wss://nostr.monostr.com
 wss://nostr.yael.at
 wss://sg.qemura.xyz
+wss://nostr.0nyx.eu
 wss://eosla.com
 wss://member.cash
+wss://nostr.nos.lol
 wss://nostr.kawagarbo.xyz
 wss://nostr-relay.lnmarkets.com
 wss://satsjar.local:4848
@@ -306,9 +314,11 @@ wss://lightningrelay.com
 wss://ch1.duno.com
 wss://nostr.rajabi.ca
 wss://nostr.cvilleblockchain.org
+wss://anigma.io
 wss://nostr.zoomout.chat
 wss://relay.orangepill.dev
 wss://nostr.fmt.wiz.biz
+wss://relay.humanumest.social
 wss://citadel.local:4848
 wss://nostr.0ne.day
 wss://nostr.oooxxx.ml
@@ -365,6 +375,7 @@ wss://nostr.orangepill.dev
 
 wss://nostr.screaminglife.io
 wss://relay.valera.co
+wss://nostr.lapalomilla.mx
 wss://nostr.com.de
 wss://nostr.itssilvestre.com
 wss://nostr.shroomslab.net
@@ -373,6 +384,7 @@ wss://nostr.lnorb.com
 wss://chainza-estudio.tail33dda.ts.net:4848
 wss://nostr.pobblelabs.org
 wss://relay.nostr.snblago.com
+wss://spicy-tray-3ghp3voydiwvmfm2ijur.wnext.app
 wss://puravida.nostra.land
 wss://nostr-test.elastos.io
 wss://relay.damua.io
@@ -461,6 +473,7 @@ wss://relay.cryptocculture.com
 wss://Nostr.gromeul.eu
 wss://nostr.coinos.io
 wss://n.xmr.se
+wss://nostring.deno.dev
 wss://nostr.zeebedee.cloud
 wss://nostramsterdam.vpx.moe
 wss://nostr.dumpit.top
@@ -542,6 +555,7 @@ wss://nostr.k3tan.com
 wss://nostr.simatime.com
 wss://rasca.asnubes.art
 wss://relay.kronkltd.net
+wss://relay.nostr.ae
 wss://relay.nor.st
 wss://familys.vip
 wss://nostr-relay.wls.space
@@ -621,18 +635,21 @@ wss://relay.nostr.moe
 wss://relay.nostr.wirednet.jp
 wss://nostr.ginuerzh.xyz
 wss://rsslay.nostr.net
-wss://nostream.nostrly.io
-wss://nostr.bingtech.tk
-wss://relay.nvote.co:443
-wss://lpkue6jtz3pnp7zok4jwlct4n3mzuffsfrpagiffsuplyaswhdtmpoid.local
-wss://nostr.zerofeerouting.com
-wss://nostream.frank.snowinning.com
-wss://nostr.localhost.re
-wss://nostr.community.networks.deavmi.assigned.network
-wss://nostr3.actn.io
-wss://damus.io
-wss://nostream.kinchie.snowinning.com
-r-au.coinfundit.com
+wss://nostream.nostrly.ionostr.masmux.com
+wss://node01.nostress.cc
+
+wss://relay.nostr.express
+wss://nostr.13x.sh
+wss://nostr-Relay.alekberg.net
+wss://Nostr.Itssilvestre.com
+wss://nostr.21sat.net
+wss://relay.nostr.pro
+wss://nostr.mikedilger.com
+wss://www.131.me
+wss://nostr.shawnyeager.net
+wss://relay.nostr.nu
+wss://relay-jp.nostr.wirednet.jp
+wss://nostr-au.coinfundit.com
 wss://nostr.lorentz.is
 wss://5nae6lvs5nd7tlxmoaysol4a5rs5uo5ekzisqvjcu6pc5kag7kcg45qd.onion
 wss://nostr.d11n.net
@@ -642,6 +659,7 @@ wss://relay.honk.pw
 wss://jiggytom.ddns.net
 wss://btc.klendazu.com
 wss://nostr.fennel.org:7000
+wss://nostr.bitcoiner.com
 wss://relay.nostr.info
 wss://relay.727whisky.com
 wss://nostr.btcmp.com
