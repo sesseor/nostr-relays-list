@@ -47,8 +47,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nuc-4.home:4848
 wss://nostr-2.orba.ca
+wss://nuc-4.home:4848
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -110,6 +110,7 @@ wss://nostr.aozing.com
 wss://relay.nostr.lu.ke
 wss://n.wingu.se
 wss://private-nostr.v0l.io
+wss://nostr.milou.app
 wss://no.str.cr
 wss://nostr.merrcurr.com
 wss://relay.bitid.nz
@@ -375,6 +376,8 @@ wss://ragnar-relay.com
 wss://nostr.Oxtr.dev
 wss://relay.reeve.cn
 wss://nostr-relay.freeberty.net
+wss://nostr.com
+wss://mindmachine.688.org
 wss://3d515c5277e9.ngrok.io
 wss://freespeech.casa
 wss://nostr.freefrom.fi
@@ -627,10 +630,9 @@ wss://student.chadpolytechnic.com
 wss://relay.cryptoculture.com
 wss://nostr.radixrat.com
 wss://relay.futohq.com
-wss://nostr.shadownode.org
-wss://nostr.exposed
-wss://nostr.kollider.xyz
-2og2etl4gttfzmqcixdq7rpts47lpgolkyd.onion
+        wss://btc.kendazu.com
+wss://nostr.itas.li
+wss://d463rbo7dgbfuxvvxpory2og2etl4gttfzmqcixdq7rpts47lpgolkyd.onion
 wss://nostr.relay-wlvs.space
 wss://nostr.corebreach.com
 wss://nostr.holybea.com
