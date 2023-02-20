@@ -19,6 +19,7 @@ wss://nostr.koning-degraaf.nl
 wss://nostr01.counterclockwise.io
 wss://nostr.snort.social
 wss://global.relay.red
+wss://nostr.steken.xyz
 wss://nostrfoxden.ddns.net:4848
 wss://nostr.sandwich.farm
 wss://nostr.zaprite.io
@@ -43,8 +44,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nuc-4.home:4848
 wss://nostr-2.orba.ca
+wss://nuc-4.home:4848
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -235,6 +236,7 @@ wss://nostr1.saftup.xyz
 wss://Nostrica.com
 wss://Nostr.nodeofsven.com
 wss://public.nostr.swissrouting.com
+wss://nostr.minimue81.selfhost.co
 wss://astral.ninja
 wss://nostr.risa.zone
 wss://e.nos.lol
@@ -247,6 +249,7 @@ wss://relay.jig.works
 wss://nostr.satoshi.fun
 wss://nostr.drss.io
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
+wss://relay.ohbe.me
 wss://nostr.swiss-enigma.ch
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.xmr.rocks
@@ -296,6 +299,7 @@ wss://nostr.cvilleblockchain.org
 wss://nostr.zoomout.chat
 wss://relay.orangepill.dev
 wss://nostr.fmt.wiz.biz
+wss://citadel.local:4848
 wss://nostr.0ne.day
 wss://nostr.oooxxx.ml
 wss://nostr.klabo.blog
@@ -306,6 +310,7 @@ wss://nostr.malin.onl
 wss://relay.f7z.io
 wss://nostr2.actn.io
 wss://nostream-production-9458.up.railway.app
+wss://n7okxxbnlslv5xmi277pwdzvg6eropcrurs44y2oydpl6qoq2murx6ad.onion
 wss://nostr.pleb.network
 wss://nostr.ahaspharos.de
 wss://nostr.nokotaro.com
@@ -337,6 +342,7 @@ wss://relay.reeve.cn
 wss://nostr-relay.freeberty.net
 wss://3d515c5277e9.ngrok.io
 wss://freespeech.casa
+wss://nostr.freefrom.fi
 wss://lnbits.link
 wss://relay.wellorder.net
 wss://relay.nostr24.com
@@ -581,6 +587,7 @@ wss://notr.zaprite.io
 wss://atlas.nostr.land
 wss://relay.nostr.moe
 wss://relay.nostr.wirednet.jp
+wss://nostr.ginuerzh.xyz
 wss://rsslay.nostr.net
 wss://nostream.nostrly.io
 wss://nostr.bingtech.tk
@@ -588,6 +595,7 @@ wss://relay.nvote.co:443
 wss://lpkue6jtz3pnp7zok4jwlct4n3mzuffsfrpagiffsuplyaswhdtmpoid.local
 wss://nostr.zerofeerouting.com
 wss://nostr.localhost.re
+wss://nostr.community.networks.deavmi.assigned.network
 wss://nostr3.actn.io
 wss://damus.io
 wss://nostream.kinchie.snowinning.com
@@ -626,19 +634,16 @@ wss://private.red.gb.net
 wss://wine.Nostr
 wss://relay01.apus.network
 wss://nostr.hackerman.pro
-wss://nostr.yuv.al
-wss://fin-nostr.seekdisruption.com
-wss://nostr.decentony.com
-wss://Nostr-2.ZEBEDEE.cloud
-wss://relay.ryzizub.com
-wss://nostr.oxtr.dev
-wss://nostr.mutinywallet.com
-wss://relay.stonez.me
-wss://slick.mjex.me
-wss://puravida.nostr.land
-wss://nostr.adpo.co
-wss://relay.nostr.vision
-str.mom
+                    wss://notr.delo.software
+wss://nostr.sandwich.farm
+
+wss://nostr.21crypto.ch
+wss://nostr.robotesc.ro
+wss://nostr.tangzixiang.com
+wss://nostr.coollamer.com
+wss://nostr.app.runonflux.io
+wss://nostr.rbel.co
+wss://nostr.mom
 wss://nostr.sabross.xyz
 wss://nostr-relay.xbytez.io
 wss://nostr-relay.smoove.net
