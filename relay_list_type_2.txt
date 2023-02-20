@@ -97,6 +97,7 @@ wss://nostr.theblockreward.com
 wss://nostr.bitcoinplebs.de
 wss://relay.nostrmoto.xyz
 wss://nostr.beta3.dev
+wss://nostr.testdomainpleaseignore.xyz
 wss://nostr.astrox.app
 wss://nostr.argdx.net
 wss://thes.ai
@@ -251,6 +252,7 @@ wss://nostr01.opencult.com
 wss://nostr.onsats.org
 wss://nostream.denizenid.com
 wss://tom-desktop.local:4848
+wss://nostrzebedee.cloud
 wss://relay-pub.deschooling.us
 wss://nostr.easify.de
 wss://blg.nostr.sx
@@ -326,6 +328,7 @@ wss://lightningrelay.com
 wss://ch1.duno.com
 wss://nostr.rajabi.ca
 wss://nostr.vOl.io
+wss://relay.nostrula.com
 wss://nostr.cvilleblockchain.org
 wss://anigma.io
 wss://nostr.zoomout.chat
@@ -626,11 +629,10 @@ wss://nostream-production-f83d.up.railway.app
 wss://nostr.21l.st
 wss://relay.realsearch.cc
 wss://Relay.nostr.bg
-wss://student.chadpolytechnic.com
-wss://relay.cryptoculture.com
-wss://nostr.radixrat.com
-wss://relay.futohq.com
-        wss://btc.kendazu.com
+                       wss://nostr.shadownode.org
+wss://nostr.exposed
+wss://nostr.kollider.xyz
+wss://btc.kendazu.com
 wss://nostr.itas.li
 wss://d463rbo7dgbfuxvvxpory2og2etl4gttfzmqcixdq7rpts47lpgolkyd.onion
 wss://nostr.relay-wlvs.space
