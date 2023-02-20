@@ -27,8 +27,10 @@ wss://nstrs.fly.dev
 wss://r.alphaama.com
 wss://willem.currycash.net:4848
 wss://relay.nostr.gt
+wss://relay.damus.info
 wss://nostr.blockpower.capital
 wss://nostr.l00p.org
+wss://zerosequioso.com
 wss://nostr-rely.digitalmob.ro
 wss://nostr.h3y6e.com
 wss://nostr.walletofsatoshi.com
@@ -103,6 +105,7 @@ wss://relay-local.cowdle.gg
 wss://lbrygen.xyz
 wss://relay.nostrid.com
 wss://nostr.aozing.com
+wss://relay.nostr.lu.ke
 wss://n.wingu.se
 wss://private-nostr.v0l.io
 wss://no.str.cr
@@ -151,6 +154,7 @@ wss://nostr-relay.derekross.me
 wss://relay.nosbin.com
 wss://nostr.lan127.net
 wss://nos.lol
+wss://nostr-mv.ashiroid.com
 wss://nostr.services.thefockinfury.wtf
 wss://colin-hp-elitedesk-800-g1-dm.local:4848
 wss://relay.21baiwan.com
@@ -213,6 +217,7 @@ wss://nostrafrica.pcdkd.fyi
 wss://nostr.slothy.win
 wss://nostr.naut.social
 wss://nostr.digitalreformation.info
+wss://nostr.rdfried.com
 wss://nostr.monostr.com
 wss://nostr.yael.at
 wss://sg.qemura.xyz
@@ -237,6 +242,7 @@ wss://Nostrica.com
 wss://Nostr.nodeofsven.com
 wss://public.nostr.swissrouting.com
 wss://nostr.minimue81.selfhost.co
+wss://nostr.ddns.net
 wss://astral.ninja
 wss://nostr.risa.zone
 wss://e.nos.lol
@@ -286,6 +292,7 @@ wss://nostr.randomdevelopment.biz
 wss://nostr-relay.untethr.me
 wss://nostr.bitcoin-basel.ch
 wss://dev2.hazlitt.fiatjaf.com
+wss://astra.nostr.land
 wss://Nostr.developer.li
 wss://Eden.nostr.land
 wss://nostr.ono.re
@@ -313,6 +320,7 @@ wss://nostream-production-9458.up.railway.app
 wss://n7okxxbnlslv5xmi277pwdzvg6eropcrurs44y2oydpl6qoq2murx6ad.onion
 wss://nostr.pleb.network
 wss://nostr.ahaspharos.de
+wss://relay.21spiritis.io
 wss://nostr.nokotaro.com
 wss://relay.nostr.or.jp
 wss://nostrpro.xyz
@@ -355,9 +363,11 @@ wss://nostr.screaminglife.io
 wss://relay.valera.co
 wss://nostr.com.de
 wss://nostr.itssilvestre.com
+wss://nostr.shroomslab.net
 wss://relay.sdbtc.org
 wss://nostr.lnorb.com
 wss://chainza-estudio.tail33dda.ts.net:4848
+wss://nostr.pobblelabs.org
 wss://relay.nostr.snblago.com
 wss://puravida.nostra.land
 wss://nostr-test.elastos.io
@@ -374,6 +384,7 @@ wss://nostr.jacany.com
 wss://nostr.nymsrelay.com
 wss://nostr.zenon.wtf
 wss://zebedee.cloud
+wss://nostr-2.zebdeee.cloud
 wss://nostr.narrativerry.xyz
 wss://zee-relay.fly.dev
 wss://relay.nostr.com.au
@@ -381,6 +392,7 @@ wss://nostr.howtobitcoin.shop
 wss://1.noztr.com
 wss://bitcoiners.social
 wss://relay.nostr.band
+wss://za3.net
 wss://relay.alien.blue
 wss://snort.social
 wss://syx.local:4848
@@ -409,6 +421,7 @@ wss://nostr.africa
 wss://games.gamertron.net:4848
 wss://nostr.milou.lol
 
+wss://nostr.ch3n2k.com
 wss://relay.nostrcheck.me
 wss://wizards.wormrobot.org
 wss://nostr-relay.nonce.academy
@@ -440,15 +453,19 @@ wss://nostream-relay-nostr.831.pp.ua
 wss://relay.cryptocculture.com
 wss://Nostr.gromeul.eu
 wss://nostr.coinos.io
+wss://n.xmr.se
 wss://nostr.zeebedee.cloud
 wss://nostramsterdam.vpx.moe
 wss://nostr.dumpit.top
+wss://relau.zeh.app
+wss://brb.io.relay
 wss://expensive-relay.fiatjaf.com
 wss://nostr.developer.li
 wss://bitcoiner.social
 wss://nostr.bitcoiner.social
 
 wss://relay.arsip.my.id
+wss://nostr.pinkanki.org
 wss://nostr-pub.semisol.dev
 
 wss://nostr.leximaster.com
@@ -505,6 +522,7 @@ wss://alphapanda.pro
 wss://nostr.zue.news
 wss://nostr.current.fyo
 wss://nostr.notmyhostna.me
+wss://nostr.web3infra.xyz
 wss://nostr.hyperlingo.com
 wss://nostr-eu.coinfundit.com
 wss://relay.koreus.social
@@ -514,6 +532,7 @@ wss://nostr.damus.io
 wss://nostr.openchain.fr
 wss://nostr.mado.io
 wss://nostr.k3tan.com
+wss://nostr.simatime.com
 wss://rasca.asnubes.art
 wss://relay.kronkltd.net
 wss://relay.nor.st
@@ -553,6 +572,7 @@ wss://nostr.ethtozero.fr
 wss://relay.nostrified.org
 wss://nostream-production-f83d.up.railway.app
 wss://nostr.21l.st
+wss://relay.realsearch.cc
 wss://Relay.nostr.bg
 wss://student.chadpolytechnic.com
 wss://nostr.radixrat.com
@@ -560,6 +580,8 @@ wss://relay.futohq.com
 wss://nostr.shadownode.org
 wss://nostr.exposed
 wss://nostr.kollider.xyz
+wss://nostr.itas.li
+wss://nostr.relay-wlvs.space
 wss://nostr.corebreach.com
 wss://nostr.holybea.com
 wss://nostr.inosta.cc
@@ -568,6 +590,7 @@ wss://nostr.w3ird.tech
 wss://relay.sendstr.com
 wss://relay.nostrich.land
 wss://nostr.datamagik.com
+wss://wagvwfrdrikrqzp7h3b5lwl6btyuttu7mqpeji35ljzq36ovzgjhsfqd.onion
 wss://notr.onsats.org
 wss://nostr-pub1.southflorida.ninja
 wss://relay.nosphr.com
@@ -613,33 +636,25 @@ wss://www.131.me
 wss://nostr.shawnyeager.net
 wss://relay.nostr.nu
 wss://relay-jp.nostr.wirednet.jp
-wss://nostr-au.coinfundit.com
-wss://nostr.lorentz.is
-wss://5nae6lvs5nd7tlxmoaysol4a5rs5uo5ekzisqvjcu6pc5kag7kcg45qd.onion
-wss://nostr.d11n.net
-wss://nostr.xpersona.net
-wss://nostr.vdstruis.com
-wss://relay.honk.pw
-wss://jiggytom.ddns.net
-wss://btc.klendazu.com
-wss://relay.nostr.info
-wss://relay.727whisky.com
-wss://nostr.btcmp.com
-wss://nostr.cheeserobot.org
-wss://familys.vip:7000
-wss://cheery-paddock-rsakdrtc35c55n6yregn.wnext.app
-wss://nostr.chainofimmortals.net
-wss://nostr.primedomain.fr
-wss://private.red.gb.net
-wss://wine.Nostr
-wss://relay01.apus.network
-wss://nostr.hackerman.pro
-                    wss://notr.delo.software
+    wss://nostr.yuv.al
+wss://fin-nostr.seekdisruption.com
+wss://nostr.decentony.com
+wss://Nostr-2.ZEBEDEE.cloud
+wss://relay.ryzizub.com
+wss://nostr.oxtr.dev
+wss://nostr.mutinywallet.com
+wss://relay.stonez.me
+wss://slick.mjex.me
+wss://puravida.nostr.land
+wss://nostr.adpo.co
+wss://relay.nostr.vision
+wss://notr.delo.software
 wss://nostr.sandwich.farm
 
 wss://nostr.21crypto.ch
 wss://nostr.robotesc.ro
 wss://nostr.tangzixiang.com
+wss://nostr.256k1.dev
 wss://nostr.coollamer.com
 wss://nostr.app.runonflux.io
 wss://nostr.rbel.co
@@ -654,6 +669,7 @@ wss://relay.nostr3.io
 wss://Nostr.bongbong.com
 wss://global-relay.cesc.trade
 wss://nostr.cercatrova.me
+wss://nostr.net.za
 wss://Nostr.cercatrova.me
 wss://nostr.worldkey.io
 wss://nostr.forecastdao.com
@@ -712,6 +728,7 @@ wss://nostr.relayer.se
 wss://nostr.orangepill.dev
 wss://Nostr.wine
 wss://nostr.guru
+wss://relay.johnnyasantos.com
 wss://nostr.fluidtrack.in
 wss://node01.nostress.cc
 wss://xmr.usenostr.com
