@@ -115,6 +115,7 @@ wss://nostr.fediverse.jp
 wss://nostr.easydns.ca
 wss://nostr.mjex.me
 wss://nostr.ddns.net:8008
+wss://nor.st
 wss://nostr-relay.j3s7m4n.com
 wss://598e-189-250-106-103.ngrok.io
 wss://nostr.buythisdip.com
@@ -130,6 +131,7 @@ wss://nostr.pwnshop.cloud
 wss://nostr.lordkno.ws
 wss://nostr.zxcvbn.space
 wss://nostr.nordlysln.net
+wss://relay.cent2sat.com
 wss://Nostr.oooxxx.ml
 wss://nostr.supremestack.xyz
 wss://relay.nostr.blockhenge.com
@@ -186,6 +188,7 @@ wss://nostr-relay-dev.wlvs.space
 wss://md.hugo.nostr
 wss://nostr.milou.land
 wss://Relay.nostrich.de
+wss://nauka-relay.herokuapp.com
 wss://nostr.chaker.net
 wss://15171031.688.org
 wss://nostr.coinsamba.com.br
@@ -218,6 +221,7 @@ wss://nostr.vol.io
 wss://nostr01.opencult.com
 wss://nostr.onsats.org
 wss://nostream.denizenid.com
+wss://tom-desktop.local:4848
 wss://relay-pub.deschooling.us
 wss://nostr.easify.de
 wss://blg.nostr.sx
@@ -268,6 +272,7 @@ wss://middling.myddns.me
 wss://nproxy.zerologin.co
 wss://nostr.lingoh.dev
 wss://nostr.bitcoinbay.engineering
+wss://stonez.local:4848
 wss://nostr.randomdevelopment.biz
 wss://nostr-relay.untethr.me
 wss://nostr.bitcoin-basel.ch
@@ -298,6 +303,7 @@ wss://nostr.pleb.network
 wss://nostr.ahaspharos.de
 wss://nostr.nokotaro.com
 wss://relay.nostr.or.jp
+wss://nostrpro.xyz
 wss://relay.sovereign-stack.org
 wss://nostr.snblago.com
 wss://relay.austrich.net
@@ -355,6 +361,7 @@ wss://zee-relay.fly.dev
 wss://relay.nostr.com.au
 wss://nostr.howtobitcoin.shop
 wss://1.noztr.com
+wss://bitcoiners.social
 wss://relay.nostr.band
 wss://relay.alien.blue
 wss://snort.social
@@ -458,6 +465,7 @@ wss://nostr.zebedee.cloud
 wss://relay.orange-crush.com
 wss://nproxy.cc
 wss://nostr2.namek.link
+wss://nostr.wow
 wss://relarelay.nosphr.com
 wss://nostr.noones.com
 wss://nostr-relay.usebitcoin.space
@@ -507,6 +515,7 @@ wss://nostrsatva.net
 wss://nostr.0xtr.dev
 wss://nostr-sg.com
 wss://nostr.nodeofsven.com
+wss://udyjpri4lht3mqwz47sg5thwpepirnzugwf6w5dhpf743ynbac4tshid.onion
 wss://nostr-pub.welloorder.net
 wss://freedom-relay.herokuapp.com
 wss://relay.nostrprotocol.net
@@ -595,6 +604,7 @@ wss://wine.Nostr
 wss://relay01.apus.network
 wss://nostr.hackerman.pro
 wss://nostr.yuv.al
+wss://fin-nostr.seekdisruption.com
 wss://nostr.decentony.com
 wss://Nostr-2.ZEBEDEE.cloud
 wss://relay.ryzizub.com
@@ -629,18 +639,23 @@ wss://nostr.worldkey.io
 wss://nostr.forecastdao.com
 wss://nostr.einundzwanzig.space
 wss://nostrical.com
-wss://nostr.nakamotosatoshi.cf
-wss://nostr.rocks
-wss://nostr.exposd
-wss://pow.nostrati.com
-wss://no.contry.xyz
-wss://qy3nnwrgp4j2fqemgs6fzsu6vm6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
-wss://nostr.1sat.org
-wss://nostr.mrbits.it
-wss://relay.nostr.vet
-wss://nostr.globals.fans
-wss://relay.nostr-latam.link
-      wss://relay.nostr.xyz
+             wss://expensive-relay.fiatjaf
+wss://nostr-pub.wellorder.net
+wss://ng4jk6yiqgfczo4wyxszuj7w6jok3fptehu533o3mlzs3vph3dvjfdid.onion
+wss://nostr.eden.land
+wss://nostr.p2sh.co
+wss://nostr.gives.africa
+wss://shroomslab.net
+wss://relay.grunch.dev
+wss://nostr-relay.alekberg.net
+wss://BTC.klendazu.com
+wss://relayer.pleb.social
+wss://relay.stoner
+wss://nostr.mnethome.de
+wss://nostr.ownbtc.online
+wss://nostr.stereosteve.com
+wss://nostr.lnnodeinsight.com
+wss://relay.nostr.xyz
 wss://nuccy-nuc715bnk.local:4848
 wss://nostr.sg
 wss://nostr.phenomenon.space
@@ -649,6 +664,7 @@ wss://eden.nostry.land
 wss://nostr.blocs.fr
 wss://wlvs.space
 wss://Nostr.chaker.net
+wss://nostream.dev.kronkltd.net
 wss://nostr.utxo.lol
 wss://nostr.massmux.com
 wss://nostream.gromeul.eu
