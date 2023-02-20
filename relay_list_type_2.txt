@@ -562,6 +562,7 @@ wss://no.str.watch
 wss://alphapanda.pro
 wss://nostr.zue.news
 wss://nostril.frendship.tw
+wss://prueba.com
 wss://relay.nostrichs.org
 wss://nostr.current.fyo
 wss://nostr.notmyhostna.me
@@ -630,7 +631,16 @@ wss://nostr.exposed
 wss://nostr.kollider.xyz
 wss://btc.kendazu.com
 wss://nostr.itas.li
-                     wss://relay.nostrich.land
+fuxvvxpory2og2etl4gttfzmqcixdq7rpts47lpgolkyd.onion
+wss://nostr.relay-wlvs.space
+wss://nostr.corebreach.com
+wss://nostr.holybea.com
+wss://nostr.inosta.cc
+wss://nostr.bch.ninja
+wss://nostr.w3ird.tech
+wss://relay.sendstr.com
+wss://relay.nostrich.land
+wss://vida.life
 wss://nostr.datamagik.com
 wss://wagvwfrdrikrqzp7h3b5lwl6btyuttu7mqpeji35ljzq36ovzgjhsfqd.onion
 wss://notr.onsats.org
@@ -809,6 +819,7 @@ wss://node01.nostress.cc
 wss://xmr.usenostr.com
 wss://relay.lacosanostr.com
 wss://nostr.sethforprivacy.com
+wss://eden.nost.land
 wss://nostr-2.afarazit.eu
 wss://Nostr.mikediLGer.com
 wss://lightninrelay.com
