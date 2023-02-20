@@ -47,8 +47,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nuc-4.home:4848
 wss://nostr-2.orba.ca
+wss://nuc-4.home:4848
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -234,6 +234,7 @@ wss://nostr.monostr.com
 wss://nostr.yael.at
 wss://sg.qemura.xyz
 wss://nostr.0nyx.eu
+wss://nostr.gram
 wss://eosla.com
 wss://member.cash
 wss://nostr.nos.lol
@@ -436,6 +437,7 @@ wss://nostr.h3z.jp
 wss://nostr-1.nbo.angani.co
 wss://Nostr.drss.io
 wss://stacker.news
+wss://rsr.uyky.net:30443
 wss://jp-relay-nostr.invr.chat
 wss://nostr.v01.io
 wss://nostr.bongdong.com
@@ -557,6 +559,7 @@ wss://no.str.watch
 wss://alphapanda.pro
 wss://nostr.zue.news
 wss://nostril.frendship.tw
+wss://relay.nostrichs.org
 wss://nostr.current.fyo
 wss://nostr.notmyhostna.me
 wss://nostr.web3infra.xyz
@@ -620,6 +623,7 @@ wss://relay.futohq.com
 wss://nostr.shadownode.org
 wss://nostr.exposed
 wss://nostr.kollider.xyz
+wss://btc.kendazu.com
 wss://nostr.itas.li
 wss://d463rbo7dgbfuxvvxpory2og2etl4gttfzmqcixdq7rpts47lpgolkyd.onion
 wss://nostr.relay-wlvs.space
@@ -629,9 +633,15 @@ wss://nostr.inosta.cc
 wss://nostr.bch.ninja
 wss://nostr.w3ird.tech
 wss://relay.sendstr.com
-wss://relay.nostrich.land
-wss://nostr.datamagik.com
-                                                   wss://nostr.ncsa.illinois.edu
+mqpeji35ljzq36ovzgjhsfqd.onion
+wss://notr.onsats.org
+wss://nostr-pub1.southflorida.ninja
+wss://relay.nosphr.com
+wss://foolay.nostr.moe
+wss://tmp-relay.cesc.trade
+wss://nostr.fredix.xyz
+wss://optiplex.wallaby-bass.ts.net:3333
+wss://nostr.ncsa.illinois.edu
 wss://nostr21.com
 wss://nostr.bostonbtc.com
 wss://nostr.ibosilj.work
@@ -654,6 +664,7 @@ wss://nostream.frank.snowinning.com
 wss://nostr.localhost.re
 wss://nostr.community.networks.deavmi.assigned.network
 wss://nostr3.actn.io
+wss://NostrVerified.com
 wss://damus.io
 wss://nostream.kinchie.snowinning.com
 wss://nostr.masmux.com
@@ -701,6 +712,7 @@ wss://relay.ryzizub.com
 wss://nostr.oxtr.dev
 wss://nostr.mutinywallet.com
 wss://relay.stonez.me
+wss://metazoan.icp.der0pa.io:1323
 wss://slick.mjex.me
 wss://puravida.nostr.land
 wss://nostr.adpo.co
