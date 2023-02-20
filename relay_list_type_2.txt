@@ -47,8 +47,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nostr-2.orba.ca
 wss://nuc-4.home:4848
+wss://nostr-2.orba.ca
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -280,6 +280,7 @@ wss://nostr.xmr.rocks
 wss://nostr-paid.h3z.jp
 wss://nostr.bitcoin-21.org
 wss://nostr.gromeul.eu
+wss://nostr.vpn1.codingmerc.com
 wss://relay.nostrmoro.xyz
 wss://nostr.pjv.me
 wss://nostr.bitcoiner.social
@@ -322,6 +323,7 @@ wss://deschooling.us
 wss://lightningrelay.com
 wss://ch1.duno.com
 wss://nostr.rajabi.ca
+wss://nostr.vOl.io
 wss://nostr.cvilleblockchain.org
 wss://anigma.io
 wss://nostr.zoomout.chat
@@ -518,6 +520,7 @@ wss://relay.familys.vip
 wss://nostr.600.wtf
 wss://nostream.madbean.snowinning.com
 wss://nostr.formigator.eu
+wss://zi3ru4sltc2edwyobrjxswr672popzifucthcyigjjei6sovjwxv2aqd.onion
 wss://nostr.info
 wss://puravida.nostr.land.com
 wss://satstacker.cloud
@@ -566,6 +569,7 @@ wss://nostr.web3infra.xyz
 wss://nostr.hyperlingo.com
 wss://nostr-eu.coinfundit.com
 wss://relay.koreus.social
+wss://lzybsdznklr56a5qnvj6qy45xx7qeh73ckv6yrww5ehxofinqn7kydqd.onion
 wss://Nostr.einundzwanzig.space
 wss://relay.boring.surf
 wss://nostr.damus.io
@@ -618,6 +622,7 @@ wss://nostr.21l.st
 wss://relay.realsearch.cc
 wss://Relay.nostr.bg
 wss://student.chadpolytechnic.com
+wss://relay.cryptoculture.com
 wss://nostr.radixrat.com
 wss://relay.futohq.com
 wss://nostr.shadownode.org
@@ -625,15 +630,9 @@ wss://nostr.exposed
 wss://nostr.kollider.xyz
 wss://btc.kendazu.com
 wss://nostr.itas.li
-wss://d463rbo7dgbfuxvvxpory2og2etl4gttfzmqcixdq7rpts47lpgolkyd.onion
-wss://nostr.relay-wlvs.space
-wss://nostr.corebreach.com
-wss://nostr.holybea.com
-wss://nostr.inosta.cc
-wss://nostr.bch.ninja
-wss://nostr.w3ird.tech
-wss://relay.sendstr.com
-mqpeji35ljzq36ovzgjhsfqd.onion
+                     wss://relay.nostrich.land
+wss://nostr.datamagik.com
+wss://wagvwfrdrikrqzp7h3b5lwl6btyuttu7mqpeji35ljzq36ovzgjhsfqd.onion
 wss://notr.onsats.org
 wss://nostr-pub1.southflorida.ninja
 wss://relay.nosphr.com
