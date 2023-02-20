@@ -178,6 +178,7 @@ wss://o6ga6lxnax2z7pgkkenifollohkrv55r36mdzdtofi7d5yyif2f4o5yd.onion:5050
 wss://nostr.soscary.net
 wss://nostr01.vida.dev
 wss://nostr.1f52b.xyz
+wss://lsnmrd36ktdf34iwt2yt26to37fe5veibwkfcdsjwd7be3lezk6u7rid.onion
 wss://zur.nostr.sx
 wss://nostr.up.railway.app
 wss://nostream.nostr.parts
@@ -629,9 +630,7 @@ wss://relay.futohq.com
 wss://nostr.shadownode.org
 wss://nostr.exposed
 wss://nostr.kollider.xyz
-wss://btc.kendazu.com
-wss://nostr.itas.li
-fuxvvxpory2og2etl4gttfzmqcixdq7rpts47lpgolkyd.onion
+2og2etl4gttfzmqcixdq7rpts47lpgolkyd.onion
 wss://nostr.relay-wlvs.space
 wss://nostr.corebreach.com
 wss://nostr.holybea.com
