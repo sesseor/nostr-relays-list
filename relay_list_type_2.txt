@@ -47,8 +47,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nostr-2.orba.ca
 wss://nuc-4.home:4848
+wss://nostr-2.orba.ca
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -85,6 +85,7 @@ wss://nostr.herci.one
 wss://nostr-relay.trustbtc.org
 wss://nostr-2.zebedee.cloud
 wss://fishb.mailbf.org:4848
+wss://7nj3e5opqjcpyaoxi56c5yvgzc3b3dmubbk4c6nrdq5lnzn64g5jwuad.onion
 wss://nostr.h4x0r.host
 wss://nostr-pub.semisol.dev
 wss://Nostr.ethtozero.fr
@@ -165,6 +166,7 @@ wss://Puravida.nostr.land
 wss://nostr.lan127.net
 wss://arnostr.permadao.io
 wss://nos.lol
+wss://nostr02.sharkshake.net
 wss://nostr-mv.ashiroid.com
 wss://nostr.services.thefockinfury.wtf
 wss://colin-hp-elitedesk-800-g1-dm.local:4848
@@ -620,6 +622,7 @@ wss://nostr-alpha.gruntwerk.org
 wss://relay.nvnote.co
 wss://monad.jb55.com:8080
 wss://relay.nostr.ro
+wss://nostr.build
 wss://nostr.cruncher.com
 wss://hushvault.ie
 wss://relay-dev.cowdle.gg
@@ -627,11 +630,10 @@ wss://nostr.jimc.me
 wss://globals.fans
 wss://Nostr.actn.io
 wss://relay-1.arsip.my.id
-wss://nostr1.federated.computer
-wss://nostr.global.fans
-wss://relay.nostr.distrl.net
-wss://nostrsatva.net
-nzugwf6w5dhpf743ynbac4tshid.onion
+r.0xtr.dev
+wss://nostr-sg.com
+wss://nostr.nodeofsven.com
+wss://udyjpri4lht3mqwz47sg5thwpepirnzugwf6w5dhpf743ynbac4tshid.onion
 wss://nostr-pub.welloorder.net
 wss://freedom-relay.herokuapp.com
 wss://relay.nostrprotocol.net
