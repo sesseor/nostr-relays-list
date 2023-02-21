@@ -49,8 +49,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nostr-2.orba.ca
 wss://nuc-4.home:4848
+wss://nostr-2.orba.ca
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -631,7 +631,9 @@ wss://familys.vip
 wss://nostr-relay.wls.space
 wss://000.land
 wss://nwmdev.com
-ha.gruntwerk.org
+wss://rdafsvko2moo3qsmqojwcrjodp7vtjpcxrwjbacrw4mwppk6gwl4zbyd.onion
+wss://spore.ws
+wss://nostr-alpha.gruntwerk.org
 wss://relay.nvnote.co
 wss://monad.jb55.com:8080
 wss://relay.nostr.ro
