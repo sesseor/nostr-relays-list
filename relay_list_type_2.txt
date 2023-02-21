@@ -282,6 +282,7 @@ wss://blg.nostr.sx
 wss://nostr-relay.app.ikeji.ma
 wss://nostr1.saftup.xyz
 wss://umbrel.tailf2ffc.ts.net
+wss://node101.nostress.cc
 wss://Nostrica.com
 wss://replay.snort.social
 wss://Nostr.nodeofsven.com
@@ -575,6 +576,7 @@ wss://nostr.oxtr.dev
 
 wss://nostr-relay.gkbrk.com
 wss://nostr-pub.liujiale.me
+wss://lpxyewdhgf4p26yjxl65e4in45q5qrtvyfn5bxgekl5gbytgdjjtd6yd.onion
 wss://nostrich.land
 wss://relay.familys.vip
 wss://nostr.600.wtf
@@ -622,11 +624,8 @@ wss://relay.nostrich.de
 wss://rsslay.nostr.moe
 wss://nostr.thank.eu
 wss://nostr.demovement.net
-wss://nostr.fractalized.ovh
-wss://no.str.watch
-wss://alphapanda.pro
-wss://nostr.zue.news
-://prueba.com
+nostril.frendship.tw
+wss://prueba.com
 wss://nostr.a-ef.org
 wss://relay.nostrichs.org
 wss://nostr.current.fyo
