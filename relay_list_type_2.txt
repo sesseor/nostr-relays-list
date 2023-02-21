@@ -55,6 +55,7 @@ wss://relay.dwadziesciajeden.pl
 wss://nostream-production-5895.up.railway.app
 wss://Nostrical.com
 wss://6amyhf3sjvgxe5qzbx4xn52pcnqresdmi7szxurp6umkvz6mthxjdcad.local
+wss://redgreenblue.click
 wss://relay.nostr.au
 wss://relay.nostrzoo.com
 wss://nostr-01.bolt.observer
@@ -159,6 +160,7 @@ wss://nproxy.kristapsk.lv
 wss://nostr.delo.software
 wss://nostr-relay.derekross.me
 wss://relay.nosbin.com
+wss://Puravida.nostr.land
 wss://nostr.lan127.net
 wss://nos.lol
 wss://nostr-mv.ashiroid.com
@@ -272,6 +274,7 @@ wss://e.nos.lol
 wss://nostr.handyjunky.com
 wss://nostr.jatm.link
 wss://nostr.watch
+wss://relay.exchange
 wss://nostr-bg01.ciph.rs
 wss://relay.nyc1.vinux.app
 wss://relay.jig.works
@@ -369,6 +372,7 @@ wss://nostr.v0l.io
 wss://nostr.uselessshit.co
 wss://relay.nostrdocs.com
 wss://nostr.roytus.ai
+wss://knostr.neutrine
 wss://nodestr.fmt.wiz.biz
 wss://relay.stoner.com
 wss://svrnecho.com:4848
@@ -624,11 +628,8 @@ wss://relay.21spirits.io
 wss://middling.myddns.me:8080
 wss://nostream.simon.snowinning.com
 wss://middling.sytes.net
-wss://nostr.hugo.md
-wss://xmr.usenostr.org
-wss://nostr.anchel.nl
-wss://nostr.ethtozero.fr
-n-f83d.up.railway.app
+//relay.nostrified.org
+wss://nostream-production-f83d.up.railway.app
 wss://nostr.21l.st
 wss://relay.realsearch.cc
 wss://Relay.nostr.bg
@@ -718,6 +719,7 @@ wss://nostr.cheeserobot.org
 wss://familys.vip:7000
 wss://cheery-paddock-rsakdrtc35c55n6yregn.wnext.app
 wss://nostr.chainofimmortals.net
+wss://k65qz57zx4sw24fow2bvchjgmpjqljj4cp3oa7dtpbbprjifsdotggid.local
 wss://nostr.primedomain.fr
 wss://private.red.gb.net
 wss://wine.Nostr
@@ -747,6 +749,7 @@ wss://nostr.trustbtc.org
 wss://nostr.256k1.dev
 wss://nostr.coollamer.com
 wss://nostr.app.runonflux.io
+wss://nprocxy.cc
 wss://nostr.rbel.co
 wss://nostr.mom
 wss://nostr.sabross.xyz
@@ -797,6 +800,7 @@ wss://nostr.ownbtc.online
 wss://nostr.stereosteve.com
 wss://nostr.lnnodeinsight.com
 wss://relay.nostr.xyz
+wss://relay.blackthunder.click
 wss://nuccy-nuc715bnk.local:4848
 wss://nostr.private.network
 wss://nostr.sg
