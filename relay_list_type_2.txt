@@ -151,6 +151,7 @@ wss://nostr.pwnshop.cloud
 wss://nostr.cizmar.net
 wss://nostr.lordkno.ws
 wss://nostr.zxcvbn.space
+wss://btc.klenzadu.com
 wss://nostr.nordlysln.net
 wss://relay.cent2sat.com
 wss://Nostr.oooxxx.ml
@@ -285,6 +286,7 @@ wss://nostr.risa.zone
 wss://e.nos.lol
 wss://nostr.handyjunky.com
 wss://nostr.jatm.link
+wss://nos.qghs.in
 wss://nostr.watch
 wss://relay.exchange
 wss://nostr-bg01.ciph.rs
@@ -382,6 +384,7 @@ wss://relay.stacker.news
 wss://relay.austrich.net
 wss://deconomy-netser.ddns.net:2121
 wss://nostr-relay.digitamob.ro
+wss://nostream.sh4.red
 wss://nostr.zhix.in
 wss://nostr-relay.bitcoin.ninja
 wss://nostr.v0l.io
@@ -453,6 +456,7 @@ wss://nostr.howtobitcoin.shop
 wss://1.noztr.com
 wss://bitcoiners.social
 wss://relay.nostr.band
+wss://nostr.red
 wss://za3.net
 wss://relay.alien.blue
 wss://snort.social
@@ -461,6 +465,7 @@ wss://wss.nostr.milou
 wss://nostr.mouton.dev
 wss://nostr1.tunnelsats.com
 wss://nostr.bitcoin.social
+wss://nostrati.com
 wss://nostream-test.up.railway.app
 wss://nostr.pcdkd.fyi
 wss://nostrex.fly.dev
@@ -626,9 +631,9 @@ wss://familys.vip
 wss://nostr-relay.wls.space
 wss://000.land
 wss://nwmdev.com
-wss://rdafsvko2moo3qsmqojwcrjodp7vtjpcxrwjbacrw4mwppk6gwl4zbyd.onion
-wss://spore.ws
- wss://monad.jb55.com:8080
+ha.gruntwerk.org
+wss://relay.nvnote.co
+wss://monad.jb55.com:8080
 wss://relay.nostr.ro
 wss://nostr.build
 wss://nostr.cruncher.com
@@ -653,6 +658,7 @@ wss://relay.21spirits.io
 wss://middling.myddns.me:8080
 wss://nostream.simon.snowinning.com
 wss://middling.sytes.net
+wss://punk.land
 wss://nostr.hugo.md
 wss://xmr.usenostr.org
 wss://nostr.anchel.nl
@@ -669,6 +675,7 @@ wss://relay.futohq.com
 wss://nostr.shadownode.org
 wss://nostr.exposed
 wss://nostr.kollider.xyz
+wss://elonmusk.land
 wss://btc.kendazu.com
 wss://nostr.itas.li
 wss://d463rbo7dgbfuxvvxpory2og2etl4gttfzmqcixdq7rpts47lpgolkyd.onion
@@ -798,6 +805,7 @@ wss://nostr.net.za
 wss://Nostr.cercatrova.me
 wss://nostr.worldkey.io
 wss://nostr.forecastdao.com
+wss://amazon.land
 wss://nostream.lucas.snowinning.com
 wss://nostr.einundzwanzig.space
 wss://nostrical.com
@@ -805,6 +813,7 @@ wss://nostr.nakamotosatoshi.cf
 wss://nostr.rocks
 wss://nostr.exposd
 wss://pow.nostrati.com
+wss://111.eth
 wss://no.contry.xyz
 wss://qy3nnwrgp4j2fqemgs6fzsu6vm6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
 wss://nostr.1sat.org
@@ -836,6 +845,7 @@ wss://relay.nostr.xyz
 wss://relay.blackthunder.click
 wss://nuccy-nuc715bnk.local:4848
 wss://nostr.private.network
+wss://000.eth
 wss://nostr.sg
 wss://nostr.phenomenon.space
 wss://nostr.bybieyang.com
