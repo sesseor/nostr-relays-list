@@ -49,8 +49,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nuc-4.home:4848
 wss://nostr-2.orba.ca
+wss://nuc-4.home:4848
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -76,6 +76,7 @@ wss://arnostrpermadao.io
 wss://nostr.nosphr.com
 wss://nostr-relay.wolfandcrow.tech
 wss://Nostr.8E23.net
+wss://public.nostr.swissrouting.xyz
 wss://familys.vip:5700
 wss://nostr.lol
 wss://nostr.primz.org
@@ -189,6 +190,7 @@ wss://nostr.21sats.net
 wss://o6ga6lxnax2z7pgkkenifollohkrv55r36mdzdtofi7d5yyif2f4o5yd.onion:5050
 wss://nostr.soscary.net
 wss://nostr01.vida.dev
+wss://Nostr.milou.lol
 wss://nostr.1f52b.xyz
 wss://lsnmrd36ktdf34iwt2yt26to37fe5veibwkfcdsjwd7be3lezk6u7rid.onion
 wss://zur.nostr.sx
@@ -209,6 +211,7 @@ wss://nostr.seekingcrypto.com
 wss://nostr.how
 wss://relay.taldra.in
 wss://nostr.nostrelay.org
+wss://nostr.darwin.family
 wss://relay.nyx.ma
 wss://relay.lexingtonbitcoin.org
 wss://paid.no.str.cr
@@ -339,6 +342,7 @@ wss://nostr-relay.untethr.me
 wss://nostr.bitcoin-basel.ch
 wss://dev2.hazlitt.fiatjaf.com
 wss://astra.nostr.land
+wss://nostr.zebeedee.cloud
 wss://eden.nosrt.land
 wss://Nostr.developer.li
 wss://Eden.nostr.land
@@ -476,6 +480,7 @@ wss://nostr.pcdkd.fyi
 wss://nostrex.fly.dev
 wss://nostr.sovbit.com
 wss://paid.no.str.sr
+wss://nostrua.com
 wss://relay.dev.kronkltd.net
 wss://relay.fiatjaf.com
 wss://Node01.nostress.CC
@@ -583,10 +588,12 @@ wss://nostr.totient.xyz
 wss://nostr.blockchaincaffe.it
 wss://relay.nostr.scot
 wss://nostrproxy-1.f7z.io
+wss://nostr.uselesshit.co
 wss://relay.thes.ai
 wss://relay.bleskop.com
 wss://nostr.robotechy.com
 wss://relay.orangepilldev.com
+wss://nostr.walletofsatishi.com
 wss://relay.t5y.ca
 wss://nostr.zebedee.cloud
 wss://relay.orange-crush.com
@@ -622,15 +629,8 @@ wss://nostr.web3infra.xyz
 wss://nostr.hyperlingo.com
 wss://nostr-eu.coinfundit.com
 wss://relay.koreus.social
-wss://lzybsdznklr56a5qnvj6qy45xx7qeh73ckv6yrww5ehxofinqn7kydqd.onion
-wss://Nostr.einundzwanzig.space
-wss://relay.boring.surf
-wss://nostr.damus.io
-wss://nostr.openchain.fr
-wss://nostr.mado.io
-wss://nostr.k3tan.com
-wss://nostr.simatime.com
-ss://relay.kronkltd.net
+                                                   wss://rasca.asnubes.art
+wss://relay.kronkltd.net
 wss://relay.nostr.ae
 wss://relay.nor.st
 wss://familys.vip
