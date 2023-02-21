@@ -49,8 +49,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nostr-2.orba.ca
 wss://nuc-4.home:4848
+wss://nostr-2.orba.ca
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -251,6 +251,7 @@ wss://relay.phone.home
 wss://nostr.rdfried.com
 wss://nostr.monostr.com
 wss://anostr.permadao.io
+wss://nostr.tools.global.id
 wss://nostr.yael.at
 wss://nostr.0nyx.eu
 wss://sg.qemura.xyz
@@ -472,6 +473,7 @@ wss://nostream-test.up.railway.app
 wss://nostr.pcdkd.fyi
 wss://nostrex.fly.dev
 wss://nostr.sovbit.com
+wss://paid.no.str.sr
 wss://relay.dev.kronkltd.net
 wss://relay.fiatjaf.com
 wss://Node01.nostress.CC
@@ -595,6 +597,7 @@ wss://nostr-relay.usebitcoin.space
 wss://bitcoinmaximalists.online
 wss://nostr.fine
 wss://relay.valireum.net
+wss://nostr.100p.org
 wss://nostr.bongbong.com
 wss://nostrich.friendship.tw
 wss://jan-optiplex-5040.local:4848
@@ -627,10 +630,10 @@ wss://nostr.k3tan.com
 wss://nostr.simatime.com
 wss://rasca.asnubes.art
 wss://relay.kronkltd.net
-wss://relay.nostr.ae
-wss://relay.nor.st
-wss://familys.vip
-       wss://rdafsvko2moo3qsmqojwcrjodp7vtjpcxrwjbacrw4mwppk6gwl4zbyd.onion
+relay.wls.space
+wss://000.land
+wss://nwmdev.com
+wss://rdafsvko2moo3qsmqojwcrjodp7vtjpcxrwjbacrw4mwppk6gwl4zbyd.onion
 wss://spore.ws
 wss://nostr-alpha.gruntwerk.org
 wss://relay.nvnote.co
@@ -673,6 +676,7 @@ wss://student.chadpolytechnic.com
 wss://relay.cryptoculture.com
 wss://nostr.radixrat.com
 wss://relay.futohq.com
+wss://ralay.damus.io
 wss://nostr.shadownode.org
 wss://nostr.exposed
 wss://nostr.kollider.xyz
@@ -683,6 +687,7 @@ wss://d463rbo7dgbfuxvvxpory2og2etl4gttfzmqcixdq7rpts47lpgolkyd.onion
 wss://nostr.relay-wlvs.space
 wss://nostr.corebreach.com
 wss://nostr.holybea.com
+wss://d2uvu34fdj035j.cloudfront.net
 wss://nostr.inosta.cc
 wss://nostr.bch.ninja
 wss://nostr.w3ird.tech
