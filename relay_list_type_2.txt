@@ -47,8 +47,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nostr-2.orba.ca
 wss://nuc-4.home:4848
+wss://nostr-2.orba.ca
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -366,6 +366,7 @@ wss://nostr.nokotaro.com
 wss://relay.nostr.or.jp
 wss://nostrpro.xyz
 wss://relay.sovereign-stack.org
+wss://nostr.itredneck.com
 wss://astral.swiss-enigma.ch
 wss://nostr.snblago.com
 wss://freon.asuscomm.com:4848
@@ -629,8 +630,14 @@ wss://nostrsatva.net
 wss://nostr.0xtr.dev
 wss://nostr-sg.com
 wss://nostr.nodeofsven.com
-wss://udyjpri4lht3mqwz47sg5thwpepirnzugwf6w5dhpf743ynbac4tshid.onion
-ostr.hugo.md
+                                           wss://nostr-pub.welloorder.net
+wss://freedom-relay.herokuapp.com
+wss://relay.nostrprotocol.net
+wss://relay.21spirits.io
+wss://middling.myddns.me:8080
+wss://nostream.simon.snowinning.com
+wss://middling.sytes.net
+wss://nostr.hugo.md
 wss://xmr.usenostr.org
 wss://nostr.anchel.nl
 wss://nostr.ethtozero.fr
@@ -760,6 +767,7 @@ wss://nostr.rbel.co
 wss://nostr.mom
 wss://nostr.sabross.xyz
 wss://nostr-relay.xbytez.io
+wss://nostr.onsat.org
 wss://nostr-relay.smoove.net
 wss://nostr.doufu-tech.com
 wss://moonbreeze.richardbondi.net
@@ -824,6 +832,7 @@ wss://nostream.gromeul.eu
 wss://nostr-relay.Inmarkets.com
 wss://relay.taxi
 wss://umbrel.local:4848
+wss://relay.alien-sos.gov
 wss://relay.nostriches.org
 wss://greenart7c3.dedyn.io
 wss://no-str.org
