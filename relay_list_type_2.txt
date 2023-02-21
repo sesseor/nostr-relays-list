@@ -49,8 +49,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nuc-4.home:4848
 wss://nostr-2.orba.ca
+wss://nuc-4.home:4848
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -332,6 +332,7 @@ wss://middling.myddns.me
 wss://nproxy.zerologin.co
 wss://nostr.lingoh.dev
 wss://nostr.bitcoinbay.engineering
+wss://nostr.bitmatk.io
 wss://stonez.local:4848
 wss://nostr.randomdevelopment.biz
 wss://nostr-relay.untethr.me
@@ -629,8 +630,10 @@ wss://nostr.mado.io
 wss://nostr.k3tan.com
 wss://nostr.simatime.com
 wss://rasca.asnubes.art
-wss://relay.kronkltd.net
-relay.wls.space
+  wss://relay.nostr.ae
+wss://relay.nor.st
+wss://familys.vip
+wss://nostr-relay.wls.space
 wss://000.land
 wss://nwmdev.com
 wss://rdafsvko2moo3qsmqojwcrjodp7vtjpcxrwjbacrw4mwppk6gwl4zbyd.onion
