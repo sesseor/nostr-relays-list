@@ -16,6 +16,7 @@ wss://nostr.spleenrider.one
 wss://nostr.lightning.contact
 wss://nostr-us.coinfundit.com
 wss://nostrrelay.com
+wss://familys.vip:57000
 wss://nostr.koning-degraaf.nl
 wss://nostr01.counterclockwise.io
 wss://nostr.snort.social
@@ -414,6 +415,7 @@ wss://relayer.fiatjaf.com
 wss://nostr.21m.fr
 wss://nostr.orangepill.dev
 
+wss://888.eth
 wss://nostr.screaminglife.io
 wss://relay.valera.co
 wss://nostr.lapalomilla.mx
@@ -622,12 +624,12 @@ wss://relay.nostr.ae
 wss://relay.nor.st
 wss://familys.vip
 wss://nostr-relay.wls.space
+wss://000.land
 wss://nwmdev.com
 wss://rdafsvko2moo3qsmqojwcrjodp7vtjpcxrwjbacrw4mwppk6gwl4zbyd.onion
 wss://spore.ws
-wss://nostr-alpha.gruntwerk.org
-wss://relay.nvnote.co
- wss://relay.nostr.ro
+ wss://monad.jb55.com:8080
+wss://relay.nostr.ro
 wss://nostr.build
 wss://nostr.cruncher.com
 wss://hushvault.ie
@@ -806,6 +808,7 @@ wss://pow.nostrati.com
 wss://no.contry.xyz
 wss://qy3nnwrgp4j2fqemgs6fzsu6vm6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
 wss://nostr.1sat.org
+wss://nufer.deno.dev
 wss://nostr.mrbits.it
 wss://relay.nostr.vet
 wss://nostr.globals.fans
