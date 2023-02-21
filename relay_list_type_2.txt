@@ -49,8 +49,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nostr-2.orba.ca
 wss://nuc-4.home:4848
+wss://nostr-2.orba.ca
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -629,7 +629,15 @@ wss://nostr.web3infra.xyz
 wss://nostr.hyperlingo.com
 wss://nostr-eu.coinfundit.com
 wss://relay.koreus.social
-                                                   wss://rasca.asnubes.art
+wss://lzybsdznklr56a5qnvj6qy45xx7qeh73ckv6yrww5ehxofinqn7kydqd.onion
+wss://Nostr.einundzwanzig.space
+wss://relay.boring.surf
+wss://nostr.damus.io
+wss://nostr.openchain.fr
+wss://nostr.mado.io
+wss://nostr.k3tan.com
+wss://nostr.simatime.com
+wss://rasca.asnubes.art
 wss://relay.kronkltd.net
 wss://relay.nostr.ae
 wss://relay.nor.st
@@ -745,6 +753,7 @@ wss://nostr.21sat.net
 wss://relay.nostr.pro
 wss://nostr.mikedilger.com
 wss://www.131.me
+wss://nostr-2.zebeedee.cloud
 wss://nostr.shawnyeager.net
 wss://relay.nostr.nu
 wss://relay-jp.nostr.wirednet.jp
@@ -769,6 +778,7 @@ wss://cheery-paddock-rsakdrtc35c55n6yregn.wnext.app
 wss://nostr.chainofimmortals.net
 wss://k65qz57zx4sw24fow2bvchjgmpjqljj4cp3oa7dtpbbprjifsdotggid.local
 wss://nostr.primedomain.fr
+wss://nostream-production-31f8.up.railway.app
 wss://private.red.gb.net
 wss://wine.Nostr
 wss://relay01.apus.network
@@ -817,6 +827,7 @@ wss://nostr.worldkey.io
 wss://nostr.forecastdao.com
 wss://amazon.land
 wss://nostream.lucas.snowinning.com
+wss://nostr.member.cas
 wss://nostr.einundzwanzig.space
 wss://nostrical.com
 wss://nostr.nakamotosatoshi.cf
@@ -833,6 +844,7 @@ wss://relay.nostr.vet
 wss://nostr.globals.fans
 wss://relay.nostr-latam.link
 wss://expensive-relay.fiatjaf
+wss://tonyo.up.railway.app
 wss://nostr-pub.wellorder.net
 wss://ng4jk6yiqgfczo4wyxszuj7w6jok3fptehu533o3mlzs3vph3dvjfdid.onion
 wss://nostr.eden.land
