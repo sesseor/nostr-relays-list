@@ -33,6 +33,7 @@ wss://nostr.blockpower.capital
 wss://nostr.l00p.org
 wss://zerosequioso.com
 wss://nostr-rely.digitalmob.ro
+wss://nostrnodeofsven.com
 wss://nostr.h3y6e.com
 wss://nostr.walletofsatoshi.com
 wss://nostr-relay.freedomnode.com
@@ -47,8 +48,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nuc-4.home:4848
 wss://nostr-2.orba.ca
+wss://nuc-4.home:4848
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -248,8 +249,8 @@ wss://nostr.rdfried.com
 wss://nostr.monostr.com
 wss://anostr.permadao.io
 wss://nostr.yael.at
-wss://sg.qemura.xyz
 wss://nostr.0nyx.eu
+wss://sg.qemura.xyz
 wss://nostr.gram
 wss://eosla.com
 wss://member.cash
@@ -261,6 +262,7 @@ wss://relay.current.fyi
 wss://nostrsxz4lbwe-nostr.functions.fnc.fr-par.scw.cloud
 wss://umbrel.tail3549e.ts.net:4848
 wss://nostr.vol.io
+wss://lv3djqdyncc3gvjblf55hmbvyfnew3n57opsy4gpgkl25saupmvafeyd.onion
 wss://nostr01.opencult.com
 wss://nostr.onsats.org
 wss://nostream.denizenid.com
@@ -374,6 +376,7 @@ wss://nostr.itredneck.com
 wss://astral.swiss-enigma.ch
 wss://nostr.snblago.com
 wss://freon.asuscomm.com:4848
+wss://relay.stacker.news
 wss://relay.austrich.net
 wss://deconomy-netser.ddns.net:2121
 wss://nostr-relay.digitamob.ro
@@ -460,6 +463,7 @@ wss://nostr.pcdkd.fyi
 wss://nostrex.fly.dev
 wss://nostr.sovbit.com
 wss://relay.dev.kronkltd.net
+wss://relay.fiatjaf.com
 wss://Node01.nostress.CC
 wss://nostr.h3z.jp
 wss://nostr-1.nbo.angani.co
@@ -502,6 +506,7 @@ wss://umbrel.bobcat-perch.ts.net
 wss://spleenrider.herokuapp.com
 wss://relay.tnano.duckdns.org
 wss://ufyirz4f5sn5gbsx4mfabooievm3lxcx6fnsh4udzx7silws6kbpypid.onion
+wss://relay.rocks
 wss://arc1.arcadelabs.co
 wss://at.nostrworks.com
 wss://fiatdenier.com
@@ -583,6 +588,7 @@ wss://relay.valireum.net
 wss://nostr.bongbong.com
 wss://nostrich.friendship.tw
 wss://jan-optiplex-5040.local:4848
+wss://rsslay.data.haus
 wss://relay.nostrich.de
 wss://rsslay.nostr.moe
 wss://nostr.thank.eu
@@ -621,16 +627,11 @@ wss://spore.ws
 wss://nostr-alpha.gruntwerk.org
 wss://relay.nvnote.co
 wss://monad.jb55.com:8080
-wss://relay.nostr.ro
-wss://nostr.build
-wss://nostr.cruncher.com
-wss://hushvault.ie
-wss://relay-dev.cowdle.gg
-wss://nostr.jimc.me
-wss://globals.fans
-wss://Nostr.actn.io
-wss://relay-1.arsip.my.id
-r.0xtr.dev
+         wss://nostr1.federated.computer
+wss://nostr.global.fans
+wss://relay.nostr.distrl.net
+wss://nostrsatva.net
+wss://nostr.0xtr.dev
 wss://nostr-sg.com
 wss://nostr.nodeofsven.com
 wss://udyjpri4lht3mqwz47sg5thwpepirnzugwf6w5dhpf743ynbac4tshid.onion
@@ -696,6 +697,7 @@ wss://nostream.nostrly.io
 wss://nostr.bingtech.tk
 wss://relay.nvote.co:443
 wss://lpkue6jtz3pnp7zok4jwlct4n3mzuffsfrpagiffsuplyaswhdtmpoid.local
+wss://nostr01.sharkshake.net
 wss://nostr.zerofeerouting.com
 wss://nostream.frank.snowinning.com
 wss://nostr.localhost.re
