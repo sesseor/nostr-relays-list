@@ -49,8 +49,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nostr-2.orba.ca
 wss://nuc-4.home:4848
+wss://nostr-2.orba.ca
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -358,6 +358,7 @@ wss://nostr.zoomout.chat
 wss://relay.orangepill.dev
 wss://nostr.fmt.wiz.biz
 wss://relay.humanumest.social
+wss://nostr.mutinywallet
 wss://citadel.local:4848
 wss://nostr.0ne.day
 wss://nostr.oooxxx.ml
@@ -629,8 +630,8 @@ wss://nostr.openchain.fr
 wss://nostr.mado.io
 wss://nostr.k3tan.com
 wss://nostr.simatime.com
-wss://rasca.asnubes.art
-  wss://relay.nostr.ae
+ss://relay.kronkltd.net
+wss://relay.nostr.ae
 wss://relay.nor.st
 wss://familys.vip
 wss://nostr-relay.wls.space
