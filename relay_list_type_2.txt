@@ -47,8 +47,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nuc-4.home:4848
 wss://nostr-2.orba.ca
+wss://nuc-4.home:4848
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -199,6 +199,7 @@ wss://nostr.thibautrey.fr
 wss://relay.mrjohnsson.net
 wss://nostrplebs.com
 wss://offchain.pub
+wss://nostr.seekingcrypto.com
 wss://nostr.how
 wss://relay.taldra.in
 wss://nostr.nostrelay.org
@@ -222,6 +223,7 @@ wss://nostr.chaker.net
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://15171031.688.org
 wss://nostr.coinsamba.com.br
+wss://nostr.test.aesyc.io
 wss://paid.spore.ws
 wss://nostr-relay.wlvs.space
 wss://relay.nostrica.com
@@ -546,6 +548,7 @@ wss://nostr.600.wtf
 wss://nostream.madbean.snowinning.com
 wss://nostr.formigator.eu
 wss://zi3ru4sltc2edwyobrjxswr672popzifucthcyigjjei6sovjwxv2aqd.onion
+wss://nostream.unift.xyz
 wss://nostr.info
 wss://puravida.nostr.land.com
 wss://satstacker.cloud
@@ -588,6 +591,7 @@ wss://alphapanda.pro
 wss://nostr.zue.news
 wss://nostril.frendship.tw
 wss://prueba.com
+wss://nostr.a-ef.org
 wss://relay.nostrichs.org
 wss://nostr.current.fyo
 wss://nostr.notmyhostna.me
@@ -627,10 +631,8 @@ wss://nostr1.federated.computer
 wss://nostr.global.fans
 wss://relay.nostr.distrl.net
 wss://nostrsatva.net
-wss://nostr.0xtr.dev
-wss://nostr-sg.com
-wss://nostr.nodeofsven.com
-                                           wss://nostr-pub.welloorder.net
+nzugwf6w5dhpf743ynbac4tshid.onion
+wss://nostr-pub.welloorder.net
 wss://freedom-relay.herokuapp.com
 wss://relay.nostrprotocol.net
 wss://relay.21spirits.io
