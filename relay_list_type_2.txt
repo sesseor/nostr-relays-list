@@ -69,6 +69,7 @@ wss://nostr.lu.ke
 wss://nostr-rs-relay.cryptoassetssubledger.com
 wss://nostr.uthark.com
 wss://plebchain.nostr.land
+wss://arnostrpermadao.io
 wss://nostr.nosphr.com
 wss://nostr-relay.wolfandcrow.tech
 wss://Nostr.8E23.net
@@ -162,6 +163,7 @@ wss://nostr-relay.derekross.me
 wss://relay.nosbin.com
 wss://Puravida.nostr.land
 wss://nostr.lan127.net
+wss://arnostr.permadao.io
 wss://nos.lol
 wss://nostr-mv.ashiroid.com
 wss://nostr.services.thefockinfury.wtf
@@ -235,9 +237,12 @@ wss://nostr.arguflow.gg
 wss://nostrafrica.pcdkd.fyi
 wss://nostr.slothy.win
 wss://nostr.naut.social
+wss://nostrja-kari.heguro.com
 wss://nostr.digitalreformation.info
+wss://relay.phone.home
 wss://nostr.rdfried.com
 wss://nostr.monostr.com
+wss://anostr.permadao.io
 wss://nostr.yael.at
 wss://sg.qemura.xyz
 wss://nostr.0nyx.eu
@@ -363,6 +368,7 @@ wss://nostrpro.xyz
 wss://relay.sovereign-stack.org
 wss://astral.swiss-enigma.ch
 wss://nostr.snblago.com
+wss://freon.asuscomm.com:4848
 wss://relay.austrich.net
 wss://deconomy-netser.ddns.net:2121
 wss://nostr-relay.digitamob.ro
@@ -421,6 +427,7 @@ wss://nostr.liberty.fans
 wss://nostr.asdf.mx
 wss://nostrverifired.com
 wss://eden.nostr.land
+wss://zbd.ai
 wss://no-str.wnhefei.cn:28443
 wss://lv01.tater.ninja
 wss://nostr.jacany.com
@@ -490,6 +497,7 @@ wss://umbrel.bobcat-perch.ts.net
 wss://spleenrider.herokuapp.com
 wss://relay.tnano.duckdns.org
 wss://ufyirz4f5sn5gbsx4mfabooievm3lxcx6fnsh4udzx7silws6kbpypid.onion
+wss://arc1.arcadelabs.co
 wss://at.nostrworks.com
 wss://fiatdenier.com
 wss://relay.r3d.red
@@ -524,6 +532,7 @@ wss://nostr-pub.semisol.dev
 wss://nostr.leximaster.com
 wss://nostr-relay.texashedge.xyz
 wss://nostr.satsophone.tk
+wss://zebeedee.cloud
 wss://umbrel-vm.tail6c7cb.ts.net:4848
 wss://relay.plebstr.com
 wss://nostr.oxtr.dev
@@ -621,14 +630,11 @@ wss://nostr.0xtr.dev
 wss://nostr-sg.com
 wss://nostr.nodeofsven.com
 wss://udyjpri4lht3mqwz47sg5thwpepirnzugwf6w5dhpf743ynbac4tshid.onion
-wss://nostr-pub.welloorder.net
-wss://freedom-relay.herokuapp.com
-wss://relay.nostrprotocol.net
-wss://relay.21spirits.io
-wss://middling.myddns.me:8080
-wss://nostream.simon.snowinning.com
-wss://middling.sytes.net
-//relay.nostrified.org
+ostr.hugo.md
+wss://xmr.usenostr.org
+wss://nostr.anchel.nl
+wss://nostr.ethtozero.fr
+wss://relay.nostrified.org
 wss://nostream-production-f83d.up.railway.app
 wss://nostr.21l.st
 wss://relay.realsearch.cc
