@@ -49,8 +49,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nuc-4.home:4848
 wss://nostr-2.orba.ca
+wss://nuc-4.home:4848
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -337,6 +337,7 @@ wss://nostr.lingoh.dev
 wss://nostr.bitcoinbay.engineering
 wss://nostr.bitmatk.io
 wss://stonez.local:4848
+wss://jdqldw6hffnjdymzo5bikc75xuc7kg5zex23yuhczyacqcth5hxw2sid.onion
 wss://nostr.randomdevelopment.biz
 wss://nostr-relay.untethr.me
 wss://nostr.bitcoin-basel.ch
@@ -370,6 +371,7 @@ wss://nostr.klabo.blog
 wss://nostr.mustardnodes.com
 wss://nostr.one.re
 wss://nostr.bitcoiner.socail
+wss://nostr.blipme.app
 wss://nostr.malin.onl
 wss://relay.f7z.io
 wss://nostr2.actn.io
@@ -467,6 +469,7 @@ wss://bitcoiners.social
 wss://relay.nostr.band
 wss://nostr.red
 wss://za3.net
+wss://nostr.sept.ml
 wss://relay.alien.blue
 wss://snort.social
 wss://syx.local:4848
@@ -627,9 +630,7 @@ wss://nostr.current.fyo
 wss://nostr.notmyhostna.me
 wss://nostr.web3infra.xyz
 wss://nostr.hyperlingo.com
-wss://nostr-eu.coinfundit.com
-wss://relay.koreus.social
-wss://lzybsdznklr56a5qnvj6qy45xx7qeh73ckv6yrww5ehxofinqn7kydqd.onion
+7kydqd.onion
 wss://Nostr.einundzwanzig.space
 wss://relay.boring.surf
 wss://nostr.damus.io
