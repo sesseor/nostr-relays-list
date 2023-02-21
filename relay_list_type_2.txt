@@ -367,6 +367,7 @@ wss://n7okxxbnlslv5xmi277pwdzvg6eropcrurs44y2oydpl6qoq2murx6ad.onion
 wss://nostr.pleb.network
 wss://nostr.ahaspharos.de
 wss://relay.21spiritis.io
+wss://umbrell.local:4848
 wss://63ragcfwb5xhoe5gfflazfyrde3qjdo73cblhhmnbviizowdo2q5haid.onion:5051
 wss://nostr.nokotaro.com
 wss://relay.nostr.or.jp
@@ -626,8 +627,16 @@ wss://rdafsvko2moo3qsmqojwcrjodp7vtjpcxrwjbacrw4mwppk6gwl4zbyd.onion
 wss://spore.ws
 wss://nostr-alpha.gruntwerk.org
 wss://relay.nvnote.co
-wss://monad.jb55.com:8080
-         wss://nostr1.federated.computer
+ wss://relay.nostr.ro
+wss://nostr.build
+wss://nostr.cruncher.com
+wss://hushvault.ie
+wss://relay-dev.cowdle.gg
+wss://nostr.jimc.me
+wss://globals.fans
+wss://Nostr.actn.io
+wss://relay-1.arsip.my.id
+wss://nostr1.federated.computer
 wss://nostr.global.fans
 wss://relay.nostr.distrl.net
 wss://nostrsatva.net
@@ -729,6 +738,7 @@ wss://nostr.vdstruis.com
 wss://relay.honk.pw
 wss://jiggytom.ddns.net
 wss://btc.klendazu.com
+wss://nas.yunierrodriguez.com:4848
 wss://nostr.fennel.org:7000
 wss://nostr.bitcoiner.com
 wss://relay.nostr.info
