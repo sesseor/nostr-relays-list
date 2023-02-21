@@ -146,6 +146,7 @@ wss://relay1.nostrich.cloud
 wss://nostr.truckenbucks.com
 wss://relay.bitcoiner.social
 wss://hunter1998.com
+wss://home.bitcoinhornet.com:4848
 wss://nostr.cro.social
 wss://knostr.neutrine.com:8880
 wss://einundzwanzig.relay.com
@@ -220,6 +221,7 @@ wss://nostr.geekgalaxy.com
 wss://nostr.jascha.casa
 wss://nostr.sebastix.dev
 wss://dev2.hazilitt.fiatjaf.com
+wss://nostream.localtest.me
 wss://relay.zeh.app
 wss://brb.io
 wss://relay.nostr.lu
@@ -622,9 +624,11 @@ wss://jan-optiplex-5040.local:4848
 wss://rsslay.data.haus
 wss://relay.nostrich.de
 wss://rsslay.nostr.moe
-wss://nostr.thank.eu
-wss://nostr.demovement.net
-nostril.frendship.tw
+actalized.ovh
+wss://no.str.watch
+wss://alphapanda.pro
+wss://nostr.zue.news
+wss://nostril.frendship.tw
 wss://prueba.com
 wss://nostr.a-ef.org
 wss://relay.nostrichs.org
