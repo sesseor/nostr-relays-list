@@ -62,6 +62,7 @@ wss://relay.nostr.au
 wss://relay.nostrzoo.com
 wss://nostr-01.bolt.observer
 wss://mega-prv.snake-bull.ts.net
+wss://nostrv0l.io
 wss://nostream.megadope.snowinning.com
 wss://nostr.1729.cloud
 wss://relay.nostrview.com
@@ -425,6 +426,7 @@ wss://nostr.lapalomilla.mx
 wss://nostr.com.de
 wss://nostr.itssilvestre.com
 wss://nostr.shroomslab.net
+wss://umbrel.tail3f82c.ts.net:4848
 wss://relay.sdbtc.org
 wss://nostr.lnorb.com
 wss://chainza-estudio.tail33dda.ts.net:4848
@@ -628,10 +630,7 @@ wss://relay.kronkltd.net
 wss://relay.nostr.ae
 wss://relay.nor.st
 wss://familys.vip
-wss://nostr-relay.wls.space
-wss://000.land
-wss://nwmdev.com
-wss://rdafsvko2moo3qsmqojwcrjodp7vtjpcxrwjbacrw4mwppk6gwl4zbyd.onion
+       wss://rdafsvko2moo3qsmqojwcrjodp7vtjpcxrwjbacrw4mwppk6gwl4zbyd.onion
 wss://spore.ws
 wss://nostr-alpha.gruntwerk.org
 wss://relay.nvnote.co
