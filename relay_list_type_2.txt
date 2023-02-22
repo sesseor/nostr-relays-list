@@ -50,8 +50,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nostr-2.orba.ca
 wss://nuc-4.home:4848
+wss://nostr-2.orba.ca
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -468,6 +468,7 @@ wss://puravida.nostra.land
 wss://nostr-test.elastos.io
 wss://relay.damua.io
 wss://relay.nostr.ch
+wss://relay.ohbee.au
 wss://nostrue.com
 wss://umbrel.tailnet-6ca2.ts.net:4848
 wss://nostr.liberty.fans
@@ -924,7 +925,11 @@ wss://nostr-relay.Inmarkets.com
 wss://relay.taxi
 wss://umbrel.local:4848
 wss://relay.alien-sos.gov
-                              wss://nostr-1.nbo.agani.co
+s.org
+wss://greenart7c3.dedyn.io
+wss://no-str.org
+
+wss://nostr-1.nbo.agani.co
 wss://home.manyjourneys.com:4848
 wss://nostr.relayer.se
 wss://nostr.orangepill.dev
