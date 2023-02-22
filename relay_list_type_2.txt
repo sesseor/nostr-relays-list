@@ -50,8 +50,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nostr-2.orba.ca
 wss://nuc-4.home:4848
+wss://nostr-2.orba.ca
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -330,6 +330,7 @@ wss://relay.nostr.net.in
 wss://Nostr.mado.io
 wss://nostr.nemofin.com
 wss://nostr.ltbl.io
+wss://b4968f09859e.ngrok.io
 wss://rsslay.ch3n2k.com
 wss://6amyhf3sjvgxe5qzbx4xn52pcnqresdmi7szxurp6umkvz6mthxjdcad.onion
 wss://knostr.neutrine.com
@@ -455,6 +456,7 @@ wss://nostr.pobblelabs.org
 wss://ubuntu.local:4848
 wss://relay.nostr.snblago.com
 wss://spicy-tray-3ghp3voydiwvmfm2ijur.wnext.app
+wss://mutinywallet.com
 wss://puravida.nostra.land
 wss://nostr-test.elastos.io
 wss://relay.damua.io
@@ -614,6 +616,7 @@ wss://relay.orangepilldev.com
 wss://nostr.walletofsatishi.com
 wss://relay.t5y.ca
 wss://nostr.zebedee.cloud
+wss://nostr.africa.gives
 wss://relay.orange-crush.com
 wss://nproxy.cc
 wss://nostr2.namek.link
@@ -915,6 +918,7 @@ wss://nostr.orangepill.dev
 wss://Nostr.wine
 wss://nostr.guru
 wss://relay.johnnyasantos.com
+wss://nostr-1.afarazit.edu
 wss://nostr.fluidtrack.in
 wss://nostr.dojotunnel.online
 wss://node01.nostress.cc
@@ -928,8 +932,8 @@ wss://lightninrelay.com
 wss://nostream-production-b80e.up.railway.app
 wss://nostr.sectiontwo.org
 wss://nostr.thomascdnns.com
-wss://arsip.ddns.net
-wss://o6ga6lxnax2z7pgkkenifollohkrv55r36mdzdtofi7d5yyif2f4o5yd.onion:5051
-wss://nostr.spaceshell.xyz
-wss://relay.snort.social
-hy4vqx33qd.onion
+                                            wss://nostr-relay.digitalmob.ro
+wss://nostrgraph.net
+wss://nostr.member.cash
+wss://nostr-relay.ie9.org
+wss://au4bcjeijqf2v45raa5hg36ifo3i2ezn62t5r264p6fhechy4vqx33qd.onion
