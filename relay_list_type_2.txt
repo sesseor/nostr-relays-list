@@ -50,8 +50,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nuc-4.home:4848
 wss://nostr-2.orba.ca
+wss://nuc-4.home:4848
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -172,6 +172,7 @@ wss://nproxy.kristapsk.lv
 wss://nostr.delo.software
 wss://nostr-relay.derekross.me
 wss://relay.nosbin.com
+wss://out.of.milk
 wss://Puravida.nostr.land
 wss://nostr.lan127.net
 wss://arnostr.permadao.io
@@ -258,6 +259,7 @@ wss://nostr.naut.social
 wss://nostrja-kari.heguro.com
 wss://nostr.digitalreformation.info
 wss://nostr1676031941328.app.runonflux.io
+wss://rsslay-production.up.railway.app
 wss://relay.phone.home
 wss://nostr.rdfried.com
 wss://nostr.monostr.com
@@ -763,6 +765,7 @@ wss://nostr.zerofeerouting.com
 wss://nostream.frank.snowinning.com
 wss://nostr.localhost.re
 wss://nostr.community.networks.deavmi.assigned.network
+wss://nostr1.actn.io
 wss://nostr3.actn.io
 wss://NostrVerified.com
 wss://damus.io
@@ -831,6 +834,7 @@ wss://nostr.21crypto.ch
 wss://nostr.robotesc.ro
 wss://nostr.tangzixiang.com
 wss://nostr.trustbtc.org
+wss://filter.nostre.wine
 wss://nostr.256k1.dev
 wss://nostr.coollamer.com
 wss://nostr.app.runonflux.io
@@ -867,6 +871,7 @@ wss://qy3nnwrgp4j2fqemgs6fzsu6vm6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
 wss://nostr.1sat.org
 wss://nufer.deno.dev
 wss://we3hrtxcxhkci3zk46x6uior6qltdtatsgcrtgpu46kgntgt3llbtoqd.onion
+wss://Atlas.nostr.land
 wss://nostr.mrbits.it
 wss://relay.nostr.vet
 wss://nostr.globals.fans
@@ -883,6 +888,7 @@ wss://relay.grunch.dev
 wss://nostr.verymad.net
 wss://nostr.hushvault.ie:4848
 wss://lproxnb5xpeomugwmbhxywrihu46cimm2ikutcuvzkg4d7gvw5nn7sqd.onion
+wss://ac23cytwyb6g5c72noj4tibq3cj53tbulowelyqjbm4io3z25tqtcsad.onion
 wss://nostr-relay.alekberg.net
 wss://BTC.klendazu.com
 wss://relayer.pleb.social
@@ -921,15 +927,10 @@ wss://home.manyjourneys.com:4848
 wss://nostr.relayer.se
 wss://nostr.orangepill.dev
 wss://Nostr.wine
-wss://nostr.guru
-wss://relay.johnnyasantos.com
-wss://nostr-1.afarazit.edu
-wss://nostr.fluidtrack.in
-wss://nostr.dojotunnel.online
-wss://node01.nostress.cc
-wss://xmr.usenostr.com
-wss://relay.lacosanostr.com
-         wss://Nostr.mikediLGer.com
+           wss://nostr.sethforprivacy.com
+wss://eden.nost.land
+wss://nostr-2.afarazit.eu
+wss://Nostr.mikediLGer.com
 wss://lightninrelay.com
 wss://nostream-production-b80e.up.railway.app
 wss://nostr.sectiontwo.org
