@@ -51,8 +51,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nuc-4.home:4848
 wss://nostr-2.orba.ca
+wss://nuc-4.home:4848
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -240,6 +240,7 @@ wss://md.hugo.nostr
 wss://nostr.milou.land
 wss://Relay.nostrich.de
 wss://nauka-relay.herokuapp.com
+wss://nostr.5ub.net:8008
 wss://nostr.chaker.net
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://15171031.688.org
@@ -297,6 +298,7 @@ wss://blg.nostr.sx
 wss://nostr-relay.app.ikeji.ma
 wss://nostr1.saftup.xyz
 wss://umbrel.tailf2ffc.ts.net
+wss://umbrel.tail9dfb.ts.net:4848
 wss://node101.nostress.cc
 wss://Nostrica.com
 wss://replay.snort.social
@@ -308,6 +310,7 @@ wss://astral.ninja
 wss://nostr.risa.zone
 wss://e.nos.lol
 wss://nostr.handyjunky.com
+wss://nosrt-pub.semisol.dev
 wss://nostr.zebede.cloud
 wss://nostr.jatm.link
 wss://nos.qghs.in
@@ -466,6 +469,7 @@ wss://nostr.shroomslab.net
 wss://umbrel.tail3f82c.ts.net:4848
 wss://relay.sdbtc.org
 wss://nostr.lnorb.com
+wss://raspberrypi3.jay-chameleon.ts.net
 wss://chainza-estudio.tail33dda.ts.net:4848
 wss://nostr.pobblelabs.org
 wss://ubuntu.local:4848
@@ -893,6 +897,7 @@ wss://qy3nnwrgp4j2fqemgs6fzsu6vm6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
 wss://nostr.1sat.org
 wss://nufer.deno.dev
 wss://we3hrtxcxhkci3zk46x6uior6qltdtatsgcrtgpu46kgntgt3llbtoqd.onion
+wss://relay.current.fy
 wss://Atlas.nostr.land
 wss://nostr.mrbits.it
 wss://relay.nostr.vet
@@ -915,14 +920,10 @@ wss://nostr-relay.alekberg.net
 wss://BTC.klendazu.com
 wss://relayer.pleb.social
 wss://relay.stoner
-wss://nostr.mnethome.de
-wss://nostr.ownbtc.online
-wss://nostr.stereosteve.com
-wss://nostr.lnnodeinsight.com
-wss://relay.nostr.xyz
-wss://relay.blackthunder.click
-wss://nuccy-nuc715bnk.local:4848
-non.space
+                                            wss://nostr.private.network
+wss://000.eth
+wss://nostr.sg
+wss://nostr.phenomenon.space
 wss://nostr.bybieyang.com
 wss://nostr2.rbel.co
 wss://eden.nostry.land
@@ -930,6 +931,7 @@ wss://nostr.blocs.fr
 wss://wlvs.space
 wss://Nostr.chaker.net
 wss://nostream.dev.kronkltd.net
+wss://node.hushvault.ie:4848
 wss://nostr.utxo.lol
 wss://nostr.massmux.com
 wss://nostream.gromeul.eu
