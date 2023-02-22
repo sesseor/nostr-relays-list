@@ -426,6 +426,7 @@ wss://relay.nostr.africa
 wss://nostr-sandbox.minds.io
 wss://relay.leesalminen.com
 wss://matty-precision-tower-3620.local:4848
+wss://nostr-dev.animiq.com
 wss://7tdom3xuus7ekv423ul46w3j43zyixjj54yoe62bndpcrgii3adeppid.local
 wss://relay.nostrgraph.net
 wss://nostr.messagepush.io
@@ -926,8 +927,11 @@ wss://relay.nostriches.org
 wss://greenart7c3.dedyn.io
 wss://no-str.org
 
-wss://nostr-1.nbo.agani.co
-guru
+wss://home.manyjourneys.com:4848
+wss://nostr.relayer.se
+wss://nostr.orangepill.dev
+wss://Nostr.wine
+wss://nostr.guru
 wss://relay.johnnyasantos.com
 wss://nostr-1.afarazit.edu
 wss://21mhodl.com:4848
