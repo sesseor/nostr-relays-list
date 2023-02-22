@@ -95,6 +95,7 @@ wss://7nj3e5opqjcpyaoxi56c5yvgzc3b3dmubbk4c6nrdq5lnzn64g5jwuad.onion
 wss://nostr.h4x0r.host
 wss://nostr-pub.semisol.dev
 wss://Nostr.ethtozero.fr
+wss://noste.primz.org
 wss://filter.nostr.wine
 wss://nostr.relay.limo
 wss://nostr-relay.nokotaro.com
@@ -560,6 +561,7 @@ wss://ufyirz4f5sn5gbsx4mfabooievm3lxcx6fnsh4udzx7silws6kbpypid.onion
 wss://relay.rocks
 wss://arc1.arcadelabs.co
 wss://at.nostrworks.com
+wss://noste.cro.social
 wss://fiatdenier.com
 wss://relay.r3d.red
 wss://nostr-relay.schnitzel.world
@@ -920,10 +922,10 @@ wss://000.eth
 wss://nostr.sg
 wss://nostr.phenomenon.space
 wss://nostr.bybieyang.com
-wss://nostr2.rbel.co
-wss://eden.nostry.land
-wss://nostr.blocs.fr
-s://nostr.utxo.lol
+                    wss://wlvs.space
+wss://Nostr.chaker.net
+wss://nostream.dev.kronkltd.net
+wss://nostr.utxo.lol
 wss://nostr.massmux.com
 wss://nostream.gromeul.eu
 wss://nostr-relay.Inmarkets.com
