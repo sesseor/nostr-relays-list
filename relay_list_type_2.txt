@@ -262,6 +262,7 @@ wss://relay.phone.home
 wss://nostr.rdfried.com
 wss://nostr.monostr.com
 wss://anostr.permadao.io
+wss://xodpdwcomyfwnhnwja674roe4gcuov5psdyrrkexe4ay7qizn2xtkpid.onion
 wss://nostr.tools.global.id
 wss://nostr.yael.at
 wss://nostr.0nyx.eu
@@ -797,6 +798,7 @@ wss://relay.nostr.info
 wss://relay.727whisky.com
 wss://nostr.btcmp.com
 wss://nostr.cheeserobot.org
+wss://relai.nostrati.com
 wss://familys.vip:7000
 wss://cheery-paddock-rsakdrtc35c55n6yregn.wnext.app
 wss://nostr.chainofimmortals.net
@@ -863,6 +865,7 @@ wss://no.contry.xyz
 wss://qy3nnwrgp4j2fqemgs6fzsu6vm6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
 wss://nostr.1sat.org
 wss://nufer.deno.dev
+wss://we3hrtxcxhkci3zk46x6uior6qltdtatsgcrtgpu46kgntgt3llbtoqd.onion
 wss://nostr.mrbits.it
 wss://relay.nostr.vet
 wss://nostr.globals.fans
@@ -928,12 +931,8 @@ wss://relay.lacosanostr.com
 wss://nostr.sethforprivacy.com
 wss://eden.nost.land
 wss://nostr-2.afarazit.eu
-wss://Nostr.mikediLGer.com
-wss://lightninrelay.com
-wss://nostream-production-b80e.up.railway.app
-wss://nostr.sectiontwo.org
-wss://nostr.thomascdnns.com
-o6ga6lxnax2z7pgkkenifollohkrv55r36mdzdtofi7d5yyif2f4o5yd.onion:5051
+.ddns.net
+wss://o6ga6lxnax2z7pgkkenifollohkrv55r36mdzdtofi7d5yyif2f4o5yd.onion:5051
 wss://nostr.spaceshell.xyz
 wss://relay.snort.social
 wss://nostr-relay.digitalmob.ro
