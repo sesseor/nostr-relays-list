@@ -44,6 +44,7 @@ wss://relay.nostromo.social
 wss://nostr-verified.wellorder.net
 wss://relay.1bps.io
 wss://nostr.orba.ca
+wss://umbrel.tail1d35e.ts.net
 wss://nostr.multinywallet.com
 wss://nostr.ch
 wss://nostr-1.afarazit.eu
@@ -223,6 +224,7 @@ wss://nostr.how
 wss://relay.taldra.in
 wss://nostr.yaohaizhou.com
 wss://nostr.nostrelay.org
+wss://moauxczxwvggzqhtgjjyjqzmdmnwoxaa7mmgk5veljylj6yev4lqddad.onion
 wss://nostr.darwin.family
 wss://relay.nyx.ma
 wss://relay.lexingtonbitcoin.org
@@ -501,6 +503,7 @@ wss://zebedee.cloud
 wss://nostr-2.zebdeee.cloud
 wss://nostr.narrativerry.xyz
 wss://zee-relay.fly.dev
+wss://Relay.Damus.io
 wss://relay.nostr.com.au
 wss://nostr.howtobitcoin.shop
 wss://1.noztr.com
@@ -645,6 +648,7 @@ wss://nostr.walletofsatishi.com
 wss://relay.t5y.ca
 wss://nostr.zebedee.cloud
 wss://nostr.africa.gives
+wss://Puravida.Nostr.land
 wss://relay.orange-crush.com
 wss://nproxy.cc
 wss://relay.hushvault.ie
@@ -699,6 +703,7 @@ wss://familys.vip
 wss://nostr-relay.wls.space
 wss://000.land
 wss://nwmdev.com
+wss://nostr.frennet.xyz
 wss://rdafsvko2moo3qsmqojwcrjodp7vtjpcxrwjbacrw4mwppk6gwl4zbyd.onion
 wss://spore.ws
 wss://nostr-alpha.gruntwerk.org
@@ -783,6 +788,7 @@ wss://atlas.nostr.land
 wss://relay.nostr.moe
 wss://relay.nostr.wirednet.jp
 wss://nostr.ginuerzh.xyz
+wss://eden.Nostr.land
 wss://rsslay.nostr.net
 wss://relay.hushvault.ie:4848
 wss://nostream.nostrly.io
@@ -913,15 +919,11 @@ wss://nostr.metamadeenah.com
 wss://relay.nostr-latam.link
 wss://expensive-relay.fiatjaf
 wss://tonyo.up.railway.app
-wss://nostr-pub.wellorder.net
-wss://ng4jk6yiqgfczo4wyxszuj7w6jok3fptehu533o3mlzs3vph3dvjfdid.onion
-wss://nostr.eden.land
-wss://nostr.p2sh.co
-wss://nostr.gives.africa
-wss://shroomslab.net
-wss://relay.grunch.dev
-wss://nostr.verymad.net
-r-relay.alekberg.net
+wss://umbrel.tail1d35e.ts.net:4848
+       wss://nostr.hushvault.ie:4848
+wss://lproxnb5xpeomugwmbhxywrihu46cimm2ikutcuvzkg4d7gvw5nn7sqd.onion
+wss://ac23cytwyb6g5c72noj4tibq3cj53tbulowelyqjbm4io3z25tqtcsad.onion
+wss://nostr-relay.alekberg.net
 wss://BTC.klendazu.com
 wss://relayer.pleb.social
 wss://relay.stoner
