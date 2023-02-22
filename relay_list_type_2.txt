@@ -323,6 +323,7 @@ wss://nostr-paid.h3z.jp
 wss://nostr.bitcoin-21.org
 wss://nostr.gromeul.eu
 wss://nostr.vpn1.codingmerc.com
+wss://nostr.glate.ch
 wss://relay.nostrmoro.xyz
 wss://nostr.pjv.me
 wss://nostr.bitcoiner.social
@@ -589,6 +590,7 @@ wss://relay.plebstr.com
 wss://nostr.oxtr.dev
 
 wss://nostr-relay.gkbrk.com
+wss://nostr.interwebcoding.com
 wss://nostr-pub.liujiale.me
 wss://lpxyewdhgf4p26yjxl65e4in45q5qrtvyfn5bxgekl5gbytgdjjtd6yd.onion
 wss://nostrich.land
@@ -716,6 +718,7 @@ wss://relay.cryptoculture.com
 wss://nostr.radixrat.com
 wss://relay.futohq.com
 wss://ralay.damus.io
+wss://nostr.interwebcoding.com:4848
 wss://nostr.shadownode.org
 wss://nostr.exposed
 wss://nostr.kollider.xyz
@@ -821,6 +824,7 @@ wss://nostr-relai.trustbtc.org
 wss://Nostr-2.ZEBEDEE.cloud
 wss://relay.ryzizub.com
 wss://nostr.oxtr.dev
+wss://pay.nostrich.land
 wss://nostr.mutinywallet.com
 wss://relay.stonez.me
 wss://metazoan.icp.der0pa.io:1323
@@ -923,11 +927,16 @@ wss://greenart7c3.dedyn.io
 wss://no-str.org
 
 wss://nostr-1.nbo.agani.co
-wss://home.manyjourneys.com:4848
-wss://nostr.relayer.se
-wss://nostr.orangepill.dev
-wss://Nostr.wine
-           wss://nostr.sethforprivacy.com
+guru
+wss://relay.johnnyasantos.com
+wss://nostr-1.afarazit.edu
+wss://21mhodl.com:4848
+wss://nostr.fluidtrack.in
+wss://nostr.dojotunnel.online
+wss://node01.nostress.cc
+wss://xmr.usenostr.com
+wss://relay.lacosanostr.com
+wss://nostr.sethforprivacy.com
 wss://eden.nost.land
 wss://nostr-2.afarazit.eu
 wss://Nostr.mikediLGer.com
