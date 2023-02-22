@@ -17,6 +17,7 @@ wss://nostr.lightning.contact
 wss://nostr-us.coinfundit.com
 wss://nostrrelay.com
 wss://familys.vip:57000
+wss://relay.nostr.rocks
 wss://nostr.koning-degraaf.nl
 wss://nostr01.counterclockwise.io
 wss://nostr.snort.social
@@ -51,8 +52,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nostr-2.orba.ca
 wss://nuc-4.home:4848
+wss://nostr-2.orba.ca
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -244,8 +245,8 @@ wss://nostr.5ub.net:8008
 wss://nostr.chaker.net
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://15171031.688.org
-wss://nostr.coinsamba.com.br
 wss://nostr.test.aesyc.io
+wss://nostr.coinsamba.com.br
 wss://paid.spore.ws
 wss://nostr-relay.wlvs.space
 wss://relay.nostrica.com
@@ -367,6 +368,7 @@ wss://stonez.local:4848
 wss://jdqldw6hffnjdymzo5bikc75xuc7kg5zex23yuhczyacqcth5hxw2sid.onion
 wss://nostr.randomdevelopment.biz
 wss://nostr-relay.untethr.me
+wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
 wss://nostr.bitcoin-basel.ch
 wss://dev2.hazlitt.fiatjaf.com
 wss://astra.nostr.land
@@ -794,6 +796,7 @@ wss://nostr3.actn.io
 wss://NostrVerified.com
 wss://damus.io
 wss://nostream.kinchie.snowinning.com
+wss://nostr-relay.thefockinfury.wtf
 wss://nostr.masmux.com
 wss://node01.nostress.cc
 
@@ -916,11 +919,13 @@ wss://nostr.verymad.net
 wss://nostr.hushvault.ie:4848
 wss://lproxnb5xpeomugwmbhxywrihu46cimm2ikutcuvzkg4d7gvw5nn7sqd.onion
 wss://ac23cytwyb6g5c72noj4tibq3cj53tbulowelyqjbm4io3z25tqtcsad.onion
-wss://nostr-relay.alekberg.net
-wss://BTC.klendazu.com
-wss://relayer.pleb.social
-wss://relay.stoner
-                                            wss://nostr.private.network
+nostr.ownbtc.online
+wss://nostr.stereosteve.com
+wss://nostr.lnnodeinsight.com
+wss://relay.nostr.xyz
+wss://relay.blackthunder.click
+wss://nuccy-nuc715bnk.local:4848
+wss://nostr.private.network
 wss://000.eth
 wss://nostr.sg
 wss://nostr.phenomenon.space
