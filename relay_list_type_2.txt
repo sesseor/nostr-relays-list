@@ -318,6 +318,7 @@ wss://nostr.satoshi.fun
 wss://nostr.drss.io
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
 wss://relay.ohbe.me
+wss://nostr.sandwich.pro
 wss://realy.damus.io
 wss://relay.mutinywallet.com
 wss://nostr.swiss-enigma.ch
@@ -921,8 +922,8 @@ wss://nuccy-nuc715bnk.local:4848
 wss://nostr.private.network
 wss://000.eth
 wss://nostr.sg
-wss://nostr.phenomenon.space
- wss://nostr2.rbel.co
+    wss://nostr.bybieyang.com
+wss://nostr2.rbel.co
 wss://eden.nostry.land
 wss://nostr.blocs.fr
 wss://wlvs.space
