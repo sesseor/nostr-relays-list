@@ -230,6 +230,7 @@ wss://nostream.localtest.me
 wss://relay.zeh.app
 wss://brb.io
 wss://relay.nostr.lu
+wss://nostr1675998373522.app.runonflux.io
 wss://nostr.foundrydigital.com
 wss://nostr-relay-dev.wlvs.space
 wss://md.hugo.nostr
@@ -923,10 +924,7 @@ wss://nostr-relay.Inmarkets.com
 wss://relay.taxi
 wss://umbrel.local:4848
 wss://relay.alien-sos.gov
-wss://relay.nostriches.org
-wss://greenart7c3.dedyn.io
-wss://no-str.org
-
+                              wss://nostr-1.nbo.agani.co
 wss://home.manyjourneys.com:4848
 wss://nostr.relayer.se
 wss://nostr.orangepill.dev
