@@ -50,8 +50,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nuc-4.home:4848
 wss://nostr-2.orba.ca
+wss://nuc-4.home:4848
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -305,6 +305,7 @@ wss://astral.ninja
 wss://nostr.risa.zone
 wss://e.nos.lol
 wss://nostr.handyjunky.com
+wss://nostr.zebede.cloud
 wss://nostr.jatm.link
 wss://nos.qghs.in
 wss://nostr.watch
@@ -345,6 +346,7 @@ wss://nostro.cc
 wss://nostr.terminus.money
 wss://relay.n057r.club
 wss://nost.ratchat.nl
+wss://mrz2q7vklkwcpgojmcyuq4pstyiclcvkovvjfy2yfz3gznmsgsqafead.onion
 wss://nostr.ownscale.org
 wss://nostrafrica.pcdkd.fvi
 wss://nostrwhoop.ph
@@ -361,6 +363,7 @@ wss://nostr.bitcoin-basel.ch
 wss://dev2.hazlitt.fiatjaf.com
 wss://astra.nostr.land
 wss://nostr.zebeedee.cloud
+wss://u-3ddc416ldv3lq.local:4848
 wss://eden.nosrt.land
 wss://Nostr.developer.li
 wss://Eden.nostr.land
@@ -531,6 +534,7 @@ wss://nostr.milou.lol
 wss://nostr.ch3n2k.com
 wss://relay.nostrcheck.me
 wss://wizards.wormrobot.org
+wss://altcoinnect.xyz
 wss://nostr.verif-slothy.win
 wss://nostr-relay.nonce.academy
 wss://swiss-enigma.ch
@@ -671,6 +675,7 @@ wss://rasca.asnubes.art
 wss://nostre.cc
 wss://relay.kronkltd.net
 wss://nostr.chrissmith.site
+wss://nostr.nokptaro.com
 wss://relay.nostr.ae
 wss://relay.nor.st
 wss://familys.vip
@@ -917,15 +922,7 @@ wss://eden.nostry.land
 wss://nostr.blocs.fr
 wss://wlvs.space
 wss://Nostr.chaker.net
-wss://nostream.dev.kronkltd.net
-wss://nostr.utxo.lol
-wss://nostr.massmux.com
-wss://nostream.gromeul.eu
-wss://nostr-relay.Inmarkets.com
-wss://relay.taxi
-wss://umbrel.local:4848
-wss://relay.alien-sos.gov
-s.org
+                            wss://relay.nostriches.org
 wss://greenart7c3.dedyn.io
 wss://no-str.org
 
