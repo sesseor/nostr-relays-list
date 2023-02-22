@@ -274,6 +274,7 @@ wss://umbrel.tail3549e.ts.net:4848
 wss://nostr.vol.io
 wss://lv3djqdyncc3gvjblf55hmbvyfnew3n57opsy4gpgkl25saupmvafeyd.onion
 wss://nostr01.opencult.com
+wss://nostr.poster.place
 wss://nostr.onsats.org
 wss://nostream.denizenid.com
 wss://tom-desktop.local:4848
@@ -623,8 +624,7 @@ wss://nostrich.friendship.tw
 wss://jan-optiplex-5040.local:4848
 wss://rsslay.data.haus
 wss://relay.nostrich.de
-wss://rsslay.nostr.moe
-wss://nostr.thank.eu
+s://nostr.thank.eu
 wss://nostr.demovement.net
 wss://nostr.fractalized.ovh
 wss://no.str.watch
