@@ -50,8 +50,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nuc-4.home:4848
 wss://nostr-2.orba.ca
+wss://nuc-4.home:4848
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -102,6 +102,7 @@ wss://cloudnull.land
 wss://nostr.0x3031.net
 wss://nostr.rewardsbunny.com
 wss://nostr.zclub.app
+wss://nostr.eaglebtm.com
 wss://nostr.theblockreward.com
 wss://nostr.bitcoinplebs.de
 wss://relay.nostrmoto.xyz
@@ -141,6 +142,7 @@ wss://nor.st
 wss://nostr-relay.j3s7m4n.com
 wss://598e-189-250-106-103.ngrok.io
 wss://nostr.buythisdip.com
+wss://satoshigo.app
 wss://relay.nostrology.org
 wss://relay.hamnet.io
 wss://relay1.nostrich.cloud
@@ -254,6 +256,7 @@ wss://nostr.slothy.win
 wss://nostr.naut.social
 wss://nostrja-kari.heguro.com
 wss://nostr.digitalreformation.info
+wss://nostr1676031941328.app.runonflux.io
 wss://relay.phone.home
 wss://nostr.rdfried.com
 wss://nostr.monostr.com
@@ -449,6 +452,7 @@ wss://relay.sdbtc.org
 wss://nostr.lnorb.com
 wss://chainza-estudio.tail33dda.ts.net:4848
 wss://nostr.pobblelabs.org
+wss://ubuntu.local:4848
 wss://relay.nostr.snblago.com
 wss://spicy-tray-3ghp3voydiwvmfm2ijur.wnext.app
 wss://puravida.nostra.land
@@ -652,7 +656,9 @@ wss://nostr.mado.io
 wss://nostr.k3tan.com
 wss://nostr.simatime.com
 wss://rasca.asnubes.art
+wss://nostre.cc
 wss://relay.kronkltd.net
+wss://nostr.chrissmith.site
 wss://relay.nostr.ae
 wss://relay.nor.st
 wss://familys.vip
@@ -926,8 +932,4 @@ wss://arsip.ddns.net
 wss://o6ga6lxnax2z7pgkkenifollohkrv55r36mdzdtofi7d5yyif2f4o5yd.onion:5051
 wss://nostr.spaceshell.xyz
 wss://relay.snort.social
-wss://nostr-relay.digitalmob.ro
-wss://nostrgraph.net
-wss://nostr.member.cash
-wss://nostr-relay.ie9.org
-r264p6fhechy4vqx33qd.onion
+hy4vqx33qd.onion
