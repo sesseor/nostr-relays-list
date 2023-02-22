@@ -50,8 +50,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nostr-2.orba.ca
 wss://nuc-4.home:4848
+wss://nostr-2.orba.ca
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -779,6 +779,7 @@ wss://relay.nostr.pro
 wss://nostr.mikedilger.com
 wss://www.131.me
 wss://nostr-2.zebeedee.cloud
+wss://mcja3k7s7godsfe6n5cji5tvh3nbhacbb2kl7j5sisias4s3uls5cjid.onion
 wss://nostr.shawnyeager.net
 wss://relay.nostr.nu
 wss://relay-jp.nostr.wirednet.jp
@@ -928,10 +929,12 @@ wss://nostr.dojotunnel.online
 wss://node01.nostress.cc
 wss://xmr.usenostr.com
 wss://relay.lacosanostr.com
-wss://nostr.sethforprivacy.com
-wss://eden.nost.land
-wss://nostr-2.afarazit.eu
-.ddns.net
+         wss://Nostr.mikediLGer.com
+wss://lightninrelay.com
+wss://nostream-production-b80e.up.railway.app
+wss://nostr.sectiontwo.org
+wss://nostr.thomascdnns.com
+wss://arsip.ddns.net
 wss://o6ga6lxnax2z7pgkkenifollohkrv55r36mdzdtofi7d5yyif2f4o5yd.onion:5051
 wss://nostr.spaceshell.xyz
 wss://relay.snort.social
