@@ -49,8 +49,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nuc-4.home:4848
 wss://nostr-2.orba.ca
+wss://nuc-4.home:4848
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -624,7 +624,9 @@ wss://jan-optiplex-5040.local:4848
 wss://rsslay.data.haus
 wss://relay.nostrich.de
 wss://rsslay.nostr.moe
-actalized.ovh
+wss://nostr.thank.eu
+wss://nostr.demovement.net
+wss://nostr.fractalized.ovh
 wss://no.str.watch
 wss://alphapanda.pro
 wss://nostr.zue.news
