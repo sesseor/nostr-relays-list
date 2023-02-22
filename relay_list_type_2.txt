@@ -464,6 +464,7 @@ wss://relayer.fiatjaf.com
 wss://nostr.21m.fr
 wss://nostr.orangepill.dev
 
+wss://nostr.espia.ca
 wss://888.eth
 wss://nostr.screaminglife.io
 wss://relay.valera.co
@@ -919,8 +920,15 @@ wss://nostr.metamadeenah.com
 wss://relay.nostr-latam.link
 wss://expensive-relay.fiatjaf
 wss://tonyo.up.railway.app
-wss://umbrel.tail1d35e.ts.net:4848
-       wss://nostr.hushvault.ie:4848
+              wss://nostr-pub.wellorder.net
+wss://ng4jk6yiqgfczo4wyxszuj7w6jok3fptehu533o3mlzs3vph3dvjfdid.onion
+wss://nostr.eden.land
+wss://nostr.p2sh.co
+wss://nostr.gives.africa
+wss://shroomslab.net
+wss://relay.grunch.dev
+wss://nostr.verymad.net
+wss://nostr.hushvault.ie:4848
 wss://lproxnb5xpeomugwmbhxywrihu46cimm2ikutcuvzkg4d7gvw5nn7sqd.onion
 wss://ac23cytwyb6g5c72noj4tibq3cj53tbulowelyqjbm4io3z25tqtcsad.onion
 wss://nostr-relay.alekberg.net
@@ -934,6 +942,7 @@ wss://nostr.lnnodeinsight.com
 wss://relay.nostr.xyz
 wss://relay.blackthunder.click
 wss://nuccy-nuc715bnk.local:4848
+wss://nostr.overmind.lol
 wss://nostr.private.network
 wss://000.eth
 wss://nostr.sg
