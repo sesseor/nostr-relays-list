@@ -317,6 +317,7 @@ wss://nostr.satoshi.fun
 wss://nostr.drss.io
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
 wss://relay.ohbe.me
+wss://realy.damus.io
 wss://relay.mutinywallet.com
 wss://nostr.swiss-enigma.ch
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -519,6 +520,7 @@ wss://Nostr.drss.io
 wss://stacker.news
 wss://rsr.uyky.net:30443
 wss://jp-relay-nostr.invr.chat
+wss://student.chadpolytechnic.co
 wss://nostr.v01.io
 wss://nostr.bongdong.com
 wss://eospark.com
@@ -665,6 +667,7 @@ wss://nostr-eu.coinfundit.com
 wss://relay.koreus.social
 wss://lzybsdznklr56a5qnvj6qy45xx7qeh73ckv6yrww5ehxofinqn7kydqd.onion
 wss://Nostr.einundzwanzig.space
+wss://relay.dams.io
 wss://relay.boring.surf
 wss://nostr.damus.io
 wss://nostr.openchain.fr
@@ -920,9 +923,14 @@ wss://nostr.bybieyang.com
 wss://nostr2.rbel.co
 wss://eden.nostry.land
 wss://nostr.blocs.fr
-wss://wlvs.space
-wss://Nostr.chaker.net
-                            wss://relay.nostriches.org
+s://nostr.utxo.lol
+wss://nostr.massmux.com
+wss://nostream.gromeul.eu
+wss://nostr-relay.Inmarkets.com
+wss://relay.taxi
+wss://umbrel.local:4848
+wss://relay.alien-sos.gov
+wss://relay.nostriches.org
 wss://greenart7c3.dedyn.io
 wss://no-str.org
 
