@@ -28,6 +28,7 @@ wss://nostr.zaprite.io
 wss://nstrs.fly.dev
 wss://r.alphaama.com
 wss://willem.currycash.net:4848
+wss://relai.nostr.bg
 wss://relay.nostr.gt
 wss://relay.damus.info
 wss://nostr.blockpower.capital
@@ -49,8 +50,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nostr-2.orba.ca
 wss://nuc-4.home:4848
+wss://nostr-2.orba.ca
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -595,6 +596,7 @@ wss://nostr.rdfriedl.com
 wss://nostr.actin.io
 wss://relay.nwss
 wss://nostr.metacat.world
+wss://realy.nostr.bg
 wss://rsslay.fiatjaf.com
 wss://nostr.totient.xyz
 wss://nostr.blockchaincaffe.it
@@ -624,7 +626,8 @@ wss://nostrich.friendship.tw
 wss://jan-optiplex-5040.local:4848
 wss://rsslay.data.haus
 wss://relay.nostrich.de
-s://nostr.thank.eu
+wss://rsslay.nostr.moe
+wss://nostr.thank.eu
 wss://nostr.demovement.net
 wss://nostr.fractalized.ovh
 wss://no.str.watch
@@ -927,3 +930,4 @@ wss://nostr-relay.digitalmob.ro
 wss://nostrgraph.net
 wss://nostr.member.cash
 wss://nostr-relay.ie9.org
+r264p6fhechy4vqx33qd.onion
