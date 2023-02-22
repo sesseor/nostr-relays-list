@@ -43,6 +43,7 @@ wss://relay.nostromo.social
 wss://nostr-verified.wellorder.net
 wss://relay.1bps.io
 wss://nostr.orba.ca
+wss://nostr.multinywallet.com
 wss://nostr.ch
 wss://nostr-1.afarazit.eu
 wss://relay.nostr.amane.moe
@@ -198,6 +199,7 @@ wss://o6ga6lxnax2z7pgkkenifollohkrv55r36mdzdtofi7d5yyif2f4o5yd.onion:5050
 wss://nostr.soscary.net
 wss://nostr01.vida.dev
 wss://Nostr.milou.lol
+wss://puravida.Nostr.land
 wss://nostr.1f52b.xyz
 wss://lsnmrd36ktdf34iwt2yt26to37fe5veibwkfcdsjwd7be3lezk6u7rid.onion
 wss://zur.nostr.sx
@@ -859,6 +861,7 @@ wss://nostr.coollamer.com
 wss://nostr.app.runonflux.io
 wss://nprocxy.cc
 wss://nostr.rbel.co
+wss://relay.drss.io
 wss://nostr.mom
 wss://nostr.sabross.xyz
 wss://nostr-relay.xbytez.io
@@ -919,10 +922,8 @@ wss://nostr.lnnodeinsight.com
 wss://relay.nostr.xyz
 wss://relay.blackthunder.click
 wss://nuccy-nuc715bnk.local:4848
-wss://nostr.private.network
-wss://000.eth
-wss://nostr.sg
-    wss://nostr.bybieyang.com
+non.space
+wss://nostr.bybieyang.com
 wss://nostr2.rbel.co
 wss://eden.nostry.land
 wss://nostr.blocs.fr
