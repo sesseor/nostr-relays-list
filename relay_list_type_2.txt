@@ -38,6 +38,7 @@ wss://zerosequioso.com
 wss://nostr-rely.digitalmob.ro
 wss://nostrnodeofsven.com
 wss://nostr.h3y6e.com
+wss://ljjrqq6frnm56oeowjzqfzfniwqqpohyg4l6adawekgh4vligfcg2lyd.onion
 wss://nostr.walletofsatoshi.com
 wss://nostr-relay.freedomnode.com
 wss://relay.nostromo.social
@@ -241,6 +242,7 @@ wss://relay.nostr.lu
 wss://nostr1675998373522.app.runonflux.io
 wss://nostr.foundrydigital.com
 wss://nostr-relay-dev.wlvs.space
+wss://at.nostrwork.at
 wss://md.hugo.nostr
 wss://nostr.milou.land
 wss://Relay.nostrich.de
@@ -276,10 +278,10 @@ wss://nostr.monostr.com
 wss://anostr.permadao.io
 wss://xodpdwcomyfwnhnwja674roe4gcuov5psdyrrkexe4ay7qizn2xtkpid.onion
 wss://nostr.tools.global.id
-wss://nostr.yael.at
-wss://nostr.0nyx.eu
 wss://sg.qemura.xyz
+wss://nostr.0nyx.eu
 wss://nostr.gram
+wss://nostr.yael.at
 wss://eosla.com
 wss://member.cash
 wss://nostr.nos.lol
@@ -618,6 +620,7 @@ wss://nostr.oxtr.dev
 
 wss://nostr-relay.gkbrk.com
 wss://nostr.interwebcoding.com
+wss://amine-thinkpad-e14.local:4848
 wss://nostr-pub.liujiale.me
 wss://lpxyewdhgf4p26yjxl65e4in45q5qrtvyfn5bxgekl5gbytgdjjtd6yd.onion
 wss://nostrich.land
@@ -915,12 +918,9 @@ wss://nufer.deno.dev
 wss://we3hrtxcxhkci3zk46x6uior6qltdtatsgcrtgpu46kgntgt3llbtoqd.onion
 wss://relay.current.fy
 wss://Atlas.nostr.land
-wss://nostr.mrbits.it
-wss://relay.nostr.vet
-wss://nostr.globals.fans
-wss://nostr.metamadeenah.com
-wss://relay.nostr-latam.link
-wss://expensive-relay.fiatjaf4848
+                             
+wss://tonyo.up.railway.app
+wss://umbrel.tail1d35e.ts.net:4848
 wss://nostr-pub.wellorder.net
 wss://ng4jk6yiqgfczo4wyxszuj7w6jok3fptehu533o3mlzs3vph3dvjfdid.onion
 wss://nostr.eden.land
