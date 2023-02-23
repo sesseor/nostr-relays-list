@@ -155,6 +155,7 @@ wss://relay1.nostrich.cloud
 wss://nostr.truckenbucks.com
 wss://relay.bitcoiner.social
 wss://hunter1998.com
+wss://nostr.pub.wellorder.net
 wss://home.bitcoinhornet.com:4848
 wss://nostr.cro.social
 wss://knostr.neutrine.com:8880
@@ -313,6 +314,7 @@ wss://Nostr.nodeofsven.com
 wss://public.nostr.swissrouting.com
 wss://nostr.minimue81.selfhost.co
 wss://nostr.ddns.net
+wss://Bitcoiner.social
 wss://astral.ninja
 wss://nostr.risa.zone
 wss://e.nos.lol
@@ -917,8 +919,11 @@ wss://nostr.1sat.org
 wss://nufer.deno.dev
 wss://we3hrtxcxhkci3zk46x6uior6qltdtatsgcrtgpu46kgntgt3llbtoqd.onion
 wss://relay.current.fy
-wss://Atlas.nostr.land
-                             
+lay.nostr.vet
+wss://nostr.globals.fans
+wss://nostr.metamadeenah.com
+wss://relay.nostr-latam.link
+wss://expensive-relay.fiatjaf
 wss://tonyo.up.railway.app
 wss://umbrel.tail1d35e.ts.net:4848
 wss://nostr-pub.wellorder.net
