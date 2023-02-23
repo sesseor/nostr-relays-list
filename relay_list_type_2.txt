@@ -32,6 +32,7 @@ wss://willem.currycash.net:4848
 wss://relai.nostr.bg
 wss://relay.nostr.gt
 wss://relay.damus.info
+wss://relay.nostr.co.jp
 wss://nostr.blockpower.capital
 wss://nostr.l00p.org
 wss://zerosequioso.com
@@ -54,8 +55,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nuc-4.home:4848
 wss://nostr-2.orba.ca
+wss://nuc-4.home:4848
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -215,6 +216,7 @@ wss://nostr.sovbit.host
 wss://nostr.mwmdev.com
 wss://relay.nostr.hu
 wss://replay.current.fyi
+wss://relay.zerosequioso.com
 wss://bhagos.org
 wss://relat.nostrica.com
 wss://relay.zhix.in
@@ -269,10 +271,10 @@ wss://nostr.arguflow.gg
 wss://nostrafrica.pcdkd.fyi
 wss://nostr.slothy.win
 wss://nostr.naut.social
-wss://nostrja-kari.heguro.com
+wss://rsslay-production.up.railway.app
 wss://nostr.digitalreformation.info
 wss://nostr1676031941328.app.runonflux.io
-wss://rsslay-production.up.railway.app
+wss://nostrja-kari.heguro.com
 wss://relay.phone.home
 wss://nostr.rdfried.com
 wss://nostr.monostr.com
@@ -396,6 +398,7 @@ wss://nostr.vOl.io
 wss://relay.nostrula.com
 wss://chad.polytechnic.com
 wss://nostr.cvilleblockchain.org
+wss://mostra.yuv.al
 wss://anigma.io
 wss://nostr.zoomout.chat
 wss://relay.orangepill.dev
@@ -917,9 +920,7 @@ wss://pow.nostrati.com
 wss://111.eth
 wss://no.contry.xyz
 wss://qy3nnwrgp4j2fqemgs6fzsu6vm6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
-wss://nostr.1sat.org
-wss://nufer.deno.dev
-wss://we3hrtxcxhkci3zk46x6uior6qltdtatsgcrtgpu46kgntgt3llbtoqd.onion
+qltdtatsgcrtgpu46kgntgt3llbtoqd.onion
 wss://relay.current.fy
 wss://Atlas.nostr.land
 wss://nostr.mrbits.it
