@@ -53,8 +53,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nostr-2.orba.ca
 wss://nuc-4.home:4848
+wss://nostr-2.orba.ca
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -176,6 +176,7 @@ wss://nostr.directory
 wss://nproxy.kristapsk.lv
 wss://nostr.delo.software
 wss://nostr-relay.derekross.me
+wss://nostr.citizenry.technology
 wss://relay.nosbin.com
 wss://out.of.milk
 wss://Puravida.nostr.land
@@ -839,6 +840,7 @@ wss://nostr.bitcoiner.com
 wss://relay.nostr.info
 wss://relay.727whisky.com
 wss://nostr.btcmp.com
+wss://relay.nostromo.xyz
 wss://nostr.cheeserobot.org
 wss://relai.nostrati.com
 wss://familys.vip:7000
@@ -918,9 +920,8 @@ wss://relay.nostr.vet
 wss://nostr.globals.fans
 wss://nostr.metamadeenah.com
 wss://relay.nostr-latam.link
-wss://expensive-relay.fiatjaf
-wss://tonyo.up.railway.app
-              wss://nostr-pub.wellorder.net
+wss://expensive-relay.fiatjaf4848
+wss://nostr-pub.wellorder.net
 wss://ng4jk6yiqgfczo4wyxszuj7w6jok3fptehu533o3mlzs3vph3dvjfdid.onion
 wss://nostr.eden.land
 wss://nostr.p2sh.co
