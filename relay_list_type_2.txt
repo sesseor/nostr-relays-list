@@ -157,6 +157,7 @@ wss://relay.nostrology.org
 wss://relay.hamnet.io
 wss://relay1.nostrich.cloud
 wss://nostr.truckenbucks.com
+wss://relay.punkhub.me
 wss://relay.bitcoiner.social
 wss://hunter1998.com
 wss://nostr.pub.wellorder.net
@@ -917,11 +918,14 @@ wss://nostr.cercatrova.me
 wss://nostr.net.za
 wss://Nostr.cercatrova.me
 wss://nostr.worldkey.io
-wss://nostr.forecastdao.com
-wss://amazon.land
-wss://nostream.lucas.snowinning.com
-wss://nostr.member.cas
-       wss://no.contry.xyz
+                                                                                  wss://nostr.einundzwanzig.space
+wss://nostrical.com
+wss://nostr.nakamotosatoshi.cf
+wss://nostr.rocks
+wss://nostr.exposd
+wss://pow.nostrati.com
+wss://111.eth
+wss://no.contry.xyz
 wss://qy3nnwrgp4j2fqemgs6fzsu6vm6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
 wss://nostr.1sat.org
 wss://nufer.deno.dev
