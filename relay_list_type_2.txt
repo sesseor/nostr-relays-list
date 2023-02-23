@@ -921,7 +921,8 @@ wss://nostr.exposd
 wss://pow.nostrati.com
 wss://111.eth
 wss://no.contry.xyz
-                         wss://nostr.1sat.org
+wss://qy3nnwrgp4j2fqemgs6fzsu6vm6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
+wss://nostr.1sat.org
 wss://nufer.deno.dev
 wss://we3hrtxcxhkci3zk46x6uior6qltdtatsgcrtgpu46kgntgt3llbtoqd.onion
 wss://relay.current.fy
