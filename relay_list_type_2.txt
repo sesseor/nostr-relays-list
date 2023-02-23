@@ -701,6 +701,7 @@ wss://nostr.k3tan.com
 wss://nostr.simatime.com
 wss://rasca.asnubes.art
 wss://nostre.cc
+wss://relay.nostrprotocol.com
 wss://relay.kronkltd.net
 wss://nostr.chrissmith.site
 wss://nostr.nokptaro.com
@@ -812,6 +813,7 @@ wss://nostr3.actn.io
 wss://NostrVerified.com
 wss://damus.io
 wss://nostream.kinchie.snowinning.com
+wss://nostr.hrmb.org
 wss://nostr-relay.thefockinfury.wtf
 wss://nostr.masmux.com
 wss://node01.nostress.cc
@@ -917,9 +919,9 @@ wss://no.contry.xyz
 wss://qy3nnwrgp4j2fqemgs6fzsu6vm6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
 wss://nostr.1sat.org
 wss://nufer.deno.dev
-wss://we3hrtxcxhkci3zk46x6uior6qltdtatsgcrtgpu46kgntgt3llbtoqd.onion
-wss://relay.current.fy
-lay.nostr.vet
+                                         wss://Atlas.nostr.land
+wss://nostr.mrbits.it
+wss://relay.nostr.vet
 wss://nostr.globals.fans
 wss://nostr.metamadeenah.com
 wss://relay.nostr-latam.link
