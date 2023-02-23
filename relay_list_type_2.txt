@@ -149,6 +149,7 @@ wss://nostr.ddns.net:8008
 wss://nor.st
 wss://nostr-relay.j3s7m4n.com
 wss://598e-189-250-106-103.ngrok.io
+wss://relay.roli.social
 wss://nostr.buythisdip.com
 wss://satoshigo.app
 wss://relay.nostrology.org
@@ -374,6 +375,7 @@ wss://middling.myddns.me
 wss://nproxy.zerologin.co
 wss://nostr.lingoh.dev
 wss://nostr.bitcoinbay.engineering
+wss://nos..lol
 wss://nostr.bitmatk.io
 wss://stonez.local:4848
 wss://jdqldw6hffnjdymzo5bikc75xuc7kg5zex23yuhczyacqcth5hxw2sid.onion
@@ -921,8 +923,7 @@ wss://nostr.rocks
 wss://nostr.exposd
 wss://pow.nostrati.com
 wss://111.eth
-wss://no.contry.xyz
-m6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
+qemgs6fzsu6vm6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
 wss://nostr.1sat.org
 wss://nufer.deno.dev
 wss://we3hrtxcxhkci3zk46x6uior6qltdtatsgcrtgpu46kgntgt3llbtoqd.onion
