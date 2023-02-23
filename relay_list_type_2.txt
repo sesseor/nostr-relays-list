@@ -1,4 +1,5 @@
 
+wss://lbrygen.zyz
 wss://nostr-verif.slothy.win
 wss://relayer.fiatjaff.com
 wss://7tdom3xuus7ekv423ul46w3j43zyixjj54yoe62bndpcrgii3adeppid.onion
@@ -55,8 +56,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nostr-2.orba.ca
 wss://nuc-4.home:4848
+wss://nostr-2.orba.ca
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -264,8 +265,8 @@ wss://nostr1.starbackr.me
 wss://relay.pub
 wss://relay1.gems.xyz
 wss://nostr.thesimplekid.com
-wss://Merrcurr.up.railway.app
 wss://nostr.zedebee.cloud
+wss://Merrcurr.up.railway.app
 wss://nostr.gruntwerk.org
 wss://nostr.arguflow.gg
 wss://nostrafrica.pcdkd.fyi
@@ -596,6 +597,7 @@ wss://relay.nostropolis.xyz
 wss://nostrrr.bublina.eu.org
 wss://nostream-relay-nostr.831.pp.ua
 wss://nostr.bitcoiner.socia
+wss://relay.nostr.hach.re
 wss://relay.cryptocculture.com
 wss://Nostr.gromeul.eu
 wss://nostr.coinos.io
@@ -919,8 +921,9 @@ wss://nostr.exposd
 wss://pow.nostrati.com
 wss://111.eth
 wss://no.contry.xyz
-wss://qy3nnwrgp4j2fqemgs6fzsu6vm6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
-qltdtatsgcrtgpu46kgntgt3llbtoqd.onion
+                         wss://nostr.1sat.org
+wss://nufer.deno.dev
+wss://we3hrtxcxhkci3zk46x6uior6qltdtatsgcrtgpu46kgntgt3llbtoqd.onion
 wss://relay.current.fy
 wss://Atlas.nostr.land
 wss://nostr.mrbits.it
