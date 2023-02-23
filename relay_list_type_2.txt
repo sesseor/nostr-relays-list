@@ -122,6 +122,7 @@ wss://thes.ai
 wss://nostr-3.orba.ca
 wss://relay.nort.social
 wss://nostr.688.org
+wss://nostr.bolybea.com
 wss://relay-local.cowdle.gg
 wss://lbrygen.xyz
 wss://relay.nostrid.com
@@ -214,6 +215,7 @@ wss://lsnmrd36ktdf34iwt2yt26to37fe5veibwkfcdsjwd7be3lezk6u7rid.onion
 wss://zur.nostr.sx
 wss://nostr.up.railway.app
 wss://nostream.nostr.parts
+wss://relay.nostr.widenet.jp
 wss://nostr.sovbit.host
 wss://nostr.mwmdev.com
 wss://relay.nostr.hu
@@ -408,6 +410,7 @@ wss://relay.orangepill.dev
 wss://nostr.fmt.wiz.biz
 wss://relay.humanumest.social
 wss://nostr.mutinywallet
+wss://relay.nostr.jhot.me
 wss://citadel.local:4848
 wss://nostr.0ne.day
 wss://nostr.oooxxx.ml
@@ -725,6 +728,7 @@ wss://spore.ws
 wss://nostr-alpha.gruntwerk.org
 wss://relay.nvnote.co
 wss://monad.jb55.com:8080
+wss://relay-jp.nostr.widenet.jp
 wss://relay.nostr.ro
 wss://nostr.build
 wss://nostr.cruncher.com
@@ -760,6 +764,7 @@ wss://nostr.21l.st
 wss://relay.realsearch.cc
 wss://Relay.nostr.bg
 wss://student.chadpolytechnic.com
+wss://umbrel.sphinx-turtle.ts.net:4848
 wss://relay.cryptoculture.com
 wss://nostr.radixrat.com
 wss://relay.futohq.com
@@ -916,14 +921,8 @@ wss://nostr.forecastdao.com
 wss://amazon.land
 wss://nostream.lucas.snowinning.com
 wss://nostr.member.cas
-wss://nostr.einundzwanzig.space
-wss://nostrical.com
-wss://nostr.nakamotosatoshi.cf
-wss://nostr.rocks
-wss://nostr.exposd
-wss://pow.nostrati.com
-wss://111.eth
-qemgs6fzsu6vm6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
+       wss://no.contry.xyz
+wss://qy3nnwrgp4j2fqemgs6fzsu6vm6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
 wss://nostr.1sat.org
 wss://nufer.deno.dev
 wss://we3hrtxcxhkci3zk46x6uior6qltdtatsgcrtgpu46kgntgt3llbtoqd.onion
