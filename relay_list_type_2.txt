@@ -919,7 +919,9 @@ wss://no.contry.xyz
 wss://qy3nnwrgp4j2fqemgs6fzsu6vm6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
 wss://nostr.1sat.org
 wss://nufer.deno.dev
-                                         wss://Atlas.nostr.land
+wss://we3hrtxcxhkci3zk46x6uior6qltdtatsgcrtgpu46kgntgt3llbtoqd.onion
+wss://relay.current.fy
+wss://Atlas.nostr.land
 wss://nostr.mrbits.it
 wss://relay.nostr.vet
 wss://nostr.globals.fans
@@ -946,6 +948,7 @@ wss://relay.stoner
 wss://nostr.mnethome.de
 wss://nostr.ownbtc.online
 wss://nostr.stereosteve.com
+wss://nost.plebchain.org
 wss://nostr.lnnodeinsight.com
 wss://relay.nostr.xyz
 wss://relay.blackthunder.click
