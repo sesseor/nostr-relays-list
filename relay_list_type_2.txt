@@ -439,6 +439,7 @@ wss://astral.swiss-enigma.ch
 wss://nostr.snblago.com
 wss://freon.asuscomm.com:4848
 wss://relay.stacker.news
+wss://ostr-1.afarazit.eu
 wss://relay.austrich.net
 wss://deconomy-netser.ddns.net:2121
 wss://nostr-relay.digitamob.ro
@@ -680,6 +681,7 @@ wss://bitcoinmaximalists.online
 wss://nostr.fine
 wss://relay.valireum.net
 wss://nostr.100p.org
+wss://Nostr.relayer.se
 wss://nostr.bongbong.com
 wss://nostrich.friendship.tw
 wss://jan-optiplex-5040.local:4848
@@ -869,6 +871,7 @@ wss://familys.vip:7000
 wss://cheery-paddock-rsakdrtc35c55n6yregn.wnext.app
 wss://nostr.chainofimmortals.net
 wss://k65qz57zx4sw24fow2bvchjgmpjqljj4cp3oa7dtpbbprjifsdotggid.local
+wss://nostream.git
 wss://nostr.primedomain.fr
 wss://nostream-production-31f8.up.railway.app
 wss://private.red.gb.net
@@ -916,9 +919,8 @@ wss://relay.nostr3.io
 wss://Nostr.bongbong.com
 wss://global-relay.cesc.trade
 wss://nostr.cercatrova.me
-wss://nostr.net.za
-wss://Nostr.cercatrova.me
-ostr.forecastdao.com
+o
+wss://nostr.forecastdao.com
 wss://amazon.land
 wss://nostream.lucas.snowinning.com
 wss://nostr.member.cas
