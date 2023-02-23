@@ -56,8 +56,8 @@ wss://relay.oldcity-bitcoiners.info
 wss://nostr.namek.link
 wss://nostr.danvergara.com
 wss://Nostr21.com
-wss://nostr-2.orba.ca
 wss://nuc-4.home:4848
+wss://nostr-2.orba.ca
 wss://nostr.lnprivate.network
 wss://nostr.essydns.ca
 wss://relay.dwadziesciajeden.pl
@@ -558,6 +558,7 @@ wss://eospark.com
 wss://next.nostr.watch
 wss://nostr-dev.wellorder.net
 wss://nostr-relay.eniehack.net
+wss://nostr.lightninglinks.xyz
 wss://quirky-bunch-isubghsvoi26fbbt3n7o.wnext.app
 wss://nostr.wine
 wss://nostr.africa
@@ -917,12 +918,16 @@ wss://global-relay.cesc.trade
 wss://nostr.cercatrova.me
 wss://nostr.net.za
 wss://Nostr.cercatrova.me
-wss://nostr.worldkey.io
-                                                                                  wss://nostr.einundzwanzig.space
+ostr.forecastdao.com
+wss://amazon.land
+wss://nostream.lucas.snowinning.com
+wss://nostr.member.cas
+wss://nostr.einundzwanzig.space
 wss://nostrical.com
 wss://nostr.nakamotosatoshi.cf
 wss://nostr.rocks
 wss://nostr.exposd
+wss://psychoet.ml:3250
 wss://pow.nostrati.com
 wss://111.eth
 wss://no.contry.xyz
