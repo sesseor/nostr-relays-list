@@ -11,12 +11,12 @@ wss://relay1.gems.xyz
 wss://nostr.island.network
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.rocket-tech.net
-wss://nostr.stereosteve.com
 wss://nostr.h3z.jp
+wss://nostr.stereosteve.com
 wss://nostr.btcmp.com
-wss://cloudnull.land
-wss://nostr.milou.lol
 wss://nostr-relay.nonce.academy
+wss://nostr.milou.lol
+wss://cloudnull.land
 wss://no-str.org
 
 wss://relayer.pleb.social
@@ -192,8 +192,8 @@ wss://nostream-production-9458.up.railway.app
 wss://nostream.nostrly.io
 wss://no.str.watch
 wss://relay.nostr.moe
-wss://Node01.nostress.CC
 wss://relay.nostr.pro
+wss://Node01.nostress.CC
 wss://nostr.openchain.fr
 wss://nostrproxy-1.f7z.io
 wss://nostr.itas.li
@@ -367,6 +367,7 @@ wss://nostr.watch
 wss://relay.nor.st
 wss://zur.nostr.sx
 wss://nostr.gromeul.eu
+wss://nostr.nostrelay.org
 wss://relay.nostr.ro
 wss://relay.reeve.cn
 wss://relay.damus.io
@@ -483,12 +484,14 @@ wss://nostr.mustardnodes.com
 wss://nostr-2.afarazit.eu
 wss://xmr.usenostr.org
 wss://relat.nostrica.com
+wss://Eden.nostr.land
 wss://nostr.nordlysln.net
 wss://nostr.liberty.fans
 wss://relay.zerosequioso.com
 wss://relay.minds.com
 wss://nostr.13x.sh
 wss://nostr.merrcurr.com
+wss://nostr.nymsrelay.com
 wss://nostr.blockchaincaffe.it
 wss://nostr.phenomenon.space
 wss://nostro.cc
@@ -541,6 +544,7 @@ wss://nostr.hyperlingo.com
 wss://nostr.cvilleblockchain.org
 wss://relay.nostr.social
 wss://nostr.mikedilger.com
+wss://arsip.ddns.net
 wss://nostr.bch.ninja
 wss://redgreenblue.click
 wss://nostr.relay-wlvs.space
@@ -610,6 +614,7 @@ wss://nostr.poster.place
 wss://relay.Orangepill.dev
 wss://nostr.app.runonflux.io
 wss://relay.arsip.my.id
+wss://umbrel.local
 wss://nostr.spleenrider.one
 wss://relay.futohq.com
 wss://oxtr.dev
@@ -628,12 +633,10 @@ wss://notr.zaprite.io
 wss://api.semisol.dev
 wss://nostr.data.haus
 wss://relay.nostr3.io
-wss://nostr.globals.fans
-wss://nostr.8e23.net
-wss://nostr.zedebee.cloud
-wss://relay.cryptocculture.com
-wss://nostrue.com
-    wss://relay.nostr.or.jp
+       wss://nostr-relay.app.ikeji.ma
+wss://nostr.actn.io
+wss://nostr.lnnodeinsight.com
+wss://relay.nostr.or.jp
 wss://nostr.rdfriedl.com
 wss://bitcoiner.social
 wss://3einhalb.io
@@ -668,6 +671,7 @@ wss://nostr.nym.life
 wss://member.cash
 wss://nostream.denizenid.com
 wss://rsr.uyky.net:30443
+wss://nproxy.kristapsk.lv
 wss://nostr.fluidtrack.in
 wss://lv01.tater.ninja
 wss://relay.nostrica
