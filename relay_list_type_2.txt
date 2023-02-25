@@ -10,6 +10,7 @@ wss://nostr.thibautrey.fr
 wss://nostr.island.network
 wss://nostr.rocket-tech.net
 wss://nostr.h3z.jp
+wss://nostr.stereosteve.com
 wss://nostr.btcmp.com
 wss://nostr-relay.nonce.academy
 wss://nostr.milou.lol
@@ -18,6 +19,7 @@ wss://no-str.org
 
 wss://nostr.orangepill.dev
 
+wss://relay01.apus.network
 wss://nostr-relay.nokotaro.com
 wss://nostrgraph.net
 wss://relay.nostropolis.xyz
@@ -98,6 +100,7 @@ wss://nostr.notmyhostna.me
 wss://nostr-1.nbo.angani.co
 wss://relay.farscapian.com
 wss://expensive-relay.fiatjaf.com
+wss://relay.nostr.amane.moe
 wss://relay.wellorder.net
 wss://bitcoinmaximalists.online
 wss://nostr.snblago.com
@@ -168,6 +171,7 @@ wss://nostr.robotechy.com
 wss://nostr.vdstruis.com
 wss://nostr.drss.io
 wss://nostr.lnprivate.network
+wss://nostr-eu.coinfundit.com
 wss://relay.nostrview.com
 wss://relay.n057r.club
 wss://nostr.relayer.se
@@ -219,6 +223,7 @@ wss://nostr-relay.gkbrk.com
 wss://nostr.jiashanlu.synology.me
 wss://relay.current.fyi
 wss://jiggytom.ddns.net
+wss://nostr.spaceshell.xyz
 wss://nostr.bingtech.tk
 wss://nostr.theblockreward.com
 wss://relay.valireum.net
@@ -230,12 +235,14 @@ wss://relay.alien.blue
 wss://relay.1bps.io
 wss://nostr-relay.freedomnode.com
 wss://nostr.geekgalaxy.com
+wss://nostrelay.yeghro.site
 wss://nostr.satoshi.fun
 wss://nostr.member.cash
 wss://rsslay.nostr.moe
 wss://nostr.asdf.mx
 wss://relay.valera.co
 wss://nostr01.vida.dev
+wss://jp-relay-nostr.invr.chat
 wss://relay.bitcoiner.social
 wss://nostr-relay.digitalmob.ro
 wss://nostr.zhix.in
@@ -263,6 +270,7 @@ wss://umbrel.local:4848
 wss://nostr-1.afarazit.eu
 wss://rsslay.wss
 wss://relay.nostr.band
+wss://nostr-3.orba.ca
 wss://Nostr.f44.dev
 wss://relay.Dwadziesciajeden.pl
 wss://nostr.nakamotosatoshi.cf
@@ -314,22 +322,28 @@ wss://relay.t5y.ca
 wss://hushvault.ie
 wss://nostr.coinos.io
 wss://nostr-bg01.ciph.rs
-wss://nostrsatva.net
-wss://Nostr.bongbong.com
-wss://nostr.whoop.ph
-wss://nostr.bitmatk.io
-wss://nostr.geekGalaxy.com
-wss://nostr.randomdevelopment.biz
-wss://nostr.com.de
-wss://nostr.koning-degraaf.nl
-wss://nostrrelay.com
-itcoinbay.engineering
+wss://Nostr.ethtozero.fr
+wss://nostr-relay.alekberg.net
+wss://nostr.rewardsbunny.com
+wss://relay.stonez.me
+wss://relay.nostr.distrl.net
+wss://deschooling.us
+wss://relay.nostrzoo.com
+wss://nostr.africa
+wss://zee-relay.fly.dev
+wss://Nostr.mado.io
+wss://relay.stoner
+wss://relay.nostr.scot
+wss://freedom-relay.herokuapp.com
+wss://relay.r3d.red
+wss://nostr.bitcoinbay.engineering
 wss://nostr-verif.slothy.win
 wss://global.relay.red
 wss://nostream.kinchie.snowinning.com
 wss://nostr.mustardnodes.com
 wss://nostr-2.afarazit.eu
 wss://xmr.usenostr.org
+wss://relat.nostrica.com
 wss://nostr.nordlysln.net
 wss://relay.minds.com
 wss://nostr.13x.sh
@@ -337,6 +351,7 @@ wss://nostr.merrcurr.com
 wss://nostr.blockchaincaffe.it
 wss://nostro.cc
 wss://nostr.xpersona.net
+wss://relay.mutinywallet.com
 wss://nostr.holybea.com
 wss://nostr-us.coinfundit.com
 wss://nostr.walletofsatoshi.com
@@ -350,6 +365,7 @@ wss://relay.leesalminen.com
 wss://nostr.build
 wss://nostrical.com
 wss://nostr.overmind.lol
+wss://vxlw4rlg7go34ol43g4gxbvfu4txdzjauquvnbptzwjflezs3vik55id.onion
 wss://nostr-relay.usebitcoin.space
 wss://nostr.0xtr.dev
 wss://nostr.mom
@@ -408,14 +424,17 @@ wss://relay.Orangepill.dev
 wss://nostr.app.runonflux.io
 wss://nostr.spleenrider.one
 wss://relay.futohq.com
+wss://oxtr.dev
 wss://knostr.neutrine.com
 wss://nostr.vol.io
 wss://relay.nostrati.com
 wss://nostr-01.bolt.observer
 wss://relay.nostr.vet
 wss://umbrel-node.dshq.ca:4848
+wss://nostr.demovement.net
 wss://tmp-relay.cesc.trade
 wss://Nostr.oooxxx.ml
+wss://notr.zaprite.io
 wss://api.semisol.dev
 wss://nostr.data.haus
 wss://nostr.globals.fans
@@ -427,6 +446,7 @@ wss://relay.nostr.or.jp
 wss://nostr.rdfriedl.com
 wss://bitcoiner.social
 wss://3einhalb.io
+wss://nostr-sandbox.minds.io
 wss://nostr.shawnyeager.net
 wss://nostr.localhost.re
 wss://nostr1.tunnelsats.com
@@ -434,6 +454,7 @@ wss://nostr.mrbits.it
 wss://nostr.delo.software
 wss://nostr.mado.io
 wss://nostr.mouton.dev
+wss://nostr.freefrom.fi
 wss://nostr.cercatrova.me
 wss://nostr.itssilvestre.com
 wss://nostr-paid.h3z.jp
@@ -442,6 +463,7 @@ wss://nostr.robotesc.ro
 wss://rsslay.nostr.net
 wss://lightningrelay.com
 wss://relay.21spirits.io
+wss://at.nostrwork.at
 wss://brb.io
 wss://nostr.nym.life
 wss://member.cash
@@ -468,6 +490,7 @@ wss://nostrex.fly.dev
 wss://nostr.aozing.com
 wss://bhagos.org
 wss://nostr.sidnlabs.nl
+wss://dev2.hazlitt.fiatjaf.com
 wss://relay.orangepill.dev
 wss://nostr.1sat.org
 wss://relay-1.arsip.my.id
@@ -484,6 +507,7 @@ wss://nostream.nostr.parts
 wss://nostr-au.coinfundit.com
 wss://relay.ryzizub.com
 wss://relay.727whisky.com
+wss://notr.onsats.org
 wss://nostr.gives.africa
 wss://rsslay.fiatjaf.com
 wss://nostr21.com
