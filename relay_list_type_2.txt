@@ -332,6 +332,7 @@ wss://nostr.bingtech.tk
 wss://rsslay.data.haus
 wss://nostr.rajabi.ca
 wss://nostr.theblockreward.com
+wss://relay.alien-sos.gov
 wss://relay.valireum.net
 wss://Nostr.wine
 wss://nostr.fractalized.ovh
@@ -428,6 +429,7 @@ wss://relay.nostrprotocol.net
 wss://relay.honk.pw
 
 wss://relay.minds.io
+wss://nostr.band
 wss://nostr.hushvault.ie:4848
 wss://nostr.bitcoiner.socail
 wss://nostr.nikolaj.online
@@ -620,8 +622,11 @@ wss://nostr-pub.wellorder.dev
 wss://relay.nostr.bg
 
 wss://offchain.pub
-wss://global-relay.Cesc.trade
-sar6id7gkcqd.onion
+.str.cr
+wss://Nostr.drss.io
+wss://nostr.21l.st
+wss://nostr.ownbtc.online
+wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.ncsa.illinois.edu
 wss://no-str.org
 wss://nostr.lukeacl.com
@@ -665,6 +670,7 @@ wss://nostr-01.bolt.observer
 wss://relay.nostr.vet
 wss://globals.fans
 wss://umbrel-node.dshq.ca:4848
+wss://nostr.cruncher.com
 wss://nostr.demovement.net
 wss://tmp-relay.cesc.trade
 wss://Nostr.oooxxx.ml
