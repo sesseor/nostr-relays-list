@@ -112,6 +112,7 @@ wss://nostrich.friendship.tw
 wss://relay.nostromo.social
 wss://edennostr.land
 wss://nostr.roundrockbitcoiners.com
+wss://nostr.wine.com
 wss://relay.nostr.snblago.com
 wss://amine-thinkpad-e14.local:4848
 wss://nostr.ddns.net:8008
@@ -127,6 +128,7 @@ wss://private-nostr.v0l.io
 wss://nostr.drsa.io
 wss://nostr.screaminglife.io
 wss://relay.nostr.bg
+wss://jdqldw6hffnjdymzo5bikc75xuc7kg5zex23yuhczyacqcth5hxw2sid.onion
 wss://free-relay.nostrich.land
 wss://lpkue6jtz3pnp7zok4jwlct4n3mzuffsfrpagiffsuplyaswhdtmpoid.local
 wss://nostr.uselessshit.com
@@ -286,6 +288,7 @@ wss://nostr.jimc.me
 wss://nostr.totient.xyz
 wss://nostr.easify.de
 wss://relay.dev.kronkltd.net
+wss://cheery-paddock-rsakdrtc35c55n6yregn.wnext.app
 wss://relay.jig.works
 wss://nostr-relay.pcdkd.fyi
 wss://nostr.ethtozero.fr
@@ -322,6 +325,7 @@ wss://nostr.adpo.co
 wss://nostr.bitcoin-21.org
 wss://moonbreeze.richardbondi.net
 wss://Nostr.nostrelay.org
+wss://bitcoinmaximalist.online
 wss://relay1.nostrich.cloud
 wss://nostr.uthark.com
 wss://nauka-relay.herokuapp.com
@@ -529,6 +533,7 @@ wss://relat.nostrica.com
 wss://Eden.nostr.land
 wss://nostr.nordlysln.net
 wss://nostr.liberty.fans
+wss://nostr.5ub.net:8008
 wss://relay.zerosequioso.com
 wss://relay.minds.com
 wss://nostr.13x.sh
@@ -615,18 +620,22 @@ wss://nostr.ddns.net
 wss://relay.nostr.vision
 wss://wlvs.space
 wss://nostr.Supremestack.xyz
-wss://nostream-test.up.railway.app
-wss://nostr-relay.ie9.org
-wss://relay-pub.deschooling.us
-wss://nostr-relay.freeberty.net
-wss://nostr.coinsamba.com.br
-                                                                    wss://global-relay.Cesc.trade
+7zsjoijcinyc3b6id.onion
+wss://brb.io.relay
+wss://nostr-verified.wellorder.net
+wss://1.noztr.com
+wss://nostr-pub.wellorder.dev
+wss://relay.nostr.bg
+
+wss://offchain.pub
+wss://global-relay.Cesc.trade
 wss://paid.no.str.cr
 wss://Nostr.drss.io
 wss://nostr.21l.st
 wss://nostr.ownbtc.online
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.ncsa.illinois.edu
+wss://nstrs.fly.dev
 wss://no-str.org
 wss://nostr.lukeacl.com
 wss://nostr-relay.j3s7m4n.com
@@ -709,7 +718,6 @@ wss://pone.welnick.net
 wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
-wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -779,6 +787,8 @@ wss://nostream.nostr.parts
 wss://nostream.madbean.snowinning.com
 wss://nostr-au.coinfundit.com
 wss://nproxy.cc
+wss://nostr.wow
+wss://nostr-rely.digitalmob.ro
 wss://relay.ryzizub.com
 wss://relay.usenostr.org
 wss://relay.727whisky.com
@@ -794,5 +804,5 @@ wss://nostrafrica.pcdkd.fvi
 wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://nostr.nodeofsven.com
-wss://nstrs.fly.dev
-wss://nostr.nymsrelay.com
+wss://nostr.messagepush.io
+wss://umbrelbox.local:4848
