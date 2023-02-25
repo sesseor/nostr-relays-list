@@ -9,15 +9,16 @@ wss://nostr.Oxtr.dev
 wss://student.chadpolytechnic.com
 wss://nostr.thibautrey.fr
 wss://relay1.gems.xyz
+wss://klockenga.social
 wss://nostr.island.network
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.rocket-tech.net
 wss://nostr.h3z.jp
 wss://nostr.stereosteve.com
 wss://nostr.btcmp.com
-wss://nostr-relay.nonce.academy
-wss://nostr.milou.lol
 wss://cloudnull.land
+wss://nostr.milou.lol
+wss://nostr-relay.nonce.academy
 wss://no-str.org
 
 wss://relayer.pleb.social
@@ -51,10 +52,10 @@ wss://relay.nostr24.com
 wss://relay.nostr.blockhenge.com
 wss://nostr.azte.co
 wss://nostr.cheeserobot.org
-wss://nostr.fediverse.jp
-wss://relay.cynsar.foundation
-wss://nostr.namek.link
 wss://pow32.nostr.land
+wss://nostr.fediverse.jp
+wss://nostr.namek.link
+wss://relay.cynsar.foundation
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
 wss://knostr.neutrine.com:8880
 wss://paid.nostrified.org
@@ -197,6 +198,7 @@ wss://nostr.pwnshop.cloud
 wss://Relay.nostrich.de
 wss://nostr.lingoh.dev
 wss://nostr.coollamer.com
+wss://nostr.current.fyo
 wss://nostr.noones.com
 wss://nostring.deno.dev
 wss://lnbits.b1tco1n.org
@@ -279,6 +281,7 @@ wss://relay.boring.surf
 wss://nostr.decentony.com
 wss://nostr.Nikolaj.online
 wss://nostr1.actn.io
+wss://nostr.libertasprimordium.com
 wss://altcoinnect.xyz
 wss://relay.stoner.com
 wss://relay.nosbin.com
@@ -527,6 +530,7 @@ wss://nostream.kinchie.snowinning.com
 wss://out.of.milk
 wss://relay.dnet.run
 wss://nostr.mustardnodes.com
+wss://node.local:4848
 wss://nostr-2.afarazit.eu
 wss://xmr.usenostr.org
 wss://relat.nostrica.com
@@ -616,11 +620,12 @@ wss://nostr-relay.trustbtc.org
 wss://relay.nostr.info
 wss://nostr.h3y6e.com
 wss://nostr.herci.one
-wss://nostr.ddns.net
-wss://relay.nostr.vision
-wss://wlvs.space
-wss://nostr.Supremestack.xyz
-7zsjoijcinyc3b6id.onion
+am-test.up.railway.app
+wss://nostr-relay.ie9.org
+wss://relay-pub.deschooling.us
+wss://nostr-relay.freeberty.net
+wss://nostr.coinsamba.com.br
+wss://7fvtb63nbejaiuacmvllb3qatmkydtjxlxkvi3z7zsjoijcinyc3b6id.onion
 wss://brb.io.relay
 wss://nostr-verified.wellorder.net
 wss://1.noztr.com
@@ -628,6 +633,7 @@ wss://nostr-pub.wellorder.dev
 wss://relay.nostr.bg
 
 wss://offchain.pub
+wss://nostr.hrmb.org
 wss://global-relay.Cesc.trade
 wss://paid.no.str.cr
 wss://Nostr.drss.io
@@ -651,6 +657,7 @@ wss://nostr-pub.semisol.dev
 wss://nostr.gruntwerk.org
 wss://nostr.pobblelabs.org
 wss://nostr.masmux.com
+wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
 wss://nostr.howtobitcoin.shop
 wss://nostr.beta3.dev
 wss://nostream.unift.xyz
