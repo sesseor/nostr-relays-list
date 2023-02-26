@@ -129,6 +129,7 @@ wss://relay.bleskop.com
 wss://relay.kronkltd.net
 wss://relay.nyx.ma
 wss://nostr.barf.bz
+wss://relay.rocks
 wss://mostr.wine
 wss://node01.nostress.cc
 wss://nostr.fly.dev
@@ -201,6 +202,7 @@ wss://d2uvu34fdj035j.cloudfront.net
 wss://nostr.zaprite.io
 wss://nostr.member.cas
 wss://nostril.frendship.tw
+wss://relay.orangepilldev.com
 wss://relay.nosphr.com
 wss://relay.nostr.ch
 wss://nostr.sovbit.com
@@ -357,6 +359,7 @@ wss://relay.current.fyi
 wss://jiggytom.ddns.net
 wss://nostr.spaceshell.xyz
 wss://h3avzcsyhvpi2mtmh5d3yqhz65cwsmbdlud37hk5gbnxi2gkajwoczqd.onion
+wss://spicy-tray-3ghp3voydiwvmfm2ijur.wnext.app
 wss://nostr.bingtech.tk
 wss://rsslay.data.haus
 wss://nostr.rajabi.ca
@@ -526,11 +529,13 @@ wss://Nostr.bongbong.com
 wss://nostr.whoop.ph
 wss://nostr.bitmatk.io
 wss://nostr.geekGalaxy.com
+wss://relay.fiatjaf.com
 wss://nostr.randomdevelopment.biz
 wss://6amyhf3sjvgxe5qzbx4xn52pcnqresdmi7szxurp6umkvz6mthxjdcad.onion
 wss://nostr.com.de
 wss://nostr.koning-degraaf.nl
 wss://nostrrelay.com
+wss://nostr2.rbel.co
 wss://Nostr.ethtozero.fr
 wss://nostr-relay.alekberg.net
 wss://nostr.rewardsbunny.com
@@ -606,10 +611,13 @@ wss://nostr-alpha.gruntwerk.org
 wss://nostr2.namek.link
 wss://Dublin.saoirse.dev
 wss://Puravida.nostr.land
-wss://nr.yay.so
-wss://relay.nostrid.com
-wss://nostr2.acrn.io
-                                                                                         wss://nostr.0ne.day
+.denizenid.com
+wss://nostr.blipme.app
+wss://nostr-Relay.alekberg.net
+wss://nostr.mutinywallet.com
+wss://nostr.ahaspharos.de
+wss://nostr.chaker.net
+wss://nostr.0ne.day
 wss://merrcurr.up.railway.app
 wss://Nostr.einundzwanzig.space
 wss://fiatdenier.com
