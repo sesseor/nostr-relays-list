@@ -59,10 +59,10 @@ wss://relay.nostr24.com
 wss://relay.nostr.blockhenge.com
 wss://nostr.azte.co
 wss://nostr.cheeserobot.org
-wss://pow32.nostr.land
 wss://nostr.fediverse.jp
-wss://nostr.namek.link
 wss://relay.cynsar.foundation
+wss://nostr.namek.link
+wss://pow32.nostr.land
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
 wss://knostr.neutrine.com:8880
 wss://paid.nostrified.org
@@ -399,6 +399,7 @@ wss://eden.nosrt.land
 wss://relay.alien.blue
 wss://relay.1bps.io
 wss://Iris.to
+wss://adult.18plus.social
 wss://nostr-relay.freedomnode.com
 wss://local.umbrel:4848
 wss://rsslay-production.up.railway.app
@@ -609,9 +610,13 @@ wss://nostr.13x.sh
 wss://nostr.merrcurr.com
 wss://nostr.blockchaincaffe.it
 wss://nostr.phenomenon.space
-wss://nostr.xmr.rocks
-wss://nostro.cc
-//fin-nostr.seekdisruption.com
+            wss://nostr.xpersona.net
+wss://nostr-relay.wolfandcrow.tech
+wss://relay.mutinywallet.com
+wss://nostr.holybea.com
+wss://o6ga6lxnax2z7pgkkenifollohkrv55r36mdzdtofi7d5yyif2f4o5yd.onion:5050
+wss://nostr-us.coinfundit.com
+wss://fin-nostr.seekdisruption.com
 wss://nostr.walletofsatoshi.com
 wss://brb..io
 wss://nostr.utxo.lol
