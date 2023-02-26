@@ -13,8 +13,8 @@ wss://klockenga.social
 wss://nostr.island.network
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.rocket-tech.net
-wss://nostr.stereosteve.com
 wss://nostr.h3z.jp
+wss://nostr.stereosteve.com
 wss://nostr.btcmp.com
 wss://v2r.chenxixian.cn
 wss://nostr.dumpit.top
@@ -217,7 +217,6 @@ wss://nostr.sovbit.com
 wss://nostr.pwnshop.cloud
 wss://Relay.nostrich.de
 wss://nostr.lingoh.dev
-wss://nostr.messagepush.io
 wss://nostr.coollamer.com
 wss://nostr.current.fyo
 wss://nostr.noones.com
@@ -234,9 +233,9 @@ wss://no.str.watch
 wss://nostr.topeth.info
 wss://snort.social
 wss://relay.nostr.moe
-wss://novo.r00t.home:8080
-wss://Node01.nostress.CC
 wss://relay.nostr.pro
+wss://Node01.nostress.CC
+wss://novo.r00t.home:8080
 wss://nostr.openchain.fr
 wss://nostrproxy-1.f7z.io
 wss://nostr.itas.li
@@ -264,6 +263,7 @@ wss://nostr.reamde.dev
 wss://nostr.lordkno.ws
 wss://nostr-01.dorafactory.org
 wss://nostr.ch
+wss://umbrel.tail1d35e.ts.net:4848
 wss://Nostr.cercatrova.me
 wss://eospark.com
 wss://nostr.itredneck.com
@@ -572,6 +572,7 @@ wss://relay.stonez.me
 wss://relay.nostr.distrl.net
 wss://deschooling.us
 wss://relay.nostrzoo.com
+wss://nostr.primz.org
 wss://nostr.bitcoiner.social
 
 wss://jarvis.taild68e2.ts.net:4848
@@ -608,9 +609,8 @@ wss://relay.zerosequioso.com
 wss://relay.minds.com
 wss://nostr.13x.sh
 wss://nostr.merrcurr.com
-wss://nostr.blockchaincaffe.it
-wss://nostr.phenomenon.space
-wss://nostr.xmr.rocks
+wss://nostr.nymsrelay.com
+    wss://nostr.xmr.rocks
 wss://nostro.cc
 wss://nostr.xpersona.net
 wss://nostr-relay.wolfandcrow.tech
