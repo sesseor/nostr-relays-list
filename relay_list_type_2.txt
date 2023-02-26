@@ -252,6 +252,7 @@ wss://iris.to
 wss://Nostr.8E23.net
 wss://nostr.volcanoco.in:9000
 wss://nostr-2.zebedee.cloud
+wss://nostr.massimux.com
 wss://relay.austrich.net
 wss://relay.f7z.io
 wss://noster.frennet.xyz
@@ -364,6 +365,7 @@ wss://nauka-relay.herokuapp.com
 wss://nostr-relay.gkbrk.com
 wss://nostr.jiashanlu.synology.me
 wss://nostr.fresheyesinc.com
+wss://nosrt-pub.semisol.dev
 wss://relay.current.fyi
 wss://jiggytom.ddns.net
 wss://nostr.spaceshell.xyz
@@ -608,9 +610,8 @@ wss://nostr-us.coinfundit.com
 wss://fin-nostr.seekdisruption.com
 wss://nostr.walletofsatoshi.com
 wss://brb..io
-wss://nostr.utxo.lol
-wss://pepere.hippogriff-shark.ts.net:4848
-    wss://middling.myddns.me
+          wss://nostr.hugo.md
+wss://middling.myddns.me
 wss://Nostr.milou.lol
 wss://jan-optiplex-5040.local:4848
 wss://nostr.handyjunky.com
@@ -707,6 +708,7 @@ wss://nostr.ownbtc.online
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
+wss://nstrs.fly.dev
 wss://no-str.org
 wss://nostr.lukeacl.com
 wss://nostr-relay.j3s7m4n.com
@@ -797,7 +799,6 @@ wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
 wss://nostr.info
-wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -894,5 +895,5 @@ wss://nostrafrica.pcdkd.fvi
 wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://nostr.nodeofsven.com
-wss://nstrs.fly.dev
-wss://nostr.nymsrelay.com
+wss://nostr.messagepush.io
+wss://umbrelbox.local:4848
