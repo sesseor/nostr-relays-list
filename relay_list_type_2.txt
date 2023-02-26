@@ -16,6 +16,7 @@ wss://nostr.rocket-tech.net
 wss://nostr.stereosteve.com
 wss://nostr.h3z.jp
 wss://nostr.btcmp.com
+wss://v2r.chenxixian.cn
 wss://nostr.dumpit.top
 wss://cloudnull.land
 wss://nostr.milou.lol
@@ -56,10 +57,10 @@ wss://relay.nostr24.com
 wss://relay.nostr.blockhenge.com
 wss://nostr.azte.co
 wss://nostr.cheeserobot.org
-wss://pow32.nostr.land
-wss://nostr.fediverse.jp
-wss://nostr.namek.link
 wss://relay.cynsar.foundation
+wss://pow32.nostr.land
+wss://nostr.namek.link
+wss://nostr.fediverse.jp
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
 wss://knostr.neutrine.com:8880
 wss://paid.nostrified.org
@@ -133,6 +134,7 @@ wss://relay.rocks
 wss://mostr.wine
 wss://node01.nostress.cc
 wss://nostr.fly.dev
+wss://nostr.net.za
 wss://puravida.nostr.land.com
 wss://private-nostr.v0l.io
 wss://nostr.drsa.io
@@ -238,8 +240,8 @@ wss://orangepill.dev
 wss://nostr.shroomslab.net
 wss://spleenrider.herokuapp.com
 wss://rasca.asnubes.art
-wss://relay.oldcity-bitcoiners.info
 wss://md.hugo.nostr
+wss://relay.oldcity-bitcoiners.info
 wss://nostr.0nyx.eu
 wss://relay.humanumest.social
 wss://relay.nostr.net.in
@@ -318,6 +320,7 @@ wss://nostr.ethtozero.fr
 wss://relay.nostr.xyz
 wss://nostr.pcdkd.fyi
 wss://mcja3k7s7godsfe6n5cji5tvh3nbhacbb2kl7j5sisias4s3uls5cjid.onion
+wss://relay.chenxixian.cn
 wss://e.nos.lol
 wss://nostr.einundzwanzig.space
 wss://nostr.lnorb.com
@@ -499,7 +502,9 @@ wss://eden.nostr.land
 wss://nostr.thank.eu
 wss://relay.lacosanostr.com
 wss://nostr.africa.gives
+wss://nostr.aroundrockbitcoiners.com
 wss://nostr.fine
+wss://carnivore-diet-relay.denizenid.com
 wss://spore.ws
 wss://nostr.wine
 wss://relay-jp.nostr.wirednet.jp
@@ -605,13 +610,11 @@ wss://vxlw4rlg7go34ol43g4gxbvfu4txdzjauquvnbptzwjflezs3vik55id.onion
 wss://nostr-relay.usebitcoin.space
 wss://nostr.0xtr.dev
 wss://nostr1.saftup.xyz
-wss://nostr.mom
-wss://nostr.damus.io
-wss://nostr-alpha.gruntwerk.org
-wss://nostr2.namek.link
-wss://Dublin.saoirse.dev
-wss://Puravida.nostr.land
-.denizenid.com
+://nr.yay.so
+wss://relay.nostrid.com
+wss://nostr2.acrn.io
+wss://niqpwkaxsdfw5cnkxgek76qncrvzmfluqhbaehi4hnetywbywykesvid.onion
+wss://relay.denizenid.com
 wss://nostr.blipme.app
 wss://nostr-Relay.alekberg.net
 wss://nostr.mutinywallet.com
@@ -840,6 +843,7 @@ wss://nostr.guru
 wss://Nostr.nodeofsven.com
 wss://nostream.nostr.parts
 wss://nostream.madbean.snowinning.com
+wss://relay.damous.io
 wss://nostr-au.coinfundit.com
 wss://nproxy.cc
 wss://nostr.wow
