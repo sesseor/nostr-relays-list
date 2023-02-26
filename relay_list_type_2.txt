@@ -16,6 +16,7 @@ wss://nostr.rocket-tech.net
 wss://nostr.stereosteve.com
 wss://nostr.h3z.jp
 wss://nostr.btcmp.com
+wss://nostr.dumpit.top
 wss://cloudnull.land
 wss://nostr.milou.lol
 wss://nostr-relay.nonce.academy
@@ -26,6 +27,7 @@ wss://nostr.orangepill.dev
 
 wss://relay01.apus.network
 wss://nostr-relay.nokotaro.com
+wss://ightningrelay.com
 wss://nostrgraph.net
 wss://relay.nostr.hu
 wss://relay.nostr.gt
@@ -227,6 +229,7 @@ wss://nostrproxy-1.f7z.io
 wss://nostr.itas.li
 wss://nostr.jatm.link
 wss://public.nostr.swissrouting.com
+wss://orangepill.dev
 wss://nostr.shroomslab.net
 wss://spleenrider.herokuapp.com
 wss://rasca.asnubes.art
@@ -453,6 +456,7 @@ wss://xmr.usenostr.com
 wss://relay.nostrprotocol.net
 wss://relay.honk.pw
 
+wss://relay.taldra.in
 wss://relay.minds.io
 wss://nostr.band
 wss://nostr.hushvault.ie:4848
@@ -497,6 +501,7 @@ wss://nostr.terminus.money
 wss://quirky-bunch-isubghsvoi26fbbt3n7o.wnext.app
 wss://relay.nostr.lu
 wss://umbrel.merino-bee.ts.net
+wss://r1.hashed.systems
 wss://translate.argosopentech.com
 wss://nostr.v0l.io
 wss://eosla.com
@@ -614,12 +619,7 @@ wss://nostr.hyperlingo.com
 wss://nostr.cvilleblockchain.org
 wss://relay.nostr.social
 wss://nostr.mikedilger.com
-wss://Nostr.mom
-wss://arsip.ddns.net
-wss://nostr.bch.ninja
-wss://redgreenblue.click
-wss://nostr.100p.org
-ss://nostr.relay-wlvs.space
+tr.relay-wlvs.space
 wss://nostr.rdfried.com
 wss://no.contry.xyz
 wss://nostr.bongbong.com
@@ -665,7 +665,6 @@ wss://nostr.21l.st
 wss://nostr.ownbtc.online
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.ncsa.illinois.edu
-wss://nstrs.fly.dev
 wss://no-str.org
 wss://nostr.lukeacl.com
 wss://nostr-relay.j3s7m4n.com
@@ -748,10 +747,12 @@ wss://nostr.sandwich.farm
 
 wss://sound-money-relay.denizenid.com
 wss://nostr.itssilvestre.com
+wss://filter.NOSTR.wine
 wss://pone.welnick.net
 wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
+wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -840,5 +841,5 @@ wss://nostrafrica.pcdkd.fvi
 wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://nostr.nodeofsven.com
-wss://nostr.messagepush.io
-wss://umbrelbox.local:4848
+wss://nstrs.fly.dev
+wss://nostr.nymsrelay.com
