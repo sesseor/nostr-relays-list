@@ -63,6 +63,7 @@ wss://relay.cynsar.foundation
 wss://pow32.nostr.land
 wss://nostr.namek.link
 wss://nostr.fediverse.jp
+wss://nostr.ltbl.io
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
 wss://knostr.neutrine.com:8880
 wss://paid.nostrified.org
@@ -81,6 +82,7 @@ wss://nostr-pub1.southflorida.ninja
 wss://nostr.shmueli.org
 wss://relay.sovereign-stack.org
 wss://Nostr.chaker.net
+wss://4.up.railway.app
 wss://d463rbo7dgbfuxvvxpory2og2etl4gttfzmqcixdq7rpts47lpgolkyd.onion
 wss://nostrverified.com
 wss://lbrygen.xyz
@@ -608,9 +610,9 @@ wss://nostr.liberty.fans
 wss://nostr-test.elastos.io
 wss://nostr.5ub.net:8008
 wss://relay.zerosequioso.com
-wss://relay.minds.com
-wss://nostr.13x.sh
-      wss://nostr.blockchaincaffe.it
+wss://relay.minds.comm
+wss://nostr.nymsrelay.com
+wss://nostr.blockchaincaffe.it
 wss://nostr.phenomenon.space
 wss://nostr.xmr.rocks
 wss://nostro.cc
