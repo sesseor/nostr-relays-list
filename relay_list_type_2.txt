@@ -13,8 +13,8 @@ wss://klockenga.social
 wss://nostr.island.network
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.rocket-tech.net
-wss://nostr.stereosteve.com
 wss://nostr.h3z.jp
+wss://nostr.stereosteve.com
 wss://nostr.btcmp.com
 wss://v2r.chenxixian.cn
 wss://nostr.dumpit.top
@@ -214,7 +214,6 @@ wss://nostr.sovbit.com
 wss://nostr.pwnshop.cloud
 wss://Relay.nostrich.de
 wss://nostr.lingoh.dev
-wss://nostr.messagepush.io
 wss://nostr.coollamer.com
 wss://nostr.current.fyo
 wss://nostr.noones.com
@@ -231,9 +230,9 @@ wss://no.str.watch
 wss://nostr.topeth.info
 wss://snort.social
 wss://relay.nostr.moe
-wss://novo.r00t.home:8080
-wss://Node01.nostress.CC
 wss://relay.nostr.pro
+wss://Node01.nostress.CC
+wss://novo.r00t.home:8080
 wss://nostr.openchain.fr
 wss://nostrproxy-1.f7z.io
 wss://nostr.itas.li
@@ -566,6 +565,7 @@ wss://jarvis.taild68e2.ts.net:4848
 wss://nostr.africa
 wss://zee-relay.fly.dev
 wss://tom-desktop.local:4848
+wss://nwmdev.com
 wss://Nostr.mado.io
 wss://relay.stoner
 wss://relay.nostr.scot
@@ -595,6 +595,7 @@ wss://relay.zerosequioso.com
 wss://relay.minds.com
 wss://nostr.13x.sh
 wss://nostr.merrcurr.com
+wss://nostr.nymsrelay.com
 wss://nostr.blockchaincaffe.it
 wss://nostr.phenomenon.space
 wss://nostro.cc
@@ -609,7 +610,8 @@ wss://nostr.walletofsatoshi.com
 wss://brb..io
 wss://nostr.utxo.lol
 wss://pepere.hippogriff-shark.ts.net:4848
-wss://nostr.hugo.md
+    wss://middling.myddns.me
+wss://Nostr.milou.lol
 wss://jan-optiplex-5040.local:4848
 wss://nostr.handyjunky.com
 wss://relay.koreus.social
@@ -705,7 +707,6 @@ wss://nostr.ownbtc.online
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
-wss://nstrs.fly.dev
 wss://no-str.org
 wss://nostr.lukeacl.com
 wss://nostr-relay.j3s7m4n.com
@@ -796,6 +797,7 @@ wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
 wss://nostr.info
+wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -831,6 +833,7 @@ wss://nostr-2.zebeedee.cloud
 wss://nostr.actin.io
 wss://relay.nostrgraph.net
 wss://nostr.corebreach.com
+wss://relay.roli.social
 wss://paid.spore.ws
 wss://nostrnodeofsven.com
 wss://nostr.swiss-enigma.ch
@@ -891,5 +894,5 @@ wss://nostrafrica.pcdkd.fvi
 wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://nostr.nodeofsven.com
-wss://nostr.messagepush.io
-wss://umbrelbox.local:4848
+wss://nstrs.fly.dev
+wss://nostr.nymsrelay.com
