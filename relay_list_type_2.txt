@@ -13,8 +13,8 @@ wss://klockenga.social
 wss://nostr.island.network
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.rocket-tech.net
-wss://nostr.h3z.jp
 wss://nostr.stereosteve.com
+wss://nostr.h3z.jp
 wss://nostr.btcmp.com
 wss://v2r.chenxixian.cn
 wss://nostr.dumpit.top
@@ -228,6 +228,7 @@ wss://nostr.sovbit.com
 wss://nostr.pwnshop.cloud
 wss://Relay.nostrich.de
 wss://nostr.lingoh.dev
+wss://nostr.messagepush.io
 wss://nostr.coollamer.com
 wss://nostr.current.fyo
 wss://nostr.noones.com
@@ -246,9 +247,9 @@ wss://no.str.watch
 wss://nostr.topeth.info
 wss://snort.social
 wss://relay.nostr.moe
-wss://relay.nostr.pro
-wss://Node01.nostress.CC
 wss://novo.r00t.home:8080
+wss://Node01.nostress.CC
+wss://relay.nostr.pro
 wss://nostr.openchain.fr
 wss://nostrproxy-1.f7z.io
 wss://nostr.itas.li
@@ -413,6 +414,7 @@ wss://nostr.fractalized.ovh
 wss://nostr.600.wtf
 wss://btc.klendazu.com
 wss://nostr.risa.zone
+wss://nostr.red
 wss://nostr.verymad.net
 wss://test.relay.nostrich.day
 wss://nostr.frennet.xyz
@@ -544,6 +546,7 @@ wss://next.nostr.watch
 wss://nostr.sepir.cloud
 wss://relay.ohbe.me
 wss://relay.orange-crush.com
+wss://nostr.jmdtx.com
 wss://atlas.nostr.land
 wss://nostr.portemonero.com
 wss://relay.nostrmoto.xyz
@@ -645,7 +648,6 @@ wss://relay.zerosequioso.com
 wss://relay.minds.com
 wss://nostr.13x.sh
 wss://nostr.merrcurr.com
-wss://nostr.nymsrelay.com
 wss://nostr.blockchaincaffe.it
 wss://nostr.phenomenon.space
 wss://nostr.xmr.rocks
@@ -772,7 +774,6 @@ wss://nostr.ownbtc.online
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
-wss://nstrs.fly.dev
 wss://no-str.org
 wss://nostr.lukeacl.com
 wss://nostr-relay.j3s7m4n.com
@@ -875,6 +876,7 @@ wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
 wss://nostr.info
+wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -925,9 +927,7 @@ wss://nostrex.fly.dev
 wss://nostr-mv.ashiroid.com
 wss://rbr.bio
 wss://nostr.aozing.com
-wss://nostr.community.networks.deavmi.assigned.network
-network
-wss://bhagos.org
+         wss://bhagos.org
 wss://nostr.sidnlabs.nl
 wss://filter.nostre.wine
 wss://dev2.hazilitt.fiatjaf.com
@@ -978,5 +978,5 @@ wss://nostrafrica.pcdkd.fvi
 wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://nostr.nodeofsven.com
-wss://nstrs.fly.dev
-wss://nostr.nymsrelay.com
+wss://nostr.messagepush.io
+wss://umbrelbox.local:4848
