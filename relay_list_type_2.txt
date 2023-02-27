@@ -13,8 +13,8 @@ wss://klockenga.social
 wss://nostr.island.network
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.rocket-tech.net
-wss://nostr.h3z.jp
 wss://nostr.stereosteve.com
+wss://nostr.h3z.jp
 wss://nostr.btcmp.com
 wss://v2r.chenxixian.cn
 wss://nostr.dumpit.top
@@ -28,6 +28,7 @@ wss://nostr.orangepill.dev
 
 wss://relay01.apus.network
 wss://nostr-relay.nokotaro.com
+wss://nostr.mrbit.com
 wss://ightningrelay.com
 wss://nostrgraph.net
 wss://relay.nostr.hu
@@ -60,10 +61,10 @@ wss://milou.lol
 wss://relay.nostr.blockhenge.com
 wss://nostr.azte.co
 wss://nostr.cheeserobot.org
-wss://relay.cynsar.foundation
-wss://pow32.nostr.land
-wss://nostr.namek.link
 wss://nostr.fediverse.jp
+wss://relay.cynsar.foundation
+wss://nostr.namek.link
+wss://pow32.nostr.land
 wss://nostr.ltbl.io
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
 wss://knostr.neutrine.com:8880
@@ -227,6 +228,7 @@ wss://nostr.sovbit.com
 wss://nostr.pwnshop.cloud
 wss://Relay.nostrich.de
 wss://nostr.lingoh.dev
+wss://nostr.messagepush.io
 wss://nostr.coollamer.com
 wss://nostr.current.fyo
 wss://nostr.noones.com
@@ -245,9 +247,9 @@ wss://no.str.watch
 wss://nostr.topeth.info
 wss://snort.social
 wss://relay.nostr.moe
-wss://relay.nostr.pro
-wss://Node01.nostress.CC
 wss://novo.r00t.home:8080
+wss://Node01.nostress.CC
+wss://relay.nostr.pro
 wss://nostr.openchain.fr
 wss://nostrproxy-1.f7z.io
 wss://nostr.itas.li
@@ -275,8 +277,8 @@ wss://noster.frennet.xyz
 wss://nostr.reamde.dev
 wss://nostr.lordkno.ws
 wss://nostr-01.dorafactory.org
-wss://nostr.ch
 wss://umbrel.tail1d35e.ts.net:4848
+wss://nostr.ch
 wss://Nostr.cercatrova.me
 wss://eospark.com
 wss://nostr.itredneck.com
@@ -644,7 +646,6 @@ wss://relay.zerosequioso.com
 wss://relay.minds.com
 wss://nostr.13x.sh
 wss://nostr.merrcurr.com
-wss://nostr.nymsrelay.com
 wss://nostr.blockchaincaffe.it
 wss://nostr.phenomenon.space
 wss://nostr.xmr.rocks
@@ -771,7 +772,6 @@ wss://nostr.ownbtc.online
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
-wss://nstrs.fly.dev
 wss://no-str.org
 wss://nostr.lukeacl.com
 wss://nostr-relay.j3s7m4n.com
@@ -874,6 +874,7 @@ wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
 wss://nostr.info
+wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -924,8 +925,9 @@ wss://nostrex.fly.dev
 wss://nostr-mv.ashiroid.com
 wss://rbr.bio
 wss://nostr.aozing.com
-wss://nostr.community.networks.deavmi.assigned.network
-tre.wine
+                         wss://bhagos.org
+wss://nostr.sidnlabs.nl
+wss://filter.nostre.wine
 wss://dev2.hazilitt.fiatjaf.com
 wss://nostr.minimue81.selfhost.co
 wss://dev2.hazlitt.fiatjaf.com
