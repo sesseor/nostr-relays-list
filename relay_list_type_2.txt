@@ -60,10 +60,10 @@ wss://milou.lol
 wss://relay.nostr.blockhenge.com
 wss://nostr.azte.co
 wss://nostr.cheeserobot.org
-wss://relay.cynsar.foundation
-wss://pow32.nostr.land
-wss://nostr.namek.link
 wss://nostr.fediverse.jp
+wss://relay.cynsar.foundation
+wss://nostr.namek.link
+wss://pow32.nostr.land
 wss://nostr.ltbl.io
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
 wss://knostr.neutrine.com:8880
@@ -282,6 +282,7 @@ wss://nostr.itredneck.com
 wss://Nostr.gromeul.eu
 wss://nostr.zerofeerouting.com
 wss://ubuntu.local:4848
+wss://colin-hp-elitedesk-800-g1-dm.local:4848
 wss://home.manyjourneys.com:4848
 wss://nproxy.zerologin.co
 wss://nostr.vulpem.com
@@ -319,6 +320,7 @@ wss://nostro.online
 wss://deconomy-netser.ddns.net:2121
 wss://nostr.leximaster.com
 wss://zi3ru4sltc2edwyobrjxswr672popzifucthcyigjjei6sovjwxv2aqd.onion
+wss://relay.mostr.pub
 wss://relay.boring.surf
 wss://nostr.decentony.com
 wss://nostr.Nikolaj.online
@@ -352,6 +354,7 @@ wss://Nostr.lu.ke
 wss://nostr.bitcoiner.social
 wss://nostr.thesimplekid.com
 wss://nostr.lu.ke
+wss://Nostrica.com
 wss://nostr.lorentz.is
 wss://relay.sendstr.com
 wss://944e-54-211-137-55.ngrok.io
@@ -651,6 +654,7 @@ wss://nostr.walletofsatoshi.com
 wss://brb..io
 wss://swc6ieyosnb6vmiz3mxg3wbfbgifmw6atsssjonnwljhaon3zs5pkdad.onion
 wss://nostr.vOl.io
+wss://radixrat.com
 wss://nostr.utxo.lol
 wss://pepere.hippogriff-shark.ts.net:4848
 wss://nostr.hugo.md
@@ -922,12 +926,9 @@ wss://nas.huxim.top:9292
 wss://relay-1.arsip.my.id
 wss://relay.nostrdocs.com
 wss://nostr.bitcoin-basel.ch
-wss://nostr.nofdeofsven.com
-wss://nostr.l00p.org
-wss://relay.zeh.app
-wss://nostr.exposed
-wss://relay.Valera.co
-ches.org
+     wss://n.xmr.se
+wss://Nostr.Itssilvestre.com
+wss://relay.nostriches.org
 wss://nostr.tools.global.id
 wss://nostr.guru
 wss://Nostr.nodeofsven.com
@@ -957,5 +958,5 @@ wss://nostrafrica.pcdkd.fvi
 wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://nostr.nodeofsven.com
-wss://nstrs.fly.dev
-wss://nostr.nymsrelay.com
+wss://nostr.messagepush.io
+wss://umbrelbox.local:4848
