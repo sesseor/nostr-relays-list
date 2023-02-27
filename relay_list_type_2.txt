@@ -248,6 +248,7 @@ wss://no.str.watch
 wss://nostr.topeth.info
 wss://snort.social
 wss://relay.nostr.moe
+wss://7nj3e5opqjcpyaoxi56c5yvgzc3b3dmubbk4c6nrdq5lnzn64g5jwuad.onion
 wss://relay.nostr.pro
 wss://Node01.nostress.CC
 wss://novo.r00t.home:8080
@@ -501,6 +502,7 @@ wss://relay.nostr.band
 wss://Merrcurr.up.railway.app
 wss://nostr-3.orba.ca
 wss://Nostr.f44.dev
+wss://nostream.delta9.tech
 wss://relay.Dwadziesciajeden.pl
 wss://nostr.nakamotosatoshi.cf
 wss://nostr.laevateinn.org
@@ -766,6 +768,7 @@ wss://7fvtb63nbejaiuacmvllb3qatmkydtjxlxkvi3z7zsjoijcinyc3b6id.onion
 wss://brb.io.relay
 wss://nostr.forecastdao.com
 wss://nostr.delta9.tech
+wss://relay.valero.co
 wss://nostr-verified.wellorder.net
 wss://1.noztr.com
 wss://nostr-pub.wellorder.dev
@@ -918,12 +921,9 @@ wss://nostr-dev.wellorder.net
 wss://nostr.jacany.com
 wss://relay.punkhub.me
 wss://nostr.radixrar.com
-wss://nostr.delivery
-wss://nostr-2.zebeedee.cloud
-wss://nostr.actin.io
-wss://relay.nostrgraph.net
-wss://nostr.corebreach.com
-
+       wss://relay.roli.social
+wss://paid.spore.ws
+wss://nostrnodeofsven.com
 wss://nostr.swiss-enigma.ch
 
 wss://nostr-relay.texashedge.xyz
