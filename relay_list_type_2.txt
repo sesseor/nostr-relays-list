@@ -13,8 +13,8 @@ wss://klockenga.social
 wss://nostr.island.network
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.rocket-tech.net
-wss://nostr.stereosteve.com
 wss://nostr.h3z.jp
+wss://nostr.stereosteve.com
 wss://nostr.btcmp.com
 wss://v2r.chenxixian.cn
 wss://nostr.dumpit.top
@@ -61,10 +61,10 @@ wss://milou.lol
 wss://relay.nostr.blockhenge.com
 wss://nostr.azte.co
 wss://nostr.cheeserobot.org
-wss://nostr.fediverse.jp
-wss://relay.cynsar.foundation
-wss://nostr.namek.link
 wss://pow32.nostr.land
+wss://nostr.fediverse.jp
+wss://nostr.namek.link
+wss://relay.cynsar.foundation
 wss://nostr.ltbl.io
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
 wss://knostr.neutrine.com:8880
@@ -101,6 +101,7 @@ wss://nostr.twork.ai
 wss://relay.current.fy
 wss://nostr.orba.ca
 wss://nostr.trustbtc.org
+wss://nostr.astrox.app
 wss://relay.nostr.au
 wss://relay.nostrified.org
 wss://nostr.onsats.org
@@ -228,7 +229,6 @@ wss://nostr.sovbit.com
 wss://nostr.pwnshop.cloud
 wss://Relay.nostrich.de
 wss://nostr.lingoh.dev
-wss://nostr.messagepush.io
 wss://nostr.coollamer.com
 wss://nostr.current.fyo
 wss://nostr.mjex.me
@@ -248,9 +248,9 @@ wss://no.str.watch
 wss://nostr.topeth.info
 wss://snort.social
 wss://relay.nostr.moe
-wss://novo.r00t.home:8080
-wss://Node01.nostress.CC
 wss://relay.nostr.pro
+wss://Node01.nostress.CC
+wss://novo.r00t.home:8080
 wss://nostr.openchain.fr
 wss://nostrproxy-1.f7z.io
 wss://nostr.itas.li
@@ -651,6 +651,7 @@ wss://relay.zerosequioso.com
 wss://relay.minds.com
 wss://nostr.13x.sh
 wss://nostr.merrcurr.com
+wss://nostr.nymsrelay.com
 wss://nostr.blockchaincaffe.it
 wss://nostr.phenomenon.space
 wss://nostr.xmr.rocks
@@ -779,6 +780,7 @@ wss://nostr.ownbtc.online
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
+wss://nstrs.fly.dev
 wss://no-str.org
 wss://nostr.lukeacl.com
 wss://nostr-relay.j3s7m4n.com
@@ -840,6 +842,7 @@ wss://Nostr.oooxxx.ml
 wss://relay.phone.home
 wss://notr.zaprite.io
 wss://wiz.biz
+wss://umha4zl6xk62a4dous6e7tq4qlmt462hlzs2su33en6qrvtvs3hkjgid.onion
 wss://api.semisol.dev
 wss://nostr.data.haus
 wss://relay.nostr3.io
@@ -881,7 +884,6 @@ wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
 wss://nostr.info
-wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -922,11 +924,11 @@ wss://relay.nostrgraph.net
 wss://nostr.corebreach.com
 wss://relay.roli.social
 wss://paid.spore.ws
-wss://nostrnodeofsven.com
-wss://nostr.swiss-enigma.ch
-
-wss://nostr-relay.texashedge.xyz
-                           wss://rbr.bio
+    wss://nostr-relay.schnitzel.world
+wss://nostrja-kari.heguro.com
+wss://nostrex.fly.dev
+wss://nostr-mv.ashiroid.com
+wss://rbr.bio
 wss://nostr.aozing.com
 wss://nostr.community.networks.deavmi.assigned.network
 wss://bhagos.org
