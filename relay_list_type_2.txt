@@ -60,10 +60,10 @@ wss://milou.lol
 wss://relay.nostr.blockhenge.com
 wss://nostr.azte.co
 wss://nostr.cheeserobot.org
-wss://nostr.fediverse.jp
-wss://relay.cynsar.foundation
-wss://nostr.namek.link
 wss://pow32.nostr.land
+wss://nostr.fediverse.jp
+wss://nostr.namek.link
+wss://relay.cynsar.foundation
 wss://nostr.ltbl.io
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
 wss://knostr.neutrine.com:8880
@@ -669,6 +669,7 @@ wss://nostr.volcanoco.in:3000
 wss://nostr-relay.wlvs.space
 wss://relay.leesalminen.com
 wss://nostr.build
+wss://mostr.pub
 wss://nostrical.com
 wss://nostr.overmind.lol
 wss://vxlw4rlg7go34ol43g4gxbvfu4txdzjauquvnbptzwjflezs3vik55id.onion
@@ -923,7 +924,14 @@ wss://dev2.hazilitt.fiatjaf.com
 wss://nostr.minimue81.selfhost.co
 wss://dev2.hazlitt.fiatjaf.com
 wss://relay.orangepill.dev
-                                                          wss://nostr.nofdeofsven.com
+.org
+wss://n.wingu.se
+wss://relay.nostr.wf
+wss://nas.huxim.top:9292
+wss://relay-1.arsip.my.id
+wss://relay.nostrdocs.com
+wss://nostr.bitcoin-basel.ch
+wss://nostr.nofdeofsven.com
 wss://nostr.l00p.org
 wss://relay.zeh.app
 wss://nostr.exposed
@@ -960,5 +968,5 @@ wss://nostrafrica.pcdkd.fvi
 wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://nostr.nodeofsven.com
-wss://nostr.messagepush.io
-wss://umbrelbox.local:4848
+wss://nstrs.fly.dev
+wss://nostr.nymsrelay.com
