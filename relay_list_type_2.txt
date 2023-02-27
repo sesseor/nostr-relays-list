@@ -13,8 +13,8 @@ wss://klockenga.social
 wss://nostr.island.network
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.rocket-tech.net
-wss://nostr.stereosteve.com
 wss://nostr.h3z.jp
+wss://nostr.stereosteve.com
 wss://nostr.btcmp.com
 wss://v2r.chenxixian.cn
 wss://nostr.dumpit.top
@@ -230,7 +230,6 @@ wss://nostr.sovbit.com
 wss://nostr.pwnshop.cloud
 wss://Relay.nostrich.de
 wss://nostr.lingoh.dev
-wss://nostr.messagepush.io
 wss://nostr.coollamer.com
 wss://nostr.current.fyo
 wss://nostr.mjex.me
@@ -251,9 +250,9 @@ wss://nostr.topeth.info
 wss://snort.social
 wss://relay.nostr.moe
 wss://7nj3e5opqjcpyaoxi56c5yvgzc3b3dmubbk4c6nrdq5lnzn64g5jwuad.onion
-wss://novo.r00t.home:8080
-wss://Node01.nostress.CC
 wss://relay.nostr.pro
+wss://Node01.nostress.CC
+wss://novo.r00t.home:8080
 wss://nostr.openchain.fr
 wss://nostrproxy-1.f7z.io
 wss://nostr.itas.li
@@ -402,6 +401,7 @@ wss://nostr.uthark.com
 wss://nauka-relay.herokuapp.com
 wss://nostr-relay.gkbrk.com
 wss://nostr.jiashanlu.synology.me
+wss://nostr.bongbonng.com
 wss://nostr.fresheyesinc.com
 wss://nosrt-pub.semisol.dev
 wss://relay.current.fyi
@@ -485,6 +485,7 @@ wss://nostr.chainofimmortals.net
 wss://jax1028.ndscal.com:80
 wss://Nostr.relayer.se
 wss://nostr.watch
+wss://wcbli2ttxxqmx4oy3p6zbzrqbx47uyjsiv5iyyb2elvmpr2c2uiauqad.onion:5051
 wss://relay.nor.st
 wss://tail86021.ts.net:4848
 wss://zur.nostr.sx
@@ -659,6 +660,7 @@ wss://relay.zerosequioso.com
 wss://relay.minds.com
 wss://nostr.13x.sh
 wss://nostr.merrcurr.com
+wss://nostr.nymsrelay.com
 wss://nostr.blockchaincaffe.it
 wss://nostr.phenomenon.space
 wss://nostr.xmr.rocks
@@ -696,6 +698,7 @@ wss://nostr-relay.usebitcoin.space
 wss://nostr.0xtr.dev
 wss://nostr1.saftup.xyz
 wss://nostr.how
+wss://-pub.wellorder.net
 wss://nostr.mom
 wss://nostr.damus.io
 wss://nostr-alpha.gruntwerk.org
@@ -788,6 +791,7 @@ wss://nostr.ownbtc.online
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
+wss://nstrs.fly.dev
 wss://no-str.org
 wss://nostr.lukeacl.com
 wss://nostr-relay.j3s7m4n.com
@@ -891,7 +895,6 @@ wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
 wss://nostr.info
-wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -917,11 +920,7 @@ wss://relay.nostrica
 wss://nostr-pub.semisol.dev
 wss://homeserver.drake-carp.ts.net:4848
 wss://soullands.com
-wss://3d515c5277e9.ngrok.io
-wss://relay.bitid.nz
-wss://nostr.plebchain.org
-wss://puravida.nostr.land
-wss://nostr-dev.wellorder.net
+wellorder.net
 wss://nostr.jacany.com
 wss://relay.punkhub.me
 wss://nostr.radixrar.com
