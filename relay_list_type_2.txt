@@ -61,10 +61,10 @@ wss://milou.lol
 wss://relay.nostr.blockhenge.com
 wss://nostr.azte.co
 wss://nostr.cheeserobot.org
-wss://pow32.nostr.land
-wss://nostr.fediverse.jp
-wss://nostr.namek.link
 wss://relay.cynsar.foundation
+wss://pow32.nostr.land
+wss://nostr.namek.link
+wss://nostr.fediverse.jp
 wss://nostr.ltbl.io
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
 wss://knostr.neutrine.com:8880
@@ -281,6 +281,7 @@ wss://nostr-01.dorafactory.org
 wss://umbrel.tail1d35e.ts.net:4848
 wss://nostr.ch
 wss://Nostr.cercatrova.me
+wss://lv3djqdyncc3gvjblf55hmbvyfnew3n57opsy4gpgkl25saupmvafeyd.onion
 wss://eospark.com
 wss://nostr.itredneck.com
 wss://Nostr.gromeul.eu
@@ -922,9 +923,11 @@ wss://nostr-2.zebeedee.cloud
 wss://nostr.actin.io
 wss://relay.nostrgraph.net
 wss://nostr.corebreach.com
-wss://relay.roli.social
-wss://paid.spore.ws
-    wss://nostr-relay.schnitzel.world
+
+wss://nostr.swiss-enigma.ch
+
+wss://nostr-relay.texashedge.xyz
+wss://nostr-relay.schnitzel.world
 wss://nostrja-kari.heguro.com
 wss://nostrex.fly.dev
 wss://nostr-mv.ashiroid.com
@@ -982,5 +985,5 @@ wss://nostrafrica.pcdkd.fvi
 wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://nostr.nodeofsven.com
-wss://nstrs.fly.dev
-wss://nostr.nymsrelay.com
+wss://nostr.messagepush.io
+wss://umbrelbox.local:4848
