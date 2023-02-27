@@ -921,7 +921,11 @@ wss://3d515c5277e9.ngrok.io
 wss://relay.bitid.nz
 wss://nostr.plebchain.org
 wss://puravida.nostr.land
-://nostr.delivery
+wss://nostr-dev.wellorder.net
+wss://nostr.jacany.com
+wss://relay.punkhub.me
+wss://nostr.radixrar.com
+wss://nostr.delivery
 wss://nostr-2.zebeedee.cloud
 wss://nostr.actin.io
 wss://relay.nostrgraph.net
@@ -990,5 +994,5 @@ wss://nostrafrica.pcdkd.fvi
 wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://nostr.nodeofsven.com
-wss://nostr.messagepush.io
-wss://umbrelbox.local:4848
+wss://nstrs.fly.dev
+wss://nostr.nymsrelay.com
