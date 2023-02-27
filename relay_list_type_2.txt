@@ -61,10 +61,10 @@ wss://milou.lol
 wss://relay.nostr.blockhenge.com
 wss://nostr.azte.co
 wss://nostr.cheeserobot.org
-wss://pow32.nostr.land
 wss://nostr.fediverse.jp
-wss://nostr.namek.link
 wss://relay.cynsar.foundation
+wss://nostr.namek.link
+wss://pow32.nostr.land
 wss://nostr.ltbl.io
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
 wss://knostr.neutrine.com:8880
@@ -231,6 +231,7 @@ wss://nostr.lingoh.dev
 wss://nostr.messagepush.io
 wss://nostr.coollamer.com
 wss://nostr.current.fyo
+wss://nostr.mjex.me
 wss://nostr.noones.com
 wss://nostring.deno.dev
 wss://lnbits.b1tco1n.org
@@ -339,6 +340,7 @@ wss://ch1.duno.com
 wss://nostr.jimc.me
 wss://nostr.totient.xyz
 wss://nostr.easify.de
+wss://relay.nostr.io
 wss://relay.dev.kronkltd.net
 wss://nostr.relay.limo
 wss://cheery-paddock-rsakdrtc35c55n6yregn.wnext.app
@@ -357,6 +359,7 @@ wss://nostr.lnorb.com
 wss://Nostr.lu.ke
 wss://nostr.bitcoiner.social
 wss://nostr.thesimplekid.com
+wss://nostream-production-5895.up.railway.app
 wss://nostr.lu.ke
 wss://Nostrica.com
 wss://nostr.lorentz.is
@@ -923,11 +926,9 @@ wss://nostrnodeofsven.com
 wss://nostr.swiss-enigma.ch
 
 wss://nostr-relay.texashedge.xyz
-wss://nostr-relay.schnitzel.world
-wss://nostrja-kari.heguro.com
-wss://nostrex.fly.dev
-wss://nostr-mv.ashiroid.com
-     wss://nostr.community.networks.deavmi.assigned.network
+                           wss://rbr.bio
+wss://nostr.aozing.com
+wss://nostr.community.networks.deavmi.assigned.network
 wss://bhagos.org
 wss://nostr.sidnlabs.nl
 wss://filter.nostre.wine
