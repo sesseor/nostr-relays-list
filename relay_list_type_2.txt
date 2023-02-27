@@ -924,7 +924,7 @@ wss://dev2.hazilitt.fiatjaf.com
 wss://nostr.minimue81.selfhost.co
 wss://dev2.hazlitt.fiatjaf.com
 wss://relay.orangepill.dev
-.org
+wss://nostr.1sat.org
 wss://n.wingu.se
 wss://relay.nostr.wf
 wss://nas.huxim.top:9292
