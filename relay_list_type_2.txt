@@ -13,8 +13,8 @@ wss://klockenga.social
 wss://nostr.island.network
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.rocket-tech.net
-wss://nostr.stereosteve.com
 wss://nostr.h3z.jp
+wss://nostr.stereosteve.com
 wss://nostr.btcmp.com
 wss://v2r.chenxixian.cn
 wss://nostr.dumpit.top
@@ -220,6 +220,7 @@ wss://wagvwfrdrikrqzp7h3b5lwl6btyuttu7mqpeji35ljzq36ovzgjhsfqd.onion
 wss://nostr.cro.social
 wss://nostr.rocketstyle.com.au
 wss://nostr.anchel.nl
+wss://CloudNull.land
 wss://nostr.buythisdip.com
 wss://nostr.lol
 wss://nostr-relay.thefockinfury.wtf
@@ -240,7 +241,6 @@ wss://nostr.sactiontwo.org
 wss://nostr.pwnshop.cloud
 wss://Relay.nostrich.de
 wss://nostr.lingoh.dev
-wss://nostr.messagepush.io
 wss://nostr.coollamer.com
 wss://nostr.current.fyo
 wss://nostr.mjex.me
@@ -263,9 +263,9 @@ wss://nostr.topeth.info
 wss://snort.social
 wss://relay.nostr.moe
 wss://7nj3e5opqjcpyaoxi56c5yvgzc3b3dmubbk4c6nrdq5lnzn64g5jwuad.onion
-wss://novo.r00t.home:8080
-wss://Node01.nostress.CC
 wss://relay.nostr.pro
+wss://Node01.nostress.CC
+wss://novo.r00t.home:8080
 wss://nostr.openchain.fr
 wss://nostrproxy-1.f7z.io
 wss://nostr.itas.li
@@ -698,7 +698,9 @@ wss://relay.minds.com
 wss://nostr.13x.sh
 wss://nostr.malin.onl
 wss://nostr.merrcurr.com
+wss://nostr.nymsrelay.com
 wss://nostr.blockchaincaffe.it
+wss://nerostr.xmr.rocks
 wss://nostr.phenomenon.space
 wss://nostr.xmr.rocks
 wss://nostro.cc
@@ -834,6 +836,7 @@ wss://nostr.ownbtc.online
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
+wss://nstrs.fly.dev
 wss://no-str.org
 wss://nostr.lukeacl.com
 wss://nostr-relay.j3s7m4n.com
@@ -903,9 +906,18 @@ wss://relay.nostr3.io
 wss://nostr.globals.fans
 wss://nostr.8e23.net
 wss://nostr.zedebee.cloud
-wss://nostr.verif-slothy.win
-wss://nostr.zebeedee.cloud
-                               wss://3einhalb.io
+lay.cryptocculture.com
+wss://nostrue.com
+wss://nostr-relay.app.ikeji.ma
+wss://nostr.actn.io
+wss://nostr.milou.com
+wss://nostr.lnnodeinsight.com
+wss://nostr.rocks
+
+wss://relay.nostr.or.jp
+wss://nostr.rdfriedl.com
+wss://bitcoiner.social
+wss://3einhalb.io
 wss://nostr-sandbox.minds.io
 wss://nostr.shawnyeager.net
 wss://nostr.localhost.re
@@ -1033,6 +1045,7 @@ wss://Nostr.developer.li
 wss://nostrafrica.pcdkd.fvi
 wss://Nostr.actn.io
 wss://nostr.freedom.fi
+wss://realy.damus.io
 wss://nostr.nodeofsven.com
 wss://nstrs.fly.dev
 wss://nostr.nymsrelay.com
