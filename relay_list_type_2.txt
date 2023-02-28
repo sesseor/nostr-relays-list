@@ -595,6 +595,7 @@ wss://relay.nostrmoto.xyz
 wss://nostr.maxmus.com
 wss://relay.nostr.com.au
 wss://relai.nostrati.com
+wss://lpxyewdhgf4p26yjxl65e4in45q5qrtvyfn5bxgekl5gbytgdjjtd6yd.onion
 wss://relay.snort.wss
 wss://relay.zhix.in
 wss://relay.thes.ai
@@ -725,6 +726,7 @@ wss://jan-optiplex-5040.local:4848
 wss://nostr.handyjunky.com
 wss://relay.koreus.social
 wss://nostr.volcanoco.in:3000
+wss://cashu.me
 wss://nostr-relay.wlvs.space
 wss://relay.leesalminen.com
 wss://nostr.build
@@ -902,11 +904,9 @@ wss://wiz.biz
 wss://umha4zl6xk62a4dous6e7tq4qlmt462hlzs2su33en6qrvtvs3hkjgid.onion
 wss://api.semisol.dev
 wss://nostr.data.haus
-wss://relay.nostr3.io
-wss://nostr.globals.fans
-wss://nostr.8e23.net
-wss://nostr.zedebee.cloud
-lay.cryptocculture.com
+          wss://nostr.verif-slothy.win
+wss://nostr.zebeedee.cloud
+wss://relay.cryptocculture.com
 wss://nostrue.com
 wss://nostr-relay.app.ikeji.ma
 wss://nostr.actn.io
@@ -940,7 +940,6 @@ wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
 wss://nostr.info
-wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -1047,5 +1046,5 @@ wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://realy.damus.io
 wss://nostr.nodeofsven.com
-wss://nstrs.fly.dev
-wss://nostr.nymsrelay.com
+wss://nostr.messagepush.io
+wss://umbrelbox.local:4848
