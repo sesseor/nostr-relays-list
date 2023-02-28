@@ -67,13 +67,13 @@ wss://milou.lol
 wss://relay.nostr.blockhenge.com
 wss://nostr.azte.co
 wss://nostr.cheeserobot.org
+wss://pow32.nostr.land
 wss://nostr.fediverse.jp
-wss://relay.cynsar.foundation
 wss://nostr.namek.link
 wss://relay.nort.social
 wss://nostr.ltbl.io
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
-wss://pow32.nostr.land
+wss://relay.cynsar.foundation
 wss://knostr.neutrine.com:8880
 wss://paid.nostrified.org
 wss://relay.grunch.dev
@@ -173,6 +173,7 @@ wss://jdqldw6hffnjdymzo5bikc75xuc7kg5zex23yuhczyacqcth5hxw2sid.onion
 wss://free-relay.nostrich.land
 wss://lpkue6jtz3pnp7zok4jwlct4n3mzuffsfrpagiffsuplyaswhdtmpoid.local
 wss://nostr.uselessshit.com
+wss://eelay.current.fyi
 wss://arnostr.permadao.io
 wss://nostr.developer.li
 wss://nostr.kollider.xyz
@@ -580,6 +581,7 @@ wss://nostr.directory
 wss://nostr.1729.cloud
 wss://nostr.bybieyang.com
 wss://nostril.cam
+wss://relay.strfry.net
 wss://nodestr.fmt.wiz.biz
 wss://xmr.usenostr.com
 wss://relay.nostrprotocol.net
@@ -894,9 +896,9 @@ wss://nostr.masmux.com
 wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
 wss://nostr.howtobitcoin.shop
 wss://universe.nostrich.land
-wss://nostrtokyo.vpx.moe
-wss://nostr.beta3.dev
-geranch.com
+wss://nostream.frank.snowinning.com
+wss://nostream.unift.xyz
+wss://relay.moonridgeranch.com
 wss://nostr.eden.land
 wss://nostr-2.orba.ca
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
