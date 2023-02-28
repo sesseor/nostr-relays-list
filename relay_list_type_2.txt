@@ -317,6 +317,7 @@ wss://nostr.itredneck.com
 wss://Nostr.gromeul.eu
 wss://nostr.zerofeerouting.com
 wss://ubuntu.local:4848
+wss://nostr.rbel.co
 wss://colin-hp-elitedesk-800-g1-dm.local:4848
 wss://Nostr.einundzwazig.space
 wss://home.manyjourneys.com:4848
@@ -469,6 +470,7 @@ wss://nostr.sovbit.host
 wss://eden.nosrt.land
 wss://relay.alien.blue
 wss://relay.1bps.io
+wss://nost.vip
 wss://Iris.to
 wss://adult.18plus.social
 wss://nostr-relay.freedomnode.com
@@ -584,6 +586,7 @@ wss://relay.nostrprotocol.net
 wss://relay.honk.pw
 
 wss://relay.taldra.in
+wss://nostream.sh4.red
 wss://relay.minds.io
 wss://nostr.band
 wss://nostr.hushvault.ie:4848
@@ -852,6 +855,7 @@ wss://nostr-relay.freeberty.net
 wss://nostr.coinsamba.com.br
 wss://2b2bd5zc6lxzc4s3ufjgaw5zibexghmerwuh3ikqcwmvfjpzw5r5m6id.onion
 wss://7fvtb63nbejaiuacmvllb3qatmkydtjxlxkvi3z7zsjoijcinyc3b6id.onion
+wss://fast.bhagos.org
 wss://brb.io.relay
 wss://nostr.forecastdao.com
 wss://nostr.delta9.tech
@@ -892,9 +896,7 @@ wss://nostr.howtobitcoin.shop
 wss://universe.nostrich.land
 wss://nostrtokyo.vpx.moe
 wss://nostr.beta3.dev
-wss://nostream.frank.snowinning.com
-wss://nostream.unift.xyz
-                   wss://relay.moonridgeranch.com
+geranch.com
 wss://nostr.eden.land
 wss://nostr-2.orba.ca
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
@@ -981,6 +983,7 @@ wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
 wss://nostr.info
+wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -1090,5 +1093,5 @@ wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://realy.damus.io
 wss://nostr.nodeofsven.com
-wss://nostr.messagepush.io
-wss://umbrelbox.local:4848
+wss://nstrs.fly.dev
+wss://nostr.nymsrelay.com
