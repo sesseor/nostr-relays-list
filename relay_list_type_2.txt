@@ -176,6 +176,7 @@ wss://lpkue6jtz3pnp7zok4jwlct4n3mzuffsfrpagiffsuplyaswhdtmpoid.local
 wss://nostr.uselessshit.com
 wss://eelay.current.fyi
 wss://arnostr.permadao.io
+wss://nostr-relay.Inmarkets.com
 wss://nostr.developer.li
 wss://nostr.kollider.xyz
 wss://mule.platanito.org
@@ -220,6 +221,7 @@ wss://nostr.arguflow.gg
 wss://nostr.zebede.cloud
 wss://nostr.ownscale.org
 wss://nostr.unknown.place
+wss://nostr.test.aesyc.io
 wss://mutinywallet.com
 wss://nostr.uselessshit.co
 wss://nostr.dras.io
@@ -314,6 +316,7 @@ wss://lv3djqdyncc3gvjblf55hmbvyfnew3n57opsy4gpgkl25saupmvafeyd.onion
 wss://eospark.com
 wss://Nostr.cercatrova.me
 wss://knoywo3kdauuampycit7nsdu4ywfklnqbnwoap6isqvxj777th2amrqd.onion
+wss://5dzvuefllevkhk7miqynaviguedxfnofrayu2xwfwtlkdg4radjdlyqd.onion
 wss://nostr.itredneck.com
 wss://Nostr.gromeul.eu
 wss://nostr.zerofeerouting.com
@@ -407,6 +410,7 @@ wss://relay.sendstr.com
 wss://944e-54-211-137-55.ngrok.io
 wss://nostr.web3infra.xyz
 wss://filter.nostr.wine
+wss://www.nostrweb.xyz
 wss://nostr-relay.bitcoin.ninja
 wss://nostr.nom
 wss://nostr.easydns.ca
@@ -547,6 +551,7 @@ wss://relay.damus.io
 wss://umbrel-nuc.local:4848
 wss://relay.h3z.jp
 wss://nostr.worldkey.io
+wss://rsslay.ch3n2k.com
 wss://blg.nostr.sx
 wss://nostr.lightning.contact
 wss://nostr.shadownode.org
@@ -891,13 +896,9 @@ wss://nostr.yael.at
 wss://relay.nostrology.org
 wss://Lbrygen.xyz
 wss://satsjar.local:4848
-wss://hunter1998.com
-wss://nostr-pub.semisol.dev
-
-wss://nostr.gruntwerk.org
-wss://nostr.pobblelabs.org
-wss://nostr.masmux.com
-                                                       wss://universe.nostrich.land
+uu3tii3itcyyid.onion
+wss://nostr.howtobitcoin.shop
+wss://universe.nostrich.land
 wss://nostrtokyo.vpx.moe
 wss://nostr.beta3.dev
 wss://nostream.frank.snowinning.com
@@ -1026,6 +1027,7 @@ wss://relay.punkhub.me
 wss://nostr.radixrar.com
 wss://nostr.delivery
 wss://nostr-2.zebeedee.cloud
+wss://nostr.walletofsatishi.com
 wss://nostr.actin.io
 wss://relay.nostrgraph.net
 wss://nostr.corebreach.com
