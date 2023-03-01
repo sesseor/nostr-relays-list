@@ -518,6 +518,7 @@ wss://relay.sdbtc.org
 wss://lzybsdznklr56a5qnvj6qy45xx7qeh73ckv6yrww5ehxofinqn7kydqd.onion
 wss://nost.ratchat.nl
 wss://nostr.oooxxx.ml
+wss://nostr.espia.ca
 wss://h3avzcsyhvpi2mtmh5d3yqhz65cwsmbdlud37hk5gbnxi2gkajwoczqd.local
 wss://nostr01.opencult.com
 wss://Nostrical.com
@@ -760,6 +761,7 @@ wss://nostr.handyjunky.com
 wss://relay.koreus.social
 wss://nostr.volcanoco.in:3000
 wss://cashu.me
+wss://nostr.ch3n2k.com
 wss://nostr-relay.wlvs.space
 wss://relay.leesalminen.com
 wss://nostr.build
@@ -895,9 +897,8 @@ wss://nostr-pub.semisol.dev
 wss://nostr.gruntwerk.org
 wss://nostr.pobblelabs.org
 wss://nostr.masmux.com
-wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
-wss://nostr.howtobitcoin.shop
-x.moe
+                                                       wss://universe.nostrich.land
+wss://nostrtokyo.vpx.moe
 wss://nostr.beta3.dev
 wss://nostream.frank.snowinning.com
 wss://nostream.unift.xyz
@@ -988,7 +989,6 @@ wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
 wss://nostr.info
-wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -1098,5 +1098,5 @@ wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://realy.damus.io
 wss://nostr.nodeofsven.com
-wss://nstrs.fly.dev
-wss://nostr.nymsrelay.com
+wss://nostr.messagepush.io
+wss://umbrelbox.local:4848
