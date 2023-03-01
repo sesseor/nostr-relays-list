@@ -13,8 +13,8 @@ wss://klockenga.social
 wss://nostr.island.network
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.rocket-tech.net
-wss://nostr.h3z.jp
 wss://nostr.stereosteve.com
+wss://nostr.h3z.jp
 wss://nostr.btcmp.com
 wss://v2r.chenxixian.cn
 wss://nostr.dumpit.top
@@ -254,6 +254,7 @@ wss://nostr.sactiontwo.org
 wss://nostr.pwnshop.cloud
 wss://Relay.nostrich.de
 wss://nostr.lingoh.dev
+wss://nostr.messagepush.io
 wss://nostr.coollamer.com
 wss://nostr.current.fyo
 wss://nostr.mjex.me
@@ -276,9 +277,9 @@ wss://nostr.topeth.info
 wss://snort.social
 wss://relay.nostr.moe
 wss://7nj3e5opqjcpyaoxi56c5yvgzc3b3dmubbk4c6nrdq5lnzn64g5jwuad.onion
-wss://relay.nostr.pro
-wss://Node01.nostress.CC
 wss://novo.r00t.home:8080
+wss://Node01.nostress.CC
+wss://relay.nostr.pro
 wss://nostr.openchain.fr
 wss://nostrproxy-1.f7z.io
 wss://nostr.itas.li
@@ -485,6 +486,7 @@ wss://Relay.nostr.bg
 wss://nostr.bcmp.com
 wss://nostr.dojotunnel.online
 wss://nostr.geekgalaxy.com
+wss://bitcoin-evangelist.local:4848
 wss://nostrelay.yeghro.site
 wss://dlj4honxadk6zbsc6wnnodxihkskotqs6sym6hokybl4u5qqaecxsqid.onion
 wss://nostr.satoshi.fun
@@ -738,7 +740,6 @@ wss://relay.minds.com
 wss://nostr.13x.sh
 wss://nostr.malin.onl
 wss://nostr.merrcurr.com
-wss://nostr.nymsrelay.com
 wss://nostr.blockchaincaffe.it
 wss://nerostr.xmr.rocks
 wss://nostr.phenomenon.space
@@ -886,7 +887,6 @@ wss://nostr.ownbtc.online
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
-wss://nstrs.fly.dev
 wss://no-str.org
 wss://nostr.lukeacl.com
 wss://nostr-relay.j3s7m4n.com
@@ -895,8 +895,13 @@ wss://relay.nostr.ae
 wss://nostr.yael.at
 wss://relay.nostrology.org
 wss://Lbrygen.xyz
-wss://satsjar.local:4848
-uu3tii3itcyyid.onion
+        wss://hunter1998.com
+wss://nostr-pub.semisol.dev
+
+wss://nostr.gruntwerk.org
+wss://nostr.pobblelabs.org
+wss://nostr.masmux.com
+wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
 wss://nostr.howtobitcoin.shop
 wss://universe.nostrich.land
 wss://nostrtokyo.vpx.moe
