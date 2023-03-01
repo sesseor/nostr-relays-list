@@ -13,8 +13,8 @@ wss://klockenga.social
 wss://nostr.island.network
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.rocket-tech.net
-wss://nostr.h3z.jp
 wss://nostr.stereosteve.com
+wss://nostr.h3z.jp
 wss://nostr.btcmp.com
 wss://v2r.chenxixian.cn
 wss://nostr.dumpit.top
@@ -225,6 +225,7 @@ wss://nostr.zebede.cloud
 wss://nostr.ownscale.org
 wss://nostr.unknown.place
 wss://nostr.test.aesyc.io
+wss://ryogrid.net:7777
 wss://mutinywallet.com
 wss://nostr.uselessshit.co
 wss://nostr.dras.io
@@ -258,6 +259,7 @@ wss://nostr.sactiontwo.org
 wss://nostr.pwnshop.cloud
 wss://Relay.nostrich.de
 wss://nostr.lingoh.dev
+wss://nostr.messagepush.io
 wss://nostr.coollamer.com
 wss://nostr.current.fyo
 wss://nostr.mjex.me
@@ -280,9 +282,9 @@ wss://nostr.topeth.info
 wss://snort.social
 wss://relay.nostr.moe
 wss://7nj3e5opqjcpyaoxi56c5yvgzc3b3dmubbk4c6nrdq5lnzn64g5jwuad.onion
-wss://relay.nostr.pro
-wss://Node01.nostress.CC
 wss://novo.r00t.home:8080
+wss://Node01.nostress.CC
+wss://relay.nostr.pro
 wss://nostr.openchain.fr
 wss://nostrproxy-1.f7z.io
 wss://nostr.itas.li
@@ -752,7 +754,6 @@ wss://relay.minds.com
 wss://nostr.13x.sh
 wss://nostr.malin.onl
 wss://nostr.merrcurr.com
-wss://nostr.nymsrelay.com
 wss://nostr.blockchaincaffe.it
 wss://nerostr.xmr.rocks
 wss://nostr.phenomenon.space
@@ -895,8 +896,8 @@ wss://nostr-pub.wellorder.dev
 wss://realy.current.fyi
 wss://relay.nostr.bg
 
-wss://offchain.pub
-     wss://global-relay.Cesc.trade
+/nostr.hrmb.org
+wss://global-relay.Cesc.trade
 wss://paid.no.str.cr
 wss://Nostr.drss.io
 wss://nostr.21l.st
