@@ -286,6 +286,7 @@ wss://nostr.rikmeijer.nl
 wss://nostr.topeth.info
 wss://snort.social
 wss://relay.nostr.moe
+wss://electra.nostr.land
 wss://7nj3e5opqjcpyaoxi56c5yvgzc3b3dmubbk4c6nrdq5lnzn64g5jwuad.onion
 wss://relay.nostr.pro
 wss://Node01.nostress.CC
@@ -305,6 +306,7 @@ wss://nostr.relayer.rs
 wss://md.hugo.nostr
 wss://relay.oldcity-bitcoiners.info
 wss://nostr.0nyx.eu
+wss://elay.nosbin.com
 wss://relay.humanumest.social
 wss://7oqraq7546vmfhqn3bkvsbfpe2nbo4kzgddtouuajen7cqwumba72lyd.onion
 wss://relay.nostr.net.in
@@ -897,7 +899,8 @@ wss://nostr-1.nbo.agani.co
 wss://wlvs.space
 wss://willem.currycash.net:4848
 wss://nostr.Supremestack.xyz
-                                     wss://nostr-relay.ie9.org
+.railway.app
+wss://nostr-relay.ie9.org
 wss://relay-pub.deschooling.us
 wss://nostr-relay.freeberty.net
 wss://nostr.coinsamba.com.br
