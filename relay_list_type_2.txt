@@ -849,6 +849,7 @@ wss://nostr.bongbong.com
 wss://r.alphaama.com
 wss://relay.nvote.co
 wss://Nostr.mikediLGer.com
+wss://nostr.com
 wss://relay.austritch.net
 wss://filter.nostr.gives.africa
 wss://relay.Sovereign-stack.org
@@ -895,8 +896,18 @@ wss://realy.current.fyi
 wss://relay.nostr.bg
 
 wss://offchain.pub
-wss://nostr.hrmb.org
-3s7m4n.com
+     wss://global-relay.Cesc.trade
+wss://paid.no.str.cr
+wss://Nostr.drss.io
+wss://nostr.21l.st
+wss://nostr.ownbtc.online
+wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
+wss://nostr.ncsa.illinois.edu
+wss://relay.mynostr.id
+wss://nstrs.fly.dev
+wss://no-str.org
+wss://nostr.lukeacl.com
+wss://nostr-relay.j3s7m4n.com
 wss://relay.snort.social
 wss://relay.nostr.ae
 wss://nostr.yael.at
@@ -1005,7 +1016,6 @@ wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
 wss://nostr.info
-wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -1018,6 +1028,7 @@ wss://middling.sytes.net
 wss://www.131.me
 wss://1f52b.xyz
 wss://at.nostrwork.at
+wss://realy.snort.social
 wss://nostr.mutinywallet
 wss://relay.nostrexplorer.com
 wss://brb.io
@@ -1097,6 +1108,7 @@ wss://nostr-au.coinfundit.com
 wss://nproxy.cc
 wss://nostriches.org
 wss://nostr.wow
+wss://nostrproxy-5.f7z.io
 wss://nostr-rely.digitalmob.ro
 wss://relay.ryzizub.com
 wss://relay.usenostr.org
@@ -1117,5 +1129,5 @@ wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://realy.damus.io
 wss://nostr.nodeofsven.com
-wss://nstrs.fly.dev
-wss://nostr.nymsrelay.com
+wss://nostr.messagepush.io
+wss://umbrelbox.local:4848
