@@ -714,6 +714,7 @@ wss://nostr-relay.alekberg.net
 wss://nostr.rewardsbunny.com
 wss://relay.stonez.me
 wss://relay.nostr.distrl.net
+wss://nostream.lucas.snowinning.com
 wss://deschooling.us
 wss://relay.nostrzoo.com
 wss://nostr.primz.org
@@ -762,6 +763,7 @@ wss://nostr.13x.sh
 wss://nostr.malin.onl
 wss://nostr.merrcurr.com
 wss://nostr.nymsrelay.com
+wss://nostrich.site
 wss://nostr.blockchaincaffe.it
 wss://nerostr.xmr.rocks
 wss://nostr.phenomenon.space
@@ -894,9 +896,10 @@ wss://nostr-relay.freeberty.net
 wss://nostr.coinsamba.com.br
 wss://2b2bd5zc6lxzc4s3ufjgaw5zibexghmerwuh3ikqcwmvfjpzw5r5m6id.onion
 wss://7fvtb63nbejaiuacmvllb3qatmkydtjxlxkvi3z7zsjoijcinyc3b6id.onion
-wss://fast.bhagos.org
-wss://brb.io.relay
-                       wss://nostr-verified.wellorder.net
+ecastdao.com
+wss://nostr.delta9.tech
+wss://relay.valero.co
+wss://nostr-verified.wellorder.net
 wss://1.noztr.com
 wss://nostr-pub.wellorder.dev
 wss://realy.current.fyi
@@ -912,6 +915,7 @@ wss://nostr.ownbtc.online
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
+wss://nstrs.fly.dev
 wss://no-str.org
 wss://nostr.lukeacl.com
 wss://nostr-relay.j3s7m4n.com
@@ -963,6 +967,7 @@ wss://nostr.vol.io
 wss://nostr.plebchain
 wss://nostr.narrativerry.xyz
 wss://plebs.place
+wss://relay.btc222.io
 wss://btcpay.trustbtc.org
 wss://relay.nostrati.com
 wss://base.trueprime.net
@@ -986,6 +991,7 @@ wss://nostream-production-f83d.up.railway.app
 wss://nostr.globals.fans
 wss://nostr.8e23.net
 wss://nostr.zedebee.cloud
+wss://nostr-proxy.h3z.jp
 wss://nostr.verif-slothy.win
 wss://nostr.compile-error.net
 wss://nostr.zebeedee.cloud
@@ -1023,7 +1029,6 @@ wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
 wss://nostr.info
-wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -1128,6 +1133,8 @@ wss://o6ga6lxnax2z7pgkkenifollohkrv55r36mdzdtofi7d5yyif2f4o5yd.onion:5051
 wss://nostramsterdam.vpx.moe
 wss://notr.onsats.org
 wss://nostr.gives.africa
+wss://nostr.uselessshit.co
+
 wss://rsslay.fiatjaf.com
 wss://nostr21.com
 wss://nostr.foundrydigital.com
@@ -1137,5 +1144,5 @@ wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://realy.damus.io
 wss://nostr.nodeofsven.com
-wss://nstrs.fly.dev
-wss://nostr.nymsrelay.com
+wss://nostr.messagepush.io
+wss://umbrelbox.local:4848
