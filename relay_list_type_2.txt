@@ -742,6 +742,7 @@ wss://nostr.bitcoinbay.engineering
 wss://psychoet.ml:3250
 wss://nostr-verif.slothy.win
 wss://nostr.global.fan
+wss://relay.cryptojournaal.net
 wss://global.relay.red
 wss://nostream.kinchie.snowinning.com
 wss://out.of.milk
@@ -898,8 +899,7 @@ wss://nostr.openchair.fr
 wss://nostream-test.up.railway.app
 wss://nostr-relay.ie9.org
 wss://relay-pub.deschooling.us
-wss://nostr-relay.freeberty.net
-ss://nostr.coinsamba.com.br
+ wss://nostr.coinsamba.com.br
 wss://2b2bd5zc6lxzc4s3ufjgaw5zibexghmerwuh3ikqcwmvfjpzw5r5m6id.onion
 wss://7fvtb63nbejaiuacmvllb3qatmkydtjxlxkvi3z7zsjoijcinyc3b6id.onion
 wss://fast.bhagos.org
@@ -923,7 +923,6 @@ wss://nostr.ownbtc.online
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
-wss://nstrs.fly.dev
 wss://no-str.org
 wss://nostr.lukeacl.com
 wss://nostr-relay.j3s7m4n.com
@@ -1037,6 +1036,7 @@ wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
 wss://nostr.info
+wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -1152,5 +1152,5 @@ wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://realy.damus.io
 wss://nostr.nodeofsven.com
-wss://nostr.messagepush.io
-wss://umbrelbox.local:4848
+wss://nstrs.fly.dev
+wss://nostr.nymsrelay.com
