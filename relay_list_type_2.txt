@@ -13,8 +13,8 @@ wss://klockenga.social
 wss://nostr.island.network
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.rocket-tech.net
-wss://nostr.h3z.jp
 wss://nostr.stereosteve.com
+wss://nostr.h3z.jp
 wss://nostr.btcmp.com
 wss://v2r.chenxixian.cn
 wss://nostr.dumpit.top
@@ -266,6 +266,7 @@ wss://nostr.sactiontwo.org
 wss://nostr.pwnshop.cloud
 wss://Relay.nostrich.de
 wss://nostr.lingoh.dev
+wss://nostr.messagepush.io
 wss://nostr.coollamer.com
 wss://nostr.current.fyo
 wss://nostr.mjex.me
@@ -286,12 +287,12 @@ wss://relay.nostr.wine
 wss://nostr.rikmeijer.nl
 wss://nostr.topeth.info
 wss://snort.social
-wss://relay.nostr.moe
 wss://electra.nostr.land
+wss://relay.nostr.moe
 wss://7nj3e5opqjcpyaoxi56c5yvgzc3b3dmubbk4c6nrdq5lnzn64g5jwuad.onion
-wss://relay.nostr.pro
-wss://Node01.nostress.CC
 wss://novo.r00t.home:8080
+wss://Node01.nostress.CC
+wss://relay.nostr.pro
 wss://nostr.openchain.fr
 wss://nostrproxy-1.f7z.io
 wss://nostr.itas.li
@@ -536,6 +537,7 @@ wss://nostr.zhix.in
 wss://umbrel.tailnet-6ca2.ts.net:4848
 wss://freespeech.casa
 wss://nostr.nokotaro.com
+wss://nostr1.current.fyi
 wss://nostr.naut.social
 wss://umbrel-2.local:4848
 wss://nostr.1f52b.xyz
@@ -772,7 +774,6 @@ wss://nostr.13x.sh
 wss://nostr.malin.onl
 wss://nostr.merrcurr.com
 wss://nostr.kimi.im
-wss://nostr.nymsrelay.com
 wss://nostrich.site
 wss://nostr.blockchaincaffe.it
 wss://nerostr.xmr.rocks
@@ -896,11 +897,8 @@ wss://relay.nostr.vision
 wss://nostr.give.africa
 wss://dublin.saoirse.dev
 wss://nostr.interwebcoding.com:4848
-wss://nostr-1.nbo.agani.co
-wss://wlvs.space
-wss://willem.currycash.net:4848
-wss://nostr.Supremestack.xyz
-s://nostream-test.up.railway.app
+                                                                               wss://nostr.openchair.fr
+wss://nostream-test.up.railway.app
 wss://nostr-relay.ie9.org
 wss://relay-pub.deschooling.us
 wss://nostr-relay.freeberty.net
