@@ -896,7 +896,10 @@ wss://relay.austritch.net
 wss://filter.nostr.gives.africa
 wss://relay.Sovereign-stack.org
 wss://damus.io
-        wss://nostr.slothy.win
+wss://latam1-nostr.stealthy.co
+wss://eden.nostraland
+wss://nostr.bitcoin.social
+wss://nostr.slothy.win
 wss://relay.brb.io
 wss://nostr.argdx.net
 wss://nostrgram.co
@@ -1043,6 +1046,7 @@ wss://nostr-sandbox.minds.io
 wss://nostr.shawnyeager.net
 wss://nostr.localhost.re
 wss://nostrwhoop.ph
+wss://nostr.vulpem
 wss://nostr1.tunnelsats.com
 wss://nostr.mrbits.it
 wss://nostr.formigator.eu
