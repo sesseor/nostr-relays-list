@@ -70,13 +70,13 @@ wss://milou.lol
 wss://relay.nostr.blockhenge.com
 wss://nostr.azte.co
 wss://nostr.cheeserobot.org
-wss://nostr.fediverse.jp
 wss://relay.cynsar.foundation
+wss://pow32.nostr.land
 wss://nostr.namek.link
 wss://relay.nort.social
 wss://nostr.ltbl.io
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
-wss://pow32.nostr.land
+wss://nostr.fediverse.jp
 wss://knostr.neutrine.com:8880
 wss://paid.nostrified.org
 wss://relay.grunch.dev
@@ -198,6 +198,7 @@ wss://relayer.fiatjaff.com
 wss://nostr.21crypto.ch
 wss://nostr.sebastix.dev
 wss://stonez.local:4848
+wss://r.ayit.org
 wss://foolay.nostr.moe
 wss://nostr.notmyhostna.me
 wss://dave.st.germa.in
@@ -624,6 +625,7 @@ wss://nostr.1729.cloud
 wss://nostr.bybieyang.com
 wss://nostril.cam
 wss://relay.strfry.net
+wss://Nostr.onsats.org
 wss://nodestr.fmt.wiz.biz
 wss://xmr.usenostr.com
 wss://relay.nostrprotocol.net
@@ -894,12 +896,7 @@ wss://latam1-nostr.stealthy.co
 wss://eden.nostraland
 wss://nostr.bitcoin.social
 wss://nostr.slothy.win
-wss://relay.brb.io
-wss://nostr.argdx.net
-wss://nostrgram.co
-wss://nostr.blocs.fr
-
-wss://nostr.w3ird.tech
+                                         wss://nostr.w3ird.tech
 wss://nostr-relay.trustbtc.org
 wss://relay.nostr.info
 wss://nostr.h3y6e.com
@@ -944,6 +941,7 @@ wss://nostr.ownbtc.online
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
+wss://nstrs.fly.dev
 wss://no-str.org
 wss://nostr.lukeacl.com
 wss://nostr-relay.j3s7m4n.com
@@ -1050,6 +1048,7 @@ wss://nostr.freefrom.fi
 wss://nostr.cercatrova.me
 wss://nostr.sandwich.farm
 
+wss://umbrel.tailda10b.ts.net:4848
 wss://sound-money-relay.denizenid.com
 wss://nostr.itssilvestre.com
 wss://filter.NOSTR.wine
@@ -1058,7 +1057,6 @@ wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
 wss://nostr.info
-wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -1143,6 +1141,7 @@ wss://Nostr.Itssilvestre.com
 wss://relay.nostriches.org
 wss://nostr.tools.global.id
 wss://nostr.guru
+wss://nostr-relay.trustbtc.com
 wss://Nostr.nodeofsven.com
 wss://nostream.nostr.parts
 wss://nostream.madbean.snowinning.com
@@ -1176,5 +1175,5 @@ wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://realy.damus.io
 wss://nostr.nodeofsven.com
-wss://nstrs.fly.dev
-wss://nostr.nymsrelay.com
+wss://nostr.messagepush.io
+wss://umbrelbox.local:4848
