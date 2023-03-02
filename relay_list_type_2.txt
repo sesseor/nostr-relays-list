@@ -346,6 +346,7 @@ wss://nostr.rbel.co
 wss://colin-hp-elitedesk-800-g1-dm.local:4848
 wss://Nostr.einundzwazig.space
 wss://home.manyjourneys.com:4848
+wss://ralay.damus.io
 wss://nproxy.zerologin.co
 wss://nostr.vulpem.com
 wss://einundzwanzig.relay.com
@@ -521,6 +522,7 @@ wss://bitcoin-evangelist.local:4848
 wss://nostrelay.yeghro.site
 wss://nostr.chrissmith.site
 wss://dlj4honxadk6zbsc6wnnodxihkskotqs6sym6hokybl4u5qqaecxsqid.onion
+wss://ryogrid.net:8080
 wss://nostr.satoshi.fun
 wss://nostr.member.cash
 wss://rsslay.nostr.moe
@@ -599,6 +601,7 @@ wss://rsslay.wss
 wss://nostr.danvergara.com
 wss://relay.nostr.band
 wss://Merrcurr.up.railway.app
+wss://nostr.walletofsatoshi
 wss://nostr-3.orba.ca
 wss://5d3efa3pjyxkjfxfkisi5o6h2cviks6v7hidlrmzefebsn2p4ignisyd.onion
 wss://nostr.citizenry.technology
@@ -893,10 +896,8 @@ wss://relay.austritch.net
 wss://filter.nostr.gives.africa
 wss://relay.Sovereign-stack.org
 wss://damus.io
-wss://latam1-nostr.stealthy.co
-wss://eden.nostraland
-wss://nostr.bitcoin.social
-ss://relay.brb.io
+        wss://nostr.slothy.win
+wss://relay.brb.io
 wss://nostr.argdx.net
 wss://nostrgram.co
 wss://nostr.blocs.fr
