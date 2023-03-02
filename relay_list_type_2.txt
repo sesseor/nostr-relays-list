@@ -70,13 +70,13 @@ wss://milou.lol
 wss://relay.nostr.blockhenge.com
 wss://nostr.azte.co
 wss://nostr.cheeserobot.org
+wss://nostr.fediverse.jp
 wss://relay.cynsar.foundation
-wss://pow32.nostr.land
 wss://nostr.namek.link
 wss://relay.nort.social
 wss://nostr.ltbl.io
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
-wss://nostr.fediverse.jp
+wss://pow32.nostr.land
 wss://knostr.neutrine.com:8880
 wss://paid.nostrified.org
 wss://relay.grunch.dev
@@ -183,6 +183,7 @@ wss://nostr.einundzwanzig.spacs
 wss://jdqldw6hffnjdymzo5bikc75xuc7kg5zex23yuhczyacqcth5hxw2sid.onion
 wss://free-relay.nostrich.land
 wss://lpkue6jtz3pnp7zok4jwlct4n3mzuffsfrpagiffsuplyaswhdtmpoid.local
+wss://nostr.fmt.wss
 wss://nostr.uselessshit.com
 wss://eelay.current.fyi
 wss://arnostr.permadao.io
@@ -377,6 +378,7 @@ wss://relay.n057r.club
 wss://relay.damus.info
 wss://nostr.relayer.se
 wss://relay.hamnet.io
+wss://nostr.cheesebot.org
 wss://coracle.social
 wss://nostr.glate.ch
 wss://relay.nvote.co:443
@@ -642,6 +644,7 @@ wss://relay.honk.pw
 wss://relay.taldra.in
 wss://nostream.sh4.red
 wss://relay.minds.io
+wss://nostr.cryptojournaal.net
 wss://nostr.band
 wss://nostr.hushvault.ie:4848
 wss://nostr.bitcoiner.socail
@@ -889,10 +892,7 @@ wss://nostr.mnethome.de
 wss://nostr.relay-wlvs.space
 wss://nein.lol
 wss://neutrine.com
-wss://nostr.rdfried.com
-wss://no.contry.xyz
-wss://nostr.bongbong.com
-ss://r.alphaama.com
+alphaama.com
 wss://relay.nvote.co
 wss://Nostr.mikediLGer.com
 wss://nostr.com
@@ -953,7 +953,6 @@ wss://nostr.ownbtc.online
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
-wss://nstrs.fly.dev
 wss://no-str.org
 wss://nostr.lukeacl.com
 wss://nostr-relay.j3s7m4n.com
@@ -1070,6 +1069,7 @@ wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
 wss://nostr.info
+wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -1189,5 +1189,5 @@ wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://realy.damus.io
 wss://nostr.nodeofsven.com
-wss://nostr.messagepush.io
-wss://umbrelbox.local:4848
+wss://nstrs.fly.dev
+wss://nostr.nymsrelay.com
