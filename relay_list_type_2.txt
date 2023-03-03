@@ -70,13 +70,13 @@ wss://milou.lol
 wss://relay.nostr.blockhenge.com
 wss://nostr.azte.co
 wss://nostr.cheeserobot.org
+wss://relay.cynsar.foundation
 wss://pow32.nostr.land
-wss://nostr.fediverse.jp
 wss://nostr.namek.link
 wss://relay.nort.social
 wss://nostr.ltbl.io
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
-wss://relay.cynsar.foundation
+wss://nostr.fediverse.jp
 wss://knostr.neutrine.com:8880
 wss://paid.nostrified.org
 wss://relay.grunch.dev
@@ -1202,7 +1202,10 @@ wss://arc1.arcadelabs.co
 wss://relay.727whisky.com
 wss://nostr.xmrk.mooo.com
 wss://relay.grorp.com
-                                                      wss://nostr.gives.africa
+wss://o6ga6lxnax2z7pgkkenifollohkrv55r36mdzdtofi7d5yyif2f4o5yd.onion:5051
+wss://nostramsterdam.vpx.moe
+wss://notr.onsats.org
+wss://nostr.gives.africa
 wss://nostr.uselessshit.co
 
 wss://rsslay.fiatjaf.com
