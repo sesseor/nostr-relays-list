@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -319,6 +319,7 @@ wss://nostr.nofdeofsven.com
 wss://relay.Valera.co
 wss://n.xmr.se
 wss://nostream.nostr.parts
+wss://notebook.taild34d0.ts.net
 wss://nproxy.cc
 wss://nostr.xmrk.mooo.com
 wss://rsslay.fiatjaf.com
@@ -1109,6 +1110,7 @@ wss://nostr.africa.gives
 wss://nostr.aroundrockbitcoiners.com
 wss://nostr.fine
 wss://nostr.ftm.wiz.biz
+wss://relay.poster.place
 wss://nostr.p2sh.co
 wss://relay.nostr.lu
 wss://umbrel.merino-bee.ts.net
@@ -1196,8 +1198,7 @@ wss://Lbrygen.xyz
 wss://nostr.gruntwerk.org
 wss://nostr.masmux.com
 wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
-wss://universe.nostrich.land
-wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
+xuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
 wss://nostr.poster.place
 wss://nostr.spleenrider.one
 wss://oxtr.dev
