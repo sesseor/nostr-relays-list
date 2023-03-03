@@ -13,8 +13,8 @@ wss://klockenga.social
 wss://nostr.island.network
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.rocket-tech.net
-wss://nostr.stereosteve.com
 wss://nostr.h3z.jp
+wss://nostr.stereosteve.com
 wss://nostr.btcmp.com
 wss://v2r.chenxixian.cn
 wss://nostr.dumpit.top
@@ -275,7 +275,6 @@ wss://nostr.sactiontwo.org
 wss://nostr.pwnshop.cloud
 wss://Relay.nostrich.de
 wss://nostr.lingoh.dev
-wss://nostr.messagepush.io
 wss://nostr.coollamer.com
 wss://nostr.current.fyo
 wss://nostr.mjex.me
@@ -297,13 +296,13 @@ wss://relay.nostr.wine
 wss://nostr.rikmeijer.nl
 wss://nostr.topeth.info
 wss://snort.social
+wss://jsin5q3u2sxnea4kb2ykvml5dm5v3djkqdvor2vb3h35ey7ttnxdu3ad.onion
 wss://relay.nostr.moe
 wss://electra.nostr.land
-wss://jsin5q3u2sxnea4kb2ykvml5dm5v3djkqdvor2vb3h35ey7ttnxdu3ad.onion
 wss://7nj3e5opqjcpyaoxi56c5yvgzc3b3dmubbk4c6nrdq5lnzn64g5jwuad.onion
-wss://novo.r00t.home:8080
-wss://Node01.nostress.CC
 wss://relay.nostr.pro
+wss://Node01.nostress.CC
+wss://novo.r00t.home:8080
 wss://nostr.openchain.fr
 wss://nostrproxy-1.f7z.io
 wss://nostr.itas.li
@@ -806,6 +805,7 @@ wss://nostr.13x.sh
 wss://nostr.malin.onl
 wss://nostr.merrcurr.com
 wss://nostr.kimi.im
+wss://nostr.nymsrelay.com
 wss://nostrich.site
 wss://nostr.blockchaincaffe.it
 wss://nerostr.xmr.rocks
@@ -970,6 +970,7 @@ wss://nostr.ownbtc.online
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
+wss://nstrs.fly.dev
 wss://no-str.org
 wss://nostr.lukeacl.com
 wss://nostr-relay.j3s7m4n.com
@@ -1088,7 +1089,6 @@ wss://bitcoiners.social
 wss://nostr.datamagik.com
 wss://nostr-relay.eniehack.net
 wss://nostr.info
-wss://umbrelbox.local:4848
 wss://nostr-paid.h3z.jp
 wss://ArsIP.ddns.net
 wss://nostr-2.zebdeee.cloud
@@ -1206,8 +1206,7 @@ wss://nostr21.com
 wss://nostr.foundrydigital.com
 wss://Nostr.developer.li
 wss://nostrafrica.pcdkd.fvi
-wss://Nostr.actn.io
-wss://nostr.freedom.fi
+                            wss://nostr.freedom.fi
 wss://realy.damus.io
 wss://nostr.nodeofsven.com
 wss://nstrs.fly.dev
