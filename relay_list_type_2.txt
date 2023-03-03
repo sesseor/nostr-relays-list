@@ -682,6 +682,7 @@ wss://mrz2q7vklkwcpgojmcyuq4pstyiclcvkovvjfy2yfz3gznmsgsqafead.onion
 wss://wine.nostr
 wss://relay.exchange
 wss://Nostr-pub.wellorder.net
+wss://nostr.mjman.net
 wss://nostr.noteon.io
 wss://nostr-pub.wellorder.net
 wss://next.nostr.watch
@@ -1202,8 +1203,8 @@ wss://nostr.wow
 wss://nostrproxy-5.f7z.io
 wss://nostr-rely.digitalmob.ro
 wss://relay.ryzizub.com
-wss://relay.usenostr.org
-  wss://arc1.arcadelabs.co
+   wss://nos.qghs.in
+wss://arc1.arcadelabs.co
 wss://relay.727whisky.com
 wss://nostr.xmrk.mooo.com
 wss://relay.grorp.com
@@ -1223,6 +1224,6 @@ wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://realy.damus.io
 wss://nostr.nodeofsven.com
-wss://nstrs.fly.dev
-wss://nostr.nymsrelay.com
+wss://nostr.messagepush.io
+wss://umbrelbox.local:4848
 wss://3gkpphcfwb6w5iq6axnmlbvr7pz2t37uy4ofocyijzttzrbz4jy43fid.onion
