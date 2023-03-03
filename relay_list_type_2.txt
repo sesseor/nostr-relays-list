@@ -8,6 +8,7 @@ wss://nostr.bitcoin.sex
 wss://nostr.Oxtr.dev
 wss://student.chadpolytechnic.com
 wss://nostr.thibautrey.fr
+wss://no-str.wnhefei.cn
 wss://relay1.gems.xyz
 wss://klockenga.social
 wss://nostr.island.network
@@ -505,6 +506,7 @@ wss://21mhodl.com:4848
 wss://nostr.bingtech.tk
 wss://rsslay.data.haus
 wss://nostr.rajabi.ca
+wss://3gkpphcfwb6w5iq6axnmlbvr7pz2t37uy4ofocyijzttzrbz4jy43fid.local
 wss://nostr.theblockreward.com
 wss://wine.Nostr
 wss://relay.alien-sos.gov
@@ -1080,6 +1082,7 @@ wss://nostr.mrbits.it
 wss://nostr.formigator.eu
 wss://nostr.delo.software
 wss://nostr.mado.io
+wss://rsr.uyky.net
 wss://nostr.mouton.dev
 wss://nostr.freefrom.fi
 wss://nostr.cercatrova.me
@@ -1200,11 +1203,7 @@ wss://nostr-rely.digitalmob.ro
 wss://relay.ryzizub.com
 wss://relay.usenostr.org
 wss://nos.qghs.in
-wss://arc1.arcadelabs.co
-wss://relay.727whisky.com
-wss://nostr.xmrk.mooo.com
-wss://relay.grorp.com
-nion:5051
+nax2z7pgkkenifollohkrv55r36mdzdtofi7d5yyif2f4o5yd.onion:5051
 wss://nostramsterdam.vpx.moe
 wss://notr.onsats.org
 wss://nostr.gives.africa
@@ -1219,5 +1218,5 @@ wss://Nostr.actn.io
 wss://nostr.freedom.fi
 wss://realy.damus.io
 wss://nostr.nodeofsven.com
-wss://nostr.messagepush.io
-wss://umbrelbox.local:4848
+wss://nstrs.fly.dev
+wss://nostr.nymsrelay.com
