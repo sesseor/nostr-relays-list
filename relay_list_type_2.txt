@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -34,6 +34,7 @@ wss://nostr.multinywallet.com
 wss://nostr1.federated.computer
 wss://nostr.soscary.net
 wss://nostrproxy-4.f7z.io
+wss://nostr.raitisoja.net
 wss://nostr.trustbtc.org
 wss://noster.poster.place
 wss://nostr.massmux.com
@@ -786,6 +787,7 @@ wss://relay-jp.nostr.wirednet.jp
 wss://nostr.thekratomsyndicate.com
 wss://nostr.sabross.xyz
 wss://nostr.land
+wss://relay.sh4.red
 wss://swiss-enigma.ch
 wss://relay.nostrula.com
 wss://iris.poster.place
@@ -1195,8 +1197,11 @@ wss://base.trueprime.net
 wss://relay.nostr.vet
 wss://globals.fans
 wss://nostr.demovement.net
-wss://nostr.inprivate.network
-             wss://nostr.compile-error.net
+e.home
+wss://notr.zaprite.io
+wss://nostr-proxy.h3z.jp
+wss://nostr.zedebee.cloud
+wss://nostr.compile-error.net
 wss://relay.cryptocculture.com
 wss://nostr-relay.app.ikeji.ma
 wss://nostr.milou.com
