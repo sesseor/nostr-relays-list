@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -393,6 +393,7 @@ wss://nostr.arguflow.gg
 wss://mutinywallet.com
 wss://nostr.uselessshit.co
 wss://nostr.anchel.nl
+wss://btc.kendazu.com
 wss://nostr-relay-dev.wlvs.space
 wss://relay.orangepilldev.com
 wss://nostr.zaprite.io
@@ -828,6 +829,7 @@ wss://relay.stonez.me
 wss://relay.nostrzoo.com
 wss://nostr.primz.org
 wss://nostr.rocketnode.space
+wss://valera.co
 wss://relay.stoner
 wss://relay.nostr.scot
 wss://nostr.bitcoinbay.engineering
@@ -1200,9 +1202,9 @@ wss://nostr.100p.org
 wss://nostr.bongbong.com
 wss://r.alphaama.com
 wss://relay.austritch.net
-wss://nostr.snort.social
-wss://relay.brb.io
-        
+      wss://nostr.argdx.net
+wss://nostr.blocs.fr
+wss://nostr-relay.trustbtc.org
 wss://nostr.herci.one
 wss://t540p.local:4848
 wss://nostr.interwebcoding.com:4848
