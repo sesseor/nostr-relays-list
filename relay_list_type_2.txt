@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -132,6 +132,7 @@ wss://nostr.truckenbucks.com
 wss://nostr.mwmdev.com
 wss://umbrel.tail86021.ts.net:4848
 wss://nostre.cc
+wss://srelay.roli.social
 wss://nostr-relay.gkbrk.com
 wss://nostr.jiashanlu.synology.me
 wss://nostr.bongbonng.com
@@ -1196,7 +1197,9 @@ wss://nostr.merrcurr.com
 wss://nostrich.site
 wss://nostr.phenomenon.space
 wss://nostr-relay.wolfandcrow.tech
-                         wss://nostream-relay-nostr.831.pp.ua
+.com
+wss://nostr-us.coinfundit.com
+wss://nostream-relay-nostr.831.pp.ua
 wss://nostr.walletofsatoshi.com
 wss://nostr.dvdt.dev
 wss://Nostr.milou.lol
