@@ -648,6 +648,7 @@ wss://nostr.orangepill.dev
 
 wss://nostr.or.jp
 wss://nostr-relay.nokotaro.com
+wss://uxc-vm.local:4848
 wss://paid.nostried.org
 wss://relay.nostropolis.xyz
 wss://nostrv0l.io
@@ -1202,7 +1203,9 @@ wss://nostr.100p.org
 wss://nostr.bongbong.com
 wss://r.alphaama.com
 wss://relay.austritch.net
-      wss://nostr.argdx.net
+
+wss://relay.brb.io
+wss://nostr.argdx.net
 wss://nostr.blocs.fr
 wss://nostr-relay.trustbtc.org
 wss://nostr.herci.one
