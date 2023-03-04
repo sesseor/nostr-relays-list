@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -170,6 +170,7 @@ wss://relay.ypcloud.com
 wss://umbrel-nuc.local:4848
 wss://nostr-1.afarazit.eu
 wss://Merrcurr.up.railway.app
+wss://Inostr-1.nbo.angani.co
 wss://nostr.a-ef.org
 wss://nostr.zoomout.chat
 wss://nostr-pub.semisolv.dev
@@ -493,6 +494,7 @@ wss://relay.nostrica.com
 wss://nostr.1729.cloud
 wss://relay.strfry.net
 wss://Nostr.onsats.org
+wss://lrelay.sovereign-stack.org
 wss://nostr.bitcoiner.socail
 wss://alphapanda.pro
 wss://at.nostrworks.com
@@ -957,6 +959,7 @@ wss://unbrel.local:4848
 wss://nostream.dev.kronkltd.net
 wss://nostream.gromeul.eu
 wss://nostr.pinkanki.org
+wss://nostr.brigtech.tk
 wss://nostr.twork.ai
 wss://nostr.astrox.app
 wss://relay.nostr.au
@@ -968,6 +971,7 @@ wss://relay.honk.pw
 wss://nostr.laevateinn.org:4343
 wss://nostrproxy-3.f7z.io
 wss://nostr.zenon.wtf
+wss://www.weixin.com
 wss://private.red.gb.net
 wss://nostr.bitcoiner.soical
 wss://nostr.wine.com
@@ -1002,6 +1006,7 @@ wss://ryogrid.net:7777
 wss://nostr.nordlysln.net:3241
 wss://wagvwfrdrikrqzp7h3b5lwl6btyuttu7mqpeji35ljzq36ovzgjhsfqd.onion
 wss://nostr.rocketstyle.com.au
+wss://private-nostr.vOl.io
 wss://CloudNull.land
 wss://wkw43dwssaaan2dnowcxfk47zp5f2dsqkpoy3i6mkicav3kygvvgr6id.onion
 wss://relay.nostr.wirednet.jp
@@ -1080,6 +1085,7 @@ wss://nostr.naut.social
 wss://umbrel-2.local:4848
 wss://nost.ratchat.nl
 wss://nostr01.opencult.com
+wss://nostr.rafriedi.com
 wss://eden.nostry.land
 wss://7jfgu2smh6lvw2wfixartnjcvfgfk47m5elv2y4oimkpizkrn5saz3ad.onion
 wss://ib3kefulyelfjvvw6ooxj4gkbdkgt7f4ovb4mukhs2qxuaychpbayjid.onion
@@ -1105,6 +1111,7 @@ wss://relay.taldra.in
 wss://nostr.cryptojournaal.net
 wss://nostr.satsophone.tk
 wss://nostr.Ethtozero.fr
+wss://reley.kronkltd.net
 wss://nostr.klabo.blog
 wss://mrz2q7vklkwcpgojmcyuq4pstyiclcvkovvjfy2yfz3gznmsgsqafead.onion
 wss://nostr.mjman.net
@@ -1190,16 +1197,12 @@ wss://dublin.saoirse.dev
 wss://nostr-1.nbo.agani.co
 wss://nostr-relay.ie9.org
 wss://nostr.forecastdao.com
-wss://nostr-pub.wellorder.dev
-wss://nostr.hrmb.org
-wss://paid.no.str.cr
-wss://nostr.ownbtc.online
-wss://nostr.21l.st
-wss://nostr.ncsa.illinois.edu
-wss://relay.mynostr.id
-wss://relay.nostrplebs.com
-wss://no-str.org
-                        wss://nostr.masmux.com
+                              wss://nostr-relay.j3s7m4n.com
+wss://relay.snort.social
+wss://nostr.yael.at
+wss://Lbrygen.xyz
+wss://nostr.gruntwerk.org
+wss://nostr.masmux.com
 wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
 wss://universe.nostrich.land
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
