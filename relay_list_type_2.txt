@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -411,6 +411,7 @@ wss://orangepill.dev
 wss://nostr.relayer.rs
 wss://md.hugo.nostr
 wss://relay.nostr.net.in
+wss://nostr.frostr.xyz
 wss://nostr.videre.net
 wss://umbrel.tail1d35e.ts.net:4848
 wss://relay.f7z.io
@@ -1066,6 +1067,7 @@ wss://nostr.zebedee.cloud
 wss://nostr.supremestack.xyz
 wss://nos.lol
 wss://relay.nostr-sg.com
+wss://nostr.bitocial.xyz
 wss://relay1.nostrich.cloud
 wss://nostr.rdfriendl.com
 wss://jiggytom.ddns.net
@@ -1195,9 +1197,12 @@ wss://nostr.argdx.net
 wss://nostr.blocs.fr
 wss://nostr-relay.trustbtc.org
 wss://nostr.herci.one
-wss://t540p.local:4848
-wss://nostr.interwebcoding.com:4848
-nostr.hrmb.org
+           wss://dublin.saoirse.dev
+wss://nostr-1.nbo.agani.co
+wss://nostr-relay.ie9.org
+wss://nostr.forecastdao.com
+wss://nostr-pub.wellorder.dev
+wss://nostr.hrmb.org
 wss://paid.no.str.cr
 wss://nostr.ownbtc.online
 wss://nostr.21l.st
