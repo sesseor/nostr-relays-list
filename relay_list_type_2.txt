@@ -244,6 +244,7 @@ wss://mustafa-esprimo-q920.local:4848
 wss://nos.tr.cr
 wss://gaqbphn4jnfloyppqjw6w3r6qdjvgyql7no3b4dcr22q7udveo34neid.onion
 wss://nostr.how
+wss://nostr-01.bolt.oberver
 wss://nr.yay.so
 wss://niqpwkaxsdfw5cnkxgek76qncrvzmfluqhbaehi4hnetywbywykesvid.onion
 wss://relay.denizenid.com
@@ -1202,8 +1203,7 @@ wss://nostr-pub.welllorder.net
 wss://nostr.100p.org
 wss://nostr.bongbong.com
 wss://r.alphaama.com
-wss://relay.austritch.net
-
+s://nostr.snort.social
 wss://relay.brb.io
 wss://nostr.argdx.net
 wss://nostr.blocs.fr
