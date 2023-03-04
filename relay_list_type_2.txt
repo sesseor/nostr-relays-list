@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -50,6 +50,7 @@ wss://nostr.ddns.net:8008
 wss://relay.bleskop.com
 wss://relay.rocks
 wss://nost.inosta.cc
+wss://nostr.plebs.com
 wss://nostr.drsa.io
 wss://nostr.einundzwanzig.spacs
 wss://relay.nostr.bg
@@ -665,6 +666,8 @@ wss://nostrv0l.io
 wss://nostr.bitcoiner.com
 wss://nostr.monostr.com
 wss://nostr.sectiontwo.org
+wss://relay.thes.ai
+
 wss://nostr.swiss-enigma.me
 wss://nostr.ono.re
 wss://nostr-zu01.ciph.rs
@@ -947,6 +950,7 @@ wss://nostr.delivery
 wss://ufyirz4f5sn5gbsx4mfabooievm3lxcx6fnsh4udzx7silws6kbpypid.onion
 wss://rbr.bio
 wss://nostr.sidnlabs.nl
+wss://nostr-dev.newstr.io
 wss://relay.nostr.wf
 wss://relay.nostrdocs.com
 wss://relay.mrjohnsson.net
@@ -1196,9 +1200,7 @@ wss://nostr.kimi.im
 wss://nostr.merrcurr.com
 wss://nostrich.site
 wss://nostr.phenomenon.space
-wss://nostr-relay.wolfandcrow.tech
-.com
-wss://nostr-us.coinfundit.com
+//nostr-us.coinfundit.com
 wss://nostream-relay-nostr.831.pp.ua
 wss://nostr.walletofsatoshi.com
 wss://nostr.dvdt.dev
