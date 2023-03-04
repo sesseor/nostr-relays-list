@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -284,7 +284,10 @@ wss://bitcoinnostr.com
 wss://relay.futohq.com
 wss://nostr.lapalomilla.mx
 wss://nostr.zerofiat.world
+wss://relay.snort.social
+
 wss://wiz.biz
+wss://brt.io
 wss://api.semisol.dev
 wss://relay.nostr3.io
 wss://nostr.actn.io
@@ -513,6 +516,8 @@ wss://nostr.thank.eu
 wss://nostr.digitalreformation.info
 wss://quirky-bunch-isubghsvoi26fbbt3n7o.wnext.app
 wss://nostr.dev.wellorder.net
+wss://relay.current.fyi
+
 wss://Nostr.bongbong.com
 wss://nostr.bitmatk.io
 wss://nostr.geekGalaxy.com
@@ -1196,10 +1201,7 @@ wss://nostr.snort.social
 wss://relay.brb.io
 wss://nostr.argdx.net
 wss://nostr.blocs.fr
-wss://nostr-relay.trustbtc.org
-wss://nostr.herci.one
-wss://t540p.local:4848
-wss://nostr.interwebcoding.com:4848
+wss://nostr-relay.trustbtc.orgebcoding.com:4848
 wss://dublin.saoirse.dev
 wss://nostr-1.nbo.agani.co
 wss://nostr-relay.ie9.org
