@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -482,6 +482,7 @@ wss://adult.18plus.social
 wss://nostr.dojotunnel.online
 wss://nostr.member.cash
 wss://nostr.nemofin.com
+wss://nostr1676031941328.app.runonflux.io
 wss://jp-relay-nostr.invr.chat
 wss://relay.snort.io
 wss://ng4jk6yiqgfczo4wyxszuj7w6jok3fptehu533o3mlzs3vph3dvjfdid.onion
@@ -788,6 +789,7 @@ wss://nostr.asdf.mx
 wss://hive-i.local:4848
 wss://nostr.1f52b.xyz
 wss://lordkno.ws
+wss://relay.bigred.social
 wss://nostr.dshq.ca
 wss://relay.sdbtc.org
 wss://nostr-relay.smoove.net
@@ -1195,9 +1197,7 @@ wss://nostr.phenomenon.space
 wss://nostr-relay.wolfandcrow.tech
 wss://nostrica.nostrnotes.com
 wss://nostr-us.coinfundit.com
-wss://nostream-relay-nostr.831.pp.ua
-wss://nostr.walletofsatoshi.com
-wss://nostr.dvdt.dev
+                     
 wss://Nostr.milou.lol
 wss://tail8278a.ts.net
 wss://nostr-relay.wlvs.space
