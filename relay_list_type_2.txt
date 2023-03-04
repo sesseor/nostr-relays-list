@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -57,6 +57,7 @@ wss://nostr.uselessshit.com
 wss://eelay.current.fyi
 wss://arnostr.permadao.io
 wss://nostr.kollider.xyz
+wss://eden.nostr.space
 wss://nostr-relay.derekross.me
 wss://nostr.21crypto.ch
 wss://nostr.256k1.dev
@@ -1198,8 +1199,8 @@ wss://relay.snort.social
 wss://nostr.yael.at
 wss://Lbrygen.xyz
 wss://nostr.gruntwerk.org
-wss://nostr.masmux.com
-                         wss://universe.nostrich.land
+wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
+wss://universe.nostrich.land
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
 wss://nostr.poster.place
 wss://nostr.spleenrider.one
