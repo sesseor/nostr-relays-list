@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -1197,7 +1197,9 @@ wss://nostr.argdx.net
 wss://nostr.blocs.fr
 wss://nostr-relay.trustbtc.org
 wss://nostr.herci.one
-           wss://dublin.saoirse.dev
+wss://t540p.local:4848
+wss://nostr.interwebcoding.com:4848
+wss://dublin.saoirse.dev
 wss://nostr-1.nbo.agani.co
 wss://nostr-relay.ie9.org
 wss://nostr.forecastdao.com
