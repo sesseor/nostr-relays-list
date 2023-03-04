@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -81,6 +81,7 @@ wss://cnsklkshppwaig3hopsbxznk6cjmkodwzfchyyenquzsq3semcfh6nyd.onion:5051
 wss://no.str.watch
 wss://relay.nostr.moe
 wss://relay.nostr.pro
+wss://nostr.weking.tk
 wss://public.nostr.swissrouting.com
 wss://nostr.shroomslab.net
 wss://spleenrider.herokuapp.com
@@ -376,6 +377,7 @@ wss://nostr.zue.news
 wss://wss.nostr.milou
 wss://purevida.nostr.land
 wss://edennostr.land
+wss://nostr.mutiny.com
 wss://nostr.net.za
 wss://private-nostr.v0l.io
 wss://jdqldw6hffnjdymzo5bikc75xuc7kg5zex23yuhczyacqcth5hxw2sid.onion
@@ -811,6 +813,7 @@ wss://nostr.pjv.me
 wss://wine.nostr
 wss://replay.snort.social
 wss://nostr.portemonero.com
+wss://nostr.roytus.ai
 wss://relai.nostrati.com
 wss://relay.snort.wss
 wss://relay.thes.ai
@@ -1190,15 +1193,13 @@ wss://nostr.merrcurr.com
 wss://nostrich.site
 wss://nostr.phenomenon.space
 wss://nostr-relay.wolfandcrow.tech
+wss://nostrica.nostrnotes.com
 wss://nostr-us.coinfundit.com
 wss://nostream-relay-nostr.831.pp.ua
 wss://nostr.walletofsatoshi.com
-wss://nostr.dvdt.dev
-wss://Nostr.milou.lol
-wss://tail8278a.ts.net
-wss://nostr-relay.wlvs.space
-wss://nostr.21sats.org
-/-pub.wellorder.net
+wss://nostr.dvdt.dev wss://nostr-relay.local:7443
+wss://nostr.0xtr.dev
+wss://-pub.wellorder.net
 wss://nostr.mom
 wss://nostr2.acrn.io
 wss://bitcoin.social
