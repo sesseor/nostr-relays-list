@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -68,6 +68,7 @@ wss://nostream.git
 wss://relay.Nostrified.org
 wss://nostr.zebede.cloud
 wss://nostr.unknown.place
+wss://marcus.au:4848
 wss://nostr.buythisdip.com
 wss://nostr-relay.thefockinfury.wtf
 wss://d2uvu34fdj035j.cloudfront.net
@@ -114,6 +115,7 @@ wss://relay.nostr.io
 wss://umbrel-virtualbox.localhost:4848
 wss://relay.nostr.xyz
 wss://e.nos.lol
+wss://nost.plebstr.com
 wss://nostr.bitcoiner.social
 wss://nostream-production-5895.up.railway.app
 wss://relay.nostr.gb
@@ -717,6 +719,7 @@ wss://snort.social
 wss://7nj3e5opqjcpyaoxi56c5yvgzc3b3dmubbk4c6nrdq5lnzn64g5jwuad.onion
 wss://Node01.nostress.CC
 wss://nostrproxy-1.f7z.io
+wss://relay.oxtr.dev
 wss://nostr.0nyx.eu
 wss://7oqraq7546vmfhqn3bkvsbfpe2nbo4kzgddtouuajen7cqwumba72lyd.onion
 wss://15171031.688.org
@@ -1199,9 +1202,10 @@ wss://r.alphaama.com
 wss://relay.austritch.net
 wss://nostr.snort.social
 wss://relay.brb.io
-wss://nostr.argdx.net
-wss://nostr.blocs.fr
-wss://nostr-relay.trustbtc.orgebcoding.com:4848
+        
+wss://nostr.herci.one
+wss://t540p.local:4848
+wss://nostr.interwebcoding.com:4848
 wss://dublin.saoirse.dev
 wss://nostr-1.nbo.agani.co
 wss://nostr-relay.ie9.org
