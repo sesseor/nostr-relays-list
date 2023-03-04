@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -490,6 +490,7 @@ wss://nostr.danvergara.com
 wss://relay.nostr.band
 wss://global-relay.cesc.trade
 wss://nostrafrica.pcdkd.fyi
+wss://relay.nostr.hach.re
 wss://relay.nostrica.com
 wss://nostr.1729.cloud
 wss://relay.strfry.net
@@ -732,6 +733,7 @@ wss://nostr.vulpem.com
 wss://Eden.nostraland
 wss://citadel.local:4848
 wss://nostr-eu.coinfundit.com
+wss://plebchain.org
 wss://nostr.onsat.org
 wss://homeserver.local:4848
 wss://relay.mostr.pub
@@ -840,6 +842,7 @@ wss://nostr.build
 wss://mostr.pub
 wss://nostrical.com
 wss://nostr.overmind.lol
+wss://f6lt4jubayhatxzjt4bhtmwuspnxa5qjvo2476s6ctonm7rkth5jziyd.onion
 wss://nostr-alpha.gruntwerk.org
 wss://Dublin.saoirse.dev
 wss://relay.nostr.jhot.me
@@ -1079,6 +1082,7 @@ wss://dev-vivre-card.puffinstudio.cn
 wss://nostream-production-ba43.up.railway.app
 wss://mumbs3cfaceofpnbwthjqwreffwkuj3l3cjyuyathbqag4hs6jol6oqd.onion
 wss://nostr-relay.digitalmob.ro
+wss://Relay.orangepill.dev
 wss://umbrel.tailnet-6ca2.ts.net:4848
 wss://nostr1.current.fyi
 wss://nostr.naut.social
@@ -1193,11 +1197,15 @@ wss://nostr-relay.trustbtc.org
 wss://nostr.herci.one
 wss://t540p.local:4848
 wss://nostr.interwebcoding.com:4848
-wss://dublin.saoirse.dev
-wss://nostr-1.nbo.agani.co
-wss://nostr-relay.ie9.org
-wss://nostr.forecastdao.com
-                              wss://nostr-relay.j3s7m4n.com
+nostr.hrmb.org
+wss://paid.no.str.cr
+wss://nostr.ownbtc.online
+wss://nostr.21l.st
+wss://nostr.ncsa.illinois.edu
+wss://relay.mynostr.id
+wss://relay.nostrplebs.com
+wss://no-str.org
+wss://nostr-relay.j3s7m4n.com
 wss://relay.snort.social
 wss://nostr.yael.at
 wss://Lbrygen.xyz
