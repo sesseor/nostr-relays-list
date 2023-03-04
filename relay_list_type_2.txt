@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -1198,7 +1198,7 @@ wss://nostr.argdx.net
 wss://nostr.blocs.fr
 wss://nostr-relay.trustbtc.org
 wss://nostr.herci.one
-4848
+wss://t540p.local:4848
 wss://nostr.interwebcoding.com:4848
 wss://dublin.saoirse.dev
 wss://nostr-1.nbo.agani.co
@@ -1230,6 +1230,7 @@ wss://btcpay.trustbtc.org
 wss://base.trueprime.net
 wss://relay.nostr.vet
 wss://globals.fans
+wss://macminiserver.local:4848
 wss://nostr.demovement.net
 wss://nostr.inprivate.network
 wss://relay.phone.home
