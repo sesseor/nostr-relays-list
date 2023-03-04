@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -140,6 +140,7 @@ wss://nostr.rajabi.ca
 wss://nostr.theblockreward.com
 wss://relay.alien-sos.gov
 wss://nostr.600.wtf
+wss://relay.alxgsv.com
 wss://nostr.risa.zone
 wss://nostr.verymad.net
 wss://nostr.frennet.xyz
@@ -172,6 +173,7 @@ wss://Merrcurr.up.railway.app
 wss://nostr.a-ef.org
 wss://nostr.zoomout.chat
 wss://nostr-pub.semisolv.dev
+wss://fiatjaf.com
 wss://nostr-relay.aapi.me
 wss://relay.coollamer.com
 wss://nostr.radixrat.com
@@ -545,6 +547,7 @@ wss://Nostr.einundzwanzig.space
 wss://nostream-production-4742.up.railway.app
 wss://nostr.cvilleblockchain.org
 wss://nostr.mikedilger.com
+wss://nvk.org
 wss://nostr.relay-wlvs.space
 wss://neutrine.com
 wss://nostr.rdfried.com
@@ -761,6 +764,7 @@ wss://nostrich.land
 wss://nostr.asdf.mx
 wss://hive-i.local:4848
 wss://nostr.1f52b.xyz
+wss://lordkno.ws
 wss://nostr.dshq.ca
 wss://relay.sdbtc.org
 wss://nostr-relay.smoove.net
@@ -947,6 +951,7 @@ wss://relay.grunch.dev
 wss://nostrich.friendship.tw
 
 wss://powrelay.xyz
+wss://vitorpamplona.co
 wss://Nostr.chaker.net
 wss://unbrel.local:4848
 wss://nostream.dev.kronkltd.net
@@ -1194,12 +1199,7 @@ wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
 wss://relay.nostrplebs.com
 wss://no-str.org
-wss://nostr-relay.j3s7m4n.com
-wss://relay.snort.social
-wss://nostr.yael.at
-wss://Lbrygen.xyz
-wss://nostr.gruntwerk.org
-wss://nostr.masmux.com
+                        wss://nostr.masmux.com
 wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
 wss://universe.nostrich.land
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
