@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -1197,7 +1197,12 @@ wss://nostrica.nostrnotes.com
 wss://nostr-us.coinfundit.com
 wss://nostream-relay-nostr.831.pp.ua
 wss://nostr.walletofsatoshi.com
-wss://nostr.dvdt.dev wss://nostr-relay.local:7443
+wss://nostr.dvdt.dev
+wss://Nostr.milou.lol
+wss://tail8278a.ts.net
+wss://nostr-relay.wlvs.space
+wss://nostr.21sats.org
+wss://nostr-relay.local:7443
 wss://nostr.0xtr.dev
 wss://-pub.wellorder.net
 wss://nostr.mom
@@ -1221,6 +1226,7 @@ wss://nostr.blocs.fr
 wss://nostr-relay.trustbtc.org
 wss://nostr.herci.one
 wss://t540p.local:4848
+wss://nostr.relay.nokotaro.com
 wss://nostr.interwebcoding.com:4848
 wss://dublin.saoirse.dev
 wss://nostr-1.nbo.agani.co
