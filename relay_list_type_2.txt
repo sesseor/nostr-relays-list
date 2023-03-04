@@ -874,6 +874,7 @@ wss://relay.nostr.jhot.me
 wss://btc-Italia.online
 wss://Puravida.nostr.land
 wss://relay.nostrid.com
+wss://umbrel.hyena-bee.ts.net:4848
 wss://nostr.bitcoinpuertori.co
 wss://no.str.cr
 wss://nostr.hyperlingo.com
@@ -1195,9 +1196,9 @@ wss://nostr.merrcurr.com
 wss://nostrich.site
 wss://nostr.phenomenon.space
 wss://nostr-relay.wolfandcrow.tech
-wss://nostrica.nostrnotes.com
-wss://nostr-us.coinfundit.com
-                     
+                         wss://nostream-relay-nostr.831.pp.ua
+wss://nostr.walletofsatoshi.com
+wss://nostr.dvdt.dev
 wss://Nostr.milou.lol
 wss://tail8278a.ts.net
 wss://nostr-relay.wlvs.space
