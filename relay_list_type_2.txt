@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -402,6 +402,7 @@ wss://nostr-relay-dev.wlvs.space
 wss://relay.orangepilldev.com
 wss://nostr.zaprite.io
 wss://nostr.member.cas
+wss://mindmachine.org
 wss://fishb.mailbf.org:4848
 wss://relay.nostr.ch
 wss://nostr.sactiontwo.org
@@ -825,6 +826,7 @@ wss://relay.nostrula.com
 wss://iris.poster.place
 wss://hushvault.ie
 wss://nostr.coinos.io
+wss://node.james-trussy.com:4848
 wss://relay.fiatjaf.com
 wss://nostr.randomdevelopment.biz
 wss://btc-italia.online
@@ -1196,9 +1198,21 @@ wss://Nostr.milou.lol
 wss://tail8278a.ts.net
 wss://nostr-relay.wlvs.space
 wss://nostr.21sats.org
-wss://nostr-relay.local:7443
-wss://nostr.0xtr.dev
-                  wss://relay.austritch.net
+/-pub.wellorder.net
+wss://nostr.mom
+wss://nostr2.acrn.io
+wss://bitcoin.social
+wss://nostr.ahaspharos.de
+wss://nostr.0ne.day
+wss://merrcurr.up.railway.app
+wss://relay.nostr.social
+wss://Nostr.mom
+wss://redgreenblue.click
+wss://nostr-pub.welllorder.net
+wss://nostr.100p.org
+wss://nostr.bongbong.com
+wss://r.alphaama.com
+wss://relay.austritch.net
 wss://nostr.snort.social
 wss://relay.brb.io
 wss://nostr.argdx.net
@@ -1228,6 +1242,7 @@ wss://nostr.gruntwerk.org
 wss://nostr.masmux.com
 wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
 wss://universe.nostrich.land
+wss://in.tips
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
 wss://nostr.poster.place
 wss://nostr.spleenrider.one
