@@ -1199,6 +1199,7 @@ wss://relay.snort.social
 wss://nostr.yael.at
 wss://Lbrygen.xyz
 wss://nostr.gruntwerk.org
+wss://nostr.masmux.com
 wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
 wss://universe.nostrich.land
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
