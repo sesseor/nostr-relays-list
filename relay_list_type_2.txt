@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -214,6 +214,7 @@ wss://nostr.fredix.xyz
 wss://relay.t5y.ca
 wss://nostr.v0I.io
 wss://nostrsatva.net
+wss://relay-verified.deschooling.us
 wss://nostrrelay.com
 wss://nostr-relay.alekberg.net
 wss://melhorque.com.br
@@ -319,6 +320,7 @@ wss://nostr.swiss-enigma.ch
 
 wss://nostr.fbxl.net
 wss://nostrex.fly.dev
+wss://nosutora.com
 wss://nostr.community.networks.deavmi.assigned.network
 wss://nostr.minimue81.selfhost.co
 wss://dev2.hazlitt.fiatjaf.com
@@ -390,6 +392,7 @@ wss://wss.nostr.uselessshit.co
 wss://nostr.Aroundrockbitcoiners.com
 wss://nostr1675998373522.app.runonflux.io
 wss://nostr.d11n.net
+wss://icpbkp4nagnwiamref4vn3unmuexj7hplf374mmjhcl6kayxnknky2qd.onion
 wss://nostr.arguflow.gg
 wss://mutinywallet.com
 wss://nostr.uselessshit.co
@@ -436,6 +439,7 @@ wss://deconomy-netser.ddns.net:2121
 wss://relay.nvote.com
 wss://relay.boring.surf
 wss://nostr.decentony.com
+wss://hexvpo6qah53lnpwdrjpxpwcf4qzdyhxhw5fj7revkuyezge4rjabsid.onion
 wss://thes.ai
 wss://rdafsvko2moo3qsmqojwcrjodp7vtjpcxrwjbacrw4mwppk6gwl4zbyd.onion
 wss://akiomik.github.io
@@ -848,6 +852,7 @@ wss://o6ga6lxnax2z7pgkkenifollohkrv55r36mdzdtofi7d5yyif2f4o5yd.onion:5050
 wss://swc6ieyosnb6vmiz3mxg3wbfbgifmw6atsssjonnwljhaon3zs5pkdad.onion
 wss://nostr.vOl.io
 wss://radixrat.com
+wss://relay.honk
 wss://nostr.chainbits.co.uk
 wss://nostr.enigma-swiss.ch
 wss://nostrich.love
@@ -873,6 +878,7 @@ wss://nein.lol
 wss://relay.nvote.co
 wss://relay.Sovereign-stack.org
 wss://latam1-nostr.stealthy.co
+wss://lotdkno.ws
 wss://nostr.ddns.net
 wss://relay.nostr.vision
 wss://wlvs.space
@@ -1028,6 +1034,7 @@ wss://CloudNull.land
 wss://wkw43dwssaaan2dnowcxfk47zp5f2dsqkpoy3i6mkicav3kygvvgr6id.onion
 wss://relay.nostr.wirednet.jp
 wss://nostr.oxtr.dev
+wss://relay.nostriches.net
 wss://relay.johnnyasantos.com
 wss://nostr.rikmeijer.nl
 wss://jsin5q3u2sxnea4kb2ykvml5dm5v3djkqdvor2vb3h35ey7ttnxdu3ad.onion
@@ -1152,6 +1159,7 @@ wss://nostr.terminus.money
 wss://translate.argosopentech.com
 wss://nostr-relay.xbytez.io
 wss://nostr.v0l.io
+wss://relay.nostrpurple.com
 wss://relay.nostr.bitcoiner.social
 wss://dev.saoirse.dev
 wss://z4mf4irie7bo3l6c24lqu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
@@ -1187,23 +1195,11 @@ wss://nostr.dvdt.dev
 wss://Nostr.milou.lol
 wss://tail8278a.ts.net
 wss://nostr-relay.wlvs.space
+wss://nostr.21sats.org
 wss://nostr-relay.local:7443
 wss://nostr.0xtr.dev
-wss://-pub.wellorder.net
-wss://nostr.mom
-wss://nostr2.acrn.io
-wss://bitcoin.social
-wss://nostr.ahaspharos.de
-wss://nostr.0ne.day
-wss://merrcurr.up.railway.app
-wss://relay.nostr.social
-wss://Nostr.mom
-wss://redgreenblue.click
-wss://nostr-pub.welllorder.net
-wss://nostr.100p.org
-wss://nostr.bongbong.com
-wss://r.alphaama.com
-s://nostr.snort.social
+                  wss://relay.austritch.net
+wss://nostr.snort.social
 wss://relay.brb.io
 wss://nostr.argdx.net
 wss://nostr.blocs.fr
@@ -1269,6 +1265,7 @@ wss://nostr-paid.h3z.jp
 wss://nostr.stashmx.com
 wss://nostr.robotesc.ro
 wss://1f52b.xyz
+wss://7jdx65mkmffhghgihv26wuan6t2rl3u7ua65jgbtuvva226aeqhvqoad.onion
 wss://relay.nostrexplorer.com
 wss://brb.io
 wss://nostream.denizenid.com
