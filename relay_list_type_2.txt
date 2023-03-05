@@ -9,6 +9,7 @@ wss://nostr.dumpit.top
 wss://no-str.org
 
 wss://b4968f09859e.ngrok.io
+wss://nvote.co
 wss://ightningrelay.com
 wss://nostrgraph.net
 wss://relay.nostr.hu
@@ -17,6 +18,7 @@ wss://nostr.whoop.phnostr.whoop.ph
 wss://knostr.neutrine
 wss://satstacker.cloud
 wss://nostr.Sectiontwo.org
+wss://nostrl.currentfyi
 wss://astral.ninja
 wss://udyjpri4lht3mqwz47sg5thwpepirnzugwf6w5dhpf743ynbac4tshid.onion
 wss://nost.plebchain.org
@@ -349,6 +351,7 @@ wss://nostr.btcmp.com
 wss://nostr-relay.nonce.academy
 wss://nostr.mrbit.com
 wss://nostr.simatime.com
+wss://relay.nostr.land
 wss://relay.dwadziesciajeden.pl
 wss://nostr.hushvault.ie
 wss://ubuntu-virtualbox.local:4848
@@ -1068,6 +1071,7 @@ wss://relay.damua.io
 wss://-word.sharivegas.com
 wss://nostr-2.zebedee.cloud
 wss://noster.frennet.xyz
+wss://nostr.waveplatform.org
 wss://Nostr.einundzwazig.space
 wss://nostr.hackerman.pro
 wss://relay.nostrgraph.dev
@@ -1196,9 +1200,9 @@ wss://nostream.lucas.snowinning.com
 wss://deschooling.us
 wss://nostr.africa
 wss://zee-relay.fly.dev
-wss://tom-desktop.local:4848
-wss://nwmdev.com
-                                    wss://nostr-verif.slothy.win
+ygaa44hvyyhj4g2id.onion:4848
+wss://relay.r3d.red
+wss://nostr-verif.slothy.win
 wss://nostream.kinchie.snowinning.com
 wss://out.of.milk
 wss://nostr.liberty.fans
