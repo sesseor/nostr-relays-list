@@ -1199,7 +1199,10 @@ wss://out.of.milk
 wss://nostr.liberty.fans
 wss://nostr.5ub.net:8008
 wss://nostr.kimi.im
-                      wss://nostr-relay.wolfandcrow.tech
+wss://nostr.merrcurr.com
+wss://nostrich.site
+wss://nostr.phenomenon.space
+wss://nostr-relay.wolfandcrow.tech
 wss://nostrica.nostrnotes.com
 wss://nostr-us.coinfundit.com
 wss://nostream-relay-nostr.831.pp.ua
