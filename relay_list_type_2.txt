@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -350,6 +350,7 @@ wss://rsslay.fiatjaf.com
 wss://nostr.foundrydigital.com
 wss://nostr.freedom.fi
 wss://umbrelbox.local:4848
+wss://relay.nostrbr.online
 wss://student.chadpolytechnic.com
 wss://nostr.thibautrey.fr
 wss://nostr.btcmp.com
@@ -878,6 +879,7 @@ wss://relay.nostr.rocks
 wss://xmr.usenostr.org
 wss://relay.minds.com
 wss://nostr.blockchaincaffe.it
+wss://rhs-umbrel-social.local:4848
 wss://nostr.xpersona.net
 wss://relay.mutinywallet.com
 wss://o6ga6lxnax2z7pgkkenifollohkrv55r36mdzdtofi7d5yyif2f4o5yd.onion:5050
@@ -1202,9 +1204,7 @@ wss://translate.argosopentech.com
 wss://nostr-relay.xbytez.io
 wss://nostr.v0l.io
 wss://relay.nostrpurple.com
-wss://relay.nostr.bitcoiner.social
-wss://dev.saoirse.dev
-u5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
+/z4mf4irie7bo3l6c24lqu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
 wss://nostr-bg01.ciph.rs
 wss://nostr.whoop.ph
 wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
