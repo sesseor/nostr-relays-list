@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -781,6 +781,8 @@ wss://relay.s3x.social
 wss://relay.chenxixian.cn
 wss://nostr.lnorb.com
 wss://Nostr.lu.ke
+wss://nostr.lightninglinks.xyz
+wss://relax.damus.io
 wss://atarivcs.local:4848
 wss://inbwt4hlpkosan2tp5udt5m3ihdi6l3g6gcfokxc5ayxv4jdkbegm4id.onion
 wss://Nostr.bch.ninja
@@ -965,6 +967,7 @@ wss://rbr.bio
 wss://nostr.sidnlabs.nl
 wss://nostr-dev.newstr.io
 wss://relay.nostr.wf
+wss://relay.nostris.online
 wss://relay.nostrdocs.com
 wss://relay.mrjohnsson.net
 wss://Nostr.Itssilvestre.com
@@ -1199,9 +1202,7 @@ wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
 wss://chad.polytechnic.com
 wss://nostr.com.de
 wss://nostr.rewardsbunny.com
-wss://relay.nostr.distrl.net
-wss://nostream.lucas.snowinning.com
-wss://deschooling.us
+ing.us
 wss://nostr.africa
 wss://zee-relay.fly.dev
 wss://tom-desktop.local:4848
@@ -1284,6 +1285,7 @@ wss://optiplex.wallaby-bass.ts.net:3333
 wss://btcpay.trustbtc.org
 wss://base.trueprime.net
 wss://relay.nostr.vet
+wss://relay.lightninglinks.xyz
 wss://globals.fans
 wss://macminiserver.local:4848
 wss://nostr.demovement.net
