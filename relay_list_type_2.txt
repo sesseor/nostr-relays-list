@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -130,6 +130,7 @@ wss://nostr.lu.ke
 wss://relay.sendstr.com
 wss://bitcoiner.social
 
+wss://nostr.eluc.ch
 wss://qhqb7encxtgpng7cgapzdzvq5fzudwt4drmkou6fiu73mjfcmqxzx4id.onion
 wss://filter.nostr.wine
 wss://nostr.21m.fr
@@ -694,6 +695,7 @@ wss://relay.nostr-latam.link
 wss://puravida.nostra.land
 wss://nostr.orba.ca
 wss://nostr.onsats.org
+wss://Paid.spore.ws
 wss://Nostr1.Tunnelsats.com
 wss://replay.current.fyi
 wss://relay.taxi
@@ -1201,8 +1203,7 @@ wss://nostr.v0l.io
 wss://relay.nostrpurple.com
 wss://relay.nostr.bitcoiner.social
 wss://dev.saoirse.dev
-wss://z4mf4irie7bo3l6c24lqu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
-wss://nostr-bg01.ciph.rs
+                             wss://nostr-bg01.ciph.rs
 wss://nostr.whoop.ph
 wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
 wss://chad.polytechnic.com
