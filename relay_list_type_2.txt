@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -435,6 +435,7 @@ wss://nostr.688.org
 wss://nostr.jatm.link
 wss://orangepill.dev
 wss://nostr.relayer.rs
+wss://bitcoinmaximalist.relay.com
 wss://md.hugo.nostr
 wss://relay.nostr.net.in
 wss://nostr.frostr.xyz
@@ -1201,8 +1202,10 @@ wss://nostr.p2sh.co
 wss://relay.nostr.lu
 wss://umbrel.merino-bee.ts.net
 wss://nostr.terminus.money
-wss://translate.argosopentech.com
-      wss://relay.nostr.bitcoiner.social
+wss://nostr-relay.xbytez.io
+wss://nostr.v0l.io
+wss://relay.nostrpurple.com
+wss://relay.nostr.bitcoiner.social
 wss://dev.saoirse.dev
 wss://z4mf4irie7bo3l6c24lqu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
 wss://nostr-bg01.ciph.rs
