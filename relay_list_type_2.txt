@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -592,6 +592,7 @@ wss://filter.nostr.gives.africa
 wss://damus.io
 wss://eden.nostraland
 wss://nostr.bitcoin.social
+wss://relay.nostr.infowss
 wss://nostrgram.co
 wss://relay.nostr.info
 wss://nostr.h3y6e.com
@@ -1203,7 +1204,8 @@ wss://nostr.v0l.io
 wss://relay.nostrpurple.com
 wss://relay.nostr.bitcoiner.social
 wss://dev.saoirse.dev
-                             wss://nostr-bg01.ciph.rs
+u5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
+wss://nostr-bg01.ciph.rs
 wss://nostr.whoop.ph
 wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
 wss://chad.polytechnic.com
