@@ -1202,7 +1202,8 @@ wss://nostr.whoop.ph
 wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
 wss://chad.polytechnic.com
 wss://nostr.com.de
-ss://relay.nostr.distrl.net
+wss://nostr.rewardsbunny.com
+wss://relay.nostr.distrl.net
 wss://nostream.lucas.snowinning.com
 wss://deschooling.us
 wss://nostr.africa
