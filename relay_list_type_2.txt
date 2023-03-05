@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -1062,6 +1062,7 @@ wss://rasca.asnubes.art
 wss://relay.oldcity-bitcoiners.info
 wss://relay.humanumest.social
 wss://relay.damua.io
+wss://-word.sharivegas.com
 wss://nostr-2.zebedee.cloud
 wss://noster.frennet.xyz
 wss://Nostr.einundzwazig.space
@@ -1199,8 +1200,9 @@ wss://nostr-verif.slothy.win
 wss://nostream.kinchie.snowinning.com
 wss://out.of.milk
 wss://nostr.liberty.fans
-wss://nostr.5ub.net:8008
-ostrich.site
+s://nostr.kimi.im
+wss://nostr.merrcurr.com
+wss://nostrich.site
 wss://nostr.phenomenon.space
 wss://nostr-relay.wolfandcrow.tech
 wss://nostrica.nostrnotes.com
