@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -36,6 +36,7 @@ wss://nostr.multinywallet.com
 wss://nostr1.federated.computer
 wss://nostr.soscary.net
 wss://nostrproxy-4.f7z.io
+wss://relay.nostr.co.jp
 wss://nostr.raitisoja.net
 wss://nostr.trustbtc.org
 wss://noster.poster.place
@@ -1201,7 +1202,12 @@ wss://relay.nostrpurple.com
 wss://relay.nostr.bitcoiner.social
 wss://dev.saoirse.dev
 wss://z4mf4irie7bo3l6c24lqu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
-                      wss://nostr.rewardsbunny.com
+
+wss://nostr.whoop.ph
+wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
+wss://chad.polytechnic.com
+wss://nostr.com.de
+wss://nostr.rewardsbunny.com
 wss://relay.nostr.distrl.net
 wss://nostream.lucas.snowinning.com
 wss://deschooling.us
@@ -1239,6 +1245,7 @@ wss://bitcoin.social
 wss://nostr.ahaspharos.de
 wss://nostr.0ne.day
 wss://merrcurr.up.railway.app
+wss://nostr.zenon.info
 wss://relay.nostr.social
 wss://Nostr.mom
 wss://redgreenblue.click
