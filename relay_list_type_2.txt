@@ -84,6 +84,7 @@ wss://nostring.deno.dev
 wss://nostr.sg
 wss://cnsklkshppwaig3hopsbxznk6cjmkodwzfchyyenquzsq3semcfh6nyd.onion:5051
 wss://no.str.watch
+wss://atles.nostr.land
 wss://relay.nostr.moe
 wss://relay.nostr.pro
 wss://nostr.weking.tk
@@ -1200,8 +1201,9 @@ wss://nostr.africa.gives
 wss://nostr.aroundrockbitcoiners.com
 wss://nostr.fine
 wss://nostr.ftm.wiz.biz
-wss://relay.poster.place
-wss://nostr.p2sh.co
+                      wss://relay.nostr.lu
+wss://umbrel.merino-bee.ts.net
+wss://nostr.terminus.money
 wss://translate.argosopentech.com
 wss://nostr-relay.xbytez.io
 wss://nostr.v0l.io
@@ -1240,6 +1242,7 @@ wss://nostr-us.coinfundit.com
 wss://nostream-relay-nostr.831.pp.ua
 wss://nostr.walletofsatoshi.com
 wss://nostr.dvdt.dev
+wss://relay.mrjohnsson.netCheck
 wss://Nostr.milou.lol
 wss://tail8278a.ts.net
 wss://nostr-relay.wlvs.space
@@ -1323,6 +1326,7 @@ wss://relay.nostr.or.jp
 wss://nostr.rdfriedl.com
 wss://bitcoiner.social
 wss://nostr.shawnyeager.net
+wss://nklxtre37s7h7bbrss4np35xutuo3gwqilzydk2gfakww6aamdrinnad.onion:4848
 wss://nostr1.tunnelsats.com
 wss://nostr.formigator.eu
 wss://nostrpub.welliorder.net
