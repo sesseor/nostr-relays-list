@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -313,6 +313,7 @@ wss://filter.NOSTR.wine
 wss://nostr-relay.eniehack.net
 wss://nostr.info
 wss://nostr.alphapack.finance
+wss://nostr-ja-kari.heguro.com
 wss://rsslay.nostr.net
 wss://www.131.me
 wss://at.nostrwork.at
@@ -321,6 +322,7 @@ wss://rsr.uyky.net:30443
 wss://nostr.fluidtrack.in
 wss://relay.nostrica
 wss://nostr-pub.semisol.dev
+wss://public.nostr.swissrouting.xyz
 wss://nostr.plebchain.org
 wss://nostr.jacany.com
 wss://relay.snort.socia
@@ -887,6 +889,7 @@ wss://mostr.pub
 wss://nostrical.com
 wss://nostr.overmind.lol
 wss://f6lt4jubayhatxzjt4bhtmwuspnxa5qjvo2476s6ctonm7rkth5jziyd.onion
+wss://nostr.uselesshit.co
 wss://nostr-alpha.gruntwerk.org
 wss://Dublin.saoirse.dev
 wss://relay.nostr.jhot.me
@@ -1055,6 +1058,7 @@ wss://nostr3.actn.io
 wss://Brb.io
 wss://nostr.v01.io
 wss://nostr.bridgey.dev
+wss://nostream-production-31f8.up.railway.app
 wss://nostr.test.aesyc.io
 wss://ryogrid.net:7777
 wss://nostr.nordlysln.net:3241
@@ -1197,12 +1201,7 @@ wss://relay.nostrpurple.com
 wss://relay.nostr.bitcoiner.social
 wss://dev.saoirse.dev
 wss://z4mf4irie7bo3l6c24lqu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
-wss://nostr-bg01.ciph.rs
-wss://nostr.whoop.ph
-wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
-wss://chad.polytechnic.com
-wss://nostr.com.de
-wss://nostr.rewardsbunny.com
+                      wss://nostr.rewardsbunny.com
 wss://relay.nostr.distrl.net
 wss://nostream.lucas.snowinning.com
 wss://deschooling.us
