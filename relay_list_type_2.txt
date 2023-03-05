@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -1200,7 +1200,9 @@ wss://nostream.lucas.snowinning.com
 wss://deschooling.us
 wss://nostr.africa
 wss://zee-relay.fly.dev
-ygaa44hvyyhj4g2id.onion:4848
+wss://tom-desktop.local:4848
+wss://nwmdev.com
+wss://vwy4pf523dmib4nny6l5slkghfx6yf3a2erfe4dygaa44hvyyhj4g2id.onion:4848
 wss://relay.r3d.red
 wss://nostr-verif.slothy.win
 wss://nostream.kinchie.snowinning.com
