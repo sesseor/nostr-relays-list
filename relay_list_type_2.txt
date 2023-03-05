@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -75,6 +75,7 @@ wss://nostr-relay.thefockinfury.wtf
 wss://d2uvu34fdj035j.cloudfront.net
 wss://relay.nosphr.com
 wss://nostr.sovbit.com
+wss://nostr.com.au
 wss://nostr.current.fyo
 wss://nostring.deno.dev
 wss://nostr.sg
@@ -1074,6 +1075,7 @@ wss://Nostr.band
 wss://relay.house
 wss://relai.nostr.bg
 wss://nostr.vdstruis.com
+wss://umbrel.terrier-sole.ts.net:4848
 wss://relay.nostrview.com
 wss://relay.damus.info
 wss://nostr.relayer.se
@@ -1196,11 +1198,8 @@ wss://tom-desktop.local:4848
 wss://nwmdev.com
 wss://vwy4pf523dmib4nny6l5slkghfx6yf3a2erfe4dygaa44hvyyhj4g2id.onion:4848
 wss://relay.r3d.red
-wss://nostr-verif.slothy.win
-wss://nostream.kinchie.snowinning.com
-wss://out.of.milk
-wss://nostr.liberty.fans
-s://nostr.kimi.im
+                                                     wss://nostr.5ub.net:8008
+wss://nostr.kimi.im
 wss://nostr.merrcurr.com
 wss://nostrich.site
 wss://nostr.phenomenon.space
