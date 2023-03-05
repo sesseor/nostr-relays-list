@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -49,6 +49,7 @@ wss://nostr.orangepill.dev
 wss://nostrich.friendship.tw
 wss://relay.nostromo.social
 wss://nostr.swau.xyz
+wss://hrxqtouyp7j3yqg4hsfde2hmjtkxltmyu64y3suk3dttcwjkdbapc4qd.onion:5050
 wss://nostr.ddns.net:8008
 wss://relay.bleskop.com
 wss://relay.rocks
@@ -714,6 +715,7 @@ wss://relay.kronkltd.net
 wss://node01.nostress.cc
 wss://xaq4u4zuvmlgkdfjpkljli5lvecyobluu2565y772mtfxv3edwbk7eqd.onion
 wss://nostr.fly.dev
+wss://hrxqtouyp7j3yqg4hsfde2hmjtkxltmyu64y3suk3dttcwjkdbapc4qd.onion:5051
 wss://puravida.nostr.land.com
 wss://relaynostr.joelsilva3.repl.co
 wss://relau.zeh.app
@@ -1194,14 +1196,9 @@ wss://nostr.mjman.net
 wss://nostr-pub.wellorder.net
 wss://next.nostr.watch
 wss://atlas.nostr.land
-wss://relay.nostr.com.au
-wss://relay.zhix.in
-wss://relay.lacosanostr.com
-wss://nostr.africa.gives
-wss://nostr.aroundrockbitcoiners.com
-wss://nostr.fine
-wss://nostr.ftm.wiz.biz
-                      wss://relay.nostr.lu
+                            wss://relay.poster.place
+wss://nostr.p2sh.co
+wss://relay.nostr.lu
 wss://umbrel.merino-bee.ts.net
 wss://nostr.terminus.money
 wss://translate.argosopentech.com
