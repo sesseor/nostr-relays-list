@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -1194,7 +1194,10 @@ wss://nostream.delta9.tech
 wss://relay.Dwadziesciajeden.pl
 wss://ab3w43g76lfczosxso7tp7gcada6hge6uw4uk4mu54mebynu2dj5fvid.onion
 wss://nostr.bybieyang.com
-                                        wss://nostr.cryptojournaal.net
+wss://relay.nostrprotocol.net
+wss://zaplife.lol
+wss://relay.taldra.in
+wss://nostr.cryptojournaal.net
 wss://nostr.satsophone.tk
 wss://nostr.Ethtozero.fr
 wss://reley.kronkltd.net
