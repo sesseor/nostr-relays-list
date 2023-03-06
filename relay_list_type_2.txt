@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -350,6 +350,7 @@ wss://nostream.nostr.parts
 wss://notebook.taild34d0.ts.net
 wss://nproxy.cc
 wss://nostr.xmrk.mooo.com
+wss://utxo.one
 wss://rsslay.fiatjaf.com
 wss://nostr.foundrydigital.com
 wss://nostr.freedom.fi
@@ -1195,10 +1196,8 @@ wss://nostr.Ethtozero.fr
 wss://reley.kronkltd.net
 wss://nostr.klabo.blog
 wss://mrz2q7vklkwcpgojmcyuq4pstyiclcvkovvjfy2yfz3gznmsgsqafead.onion
-wss://nostr.mjman.net
-wss://nostr-pub.wellorder.net
-wss://next.nostr.watch
-elay.nostr.com.au
+                                                            wss://atlas.nostr.land
+wss://relay.nostr.com.au
 wss://relay.zhix.in
 wss://relay.lacosanostr.com
 wss://nostr.africa.gives
