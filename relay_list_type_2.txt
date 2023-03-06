@@ -815,6 +815,7 @@ wss://nostr.cizmar.net
 wss://Nostr.nostrelay.org
 wss://nostr.uthark.com
 wss://nauka-relay.herokuapp.com
+wss://relay.hammel.io
 wss://mastodon.cloud
 wss://nostr.sovbit.host
 wss://relay.1bps.io
@@ -1193,7 +1194,7 @@ wss://nostr.citizenry.technology
 wss://Nostr.f44.dev
 wss://nostream.delta9.tech
 wss://relay.Dwadziesciajeden.pl
-wss://ab3w43g76lfczosxso7tp7gcada6hge6uw4uk4mu54mebynu2dj5fvid.onion
+so7tp7gcada6hge6uw4uk4mu54mebynu2dj5fvid.onion
 wss://nostr.bybieyang.com
 wss://relay.nostrprotocol.net
 wss://zaplife.lol
