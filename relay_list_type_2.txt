@@ -1197,7 +1197,7 @@ wss://zaplife.lol
 wss://relay.taldra.in
 wss://nostr.cryptojournaal.net
 wss://nostr.satsophone.tk
-.fr
+wss://nostr.Ethtozero.fr
 wss://reley.kronkltd.net
 wss://nostr.klabo.blog
 wss://mrz2q7vklkwcpgojmcyuq4pstyiclcvkovvjfy2yfz3gznmsgsqafead.onion
