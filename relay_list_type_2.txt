@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -646,6 +646,7 @@ wss://member.cash
 wss://nproxy.kristapsk.lv
 wss://3d515c5277e9.ngrok.io
 wss://relay.bitid.nz
+wss://nostr.net.in
 wss://relay.nostrgraph.net
 wss://nostr.corebreach.com
 wss://nostrnodeofsven.com
@@ -973,6 +974,7 @@ wss://nostream-production-f83d.up.railway.app
 wss://nostr.data.haus
 wss://nostr.globals.fans
 wss://nostr.verif-slothy.win
+wss://qitdoaq7ygegws4ft572524bxcgmxq5zmpb23ayyevsvl3dirxaxs2qd.local
 wss://nostrue.com
 wss://nostr-sandbox.minds.io
 wss://nostrwhoop.ph
@@ -1193,10 +1195,9 @@ wss://nostr.watch
 wss://zur.nostr.sx
 wss://rsslay.ch3n2k.com
 wss://blg.nostr.sx
-wss://nostr.ibosilj.work
-wss://nostr.walletofsatoshi
-wss://nostr-3.orba.ca
-m.delta9.tech
+itizenry.technology
+wss://Nostr.f44.dev
+wss://nostream.delta9.tech
 wss://relay.Dwadziesciajeden.pl
 wss://ab3w43g76lfczosxso7tp7gcada6hge6uw4uk4mu54mebynu2dj5fvid.onion
 wss://nostr.bybieyang.com
