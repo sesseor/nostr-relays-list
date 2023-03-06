@@ -942,6 +942,7 @@ wss://nostr.ddns.net
 wss://relay.nostr.vision
 wss://wlvs.space
 wss://willem.currycash.net:4848
+wss://nostr.ottonove891.cf
 wss://nostr-relay.freeberty.net
 wss://2b2bd5zc6lxzc4s3ufjgaw5zibexghmerwuh3ikqcwmvfjpzw5r5m6id.onion
 wss://nostr.delta9.tech
@@ -1193,9 +1194,10 @@ wss://jax1028.ndscal.com:80
 wss://wcbli2ttxxqmx4oy3p6zbzrqbx47uyjsiv5iyyb2elvmpr2c2uiauqad.onion:5051
 wss://nostr.watch
 wss://zur.nostr.sx
-wss://rsslay.ch3n2k.com
-wss://blg.nostr.sx
-itizenry.technology
+                wss://nostr.ibosilj.work
+wss://nostr.walletofsatoshi
+wss://nostr-3.orba.ca
+wss://nostr.citizenry.technology
 wss://Nostr.f44.dev
 wss://nostream.delta9.tech
 wss://relay.Dwadziesciajeden.pl
