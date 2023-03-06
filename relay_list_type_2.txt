@@ -228,6 +228,7 @@ wss://nostr.oxtr.dev
 wss://nostr.fredix.xyz
 wss://relay.t5y.ca
 wss://nostr.v0I.io
+wss://relay.nosterplebs.com
 wss://nostrsatva.net
 wss://relay-verified.deschooling.us
 wss://nostrrelay.com
@@ -359,6 +360,7 @@ wss://nostr.foundrydigital.com
 wss://nostr.freedom.fi
 wss://umbrelbox.local:4848
 wss://relay.nostrbr.online
+wss://relav.nostr.info
 wss://student.chadpolytechnic.com
 wss://nostr.thibautrey.fr
 wss://nostr.btcmp.com
@@ -1156,6 +1158,7 @@ wss://relay.nostr-sg.com
 wss://nostr.bitocial.xyz
 wss://relay1.nostrich.cloud
 wss://testnet.arkaitzj.com
+wss://jb55.com
 wss://nostr.rdfriendl.com
 wss://relay.dumas.io
 wss://jiggytom.ddns.net
@@ -1193,9 +1196,7 @@ wss://blg.nostr.sx
 wss://nostr.ibosilj.work
 wss://nostr.walletofsatoshi
 wss://nostr-3.orba.ca
-wss://nostr.citizenry.technology
-wss://Nostr.f44.dev
-wss://nostream.delta9.tech
+m.delta9.tech
 wss://relay.Dwadziesciajeden.pl
 wss://ab3w43g76lfczosxso7tp7gcada6hge6uw4uk4mu54mebynu2dj5fvid.onion
 wss://nostr.bybieyang.com
