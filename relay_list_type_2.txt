@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -361,6 +361,7 @@ wss://relay.nostrbr.online
 wss://student.chadpolytechnic.com
 wss://nostr.thibautrey.fr
 wss://nostr.btcmp.com
+wss://nostr.relay.damus.io
 wss://nostr-relay.nonce.academy
 wss://nostr.mrbit.com
 wss://nostr.simatime.com
@@ -1195,9 +1196,7 @@ wss://nostr.bybieyang.com
 wss://relay.nostrprotocol.net
 wss://zaplife.lol
 wss://relay.taldra.in
-wss://nostr.cryptojournaal.net
-wss://nostr.satsophone.tk
-wss://nostr.Ethtozero.fr
+                              wss://nostr.Ethtozero.fr
 wss://reley.kronkltd.net
 wss://nostr.klabo.blog
 wss://mrz2q7vklkwcpgojmcyuq4pstyiclcvkovvjfy2yfz3gznmsgsqafead.onion
