@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -893,6 +893,7 @@ wss://global.relay.red
 wss://relay.nostr.rocks
 wss://xmr.usenostr.org
 wss://relay.minds.com
+wss://club.unicornhunters.com
 wss://nostr.blockchaincaffe.it
 wss://rhs-umbrel-social.local:4848
 wss://nostr.xpersona.net
@@ -1193,10 +1194,7 @@ wss://nostream.delta9.tech
 wss://relay.Dwadziesciajeden.pl
 wss://ab3w43g76lfczosxso7tp7gcada6hge6uw4uk4mu54mebynu2dj5fvid.onion
 wss://nostr.bybieyang.com
-wss://relay.nostrprotocol.net
-wss://zaplife.lol
-wss://relay.taldra.in
-wss://nostr.cryptojournaal.net
+                                        wss://nostr.cryptojournaal.net
 wss://nostr.satsophone.tk
 wss://nostr.Ethtozero.fr
 wss://reley.kronkltd.net
@@ -1233,6 +1231,7 @@ wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
 wss://chad.polytechnic.com
 wss://nostr.com.de
 wss://nostr.rewardsbunny.com
+wss://nost.wine
 wss://relay.nostr.distrl.net
 wss://nostream.lucas.snowinning.com
 wss://deschooling.us
