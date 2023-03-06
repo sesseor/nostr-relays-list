@@ -130,6 +130,7 @@ wss://nostream-production-5895.up.railway.app
 wss://relay.nostr.gb
 wss://nostr.lu.ke
 wss://relay.sendstr.com
+wss://nostr-rely.trustbtc.org
 wss://bitcoiner.social
 
 wss://nostr.eluc.ch
@@ -1197,7 +1198,7 @@ wss://mrz2q7vklkwcpgojmcyuq4pstyiclcvkovvjfy2yfz3gznmsgsqafead.onion
 wss://nostr.mjman.net
 wss://nostr-pub.wellorder.net
 wss://next.nostr.watch
-om.au
+elay.nostr.com.au
 wss://relay.zhix.in
 wss://relay.lacosanostr.com
 wss://nostr.africa.gives
@@ -1356,6 +1357,7 @@ wss://relay.roli.social
 wss://paid.spore.ws
 wss://nostr-mv.ashiroid.com
 wss://Nostr.mutinywallet.com
+wss://nostr.fmt.wis.biz
 wss://filter.nostre.wine
 wss://relay.iris.to
 wss://dev2.hazilitt.fiatjaf.com
