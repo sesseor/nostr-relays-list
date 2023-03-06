@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -476,6 +476,7 @@ wss://nostr.pcdkd.fyi
 wss://nostr.einundzwanzig.space
 wss://Nostrica.com
 wss://nostr-relay.bitcoin.ninja
+wss://ksd4653zuyclc3x4exxjsw5vhcxdb3z4ntwxtkchoamxhmkahgb2brid.onion:5051
 wss://nostr.nom
 wss://nostr.easydns.ca
 wss://ragner-relay.com
@@ -556,6 +557,7 @@ wss://nostr.bitmatk.io
 wss://nostr.geekGalaxy.com
 wss://6amyhf3sjvgxe5qzbx4xn52pcnqresdmi7szxurp6umkvz6mthxjdcad.onion
 wss://nostue.com
+wss://6amyhf3sjvgxe5qzbx4xn52pcnqresdmi7szxurp6umkvz6mthxjdcad.local
 wss://nor.st
 wss://Nostr-2.ZEBEDEE.cloud
 wss://relay.dnet.run
@@ -1194,11 +1196,7 @@ wss://zaplife.lol
 wss://relay.taldra.in
 wss://nostr.cryptojournaal.net
 wss://nostr.satsophone.tk
-wss://nostr.Ethtozero.fr
-wss://reley.kronkltd.net
-wss://nostr.klabo.blog
-wss://mrz2q7vklkwcpgojmcyuq4pstyiclcvkovvjfy2yfz3gznmsgsqafead.onion
-wss://nostr.mjman.net
+ss://nostr.mjman.net
 wss://nostr-pub.wellorder.net
 wss://next.nostr.watch
 wss://atlas.nostr.land
