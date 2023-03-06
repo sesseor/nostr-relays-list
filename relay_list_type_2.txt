@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -1196,7 +1196,9 @@ wss://nostr.bybieyang.com
 wss://relay.nostrprotocol.net
 wss://zaplife.lol
 wss://relay.taldra.in
-                              wss://nostr.Ethtozero.fr
+wss://nostr.cryptojournaal.net
+wss://nostr.satsophone.tk
+wss://nostr.Ethtozero.fr
 wss://reley.kronkltd.net
 wss://nostr.klabo.blog
 wss://mrz2q7vklkwcpgojmcyuq4pstyiclcvkovvjfy2yfz3gznmsgsqafead.onion
