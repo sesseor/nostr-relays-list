@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -993,6 +993,7 @@ wss://nostr.verif-slothy.win
 wss://qitdoaq7ygegws4ft572524bxcgmxq5zmpb23ayyevsvl3dirxaxs2qd.local
 wss://nostrue.com
 wss://nostr-sandbox.minds.io
+wss://nostr.jolt.run
 wss://nostrwhoop.ph
 wss://nostr.vulpem
 wss://nostr.delo.software
@@ -1056,6 +1057,7 @@ wss://relay.grunch.dev
 wss://nostrich.friendship.tw
 
 wss://powrelay.xyz
+wss://misskey.io
 wss://vitorpamplona.co
 wss://Nostr.chaker.net
 wss://relay.truthsocial.com
@@ -1197,9 +1199,9 @@ wss://Relay.orangepill.dev
 wss://umbrel.tailnet-6ca2.ts.net:4848
 wss://nostr1.current.fyi
 wss://nostr.naut.social
-wss://nostr.prebchain.org
-wss://umbrel-2.local:4848
-.rafriedi.com
+              wss://nost.ratchat.nl
+wss://nostr01.opencult.com
+wss://nostr.rafriedi.com
 wss://eden.nostry.land
 wss://7jfgu2smh6lvw2wfixartnjcvfgfk47m5elv2y4oimkpizkrn5saz3ad.onion
 wss://ib3kefulyelfjvvw6ooxj4gkbdkgt7f4ovb4mukhs2qxuaychpbayjid.onion
