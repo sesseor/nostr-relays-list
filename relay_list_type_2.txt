@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -222,6 +222,7 @@ wss://nostr.jmdtx.com
 wss://tf2yfiqfzc2ybazi7ugmtub25gzjn3le7fetbajnrhdxtmecr2fqm7ad.onion
 wss://carnivore-diet-relay.denizenid.com
 wss://spore.ws
+wss://nostrpurple.com
 wss://africa.nostr.joburg
 wss://nostr.rikmeijer.nl:4848
 wss://notr.delo.software
@@ -1197,8 +1198,9 @@ wss://nostr.naut.social
 wss://nostr.prebchain.org
 wss://umbrel-2.local:4848
 wss://nost.ratchat.nl
-wss://nostr01.opencult.com
-               wss://7jfgu2smh6lvw2wfixartnjcvfgfk47m5elv2y4oimkpizkrn5saz3ad.onion
+     wss://nostr.rafriedi.com
+wss://eden.nostry.land
+wss://7jfgu2smh6lvw2wfixartnjcvfgfk47m5elv2y4oimkpizkrn5saz3ad.onion
 wss://ib3kefulyelfjvvw6ooxj4gkbdkgt7f4ovb4mukhs2qxuaychpbayjid.onion
 wss://relay.pub
 wss://jax1028.ndscal.com:80
