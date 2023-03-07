@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -148,6 +148,7 @@ wss://nostr.mwmdev.com
 wss://umbrel.tail86021.ts.net:4848
 wss://nostre.cc
 wss://srelay.roli.social
+wss://relay.cash.app
 wss://nostr-relay.gkbrk.com
 wss://nostr.jiashanlu.synology.me
 wss://nostr.bongbonng.com
@@ -214,6 +215,7 @@ wss://nostream-production-b80e.up.railway.app
 wss://nostr.up.railway.app
 wss://relay.nostrich.de
 wss://plebstr.com
+wss://nostr.sandwhich.farm
 wss://relay.exchange
 wss://relays.nostrplebs.com
 wss://nostr.noteon.io
@@ -944,6 +946,7 @@ wss://Dublin.saoirse.dev
 wss://relay.nostr.jhot.me
 wss://btc-Italia.online
 wss://Puravida.nostr.land
+wss://7tdom3xuus7ekv423ul46w3j43zyixjj54yoe62bndpcrgii3adeppid.local
 wss://relay.nostrid.com
 wss://txbg137zno7kqcjakic61te57emyncyacpgqazcksgfg4573yklke5ad.onion
 wss://umbrel.hyena-bee.ts.net:4848
@@ -1139,6 +1142,7 @@ wss://relay.oldcity-bitcoiners.info
 wss://relay.humanumest.social
 wss://relay.damua.io
 wss://-word.sharivegas.com
+wss://sapo.pt
 wss://nostr-2.zebedee.cloud
 wss://noster.frennet.xyz
 wss://nostr.waveplatform.org
@@ -1198,12 +1202,11 @@ wss://btc.klendazu.com
 wss://nostr.retroware.run.place
 wss://wss.nostr.pleb.network
 wss://nostr-relay.freedomnode.com
-wss://Relay.nostr.bg
-wss://nostr.chrissmith.site
-wss://rsslay.nostr.moe
-wss://dev-vivre-card.puffinstudio.cn
-wss://nostream-production-ba43.up.railway.app
-yi
+                        wss://mumbs3cfaceofpnbwthjqwreffwkuj3l3cjyuyathbqag4hs6jol6oqd.onion
+wss://nostr-relay.digitalmob.ro
+wss://Relay.orangepill.dev
+wss://umbrel.tailnet-6ca2.ts.net:4848
+wss://nostr1.current.fyi
 wss://nostr.naut.social
 wss://nostr.prebchain.org
 wss://umbrel-2.local:4848
