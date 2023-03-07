@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -45,6 +45,7 @@ wss://noster.poster.place
 wss://nostr.massmux.com
 wss://nostr01.counterclockwise.io
 wss://relay.nostr.express
+wss://Amsterdam.com
 wss://zerosequioso.com
 wss://nostr.sept.ml
 wss://nostr.orangepill.dev
@@ -659,6 +660,7 @@ wss://nproxy.kristapsk.lv
 wss://3d515c5277e9.ngrok.io
 wss://relay.bitid.nz
 wss://nostr.net.in
+wss://habla.news
 wss://relay.nostrgraph.net
 wss://nostr.corebreach.com
 wss://nostrnodeofsven.com
@@ -691,6 +693,7 @@ wss://Nostr.developer.li
 wss://nstrs.fly.dev
 wss://nostr.nymsrelay.com
 wss://nostr.sethforprivacy.com
+wss://Gangstar.bitcoin.nostr.com
 wss://relay.beta.fogtype.com
 wss://nostr.pcube.io
 wss://nostr.island.network
@@ -871,6 +874,7 @@ wss://n-word.sharivegas.com
 wss://nostr.directory
 wss://nostril.cam
 wss://nodestr.fmt.wiz.biz
+wss://relay.current.fyiwss
 wss://nostr.hushvault.ie:4848
 wss://nostr.pjv.me
 wss://mostr.pu
@@ -900,6 +904,7 @@ wss://btc-italia.online
 wss://nostr.koning-degraaf.nl
 wss://nostr2.rbel.co
 wss://alain-imac.local:4848
+wss://nostr.memes.com
 wss://Nostr.ethtozero.fr
 wss://relay.stonez.me
 wss://relay.nostrzoo.com
@@ -943,6 +948,7 @@ wss://relay.nostrid.com
 wss://txbg137zno7kqcjakic61te57emyncyacpgqazcksgfg4573yklke5ad.onion
 wss://umbrel.hyena-bee.ts.net:4848
 wss://nostr.bitcoinpuertori.co
+wss://Bitcoin.org
 wss://no.str.cr
 wss://nostr.hyperlingo.com
 wss://nostrsxz4lbwe-nostr.functions.fnc.fr-par.scw.cloud
@@ -1039,6 +1045,7 @@ wss://nostr2.actn.io
 wss://nostr.Oxtr.dev
 wss://relay1.gems.xyz
 wss://klockenga.social
+wss://runingnostr.lol
 wss://nostr.rocket-tech.net
 wss://nostr.h3z.jp
 wss://v2r.chenxixian.cn
@@ -1189,17 +1196,15 @@ wss://nostr.bingtech.tk
 wss://nostr.red
 wss://btc.klendazu.com
 wss://nostr.retroware.run.place
+wss://wss.nostr.pleb.network
 wss://nostr-relay.freedomnode.com
 wss://Relay.nostr.bg
 wss://nostr.chrissmith.site
 wss://rsslay.nostr.moe
 wss://dev-vivre-card.puffinstudio.cn
 wss://nostream-production-ba43.up.railway.app
-wss://mumbs3cfaceofpnbwthjqwreffwkuj3l3cjyuyathbqag4hs6jol6oqd.onion
-wss://nostr-relay.digitalmob.ro
-wss://Relay.orangepill.dev
-wss://umbrel.tailnet-6ca2.ts.net:4848
- wss://nostr.naut.social
+yi
+wss://nostr.naut.social
 wss://nostr.prebchain.org
 wss://umbrel-2.local:4848
 wss://nost.ratchat.nl
