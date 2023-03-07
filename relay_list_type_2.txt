@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -804,6 +804,7 @@ wss://ubuntu.local:4848
 wss://colin-hp-elitedesk-800-g1-dm.local:4848
 wss://ralay.damus.io
 wss://nostr.vulpem.com
+wss://nostr.nosphr.com
 wss://Eden.nostraland
 wss://citadel.local:4848
 wss://nostr-eu.coinfundit.com
@@ -1198,8 +1199,7 @@ wss://nostr-relay.digitalmob.ro
 wss://Relay.orangepill.dev
 wss://umbrel.tailnet-6ca2.ts.net:4848
 wss://nostr1.current.fyi
-wss://nostr.naut.social
-wss://nostr.prebchain.org
+ wss://nostr.prebchain.org
 wss://umbrel-2.local:4848
 wss://nost.ratchat.nl
 wss://nostr01.opencult.com
