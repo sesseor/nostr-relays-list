@@ -422,6 +422,7 @@ wss://icpbkp4nagnwiamref4vn3unmuexj7hplf374mmjhcl6kayxnknky2qd.onion
 wss://nostr.arguflow.gg
 wss://mutinywallet.com
 wss://nostr.uselessshit.co
+wss://www.weixin.co
 wss://nostr.anchel.nl
 wss://btc.kendazu.com
 wss://nostr-relay-dev.wlvs.space
@@ -1193,7 +1194,9 @@ wss://7jfgu2smh6lvw2wfixartnjcvfgfk47m5elv2y4oimkpizkrn5saz3ad.onion
 wss://ib3kefulyelfjvvw6ooxj4gkbdkgt7f4ovb4mukhs2qxuaychpbayjid.onion
 wss://relay.pub
 wss://jax1028.ndscal.com:80
-                                                                    wss://zur.nostr.sx
+oy3p6zbzrqbx47uyjsiv5iyyb2elvmpr2c2uiauqad.onion:5051
+wss://nostr.watch
+wss://zur.nostr.sx
 wss://rsslay.ch3n2k.com
 wss://blg.nostr.sx
 wss://nostr.ibosilj.work
