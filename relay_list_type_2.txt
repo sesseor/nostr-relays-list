@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -712,6 +712,7 @@ wss://d463rbo7dgbfuxvvxpory2og2etl4gttfzmqcixdq7rpts47lpgolkyd.onion
 wss://relay.nostr-latam.link
 wss://puravida.nostra.land
 wss://nostr.orba.ca
+wss://nostr1678063461903.app.runonflux.io
 wss://nostr.onsats.org
 wss://Paid.spore.ws
 wss://Nostr1.Tunnelsats.com
@@ -1193,8 +1194,9 @@ wss://relay.pub
 wss://jax1028.ndscal.com:80
 wss://wcbli2ttxxqmx4oy3p6zbzrqbx47uyjsiv5iyyb2elvmpr2c2uiauqad.onion:5051
 wss://nostr.watch
-wss://zur.nostr.sx
-                wss://nostr.ibosilj.work
+
+wss://blg.nostr.sx
+wss://nostr.ibosilj.work
 wss://nostr.walletofsatoshi
 wss://nostr-3.orba.ca
 wss://nostr.citizenry.technology
