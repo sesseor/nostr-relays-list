@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -1193,12 +1193,13 @@ wss://Relay.orangepill.dev
 wss://umbrel.tailnet-6ca2.ts.net:4848
 wss://nostr1.current.fyi
 wss://nostr.naut.social
+wss://nostr.prebchain.org
 wss://umbrel-2.local:4848
 wss://nost.ratchat.nl
 wss://nostr01.opencult.com
 wss://nostr.rafriedi.com
 wss://eden.nostry.land
-wss://7jfgu2smh6lvw2wfixartnjcvfgfk47m5elv2y4oimkpizkrn5saz3ad.onion
+tnjcvfgfk47m5elv2y4oimkpizkrn5saz3ad.onion
 wss://ib3kefulyelfjvvw6ooxj4gkbdkgt7f4ovb4mukhs2qxuaychpbayjid.onion
 wss://relay.pub
 wss://jax1028.ndscal.com:80
@@ -1382,6 +1383,7 @@ wss://7jdx65mkmffhghgihv26wuan6t2rl3u7ua65jgbtuvva226aeqhvqoad.onion
 wss://relay.nostrexplorer.com
 wss://brb.io
 wss://nostream.denizenid.com
+wss://Mostr.pub
 wss://u-3ddc416ldv3lq.local:4848
 wss://homeserver.drake-carp.ts.net:4848
 wss://soullands.com
