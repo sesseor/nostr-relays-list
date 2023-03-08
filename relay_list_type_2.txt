@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -283,6 +283,7 @@ wss://relay.denizenid.com
 wss://nostr.blipme.app
 wss://nostr-Relay.alekberg.net
 wss://relay.rebelbase.site
+wss://5rc7koxcex4fccyj7gb576tlbwfppyo3u4b4j5oekiiy5ncuscccvoad.onion
 wss://fiatdenier.com
 wss://nostrzebedee.cloud
 wss://relay.nyc1.vinux.app
@@ -1200,9 +1201,7 @@ wss://relay.nosbin.com
 wss://nostr.dutch.cryptonews
 wss://nostr.easify.de
 wss://nostr.relay.limo
-wss://lproxnb5xpeomugwmbhxywrihu46cimm2ikutcuvzkg4d7gvw5nn7sqd.onion
-wss://relay.jig.works
-wss://nostr-relay.pcdkd.fyi
+                      wss://nostr-relay.pcdkd.fyi
 wss://nostr.ethtozero.fr
 wss://mcja3k7s7godsfe6n5cji5tvh3nbhacbb2kl7j5sisias4s3uls5cjid.onion
 wss://nose.lol
@@ -1449,6 +1448,7 @@ wss://nostr-2.zebeedee.cloud
 wss://nostr.actin.io
 wss://relay.roli.social
 wss://paid.spore.ws
+wss://anigma.io
 wss://nostr-mv.ashiroid.com
 wss://Nostr.mutinywallet.com
 wss://nostr.fmt.wis.biz
