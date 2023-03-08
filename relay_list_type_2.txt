@@ -317,6 +317,7 @@ wss://nostr-2.orba.ca
 wss://sg.qemura.xyz
 wss://relayer.fiatjaf.com
 wss://bitcoinnostr.com
+wss://pay.nostr-sg.com
 wss://relay.futohq.com
 wss://nostr.lapalomilla.mx
 wss://nostr.zerofiat.world
@@ -1203,7 +1204,9 @@ wss://nostr.web3infra.xyz
 wss://www.nostrweb.xyz
 wss://nostr.private.network
 wss://nostr.zebedee.cloud
-ostr-sg.com
+k.xyz
+wss://nos.lol
+wss://relay.nostr-sg.com
 wss://nostr.bitocial.xyz
 wss://relay1.nostrich.cloud
 wss://testnet.arkaitzj.com
