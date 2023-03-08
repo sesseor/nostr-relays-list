@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -1098,6 +1098,7 @@ wss://relay.nostr.au
 wss://ostr-1.afarazit.eu
 wss://nostr.bitcoiner.socia
 wss://nostr.zkid.social
+wss://nostr.zhongwen.world
 wss://relay.nostrichs.org
 wss://relay.honk.pw
 wss://nostr.laevateinn.org:4343
@@ -1202,8 +1203,7 @@ wss://nostr.private.network
 wss://nostr.zebedee.cloud
 wss://nostr.supremestack.xyz
 wss://nos.lol
-wss://relay.nostr-sg.com
-wss://nostr.bitocial.xyz
+s://nostr.bitocial.xyz
 wss://relay1.nostrich.cloud
 wss://testnet.arkaitzj.com
 wss://jb55.com
