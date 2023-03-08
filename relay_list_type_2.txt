@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -135,6 +135,7 @@ wss://nostr.bitcoiner.social
 wss://nostream-production-5895.up.railway.app
 wss://relay.nostr.gb
 wss://nostr.lu.ke
+wss://baynode.tail4ea8d.ts.net:4848
 wss://relay.sendstr.com
 wss://nostr-rely.trustbtc.org
 wss://bitcoiner.social
@@ -1138,6 +1139,7 @@ wss://nostr.bridgey.dev
 wss://nostream-production-31f8.up.railway.app
 wss://nostr.test.aesyc.io
 wss://ryogrid.net:7777
+wss://nostr.codl.co
 wss://nostr.nordlysln.net:3241
 wss://wagvwfrdrikrqzp7h3b5lwl6btyuttu7mqpeji35ljzq36ovzgjhsfqd.onion
 wss://nostr.rocketstyle.com.au
@@ -1201,9 +1203,8 @@ wss://nostr.web3infra.xyz
 wss://www.nostrweb.xyz
 wss://nostr.private.network
 wss://nostr.zebedee.cloud
-wss://nostr.supremestack.xyz
-wss://nos.lol
-s://nostr.bitocial.xyz
+ostr-sg.com
+wss://nostr.bitocial.xyz
 wss://relay1.nostrich.cloud
 wss://testnet.arkaitzj.com
 wss://jb55.com
