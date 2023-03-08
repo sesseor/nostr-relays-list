@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -1203,7 +1203,12 @@ wss://nostr.zebedee.cloud
 wss://nostr.supremestack.xyz
 wss://nos.lol
 wss://relay.nostr-sg.com
-        wss://relay.dumas.io
+wss://nostr.bitocial.xyz
+wss://relay1.nostrich.cloud
+wss://testnet.arkaitzj.com
+wss://jb55.com
+wss://nostr.rdfriendl.com
+wss://relay.dumas.io
 wss://jiggytom.ddns.net
 wss://spicy-tray-3ghp3voydiwvmfm2ijur.wnext.app
 wss://nostr.bingtech.tk
@@ -1425,6 +1430,7 @@ wss://Mostr.pub
 wss://u-3ddc416ldv3lq.local:4848
 wss://homeserver.drake-carp.ts.net:4848
 wss://soullands.com
+wss://yosupp.app
 wss://nostr.radixrar.com
 wss://nostr-2.zebeedee.cloud
 wss://nostr.actin.io
