@@ -120,6 +120,7 @@ wss://middling.myddns.me:8080
 wss://relay.hamnet.io
 wss://nostrfoxden.ddns.net:4848
 wss://coracle.social
+wss://nostr2.sanhauf.com
 wss://nostr.bostonbtc.com
 wss://nostro.online
 wss://nostr.Nikolaj.online
@@ -668,6 +669,7 @@ wss://nostr.itssilvestre.com
 wss://node1.nostress.cc
 wss://nostr-2.zebdeee.cloud
 wss://relay.21spirits.io
+wss://relay.nostr.org
 wss://nostr.mutinywallet
 wss://member.cash
 wss://nproxy.kristapsk.lv
@@ -763,6 +765,7 @@ wss://hrxqtouyp7j3yqg4hsfde2hmjtkxltmyu64y3suk3dttcwjkdbapc4qd.onion:5051
 wss://puravida.nostr.land.com
 wss://relaynostr.joelsilva3.repl.co
 wss://relau.zeh.app
+wss://nostr-z9tc.onrender.com
 wss://ibrygen.xyz
 wss://r.ayit.org
 wss://dave.st.germa.in
@@ -1169,6 +1172,7 @@ wss://-word.sharivegas.com
 wss://sapo.pt
 wss://nostr-2.zebedee.cloud
 wss://noster.frennet.xyz
+wss://moauxczxwvggzqhtgjjyjqzmdmnwoxaa7mmgk5veljylj6yev4lqddad.onion
 wss://nostr.waveplatform.org
 wss://Nostr.einundzwazig.space
 wss://nostr.hackerman.pro
@@ -1198,12 +1202,8 @@ wss://nostr.easify.de
 wss://nostr.relay.limo
 wss://lproxnb5xpeomugwmbhxywrihu46cimm2ikutcuvzkg4d7gvw5nn7sqd.onion
 wss://relay.jig.works
-wss://nostr-relay.pcdkd.fyi
-wss://nostr.ethtozero.fr
-wss://mcja3k7s7godsfe6n5cji5tvh3nbhacbb2kl7j5sisias4s3uls5cjid.onion
-wss://nose.lol
-wss://nostr.thesimplekid.com
-ss://944e-54-211-137-55.ngrok.io
+                    wss://nostr.lorentz.is
+wss://944e-54-211-137-55.ngrok.io
 wss://nostr.web3infra.xyz
 wss://www.nostrweb.xyz
 wss://nostr.private.network
