@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -456,6 +456,7 @@ wss://mindmachine.org
 wss://fishb.mailbf.org:4848
 wss://relay.nostr.ch
 wss://nostr.sactiontwo.org
+wss://nostr.naut.social.com
 wss://nostr.lingoh.dev
 wss://nostr.mjex.me
 wss://nostr.noones.com
@@ -875,6 +876,7 @@ wss://relay.nostr.mutinywallet.com
 wss://hive-i.local:4848
 wss://nostr.1f52b.xyz
 wss://lordkno.ws
+wss://nostr.aste.co
 wss://relay.bigred.social
 wss://nostr.dshq.ca
 wss://relay.sdbtc.org
@@ -1201,7 +1203,9 @@ wss://relay.nosbin.com
 wss://nostr.dutch.cryptonews
 wss://nostr.easify.de
 wss://nostr.relay.limo
-                      wss://nostr-relay.pcdkd.fyi
+g4d7gvw5nn7sqd.onion
+wss://relay.jig.works
+wss://nostr-relay.pcdkd.fyi
 wss://nostr.ethtozero.fr
 wss://mcja3k7s7godsfe6n5cji5tvh3nbhacbb2kl7j5sisias4s3uls5cjid.onion
 wss://nose.lol
