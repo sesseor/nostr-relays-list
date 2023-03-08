@@ -1203,7 +1203,11 @@ wss://relay.dumas.io
 wss://jiggytom.ddns.net
 wss://spicy-tray-3ghp3voydiwvmfm2ijur.wnext.app
 wss://nostr.bingtech.tk
-freedomnode.com
+wss://nostr.red
+wss://btc.klendazu.com
+wss://nostr.retroware.run.place
+wss://wss.nostr.pleb.network
+wss://nostr-relay.freedomnode.com
 wss://Relay.nostr.bg
 wss://nostr.chrissmith.site
 wss://rsslay.nostr.moe
@@ -1307,6 +1311,7 @@ wss://nostream-relay-nostr.831.pp.ua
 wss://nostr.walletofsatoshi.com
 wss://nostr.dvdt.dev
 wss://relay.mrjohnsson.netCheck
+wss://nostr-check.me
 wss://7tdom3xuus7ekv423ul46w3j43zyixjj54yoe62bndpcrgii3adeppid.onion
 wss://Nostr.milou.lol
 wss://tail8278a.ts.net
@@ -1331,6 +1336,7 @@ wss://nostr.100p.org
 wss://nostr.bongbong.com
 wss://tail6452b.ts.net:4848
 wss://r.alphaama.com
+wss://cow-woodpecker.ts.net:4848
 wss://relay.austritch.net
 wss://nostr.snort.social
 wss://relay.brb.io
