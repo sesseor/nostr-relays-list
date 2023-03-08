@@ -1436,3 +1436,8 @@ wss://relay.nosterplebs.com
 wss://nostr.net.in
 wss://nostr.ottonove891.cf
 wss://nostr1678063461903.app.runonflux.io
+wss://relay.hrf.org
+wss://habla.news
+wss://relay.rants.pub
+wss://relay.mynostr.fun
+wss://truthsocial.com
