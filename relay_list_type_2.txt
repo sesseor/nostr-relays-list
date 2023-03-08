@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -780,6 +780,7 @@ wss://nostr.21sats.net
 wss://i6adjqrnqagzghleyrn24y2euzuy2fvfqacryuo7qh3zy2e2jg2jxdid.onion
 wss://relayer.ocha.one
 wss://nostream-production-9458.up.railway.app
+wss://relay.whoop.ph
 wss://yttmdhxezyfu2mjzbtynxw3gpjpg5qql6aazphiajlz24zd7omwr5dqd.onion:5051
 wss://relay.nostr.wine
 wss://nostr.topeth.info
@@ -1201,8 +1202,7 @@ wss://nostr.red
 wss://btc.klendazu.com
 wss://nostr.retroware.run.place
 wss://wss.nostr.pleb.network
-wss://nostr-relay.freedomnode.com
-wss://Relay.nostr.bg
+             wss://Relay.nostr.bg
 wss://nostr.chrissmith.site
 wss://rsslay.nostr.moe
 wss://dev-vivre-card.puffinstudio.cn
