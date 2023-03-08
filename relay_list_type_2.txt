@@ -185,6 +185,7 @@ wss://freespeech.casa
 wss://nostr.nokotaro.com
 wss://nostr.bitcoinplebs.de
 wss://h3avzcsyhvpi2mtmh5d3yqhz65cwsmbdlud37hk5gbnxi2gkajwoczqd.local
+wss://chase-umbrel.local:4848
 wss://nostrpro.xyz
 wss://nostr.chainofimmortals.net
 wss://relay.nostr.ro
@@ -1202,8 +1203,7 @@ wss://relay1.nostrich.cloud
 wss://testnet.arkaitzj.com
 wss://jb55.com
 wss://nostr.rdfriendl.com
-wss://relay.dumas.io
-wss://jiggytom.ddns.net
+               wss://spicy-tray-3ghp3voydiwvmfm2ijur.wnext.app
 wss://nostr.bingtech.tk
 wss://nostr.red
 wss://btc.klendazu.com
@@ -1279,6 +1279,7 @@ wss://relay.nostrpurple.com
 wss://relay.nostr.bitcoiner.social
 wss://dev.saoirse.dev
 wss://z4mf4irie7bo3l6c24lqu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
+wss://Bitcoiner.social
 wss://nostr-bg01.ciph.rs
 wss://nostr.whoop.ph
 wss://6gygg7t2ngtl6lvipwgbjwledrr6hnfuhufgijct3v425ba32n2scbid.onion
@@ -1335,6 +1336,7 @@ wss://Nostr.mom
 wss://redgreenblue.click
 wss://nostr-pub.welllorder.net
 wss://nostr.100p.org
+wss://nostr.eaglebtm.com
 wss://nostr.bongbong.com
 wss://tail6452b.ts.net:4848
 wss://r.alphaama.com
