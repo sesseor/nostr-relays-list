@@ -862,6 +862,7 @@ wss://nostr.uthark.com
 wss://nauka-relay.herokuapp.com
 wss://nostr-relay.bigsun.xyz
 wss://relay.hammel.io
+wss://e45sscni6e6y64bmla3yznokekcco2jfldvh5ptkbd3ljqqj23zb5hid.onion
 wss://mastodon.cloud
 wss://nostr.sovbit.host
 wss://relay.1bps.io
@@ -1039,6 +1040,7 @@ wss://bitcoiners.social
 wss://astral.nostr.land
 wss://ArsIP.ddns.net
 wss://lightningrelay.com
+wss://replay.damus.io
 wss://middling.sytes.net
 wss://nostr.indus
 wss://dergigi.com
@@ -1200,10 +1202,7 @@ wss://nostr.ZEBEDEE.cloud
 wss://nostr.blockpower.capital
 wss://altcoinnect.xyz
 wss://relay.nosbin.com
-wss://nostr.dutch.cryptonews
-wss://nostr.easify.de
-wss://nostr.relay.limo
-g4d7gvw5nn7sqd.onion
+omugwmbhxywrihu46cimm2ikutcuvzkg4d7gvw5nn7sqd.onion
 wss://relay.jig.works
 wss://nostr-relay.pcdkd.fyi
 wss://nostr.ethtozero.fr
@@ -1281,6 +1280,7 @@ wss://mrz2q7vklkwcpgojmcyuq4pstyiclcvkovvjfy2yfz3gznmsgsqafead.onion
 wss://nostr.mjman.net
 wss://nostr-pub.wellorder.net
 wss://next.nostr.watch
+wss://hdd6dyp3zlacouocjjk4fix4wcd66dugibmyrfqqza6exnljr2fypxqd.onion
 wss://atlas.nostr.land
 wss://caro-relay.fiatjaf.com
 wss://relay.nostr.com.au
