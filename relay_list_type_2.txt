@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -1029,6 +1029,7 @@ wss://nostr-dev.wellorder.net
 wss://relay.punkhub.me
 wss://nostr.walletofsatishi.com
 wss://nostr.delivery
+wss://runningnostr.lol
 wss://ufyirz4f5sn5gbsx4mfabooievm3lxcx6fnsh4udzx7silws6kbpypid.onion
 wss://rbr.bio
 wss://nostr.sidnlabs.nl
@@ -1202,8 +1203,7 @@ wss://nostr.rdfriendl.com
 wss://relay.dumas.io
 wss://jiggytom.ddns.net
 wss://spicy-tray-3ghp3voydiwvmfm2ijur.wnext.app
-wss://nostr.bingtech.tk
-wss://nostr.red
+ wss://nostr.red
 wss://btc.klendazu.com
 wss://nostr.retroware.run.place
 wss://wss.nostr.pleb.network
@@ -1408,6 +1408,7 @@ wss://nostr.datamagik.com
 wss://nostr-paid.h3z.jp
 wss://nostr.stashmx.com
 wss://nostr.robotesc.ro
+wss://yoshiki-optiplex-3050.local:4848
 wss://1f52b.xyz
 wss://7jdx65mkmffhghgihv26wuan6t2rl3u7ua65jgbtuvva226aeqhvqoad.onion
 wss://relay.nostrexplorer.com
