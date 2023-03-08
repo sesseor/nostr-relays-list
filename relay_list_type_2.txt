@@ -41,6 +41,7 @@ wss://nostrproxy-4.f7z.io
 wss://relay.nostr.co.jp
 wss://nostr.raitisoja.net
 wss://nostr.trustbtc.org
+wss://friendship.tw
 wss://noster.poster.place
 wss://nostr.massmux.com
 wss://nostr01.counterclockwise.io
@@ -664,6 +665,7 @@ wss://nostr.mouton.dev
 wss://nostr.freefrom.fi
 wss://umbrel.tailda10b.ts.net:4848
 wss://nostr.itssilvestre.com
+wss://node1.nostress.cc
 wss://nostr-2.zebdeee.cloud
 wss://relay.21spirits.io
 wss://nostr.mutinywallet
@@ -715,6 +717,7 @@ wss://relayer.pleb.social
 wss://nostr.orangepill.dev
 
 wss://nostr.or.jp
+wss://nostr.handyjunkie.com
 wss://nostr-relay.nokotaro.com
 wss://uxc-vm.local:4848
 wss://paid.nostried.org
@@ -1118,6 +1121,7 @@ wss://nostr.barf.bz
 wss://libertas.primordium.com
 wss://mostr.wine
 wss://c2vavnekeuydace4cnlwipa3dtdtlf7w3epavexpklsexnyjdxgl2xad.onion:5051
+wss://eagerporpoise9.lnbits.com
 wss://Universe.nostrich.land
 wss://nostr.screaminglife.io
 wss://nostr.skate-zebra.ts.net:4848
@@ -1198,13 +1202,7 @@ wss://nostr.ethtozero.fr
 wss://mcja3k7s7godsfe6n5cji5tvh3nbhacbb2kl7j5sisias4s3uls5cjid.onion
 wss://nose.lol
 wss://nostr.thesimplekid.com
-wss://nostr.lorentz.is
-wss://944e-54-211-137-55.ngrok.io
-wss://nostr.web3infra.xyz
-wss://www.nostrweb.xyz
-wss://nostr.private.network
-wss://nostr.zebedee.cloud
-k.xyz
+                                                        wss://nostr.supremestack.xyz
 wss://nos.lol
 wss://relay.nostr-sg.com
 wss://nostr.bitocial.xyz
