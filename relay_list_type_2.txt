@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -400,6 +400,7 @@ wss://4.up.railway.app
 wss://nostr.doufu-tech.com
 wss://nostrverified.com
 wss://lbrygen.xyz
+wss://rwlay.bigred.social
 wss://relay.nostrcheck.me
 wss://nostr1.starbackr.me
 wss://relay.current.fy
@@ -486,6 +487,7 @@ wss://nostr.decentony.com
 wss://hexvpo6qah53lnpwdrjpxpwcf4qzdyhxhw5fj7revkuyezge4rjabsid.onion
 wss://thes.ai
 wss://rdafsvko2moo3qsmqojwcrjodp7vtjpcxrwjbacrw4mwppk6gwl4zbyd.onion
+wss://rs.martelus.net
 wss://akiomik.github.io
 wss://Nostr.uselessshit.co
 wss://5nae6lvs5nd7tlxmoaysol4a5rs5uo5ekzisqvjcu6pc5kag7kcg45qd.onion
@@ -1202,8 +1204,8 @@ wss://jb55.com
 wss://nostr.rdfriendl.com
 wss://relay.dumas.io
 wss://jiggytom.ddns.net
-wss://spicy-tray-3ghp3voydiwvmfm2ijur.wnext.app
- wss://nostr.red
+wss://nostr.bingtech.tk
+wss://nostr.red
 wss://btc.klendazu.com
 wss://nostr.retroware.run.place
 wss://wss.nostr.pleb.network
