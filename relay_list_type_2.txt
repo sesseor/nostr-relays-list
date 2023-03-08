@@ -69,6 +69,7 @@ wss://eden.nostr.space
 wss://nostr-relay.derekross.me
 wss://nostr.21crypto.ch
 wss://nostr.256k1.dev
+wss://puravida.nostrich.land
 wss://relay.farscapian.com
 wss://msi-laptop.local:4848
 wss://relay.wellorder.net
@@ -418,6 +419,7 @@ wss://nostriches.club
 wss://purevida.nostr.land
 wss://edennostr.land
 wss://nostr.mutiny.com
+wss://relay.theorangepillapp.com
 wss://nostr.net.za
 wss://private-nostr.v0l.io
 wss://jdqldw6hffnjdymzo5bikc75xuc7kg5zex23yuhczyacqcth5hxw2sid.onion
@@ -736,6 +738,7 @@ wss://relay.nostr-latam.link
 wss://puravida.nostra.land
 wss://nostr.orba.ca
 wss://nostr1678063461903.app.runonflux.io
+wss://hamstr.to
 wss://nostr.onsats.org
 wss://Paid.spore.ws
 wss://Nostr1.Tunnelsats.com
@@ -909,6 +912,7 @@ wss://iris.poster.place
 wss://hushvault.ie
 wss://nostr.coinos.io
 wss://node.james-trussy.com:4848
+wss://umbrel.tail3549e.ts.net:4848
 wss://relay.fiatjaf.com
 wss://nostr.randomdevelopment.biz
 wss://btc-italia.online
@@ -1199,12 +1203,7 @@ wss://nostr.zebedee.cloud
 wss://nostr.supremestack.xyz
 wss://nos.lol
 wss://relay.nostr-sg.com
-wss://nostr.bitocial.xyz
-wss://relay1.nostrich.cloud
-wss://testnet.arkaitzj.com
-wss://jb55.com
-wss://nostr.rdfriendl.com
-.io
+        wss://relay.dumas.io
 wss://jiggytom.ddns.net
 wss://spicy-tray-3ghp3voydiwvmfm2ijur.wnext.app
 wss://nostr.bingtech.tk
@@ -1418,6 +1417,7 @@ wss://nostr.robotesc.ro
 wss://yoshiki-optiplex-3050.local:4848
 wss://1f52b.xyz
 wss://7jdx65mkmffhghgihv26wuan6t2rl3u7ua65jgbtuvva226aeqhvqoad.onion
+wss://xjpv5c4sh2vtqy63ywvukyjajdn26pms6robbuy57iyyn557ibfwafid.onion
 wss://relay.nostrexplorer.com
 wss://brb.io
 wss://nostream.denizenid.com
