@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -866,6 +866,7 @@ wss://lordkno.ws
 wss://relay.bigred.social
 wss://nostr.dshq.ca
 wss://relay.sdbtc.org
+wss://b.ayit.org
 wss://nostr-relay.smoove.net
 wss://nostr.pleb.network
 wss://relay.h3z.jp
@@ -1203,7 +1204,7 @@ wss://relay1.nostrich.cloud
 wss://testnet.arkaitzj.com
 wss://jb55.com
 wss://nostr.rdfriendl.com
-wss://relay.dumas.io
+.io
 wss://jiggytom.ddns.net
 wss://spicy-tray-3ghp3voydiwvmfm2ijur.wnext.app
 wss://nostr.bingtech.tk
