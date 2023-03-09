@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -450,6 +450,7 @@ wss://nostr.arguflow.gg
 wss://mutinywallet.com
 wss://nostr.uselessshit.co
 wss://www.weixin.co
+wss://lnbits.anonymousgreen.com
 wss://nostr.anchel.nl
 wss://btc.kendazu.com
 wss://nostr-relay-dev.wlvs.space
@@ -666,6 +667,7 @@ wss://raspberrypi3.jay-chameleon.ts.net
 wss://nostr.vol.io
 wss://plebs.place
 wss://relay.nostrati.com
+wss://nostr.21.crypto.ch
 wss://umha4zl6xk62a4dous6e7tq4qlmt462hlzs2su33en6qrvtvs3hkjgid.onion
 wss://nostr.8e23.net
 wss://nostr.zebeedee.cloud
@@ -978,6 +980,7 @@ wss://nostrical.com
 wss://nostr.overmind.lol
 wss://f6lt4jubayhatxzjt4bhtmwuspnxa5qjvo2476s6ctonm7rkth5jziyd.onion
 wss://nostr.uselesshit.co
+wss://relay.kongerik.et
 wss://nostr-alpha.gruntwerk.org
 wss://Dublin.saoirse.dev
 wss://relay.nostr.jhot.me
@@ -1480,12 +1483,9 @@ wss://Nostr.mutinywallet.com
 wss://nostr.fmt.wis.biz
 wss://filter.nostre.wine
 wss://relay.iris.to
-wss://dev2.hazilitt.fiatjaf.com
-wss://nostr.1sat.org
-wss://nas.huxim.top:9292
-wss://nostr.bitcoin-basel.ch
-wss://relay.zeh.app
-.madbean.snowinning.com
+                                              wss://nostr.tools.global.id
+wss://Nostr.nodeofsven.com
+wss://nostream.madbean.snowinning.com
 wss://relay.damous.io
 wss://nostriches.org
 wss://relay.ryzizub.com
