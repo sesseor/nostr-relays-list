@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -1142,6 +1142,7 @@ wss://amine-thinkpad-e14.local:4848
 wss://relay.nyx.ma
 wss://nostr.barf.bz
 wss://libertas.primordium.com
+wss://w4nw27cmzi7o67lieyb5krfpies5n5tgzhjrqervfk3i5c3ucd33eoqd.onion
 wss://mostr.wine
 wss://c2vavnekeuydace4cnlwipa3dtdtlf7w3epavexpklsexnyjdxgl2xad.onion:5051
 wss://eagerporpoise9.lnbits.com
@@ -1484,9 +1485,7 @@ wss://nostr.1sat.org
 wss://nas.huxim.top:9292
 wss://nostr.bitcoin-basel.ch
 wss://relay.zeh.app
-wss://nostr.tools.global.id
-wss://Nostr.nodeofsven.com
-wss://nostream.madbean.snowinning.com
+.madbean.snowinning.com
 wss://relay.damous.io
 wss://nostriches.org
 wss://relay.ryzizub.com
