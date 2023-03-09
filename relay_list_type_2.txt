@@ -213,6 +213,7 @@ wss://relay.honk.pw
 
 wss://nostream.sh4.red
 wss://relay.minds.io
+wss://nostr.fmt.wiz.bi
 wss://nostr.band
 wss://nostr.nikolaj.online
 wss://ragnar-relay.com
@@ -241,6 +242,7 @@ wss://eosla.com
 wss://nostr.oxtr.dev
 
 wss://nostr.fredix.xyz
+wss://nostr.winer
 wss://relay.t5y.ca
 wss://nostr.v0I.io
 wss://relay.nosterplebs.com
@@ -293,6 +295,7 @@ wss://noster.online
 wss://nostr-Pub.semisol.dev
 wss://relay.nostr.africa
 wss://mostr.snblago.com
+wss://relay.rip
 wss://nostr.coincreek.com
 wss://nostr.slothy.win
 wss://nostr.w3ird.tech
@@ -1482,9 +1485,7 @@ wss://anigma.io
 wss://nostr-mv.ashiroid.com
 wss://Nostr.mutinywallet.com
 wss://nostr.fmt.wis.biz
-wss://filter.nostre.wine
-wss://relay.iris.to
-af.com
+azilitt.fiatjaf.com
 wss://nostr.1sat.org
 wss://nas.huxim.top:9292
 wss://nostr.bitcoin-basel.ch
