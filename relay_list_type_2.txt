@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -1486,7 +1486,11 @@ wss://nostr.bitcoin-basel.ch
 wss://relay.zeh.app
 wss://nostr.tools.global.id
 wss://Nostr.nodeofsven.com
-     wss://nostr.gives.africa
+wss://nostream.madbean.snowinning.com
+wss://relay.damous.io
+wss://nostriches.org
+wss://relay.ryzizub.com
+wss://nostr.gives.africa
 wss://nostrafrica.pcdkd.fvi
 wss://realy.damus.io
 wss://3gkpphcfwb6w5iq6axnmlbvr7pz2t37uy4ofocyijzttzrbz4jy43fid.onion
