@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -1485,7 +1485,9 @@ wss://anigma.io
 wss://nostr-mv.ashiroid.com
 wss://Nostr.mutinywallet.com
 wss://nostr.fmt.wis.biz
-azilitt.fiatjaf.com
+wss://filter.nostre.wine
+wss://relay.iris.to
+wss://dev2.hazilitt.fiatjaf.com
 wss://nostr.1sat.org
 wss://nas.huxim.top:9292
 wss://nostr.bitcoin-basel.ch
