@@ -1169,6 +1169,7 @@ wss://nostr.notmyhostna.me
 wss://nostr-1.nbo.angani.co
 wss://relay.nostr.amane.moe
 wss://shroomslab.net
+wss://cercatrova.me
 wss://relay.milou.lol
 wss://zebeedee.cloud
 wss://nostr3.actn.io
@@ -1294,6 +1295,7 @@ wss://Nostr.f44.dev
 wss://nostream.delta9.tech
 wss://relay.Dwadziesciajeden.pl
 wss://ab3w43g76lfczosxso7tp7gcada6hge6uw4uk4mu54mebynu2dj5fvid.onion
+wss://nostr-ts-relay.ip.inf.br
 wss://nostr.bybieyang.com
 wss://relay.nostrprotocol.net
 wss://zaplife.lol
@@ -1483,9 +1485,10 @@ wss://soullands.com
 wss://yosupp.app
 wss://nostr.radixrar.com
 wss://nostr-2.zebeedee.cloud
-wss://nostr.actin.io
-wss://relay.roli.social
-wss://paid.spore.wsinywallet.com
+             
+wss://anigma.io
+wss://nostr-mv.ashiroid.com
+wss://Nostr.mutinywallet.com
 wss://nostr.fmt.wis.biz
 wss://filter.nostre.wine
 wss://relay.iris.to
