@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -134,6 +134,7 @@ wss://relay.nostr.xyz
 wss://e.nos.lol
 wss://nost.plebstr.com
 wss://nostr.bitcoiner.social
+wss://ofchain.pub
 wss://nostream-production-5895.up.railway.app
 wss://relay.nostr.gb
 wss://nostr.lu.ke
@@ -790,6 +791,7 @@ wss://dave.st.germa.in
 wss://expensive-relay.fiatjaf.com
 wss://nostr.essydns.ca
 wss://relay.nostrnotes.com
+wss://nostruselessshit.co
 wss://nostr-relay.digitamob.ro
 wss://relay.21spiritis.io
 wss://relay.lexingtonbitcoin.org
@@ -1152,6 +1154,7 @@ wss://libertas.primordium.com
 wss://w4nw27cmzi7o67lieyb5krfpies5n5tgzhjrqervfk3i5c3ucd33eoqd.onion
 wss://mostr.wine
 wss://c2vavnekeuydace4cnlwipa3dtdtlf7w3epavexpklsexnyjdxgl2xad.onion:5051
+wss://bitcoinforthe.lol
 wss://eagerporpoise9.lnbits.com
 wss://Universe.nostrich.land
 wss://nostr.screaminglife.io
@@ -1483,9 +1486,7 @@ wss://relay.roli.social
 wss://paid.spore.ws
 wss://anigma.io
 wss://nostr-mv.ashiroid.com
-wss://Nostr.mutinywallet.com
-wss://nostr.fmt.wis.biz
-wss://filter.nostre.wine
+stre.wine
 wss://relay.iris.to
 wss://dev2.hazilitt.fiatjaf.com
 wss://nostr.1sat.org
