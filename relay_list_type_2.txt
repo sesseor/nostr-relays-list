@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -522,6 +522,7 @@ wss://nostr.adpo.co
 wss://nostr.bitcoin-21.org
 wss://moonbreeze.richardbondi.net
 wss://bitcoinmaximalist.online
+wss://Nostr.rocks
 wss://relay.shitforce.one
 wss://nostr.fresheyesinc.com
 wss://relay.current.fyi
@@ -986,6 +987,7 @@ wss://7tdom3xuus7ekv423ul46w3j43zyixjj54yoe62bndpcrgii3adeppid.local
 wss://relay.nostrid.com
 wss://txbg137zno7kqcjakic61te57emyncyacpgqazcksgfg4573yklke5ad.onion
 wss://umbrel.hyena-bee.ts.net:4848
+wss://Nostr.zebedee.cloud
 wss://nostr.bitcoinpuertori.co
 wss://Bitcoin.org
 wss://no.str.cr
@@ -995,6 +997,7 @@ wss://arsip.ddns.net
 wss://nostr.bch.ninja
 wss://nostr.mnethome.de
 wss://nein.lol
+wss://Nostr.walletofsatoshi.com
 wss://relay.nvote.co
 wss://relay.Sovereign-stack.org
 wss://latam1-nostr.stealthy.co
@@ -1310,6 +1313,7 @@ wss://nostr.p2sh.co
 wss://relay.nostr.lu
 wss://umbrel.merino-bee.ts.net
 wss://nostr.terminus.money
+wss://Nostr.fmt.wiz.biz
 wss://translate.argosopentech.com
 wss://nostr-relay.xbytez.io
 wss://nostr.v0l.io
@@ -1482,11 +1486,7 @@ wss://nostr.bitcoin-basel.ch
 wss://relay.zeh.app
 wss://nostr.tools.global.id
 wss://Nostr.nodeofsven.com
-wss://nostream.madbean.snowinning.com
-wss://relay.damous.io
-wss://nostriches.org
-wss://relay.ryzizub.com
-wss://nostr.gives.africa
+     wss://nostr.gives.africa
 wss://nostrafrica.pcdkd.fvi
 wss://realy.damus.io
 wss://3gkpphcfwb6w5iq6axnmlbvr7pz2t37uy4ofocyijzttzrbz4jy43fid.onion
