@@ -1331,6 +1331,7 @@ wss://nostr.v0l.io
 wss://relay.nostrpurple.com
 wss://relay.nostr.bitcoiner.social
 wss://dev.saoirse.dev
+wss://zaprelay.com
 wss://z4mf4irie7bo3l6c24lqu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
 wss://Bitcoiner.social
 wss://nostr-bg01.ciph.rs
@@ -1375,6 +1376,7 @@ wss://tail8278a.ts.net
 wss://nostr-relay.wlvs.space
 wss://nostr.21sats.org
 wss://nostr-relay.local:7443
+wss://paying-prancing.fractalnetworks.co
 wss://nostr.0xtr.dev
 wss://-pub.wellorder.net
 wss://nostr.mom
@@ -1483,10 +1485,7 @@ wss://nostr.radixrar.com
 wss://nostr-2.zebeedee.cloud
 wss://nostr.actin.io
 wss://relay.roli.social
-wss://paid.spore.ws
-wss://anigma.io
-wss://nostr-mv.ashiroid.com
-wss://Nostr.mutinywallet.com
+wss://paid.spore.wsinywallet.com
 wss://nostr.fmt.wis.biz
 wss://filter.nostre.wine
 wss://relay.iris.to
