@@ -492,6 +492,7 @@ wss://nostr.robotechy.com
 wss://nostr.k3tan.com
 wss://relay.n057r.club
 wss://nostr.leximaster.com
+wss://fractalized.ovh
 wss://deconomy-netser.ddns.net:2121
 wss://relay.nvote.com
 wss://relay.boring.surf
@@ -1200,7 +1201,7 @@ wss://nostr.relayer.se
 wss://nostr.ctseuro.com
 wss://nostr.cheesebot.org
 wss://nostr.glate.ch
-
+43
 wss://zbd.ai
 wss://nostr-sg.com
 wss://nostr.ZEBEDEE.cloud
