@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -1483,7 +1483,13 @@ wss://Nostr.mutinywallet.com
 wss://nostr.fmt.wis.biz
 wss://filter.nostre.wine
 wss://relay.iris.to
-                                              wss://nostr.tools.global.id
+wss://dev2.hazilitt.fiatjaf.com
+wss://nostr.1sat.org
+wss://nas.huxim.top:9292
+wss://nostr.bitcoin-basel.ch
+wss://relay.zeh.app
+wss://nostr.wellorder.net
+wss://nostr.tools.global.id
 wss://Nostr.nodeofsven.com
 wss://nostream.madbean.snowinning.com
 wss://relay.damous.io
