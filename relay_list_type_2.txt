@@ -145,6 +145,7 @@ wss://bitcoiner.social
 wss://nostr.eluc.ch
 wss://qhqb7encxtgpng7cgapzdzvq5fzudwt4drmkou6fiu73mjfcmqxzx4id.onion
 wss://filter.nostr.wine
+wss://fhjagnbzpef2rsqhcrrl3uci7ph7z6nlrxxebptal2rnvav3pmvf3yyd.onion
 wss://nostr.21m.fr
 wss://nostr.one.re
 wss://nostr.truckenbucks.com
@@ -743,6 +744,7 @@ wss://nostr-zu01.ciph.rs
 wss://nostrPlebs.com
 wss://relay.nostr.blockhenge.com
 wss://nostr.azte.co
+wss://jqiwgflfw4dezjsy42frompmknrlcfazoiyngftgknj7yrmnhtobd7id.onion
 wss://paid.nostrified.org
 wss://roundrockbitcoiners.com
 wss://frighteningdeafeningagent.nailuogg.repl.co
@@ -997,6 +999,7 @@ wss://relay.nvote.co
 wss://relay.Sovereign-stack.org
 wss://latam1-nostr.stealthy.co
 wss://lotdkno.ws
+wss://rly.social
 wss://nostr.ddns.net
 wss://relay.nostr.vision
 wss://wlvs.space
@@ -1200,7 +1203,8 @@ wss://umbrel.terrier-sole.ts.net:4848
 wss://relay.nostrview.com
 wss://relay.damus.info
 wss://nostr.relayer.se
-wss://nostr.ctseuro.comot.org
+wss://nostr.ctseuro.com
+wss://nostr.cheesebot.org
 wss://nostr.glate.ch
 wss://relay.nvote.co:443
 wss://zbd.ai
@@ -1291,6 +1295,7 @@ wss://nostr.mjman.net
 wss://nostr-pub.wellorder.net
 wss://next.nostr.watch
 wss://hdd6dyp3zlacouocjjk4fix4wcd66dugibmyrfqqza6exnljr2fypxqd.onion
+wss://jqiwgflfw4dezjsy42frompmknrlcfazoiyngftgknj7yrmnhtobd7id.local
 wss://atlas.nostr.land
 wss://caro-relay.fiatjaf.com
 wss://relay.nostr.com.au
@@ -1450,6 +1455,7 @@ wss://yoshiki-optiplex-3050.local:4848
 wss://1f52b.xyz
 wss://7jdx65mkmffhghgihv26wuan6t2rl3u7ua65jgbtuvva226aeqhvqoad.onion
 wss://xjpv5c4sh2vtqy63ywvukyjajdn26pms6robbuy57iyyn557ibfwafid.onion
+wss://nostr.openordex.org
 wss://relay.nostrexplorer.com
 wss://brb.io
 wss://nostream.denizenid.com
@@ -1480,8 +1486,3 @@ wss://nostream.madbean.snowinning.com
 wss://relay.damous.io
 wss://nostriches.org
 wss://relay.ryzizub.com
-wss://nostr.gives.africa
-wss://nostrafrica.pcdkd.fvi
-wss://realy.damus.io
-wss://3gkpphcfwb6w5iq6axnmlbvr7pz2t37uy4ofocyijzttzrbz4jy43fid.onion
-wss://nostr.messagepush.io
