@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -428,6 +428,7 @@ wss://edennostr.land
 wss://nostr.mutiny.com
 wss://relay.theorangepillapp.com
 wss://nostr.net.za
+wss://nostr.LightningLinks.xyz
 wss://private-nostr.v0l.io
 wss://jdqldw6hffnjdymzo5bikc75xuc7kg5zex23yuhczyacqcth5hxw2sid.onion
 wss://free-relay.nostrich.land
@@ -1198,10 +1199,7 @@ wss://nostr.relayer.se
 wss://nostr.ctseuro.com
 wss://nostr.cheesebot.org
 wss://nostr.glate.ch
-wss://relay.nvote.co:443
-wss://zbd.ai
-wss://nostr-sg.com
-wss://nostr.ZEBEDEE.cloud
+                          wss://nostr.ZEBEDEE.cloud
 wss://nostr.blockpower.capital
 wss://altcoinnect.xyz
 wss://relay.nosbin.com
