@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -762,6 +762,7 @@ wss://nostr.thomascdnns.com
 wss://nostr.illegalfreedom.xyz
 wss://metazoan.icp.der0pa.io:1323
 wss://nostr.roundrockbitcoiners.com
+wss://nostr.current.fyi
 wss://homesrv.taila0c4f.ts.net:4848
 wss://relay.kronkltd.net
 wss://node01.nostress.cc
@@ -1199,7 +1200,10 @@ wss://nostr.relayer.se
 wss://nostr.ctseuro.com
 wss://nostr.cheesebot.org
 wss://nostr.glate.ch
-                          wss://nostr.ZEBEDEE.cloud
+
+wss://zbd.ai
+wss://nostr-sg.com
+wss://nostr.ZEBEDEE.cloud
 wss://nostr.blockpower.capital
 wss://altcoinnect.xyz
 wss://relay.nosbin.com
