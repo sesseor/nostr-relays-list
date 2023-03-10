@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -288,6 +288,7 @@ wss://nostr.blipme.app
 wss://nostr-Relay.alekberg.net
 wss://relay.rebelbase.site
 wss://nostr.openblock.vip
+wss://gjuce5evx3o7oeskvfa4ea3rwsz575tf4ya3gtcchdaz5utpziiix7ad.onion
 wss://5rc7koxcex4fccyj7gb576tlbwfppyo3u4b4j5oekiiy5ncuscccvoad.onion
 wss://fiatdenier.com
 wss://nostrzebedee.cloud
@@ -939,6 +940,7 @@ wss://nostr.thekratomsyndicate.com
 wss://nostr.sabross.xyz
 wss://nostr.land
 wss://relay.sh4.red
+wss://kongerik.et
 wss://swiss-enigma.ch
 wss://relay.nostrula.com
 wss://iris.poster.place
@@ -1406,12 +1408,14 @@ wss://relay.brb.io
 wss://nostr.argdx.net
 wss://nostr.blocs.fr
 wss://nostr-relay.trustbtc.org
+wss://hw7ncgn7rojohajvtlezmhvadlfsk5yeg5fmv6rv44duvcmhr5oc5vad.onion
 wss://nostr.herci.one
 wss://t540p.local:4848
 wss://nostr.relay.nokotaro.com
 wss://nostr.interwebcoding.com:4848
 wss://dublin.saoirse.dev
 wss://nostr-1.nbo.agani.co
+wss://relay.armnd.net
 wss://nostr-relay.ie9.org
 wss://nostr.forecastdao.com
 wss://nostr-pub.wellorder.dev
@@ -1475,14 +1479,11 @@ wss://yoshiki-optiplex-3050.local:4848
 wss://1f52b.xyz
 wss://7jdx65mkmffhghgihv26wuan6t2rl3u7ua65jgbtuvva226aeqhvqoad.onion
 wss://xjpv5c4sh2vtqy63ywvukyjajdn26pms6robbuy57iyyn557ibfwafid.onion
-wss://nostr.openordex.org
-wss://relay.nostrexplorer.com
-wss://brb.io
-wss://nostream.denizenid.com
-wss://Mostr.pub
-wss://u-3ddc416ldv3lq.local:4848
-wss://homeserver.drake-carp.ts.net:4848
-                      wss://nostr.actin.io
+         wss://soullands.com
+wss://yosupp.app
+wss://nostr.radixrar.com
+wss://nostr-2.zebeedee.cloud
+wss://nostr.actin.io
 wss://relay.roli.social
 wss://paid.spore.ws
 wss://anigma.io
