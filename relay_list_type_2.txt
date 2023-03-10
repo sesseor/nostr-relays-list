@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -425,6 +425,7 @@ wss://relay.nostrified.org
 wss://pow.nostrati.com
 wss://greenart7c3.dedyn.io
 wss://relay-dev.cowdle.gg
+wss://puravid.nostr.land
 wss://puravida.Nostr.land
 wss://games.gamertron.net:4848
 wss://realy.nostr.info
@@ -1130,8 +1131,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostream.gromeul.eu
 wss://nostr.pinkanki.org
+wss://nostream.gromeul.eu
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1479,7 +1480,9 @@ wss://nostr.stashmx.com
 wss://nostr.robotesc.ro
 wss://yoshiki-optiplex-3050.local:4848
 wss://1f52b.xyz
-                                       wss://nostr.openordex.org
+6wuan6t2rl3u7ua65jgbtuvva226aeqhvqoad.onion
+wss://xjpv5c4sh2vtqy63ywvukyjajdn26pms6robbuy57iyyn557ibfwafid.onion
+wss://nostr.openordex.org
 wss://relay.nostrexplorer.com
 wss://brb.io
 wss://nostream.denizenid.com
