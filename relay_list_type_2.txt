@@ -1480,7 +1480,8 @@ wss://nklxtre37s7h7bbrss4np35xutuo3gwqilzydk2gfakww6aamdrinnad.onion:4848
 wss://nostr1.tunnelsats.com
 wss://nostr.formigator.eu
 wss://nostrpub.welliorder.net
-ick.net
+wss://homenode.local:4848
+wss://pone.welnick.net
 wss://nostr.datamagik.com
 wss://nostr-paid.h3z.jp
 wss://nostr.stashmx.com
