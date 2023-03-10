@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -351,6 +351,7 @@ wss://nostr.cercatrova.me
 wss://sound-money-relay.denizenid.com
 wss://6lehhydsrthagmis6uu6tucndvzw7cubpqkhvxyy7joioc45mksr4ead.onion
 wss://filter.NOSTR.wine
+wss://nostr.nsa.gov
 wss://tail2d6d4.ts.net:4848
 wss://nostr-relay.eniehack.net
 wss://nostr.info
@@ -738,6 +739,7 @@ wss://relay.beta.fogtype.com
 wss://nostr.pcube.io
 wss://nostr.island.network
 wss://nostr.stereosteve.com
+wss://www.google.com
 wss://cloudnull.land
 wss://relayer.pleb.social
 wss://nostr.orangepill.dev
@@ -1136,8 +1138,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostream.gromeul.eu
 wss://nostr.pinkanki.org
+wss://nostream.gromeul.eu
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1478,8 +1480,7 @@ wss://nklxtre37s7h7bbrss4np35xutuo3gwqilzydk2gfakww6aamdrinnad.onion:4848
 wss://nostr1.tunnelsats.com
 wss://nostr.formigator.eu
 wss://nostrpub.welliorder.net
-wss://homenode.local:4848
-wss://pone.welnick.net
+ick.net
 wss://nostr.datamagik.com
 wss://nostr-paid.h3z.jp
 wss://nostr.stashmx.com
