@@ -562,6 +562,8 @@ wss://nostr1676031941328.app.runonflux.io
 wss://jp-relay-nostr.invr.chat
 wss://relay.snort.io
 wss://relay.dwzdziesciajeden.pl
+wss://nostr.relayer.se
+
 wss://ng4jk6yiqgfczo4wyxszuj7w6jok3fptehu533o3mlzs3vph3dvjfdid.onion
 wss://nostr.inosta.cc
 wss://nostr.interwebcoding.com
@@ -589,6 +591,7 @@ wss://nostr.1729.cloud
 wss://relay.strfry.net
 wss://Nostr.onsats.org
 wss://lrelay.sovereign-stack.org
+wss://relay.nostr.lucentlabs.co
 wss://nostr.bitcoiner.socail
 wss://alphapanda.pro
 wss://at.nostrworks.com
@@ -1477,9 +1480,9 @@ wss://nostr.milou.com
 wss://nostr.lnnodeinsight.com
 wss://nostr.rocks
 
-wss://relay.nostr.or.jp
-wss://nostr.rdfriedl.com
-7bbrss4np35xutuo3gwqilzydk2gfakww6aamdrinnad.onion:4848
+itcoiner.social
+wss://nostr.shawnyeager.net
+wss://nklxtre37s7h7bbrss4np35xutuo3gwqilzydk2gfakww6aamdrinnad.onion:4848
 wss://nostr1.tunnelsats.com
 wss://nostr.formigator.eu
 wss://nostrpub.welliorder.net
