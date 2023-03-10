@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -586,6 +586,7 @@ wss://nostrplebs.com
 wss://Nostr-pub.wellorder.net
 wss://nostr.nostrin.gs
 wss://nostream.megadope.snowinning.com
+wss://t7jvqwu35hneszx7fihsprbcpwonlcfnsjr4xtn6shqgwbv324w4gdid.onion
 wss://relay.nostrmoto.xyz
 wss://nostr.maxmus.com
 wss://lpxyewdhgf4p26yjxl65e4in45q5qrtvyfn5bxgekl5gbytgdjjtd6yd.onion
@@ -1481,11 +1482,9 @@ wss://nostream.denizenid.com
 wss://Mostr.pub
 wss://u-3ddc416ldv3lq.local:4848
 wss://homeserver.drake-carp.ts.net:4848
-wss://soullands.com
-wss://yosupp.app
-wss://nostr.radixrar.com
-wss://nostr-2.zebeedee.cloud
-             
+                      wss://nostr.actin.io
+wss://relay.roli.social
+wss://paid.spore.ws
 wss://anigma.io
 wss://nostr-mv.ashiroid.com
 wss://Nostr.mutinywallet.com
