@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -1132,8 +1132,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostr.pinkanki.org
 wss://nostream.gromeul.eu
+wss://nostr.pinkanki.org
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1349,6 +1349,7 @@ wss://6gygg7t2ngtl6lvipwgbjwledrr6hnfuhufgijct3v425ba32n2scbid.onion
 wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
 wss://chad.polytechnic.com
 wss://nostr.com.de
+wss://Nostr.kollider.xyz
 wss://nostr.rewardsbunny.com
 wss://nost.wine
 wss://relay.nostr.distrl.net
@@ -1478,8 +1479,9 @@ wss://pone.welnick.net
 wss://nostr.datamagik.com
 wss://nostr-paid.h3z.jp
 wss://nostr.stashmx.com
-wss://nostr.robotesc.ro
-                                wss://7jdx65mkmffhghgihv26wuan6t2rl3u7ua65jgbtuvva226aeqhvqoad.onion
+ss://yoshiki-optiplex-3050.local:4848
+wss://1f52b.xyz
+wss://7jdx65mkmffhghgihv26wuan6t2rl3u7ua65jgbtuvva226aeqhvqoad.onion
 wss://xjpv5c4sh2vtqy63ywvukyjajdn26pms6robbuy57iyyn557ibfwafid.onion
 wss://nostr.openordex.org
 wss://relay.nostrexplorer.com
