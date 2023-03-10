@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -16,6 +16,7 @@ wss://nostrgraph.net
 wss://relay.nostr.hu
 wss://relay.nostr.gt
 wss://relay.lexongtonbitcoin.org
+wss://release.nostr.band
 wss://nostr.whoop.phnostr.whoop.ph
 wss://knostr.neutrine
 wss://satstacker.cloud
@@ -1480,9 +1481,8 @@ wss://bitcoiner.social
 wss://nostr.shawnyeager.net
 wss://nklxtre37s7h7bbrss4np35xutuo3gwqilzydk2gfakww6aamdrinnad.onion:4848
 wss://nostr1.tunnelsats.com
-wss://nostr.formigator.eu
-wss://nostrpub.welliorder.net
-t
+                               wss://homenode.local:4848
+wss://pone.welnick.net
 wss://nostr.datamagik.com
 wss://nostr-paid.h3z.jp
 wss://nostr.stashmx.com
