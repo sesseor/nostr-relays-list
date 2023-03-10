@@ -603,6 +603,7 @@ wss://nostr.maxmus.com
 wss://lpxyewdhgf4p26yjxl65e4in45q5qrtvyfn5bxgekl5gbytgdjjtd6yd.onion
 wss://eden.nostr.land
 wss://nostr.thank.eu
+wss://izj3isbk3pmade74ontdijodhehsytnw2iokdhh6k3flk4mq2pau6sid.onion
 wss://nostr.digitalreformation.info
 wss://quirky-bunch-isubghsvoi26fbbt3n7o.wnext.app
 wss://nostr.dev.wellorder.net
@@ -1478,9 +1479,9 @@ wss://nostr.rocks
 
 wss://relay.nostr.or.jp
 wss://nostr.rdfriedl.com
-wss://bitcoiner.social
-wss://nostr.shawnyeager.net
-                                 wss://nostr.formigator.eu
+7bbrss4np35xutuo3gwqilzydk2gfakww6aamdrinnad.onion:4848
+wss://nostr1.tunnelsats.com
+wss://nostr.formigator.eu
 wss://nostrpub.welliorder.net
 wss://homenode.local:4848
 wss://pone.welnick.net
