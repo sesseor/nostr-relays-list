@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -74,6 +74,7 @@ wss://eden.nostr.space
 wss://nostr-relay.derekross.me
 wss://nostr.21crypto.ch
 wss://nostr.256k1.dev
+wss://2g2jzcfgq5lcrceuq23lmya2drm3ku5qmqimr3bvu3amol55vidctrad.onion
 wss://puravida.nostrich.land
 wss://relay.farscapian.com
 wss://msi-laptop.local:4848
@@ -179,6 +180,7 @@ wss://nostr.frennet.xyz
 wss://relay.rants.pub
 wss://eden.nosrt.land
 wss://local.umbrel:4848
+wss://blastr.blastr.workers.dev
 wss://nostr.bcmp.com
 wss://bitcoin-evangelist.local:4848
 wss://nostr.geekgalaxy.com
@@ -442,6 +444,7 @@ wss://relay-dev.cowdle.gg
 wss://puravid.nostr.land
 wss://puravida.Nostr.land
 wss://games.gamertron.net:4848
+wss://relay.cirrent.fyi
 wss://realy.nostr.info
 wss://nostr.zue.news
 wss://wss.nostr.milou
@@ -629,6 +632,7 @@ wss://nostr.geekGalaxy.com
 wss://6amyhf3sjvgxe5qzbx4xn52pcnqresdmi7szxurp6umkvz6mthxjdcad.onion
 wss://nostue.com
 wss://6amyhf3sjvgxe5qzbx4xn52pcnqresdmi7szxurp6umkvz6mthxjdcad.local
+wss://vo3m7gv2xsjwzmby6aox5rgunwzkhzqbid57dgc5x6pf7rliemesbuid.onion
 wss://nor.st
 wss://Nostr-2.ZEBEDEE.cloud
 wss://relay.dnet.run
@@ -739,6 +743,7 @@ wss://nostr.zclub.app
 wss://5bq4li45rfwi7fsy4nrtktvh6wiwe2u7ahpy7zjcrtf3rg6ow2uyj6yd.onion
 wss://relay.nostriches.org
 wss://nostr.guru
+wss://nostream.megadope.snowinning
 wss://nostr.metamadeenah.com
 wss://nostr-au.coinfundit.com
 wss://nostr.wow
@@ -1167,8 +1172,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostr.pinkanki.org
 wss://nostream.gromeul.eu
+wss://nostr.pinkanki.org
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1464,18 +1469,7 @@ wss://nostr.hrmb.org
 wss://paid.no.str.cr
 wss://nostr.ownbtc.online
 wss://nostr.21l.st
-wss://nostr.ncsa.illinois.edu
-wss://relay.mynostr.id
-wss://No.str.cr
-wss://relay.nostrplebs.com
-wss://no-str.org
-wss://nostr-relay.j3s7m4n.com
-wss://relay.snort.social
-wss://nostr.yael.at
-wss://Lbrygen.xyz
-wss://nostr.gruntwerk.org
-wss://nostr.masmux.com
-pj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
+                          wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
 wss://universe.nostrich.land
 wss://in.tips
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
