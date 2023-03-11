@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -648,6 +648,7 @@ wss://nostr-relay.usebitcoin.space
 wss://nostr1.saftup.xyz
 wss://nostr.damus.io
 wss://nostr2.namek.link
+wss://umbrel.bobcat-perch.ts.net:4848
 wss://relay.plebz.space
 wss://nostr.mutinywallet.com
 wss://nostr.chaker.net
@@ -705,6 +706,7 @@ wss://node1.nostress.cc
 wss://nostr-2.zebdeee.cloud
 wss://relay.21spirits.io
 wss://relay.nostr.org
+wss://bobcat-perch.ts.net:4848
 wss://nostr.pub.wellorder.net
 wss://nostr.mutinywallet
 wss://member.cash
@@ -1151,8 +1153,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostr.pinkanki.org
 wss://nostream.gromeul.eu
+wss://nostr.pinkanki.org
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1474,9 +1476,7 @@ wss://relay.lightninglinks.xyz
 wss://globals.fans
 wss://macminiserver.local:4848
 wss://nostr.demovement.net
-wss://nostr.inprivate.network
-wss://relay.phone.home
-wss://notr.zaprite.io
+te.io
 wss://nostr-proxy.h3z.jp
 wss://nostr.zedebee.cloud
 wss://nostr.compile-error.net
