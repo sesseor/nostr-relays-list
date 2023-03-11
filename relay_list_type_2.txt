@@ -226,6 +226,7 @@ wss://nostr.nikolaj.online
 wss://ragnar-relay.com
 wss://nostrati.com
 wss://nostream-production-b80e.up.railway.app
+wss://duffledpud.onrender.com
 wss://nostr.up.railway.app
 wss://relay.nostrich.de
 wss://plebstr.com
@@ -629,6 +630,7 @@ wss://Nostr-2.ZEBEDEE.cloud
 wss://relay.dnet.run
 wss://nostr1677238933871.app.runonflux.io
 wss://nostr.bgpipes.com
+wss://Nos.lol
 wss://nostr.nordlysln.net
 wss://nostr-test.elastos.io
 wss://nostr.mutinyawallet.com
@@ -929,6 +931,7 @@ wss://b.ayit.org
 wss://nostr-relay.smoove.net
 wss://nostr.pleb.network
 wss://relay.h3z.jp
+wss://test.nostr.0x50.tech
 wss://relay.reeve.cn
 wss://relay.damus.io
 wss://nostr.boring.surf
@@ -1053,6 +1056,7 @@ wss://relay.nostrology.org
 wss://satsjar.local:4848
 wss://nostream.frank.snowinning.com
 wss://nostrtokyo.vpx.moe
+wss://Nostr.bitcoiner.social
 wss://nostr.beta3.dev
 wss://t7ivawu35hneszx7fihsprbcpwonlcfnsjr4xtn6shggwbv324w4gdid.local
 wss://nostr.eden.land
@@ -1455,6 +1459,7 @@ wss://nostr.ownbtc.online
 wss://nostr.21l.st
 wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
+wss://No.str.cr
 wss://relay.nostrplebs.com
 wss://no-str.org
 wss://nostr-relay.j3s7m4n.com
@@ -1468,13 +1473,10 @@ wss://universe.nostrich.land
 wss://in.tips
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
 wss://nostr.poster.place
-wss://nostr.spleenrider.one
-wss://oxtr.dev
-wss://optiplex.wallaby-bass.ts.net:3333
-wss://btcpay.trustbtc.org
-wss://nuc32.local:4848
-wss://base.trueprime.net
-8
+                                         wss://relay.nostr.vet
+wss://relay.lightninglinks.xyz
+wss://globals.fans
+wss://macminiserver.local:4848
 wss://nostr.demovement.net
 wss://nostr.inprivate.network
 wss://relay.phone.home
