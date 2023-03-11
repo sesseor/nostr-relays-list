@@ -1476,7 +1476,10 @@ wss://macminiserver.local:4848
 wss://nostr.demovement.net
 wss://nostr.inprivate.network
 wss://relay.phone.home
-    wss://nostr.compile-error.net
+wss://notr.zaprite.io
+wss://nostr-proxy.h3z.jp
+wss://nostr.zedebee.cloud
+wss://nostr.compile-error.net
 wss://relay.cryptocculture.com
 wss://nostr-relay.app.ikeji.ma
 wss://nostr.milou.com
