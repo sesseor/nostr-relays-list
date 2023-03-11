@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -1150,8 +1150,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostream.gromeul.eu
 wss://nostr.pinkanki.org
+wss://nostream.gromeul.eu
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1478,7 +1478,9 @@ wss://relay.phone.home
 wss://notr.zaprite.io
 wss://nostr-proxy.h3z.jp
 wss://nostr.zedebee.cloud
-                                wss://nostr-relay.app.ikeji.ma
+wss://nostr.compile-error.net
+wss://relay.cryptocculture.com
+wss://nostr-relay.app.ikeji.ma
 wss://nostr.milou.com
 wss://nostr.lnnodeinsight.com
 wss://nostr.rocks
