@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -424,6 +424,7 @@ wss://nostr.swiss-enigma.ch
 wss://nostr.shmueli.org
 wss://4.up.railway.app
 wss://nostr.doufu-tech.com
+wss://public.nipsr.com
 wss://nostrverified.com
 wss://lbrygen.xyz
 wss://rwlay.bigred.social
@@ -1153,8 +1154,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostr.pinkanki.org
 wss://nostream.gromeul.eu
+wss://nostr.pinkanki.org
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1474,9 +1475,7 @@ wss://base.trueprime.net
 wss://relay.nostr.vet
 wss://relay.lightninglinks.xyz
 wss://globals.fans
-wss://macminiserver.local:4848
-wss://nostr.demovement.net
-wss://nostr.inprivate.network
+                                   wss://nostr.inprivate.network
 wss://relay.phone.home
 wss://notr.zaprite.io
 wss://nostr-proxy.h3z.jp
