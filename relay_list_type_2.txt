@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -285,6 +285,7 @@ wss://jan-optiplex-5040.local:4848
 wss://nostr.handyjunky.com
 wss://relay.koreus.social
 wss://nostr.ch3n2k.com
+wss://nost.oxtr.dev
 wss://mustafa-esprimo-q920.local:4848
 wss://nos.tr.cr
 wss://gaqbphn4jnfloyppqjw6w3r6qdjvgyql7no3b4dcr22q7udveo34neid.onion
@@ -1474,7 +1475,7 @@ wss://nostr.yael.at
 wss://Lbrygen.xyz
 wss://nostr.gruntwerk.org
 wss://nostr.masmux.com
-wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
+pj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
 wss://universe.nostrich.land
 wss://in.tips
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
