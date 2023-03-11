@@ -49,6 +49,7 @@ wss://noster.poster.place
 wss://nostr.massmux.com
 wss://nostr01.counterclockwise.io
 wss://relay.nostr.express
+wss://nostr.bitcoinisrael.space
 wss://Amsterdam.com
 wss://zerosequioso.com
 wss://nostr.sept.ml
@@ -936,6 +937,7 @@ wss://ralay.orangepill.dev
 wss://5d3efa3pjyxkjfxfkisi5o6h2cviks6v7hidlrmzefebsn2p4ignisyd.onion
 wss://nostr.nakamotosatoshi.cf
 wss://nostr.laevateinn.org
+wss://3l4xzaqii2bikx7bmjupu5chi5vn6vnehxc7whfx4zwt67tr6bcnx6qd.onion
 wss://slick.mjex.me
 wss://nostr.milou.land
 wss://nostr.sandwich.farm
@@ -1472,10 +1474,9 @@ wss://optiplex.wallaby-bass.ts.net:3333
 wss://btcpay.trustbtc.org
 wss://nuc32.local:4848
 wss://base.trueprime.net
-wss://relay.nostr.vet
-wss://relay.lightninglinks.xyz
-wss://globals.fans
-                                   wss://nostr.inprivate.network
+8
+wss://nostr.demovement.net
+wss://nostr.inprivate.network
 wss://relay.phone.home
 wss://notr.zaprite.io
 wss://nostr-proxy.h3z.jp
