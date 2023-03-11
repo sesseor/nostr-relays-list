@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -238,6 +238,7 @@ wss://relay.ohbe.me
 wss://relay.orange-crush.com
 wss://nostr.jmdtx.com
 wss://tf2yfiqfzc2ybazi7ugmtub25gzjn3le7fetbajnrhdxtmecr2fqm7ad.onion
+wss://oarnx6xdrq5mygfdrbmzsvh3is3holefpz2x4qwbopwcicwd63gcivid.onion
 wss://carnivore-diet-relay.denizenid.com
 wss://spore.ws
 wss://nostrpurple.com
@@ -1475,10 +1476,7 @@ wss://macminiserver.local:4848
 wss://nostr.demovement.net
 wss://nostr.inprivate.network
 wss://relay.phone.home
-wss://notr.zaprite.io
-wss://nostr-proxy.h3z.jp
-wss://nostr.zedebee.cloud
-wss://nostr.compile-error.net
+    wss://nostr.compile-error.net
 wss://relay.cryptocculture.com
 wss://nostr-relay.app.ikeji.ma
 wss://nostr.milou.com
