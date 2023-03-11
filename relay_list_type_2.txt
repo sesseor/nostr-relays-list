@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -548,6 +548,7 @@ wss://bitcoinmaximalist.online
 wss://Nostr.rocks
 wss://relay.shitforce.one
 wss://nostr.fresheyesinc.com
+wss://ljjrqq6frnm56oeowjzqfzfniwqqpohyg4l6adawekgh4vligfcg2lyd.onion
 wss://relay.current.fyi
 wss://h3avzcsyhvpi2mtmh5d3yqhz65cwsmbdlud37hk5gbnxi2gkajwoczqd.onion
 wss://rsslay.data.haus
@@ -909,6 +910,7 @@ wss://Nostr.nostrelay.org
 wss://nostr.uthark.com
 wss://nauka-relay.herokuapp.com
 wss://nostr-relay.bigsun.xyz
+wss://sebastix.dev
 wss://relay.hammel.io
 wss://e45sscni6e6y64bmla3yznokekcco2jfldvh5ptkbd3ljqqj23zb5hid.onion
 wss://mastodon.cloud
@@ -1044,6 +1046,7 @@ wss://relay.nvote.co
 wss://relay.Sovereign-stack.org
 wss://latam1-nostr.stealthy.co
 wss://lotdkno.ws
+wss://umbrel.pinscher-justice.ts.net:4848
 wss://rly.social
 wss://nostr.ddns.net
 wss://relay.nostr.vision
@@ -1163,8 +1166,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostr.pinkanki.org
 wss://nostream.gromeul.eu
+wss://nostr.pinkanki.org
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1471,10 +1474,9 @@ wss://nostr.yael.at
 wss://Lbrygen.xyz
 wss://nostr.gruntwerk.org
 wss://nostr.masmux.com
-wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
-wss://universe.nostrich.land
-wss://in.tips
-ider.one
+pc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
+wss://nostr.poster.place
+wss://nostr.spleenrider.one
 wss://oxtr.dev
 wss://optiplex.wallaby-bass.ts.net:3333
 wss://btcpay.trustbtc.org
