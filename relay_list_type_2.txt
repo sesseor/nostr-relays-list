@@ -587,6 +587,7 @@ wss://nostr.danvergara.com
 wss://relay.nostr.band
 wss://global-relay.cesc.trade
 wss://nostrafrica.pcdkd.fyi
+wss://nostrrelay.geforcy.com
 wss://relay.nostr.hach.re
 wss://relay.nostrica.com
 wss://nostr.1729.cloud
@@ -1477,9 +1478,7 @@ wss://relay.phone.home
 wss://notr.zaprite.io
 wss://nostr-proxy.h3z.jp
 wss://nostr.zedebee.cloud
-wss://nostr.compile-error.net
-wss://relay.cryptocculture.com
-wss://nostr-relay.app.ikeji.ma
+                                wss://nostr-relay.app.ikeji.ma
 wss://nostr.milou.com
 wss://nostr.lnnodeinsight.com
 wss://nostr.rocks
