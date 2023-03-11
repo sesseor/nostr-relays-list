@@ -1473,7 +1473,13 @@ wss://universe.nostrich.land
 wss://in.tips
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
 wss://nostr.poster.place
-                                         wss://relay.nostr.vet
+wss://nostr.spleenrider.one
+wss://oxtr.dev
+wss://optiplex.wallaby-bass.ts.net:3333
+wss://btcpay.trustbtc.org
+wss://nuc32.local:4848
+wss://base.trueprime.net
+wss://relay.nostr.vet
 wss://relay.lightninglinks.xyz
 wss://globals.fans
 wss://macminiserver.local:4848
@@ -1533,6 +1539,7 @@ wss://nostr.1sat.org
 wss://nas.huxim.top:9292
 wss://nostr.bitcoin-basel.ch
 wss://relay.zeh.app
+wss://Relay.damus.io
 wss://nostr.wellorder.net
 wss://nostr.tools.global.id
 wss://Nostr.nodeofsven.com
