@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -121,6 +121,7 @@ wss://63ragcfwb5xhoe5gfflazfyrde3qjdo73cblhhmnbviizowdo2q5haid.onion:5051
 wss://nostr.drss.io
 wss://nostr.lnprivate.network
 wss://middling.myddns.me:8080
+wss://nostrija-kari.heguro.com
 wss://relay.hamnet.io
 wss://nostrfoxden.ddns.net:4848
 wss://coracle.social
@@ -1147,8 +1148,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostr.pinkanki.org
 wss://nostream.gromeul.eu
+wss://nostr.pinkanki.org
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1477,7 +1478,7 @@ wss://nostr-proxy.h3z.jp
 wss://nostr.zedebee.cloud
 wss://nostr.compile-error.net
 wss://relay.cryptocculture.com
-  wss://nostr.milou.com
+wss://nostr.milou.com
 wss://nostr.lnnodeinsight.com
 wss://nostr.rocks
 
