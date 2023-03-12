@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -626,6 +626,7 @@ wss://nostr.thank.eu
 wss://izj3isbk3pmade74ontdijodhehsytnw2iokdhh6k3flk4mq2pau6sid.onion
 wss://nostr.digitalreformation.info
 wss://quirky-bunch-isubghsvoi26fbbt3n7o.wnext.app
+wss://blogstack.io
 wss://nostr.dev.wellorder.net
 wss://relay.current.fyi
 
@@ -1175,8 +1176,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostr.pinkanki.org
 wss://nostream.gromeul.eu
+wss://nostr.pinkanki.org
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1465,8 +1466,7 @@ wss://nostr.interwebcoding.com:4848
 wss://dublin.saoirse.dev
 wss://nostr-1.nbo.agani.co
 wss://relay.armnd.net
-wss://nostr-relay.ie9.org
-wss://nostr.forecastdao.com
+       wss://nostr.forecastdao.com
 wss://nostr-pub.wellorder.dev
 wss://nostr.hrmb.org
 wss://paid.no.str.cr
