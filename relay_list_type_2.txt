@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -594,6 +594,7 @@ wss://relay.hrf.org
 wss://umbrel.tailb9b2c.ts.net:4848
 wss://relay.nor.st
 wss://tail86021.ts.net:4848
+wss://lnurl-pay.me
 wss://nostr.gromeul.eu
 wss://nostr.nostrelay.org
 wss://nostr.lightning.contact
@@ -1188,8 +1189,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostream.gromeul.eu
 wss://nostr.pinkanki.org
+wss://nostream.gromeul.eu
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1465,7 +1466,8 @@ wss://Nostr.mom
 wss://redgreenblue.click
 wss://nostr-pub.welllorder.net
 wss://nostr.100p.org
-ss://nostr.bongbong.com
+m.com
+wss://nostr.bongbong.com
 wss://tail6452b.ts.net:4848
 wss://r.alphaama.com
 wss://cow-woodpecker.ts.net:4848
@@ -1485,6 +1487,7 @@ wss://nostr-1.nbo.agani.co
 wss://relay.armnd.net
 wss://nostr-relay.ie9.org
 wss://nostr.forecastdao.com
+wss://coeditor-congested.fractalnetworks.co
 wss://nostr-pub.wellorder.dev
 wss://nostr.hrmb.org
 wss://paid.no.str.cr
