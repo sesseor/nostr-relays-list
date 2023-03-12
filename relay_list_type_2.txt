@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -191,6 +191,7 @@ wss://bitcoin-evangelist.local:4848
 wss://nostr.geekgalaxy.com
 wss://nostr.satoshi.fun
 wss://relarelay.nosphr.com
+wss://za3.net
 wss://strfry.cryptocartel.social
 wss://relay.valera.co
 wss://nostr01.vida.dev
@@ -980,6 +981,7 @@ wss://nostr.portemonero.com
 wss://nostr.roytus.ai
 wss://relai.nostrati.com
 wss://relay.snort.wss
+wss://mostra.milou.lol
 wss://relay.thes.ai
 wss://pmm3lypla4y2ds5qyk35xkwdvh7ruhyxud6bz34rkvhfqyinhs4yasad.onion
 wss://nostr.wine
@@ -1186,8 +1188,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostream.gromeul.eu
 wss://nostr.pinkanki.org
+wss://nostream.gromeul.eu
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1462,8 +1464,8 @@ wss://redgreenblue.click
 wss://nostr-pub.welllorder.net
 wss://nostr.100p.org
 wss://nostr.eaglebtm.com
-wss://nostr.bongbong.com
-        wss://r.alphaama.com
+52b.ts.net:4848
+wss://r.alphaama.com
 wss://cow-woodpecker.ts.net:4848
 wss://relay.austritch.net
 wss://nostr.snort.social
