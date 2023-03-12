@@ -1,12 +1,13 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.dumpit.top
+wss://nostr1676129486335.app.runonflux.io
 wss://no-str.org
 
 wss://b4968f09859e.ngrok.io
@@ -687,6 +688,7 @@ wss://damus.io
 wss://eden.nostraland
 wss://nostr.bitcoin.social
 wss://relay.nostr.infowss
+wss://relay.blogstack.io
 wss://nostrgram.co
 wss://relay.nostr.info
 wss://nostr.h3y6e.com
@@ -1179,8 +1181,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostr.pinkanki.org
 wss://nostream.gromeul.eu
+wss://nostr.pinkanki.org
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1465,9 +1467,8 @@ wss://hw7ncgn7rojohajvtlezmhvadlfsk5yeg5fmv6rv44duvcmhr5oc5vad.onion
 wss://nostr.herci.one
 wss://t540p.local:4848
 wss://nostr.relay.nokotaro.com
-wss://nostr.interwebcoding.com:4848
-wss://dublin.saoirse.dev
-
+nostr-1.nbo.agani.co
+wss://relay.armnd.net
 wss://nostr-relay.ie9.org
 wss://nostr.forecastdao.com
 wss://nostr-pub.wellorder.dev
