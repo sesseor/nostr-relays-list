@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -841,6 +841,7 @@ wss://nostr.essydns.ca
 wss://relay.nostrnotes.com
 wss://nostruselessshit.co
 wss://nostr-relay.digitamob.ro
+wss://filter.eden.nostr.land
 wss://relay.21spiritis.io
 wss://relay.lexingtonbitcoin.org
 wss://relay.plebstr.com
@@ -1189,8 +1190,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostr.pinkanki.org
 wss://nostream.gromeul.eu
+wss://nostr.pinkanki.org
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1466,8 +1467,7 @@ wss://Nostr.mom
 wss://redgreenblue.click
 wss://nostr-pub.welllorder.net
 wss://nostr.100p.org
-m.com
-wss://nostr.bongbong.com
+//nostr.bongbong.com
 wss://tail6452b.ts.net:4848
 wss://r.alphaama.com
 wss://cow-woodpecker.ts.net:4848
