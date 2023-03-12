@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -512,6 +512,7 @@ wss://md.hugo.nostr
 wss://relay.nostr.net.in
 wss://nostr.frostr.xyz
 wss://relay.nostrify.io
+wss://relay.xuzmail.com
 wss://nostr.videre.net
 wss://umbrel.tail1d35e.ts.net:4848
 wss://relay.f7z.io
@@ -1185,8 +1186,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostream.gromeul.eu
 wss://nostr.pinkanki.org
+wss://nostream.gromeul.eu
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1335,6 +1336,7 @@ wss://nostr1.current.fyi
 wss://nostr.naut.social
 wss://nostr.prebchain.org
 wss://umbrel-2.local:4848
+wss://relay.got-relayed.com
 wss://nost.ratchat.nl
 wss://nostr01.opencult.com
 wss://nostr.rafriedi.com
@@ -1461,8 +1463,14 @@ wss://nostr.100p.org
 wss://nostr.eaglebtm.com
 wss://nostr.bongbong.com
 wss://tail6452b.ts.net:4848
-wss://r.alphaama.com
-                                                                                      wss://hw7ncgn7rojohajvtlezmhvadlfsk5yeg5fmv6rv44duvcmhr5oc5vad.onion
+8
+wss://relay.austritch.net
+wss://nostr.snort.social
+wss://relay.brb.io
+wss://nostr.argdx.net
+wss://nostr.blocs.fr
+wss://nostr-relay.trustbtc.org
+wss://hw7ncgn7rojohajvtlezmhvadlfsk5yeg5fmv6rv44duvcmhr5oc5vad.onion
 wss://nostr.herci.one
 wss://t540p.local:4848
 wss://nostr.relay.nokotaro.com
