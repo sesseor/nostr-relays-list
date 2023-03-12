@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -16,6 +16,7 @@ wss://nostrgraph.net
 wss://relay.nostr.hu
 wss://lufi62up3tn2khr4tmbw5cltyg5qmeen6ydgw4blu75zklrqzootbmad.onion
 wss://relay.nostr.gt
+wss://Relais.nostrview.com
 wss://relay.lexongtonbitcoin.org
 wss://release.nostr.band
 wss://nostr.whoop.phnostr.whoop.ph
@@ -720,6 +721,7 @@ wss://umbrel.tailda10b.ts.net:4848
 wss://nostr.itssilvestre.com
 wss://node1.nostress.cc
 wss://nostr-2.zebdeee.cloud
+wss://nostr.azte.com
 wss://relay.21spirits.io
 wss://relay.nostr.org
 wss://bobcat-perch.ts.net:4848
@@ -1177,8 +1179,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostream.gromeul.eu
 wss://nostr.pinkanki.org
+wss://nostream.gromeul.eu
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1465,8 +1467,8 @@ wss://t540p.local:4848
 wss://nostr.relay.nokotaro.com
 wss://nostr.interwebcoding.com:4848
 wss://dublin.saoirse.dev
-wss://nostr-1.nbo.agani.co
-str-relay.ie9.org
+
+wss://nostr-relay.ie9.org
 wss://nostr.forecastdao.com
 wss://nostr-pub.wellorder.dev
 wss://nostr.hrmb.org
