@@ -180,6 +180,7 @@ wss://nostr.600.wtf
 wss://relay.alxgsv.com
 wss://nostr.risa.zone
 wss://nostr.verymad.net
+wss://bitcoinr6de5lkvx4tpwdmzrdfdpla5sya2afwpcabjup2xpi5dulbad.onion
 wss://nostr.frennet.xyz
 wss://relay.rants.pub
 wss://eden.nosrt.land
@@ -1348,6 +1349,7 @@ wss://zur.nostr.sx
 wss://rsslay.ch3n2k.com
 wss://blg.nostr.sx
 wss://nostr.ibosilj.work
+wss://nostr.exotr.dev
 wss://nostr.walletofsatoshi
 wss://nostr-3.orba.ca
 wss://nostr.citizenry.technology
@@ -1460,14 +1462,7 @@ wss://nostr.eaglebtm.com
 wss://nostr.bongbong.com
 wss://tail6452b.ts.net:4848
 wss://r.alphaama.com
-wss://cow-woodpecker.ts.net:4848
-wss://relay.austritch.net
-wss://nostr.snort.social
-wss://relay.brb.io
-wss://nostr.argdx.net
-wss://nostr.blocs.fr
-wss://nostr-relay.trustbtc.org
-wss://hw7ncgn7rojohajvtlezmhvadlfsk5yeg5fmv6rv44duvcmhr5oc5vad.onion
+                                                                                      wss://hw7ncgn7rojohajvtlezmhvadlfsk5yeg5fmv6rv44duvcmhr5oc5vad.onion
 wss://nostr.herci.one
 wss://t540p.local:4848
 wss://nostr.relay.nokotaro.com
