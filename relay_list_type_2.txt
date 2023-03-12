@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -150,6 +150,7 @@ wss://relay.sendstr.com
 wss://nostr-rely.trustbtc.org
 wss://bitcoiner.social
 
+wss://u5epuanp2fbie4phw6zekzna6zotvsffji4td4ee7iwgwdxlz4kwqqad.onion:5051
 wss://nostr.eluc.ch
 wss://qhqb7encxtgpng7cgapzdzvq5fzudwt4drmkou6fiu73mjfcmqxzx4id.onion
 wss://filter.nostr.wine
@@ -1466,10 +1467,8 @@ wss://relay.armnd.net
 wss://nostr-relay.ie9.org
 wss://nostr.forecastdao.com
 wss://nostr-pub.wellorder.dev
-wss://nostr.hrmb.org
-wss://paid.no.str.cr
-wss://nostr.ownbtc.online
-wss://nostr.21l.stinois.edu
+            
+wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
 wss://No.str.cr
 wss://relay.nostrplebs.com
