@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -994,6 +994,7 @@ wss://hushvault.ie
 wss://nostr.coinos.io
 wss://node.james-trussy.com:4848
 wss://umbrel.tail3549e.ts.net:4848
+wss://relays.world
 wss://relay.fiatjaf.com
 wss://nostr.randomdevelopment.biz
 wss://btc-italia.online
@@ -1037,6 +1038,7 @@ wss://nostr.overmind.lol
 wss://f6lt4jubayhatxzjt4bhtmwuspnxa5qjvo2476s6ctonm7rkth5jziyd.onion
 wss://nostr.uselesshit.co
 wss://relay.kongerik.et
+wss://student.chadpolytechnic.co
 wss://nostr-alpha.gruntwerk.org
 wss://Dublin.saoirse.dev
 wss://relay.nostr.jhot.me
@@ -1182,8 +1184,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostream.gromeul.eu
 wss://nostr.pinkanki.org
+wss://nostream.gromeul.eu
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1465,7 +1467,11 @@ wss://relay.brb.io
 wss://nostr.argdx.net
 wss://nostr.blocs.fr
 wss://nostr-relay.trustbtc.org
-                                                        wss://nostr.interwebcoding.com:4848
+mhr5oc5vad.onion
+wss://nostr.herci.one
+wss://t540p.local:4848
+wss://nostr.relay.nokotaro.com
+wss://nostr.interwebcoding.com:4848
 wss://dublin.saoirse.dev
 wss://nostr-1.nbo.agani.co
 wss://relay.armnd.net
