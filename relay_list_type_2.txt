@@ -1464,7 +1464,8 @@ wss://redgreenblue.click
 wss://nostr-pub.welllorder.net
 wss://nostr.100p.org
 wss://nostr.eaglebtm.com
-52b.ts.net:4848
+wss://nostr.bongbong.com
+wss://tail6452b.ts.net:4848
 wss://r.alphaama.com
 wss://cow-woodpecker.ts.net:4848
 wss://relay.austritch.net
