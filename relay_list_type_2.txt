@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -1195,8 +1195,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostr.pinkanki.org
 wss://nostream.gromeul.eu
+wss://nostr.pinkanki.org
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1339,6 +1339,7 @@ wss://nostr.chrissmith.site
 wss://rsslay.nostr.moe
 wss://dev-vivre-card.puffinstudio.cn
 wss://nostream-production-ba43.up.railway.app
+wss://nostrial.com
 wss://mumbs3cfaceofpnbwthjqwreffwkuj3l3cjyuyathbqag4hs6jol6oqd.onion
 wss://nostr-relay.digitalmob.ro
 wss://Relay.orangepill.dev
@@ -1460,8 +1461,8 @@ wss://nostr.21sats.org
 wss://nostr-relay.local:7443
 wss://paying-prancing.fractalnetworks.co
 wss://nostr.0xtr.dev
-wss://-pub.wellorder.net
-nostr2.acrn.io
+      wss://nostr.mom
+wss://nostr2.acrn.io
 wss://bitcoin.social
 wss://nostr.ahaspharos.de
 wss://nostr.0ne.day
