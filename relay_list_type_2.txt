@@ -661,6 +661,7 @@ wss://nerostr.xmr.rocks
 wss://nostr.xmr.rocks
 wss://nostro.cc
 wss://brb..io
+wss://q3zaylwjjhq77yzx34lbydz26szzjljberwetkjgxgsapcekrpjzsmqd.onion
 wss://nostr.utxo.lol
 wss://nostr.hugo.md
 wss://nostr.online
@@ -1460,9 +1461,8 @@ wss://tail8278a.ts.net
 wss://nostr-relay.wlvs.space
 wss://nostr.21sats.org
 wss://nostr-relay.local:7443
-wss://paying-prancing.fractalnetworks.co
-wss://nostr.0xtr.dev
-tr.mom
+pub.wellorder.net
+wss://nostr.mom
 wss://nostr2.acrn.io
 wss://bitcoin.social
 wss://nostr.ahaspharos.de
