@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -650,6 +650,7 @@ wss://vo3m7gv2xsjwzmby6aox5rgunwzkhzqbid57dgc5x6pf7rliemesbuid.onion
 wss://nor.st
 wss://Nostr-2.ZEBEDEE.cloud
 wss://relay.dnet.run
+wss://jl-hp-elitebook-840-g2.local:4848
 wss://nostr1677238933871.app.runonflux.io
 wss://nostr.bgpipes.com
 wss://Nos.lol
@@ -948,6 +949,7 @@ wss://massmux.com
 wss://nostrelay.yeghro.site
 wss://dlj4honxadk6zbsc6wnnodxihkskotqs6sym6hokybl4u5qqaecxsqid.onion
 wss://ryogrid.net:8080
+wss://realy.nostr.bg
 wss://nostrich.land
 wss://nostr.asdf.mx
 wss://relay.nostr.mutinywallet.com
@@ -1308,6 +1310,7 @@ wss://nostr.dutch.cryptonews
 wss://nostr.easify.de
 wss://nostr.relay.limo
 wss://lproxnb5xpeomugwmbhxywrihu46cimm2ikutcuvzkg4d7gvw5nn7sqd.onion
+wss://lchdldwpnkzugmipaxkzo5dazeblieegp5txcueryn7eqyjbpawaprid.onion
 wss://relay.jig.works
 wss://nostr-relay.pcdkd.fyi
 wss://nostr.ethtozero.fr
@@ -1418,6 +1421,7 @@ wss://nostr.v0l.io
 wss://relay.nostrpurple.com
 wss://relay.nostr.bitcoiner.social
 wss://dev.saoirse.dev
+wss://realy.nostr.band
 wss://zaprelay.com
 wss://z4mf4irie7bo3l6c24lqu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
 wss://Bitcoiner.social
@@ -1453,12 +1457,7 @@ wss://nostr.phenomenon.space
 wss://nostr-relay.wolfandcrow.tech
 wss://nostrica.nostrnotes.com
 wss://nostr-us.coinfundit.com
-wss://nostream-relay-nostr.831.pp.ua
-wss://nostr.walletofsatoshi.com
-wss://nostr.dvdt.dev
-wss://relay.mrjohnsson.netCheck
-wss://nostr-check.me
-wss://7tdom3xuus7ekv423ul46w3j43zyixjj54yoe62bndpcrgii3adeppid.onion
+m3xuus7ekv423ul46w3j43zyixjj54yoe62bndpcrgii3adeppid.onion
 wss://Nostr.milou.lol
 wss://tail8278a.ts.net
 wss://nostr-relay.wlvs.space
