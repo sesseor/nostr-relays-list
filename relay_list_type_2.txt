@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -1350,6 +1350,7 @@ wss://eden.nostry.land
 wss://7jfgu2smh6lvw2wfixartnjcvfgfk47m5elv2y4oimkpizkrn5saz3ad.onion
 wss://ib3kefulyelfjvvw6ooxj4gkbdkgt7f4ovb4mukhs2qxuaychpbayjid.onion
 wss://relay.pub
+wss://profiles.f7z.io
 wss://jax1028.ndscal.com:80
 wss://wcbli2ttxxqmx4oy3p6zbzrqbx47uyjsiv5iyyb2elvmpr2c2uiauqad.onion:5051
 wss://nostr.watch
@@ -1466,8 +1467,8 @@ wss://nostr.zenon.info
 wss://relay.nostr.social
 wss://Nostr.mom
 wss://redgreenblue.click
-wss://nostr-pub.welllorder.net
- wss://nostr.eaglebtm.com
+         wss://nostr.100p.org
+wss://nostr.eaglebtm.com
 wss://nostr.bongbong.com
 wss://tail6452b.ts.net:4848
 wss://r.alphaama.com
