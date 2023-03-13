@@ -469,6 +469,7 @@ wss://nostr.fmt.wss
 wss://nostr-relay.Inmarkets.com
 wss://nostr.developer.li
 wss://mule.platanito.org
+wss://astralbabes.pub
 wss://relayer.fiatjaff.com
 wss://nostr.snblago.com
 wss://bitcoinmaximalists.online
@@ -1460,8 +1461,7 @@ wss://nostr-relay.local:7443
 wss://paying-prancing.fractalnetworks.co
 wss://nostr.0xtr.dev
 wss://-pub.wellorder.net
-wss://nostr.mom
-wss://nostr2.acrn.io
+nostr2.acrn.io
 wss://bitcoin.social
 wss://nostr.ahaspharos.de
 wss://nostr.0ne.day
