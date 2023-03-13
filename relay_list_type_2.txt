@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -902,6 +902,7 @@ wss://nostr.zerofeerouting.com
 wss://ubuntu.local:4848
 wss://colin-hp-elitedesk-800-g1-dm.local:4848
 wss://ralay.damus.io
+wss://paid-relay.nost.love
 wss://nostr.vulpem.com
 wss://nostr.nosphr.com
 wss://Eden.nostraland
@@ -1020,6 +1021,7 @@ wss://relay.nostrzoo.com
 wss://nostr.primz.org
 wss://nostr.rocketnode.space
 wss://valera.co
+wss://max-node.local:4848
 wss://relay.stoner
 wss://relay.nostr.scot
 wss://nostr.bitcoinbay.engineering
@@ -1198,8 +1200,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostream.gromeul.eu
 wss://nostr.pinkanki.org
+wss://nostream.gromeul.eu
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1456,7 +1458,13 @@ wss://nostr.walletofsatoshi.com
 wss://nostr.dvdt.dev
 wss://relay.mrjohnsson.netCheck
 wss://nostr-check.me
-wss://7tdom3xuus7ekv423ul46w3j43zyixjj54yoe62bndpcrgii3adeppid.onion                                                          wss://paying-prancing.fractalnetworks.co
+               
+wss://Nostr.milou.lol
+wss://tail8278a.ts.net
+wss://nostr-relay.wlvs.space
+wss://nostr.21sats.org
+wss://nostr-relay.local:7443
+wss://paying-prancing.fractalnetworks.co
 wss://nostr.0xtr.dev
 wss://-pub.wellorder.net
 wss://nostr.mom
