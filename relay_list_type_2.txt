@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -977,6 +977,7 @@ wss://ralay.orangepill.dev
 wss://5d3efa3pjyxkjfxfkisi5o6h2cviks6v7hidlrmzefebsn2p4ignisyd.onion
 wss://nostr.nakamotosatoshi.cf
 wss://nostr.laevateinn.org
+wss://umb.local:4848
 wss://3l4xzaqii2bikx7bmjupu5chi5vn6vnehxc7whfx4zwt67tr6bcnx6qd.onion
 wss://slick.mjex.me
 wss://nostr.milou.land
@@ -1207,8 +1208,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostream.gromeul.eu
 wss://nostr.pinkanki.org
+wss://nostream.gromeul.eu
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1460,8 +1461,7 @@ wss://nostr.merrcurr.com
 wss://nostrich.site
 wss://nostr.phenomenon.space
 wss://nostr-relay.wolfandcrow.tech
-wss://nostrica.nostrnotes.com
-wss://nostr-us.coinfundit.com
+         wss://nostr-us.coinfundit.com
 wss://nostream-relay-nostr.831.pp.ua
 wss://nostr.walletofsatoshi.com
 wss://nostr.dvdt.dev
