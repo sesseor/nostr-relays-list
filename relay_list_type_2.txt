@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -160,6 +160,7 @@ wss://nostr.eluc.ch
 wss://qhqb7encxtgpng7cgapzdzvq5fzudwt4drmkou6fiu73mjfcmqxzx4id.onion
 wss://filter.nostr.wine
 wss://fhjagnbzpef2rsqhcrrl3uci7ph7z6nlrxxebptal2rnvav3pmvf3yyd.onion
+wss://relay.utxos.one
 wss://nostr.21m.fr
 wss://nostr.one.re
 wss://nostr.truckenbucks.com
@@ -351,6 +352,7 @@ wss://relay.moonridgeranch.com
 wss://nostr-2.orba.ca
 wss://sg.qemura.xyz
 wss://relayer.fiatjaf.com
+wss://ultrasoundrelay.runningnostr.lol
 wss://bitcoinnostr.com
 wss://pay.nostr-sg.com
 wss://nostr-relay.hzrd149.com
@@ -704,6 +706,7 @@ wss://nostr.bitcoin.social
 wss://relay.nostr.infowss
 wss://relay.blogstack.io
 wss://nostrgram.co
+wss://shireHODL.com
 wss://relay.nostr.info
 wss://nostr.h3y6e.com
 wss://nostr.give.africa
@@ -1129,6 +1132,7 @@ wss://nostr.verif-slothy.win
 wss://qitdoaq7ygegws4ft572524bxcgmxq5zmpb23ayyevsvl3dirxaxs2qd.local
 wss://nostrue.com
 wss://nostr-sandbox.minds.io
+wss://tsqdakwo4dh5ej3llsi52ftxfbialteu3jm4cmvxaksl3psbyeoyxxqd.onion
 wss://nostr.jolt.run
 wss://nostrwhoop.ph
 wss://nostr.vulpem
@@ -1208,8 +1212,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostr.pinkanki.org
 wss://nostream.gromeul.eu
+wss://nostr.pinkanki.org
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1454,14 +1458,7 @@ wss://nostr-verif.slothy.win
 wss://minds.com
 wss://nostream.kinchie.snowinning.com
 wss://out.of.milk
-wss://nostr.liberty.fans
-wss://nostr.5ub.net:8008
-wss://nostr.kimi.im
-wss://nostr.merrcurr.com
-wss://nostrich.site
-wss://nostr.phenomenon.space
-wss://nostr-relay.wolfandcrow.tech
-wss://nostrica.nostrnotes.com
+                             wss://nostrica.nostrnotes.com
 wss://nostr-us.coinfundit.com
 wss://nostream-relay-nostr.831.pp.ua
 wss://nostr.walletofsatoshi.com
