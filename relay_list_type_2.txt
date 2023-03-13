@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -794,6 +794,7 @@ wss://nostr.monostr.com
 wss://nostr.sectiontwo.org
 wss://relay.thes.ai
 
+wss://umbrel.humpback-map.ts.net:4848
 wss://nostr.swiss-enigma.me
 wss://nostr.ono.re
 wss://nostr-zu01.ciph.rs
@@ -1181,6 +1182,7 @@ wss://nfdn.testnet.dotalgo.io
 wss://nostr.fediverse.jp
 wss://relay.sandwich.farm
 wss://relay.grunch.dev
+wss://bd5v35todu6bqqcn66tmlnfdbstabjp7xegqmur2reu3iz343oylz6ad.onion
 wss://nostrich.friendship.tw
 
 wss://powrelay.xyz
@@ -1461,13 +1463,8 @@ wss://nostr2.acrn.io
 wss://bitcoin.social
 wss://nostr.ahaspharos.de
 wss://nostr.0ne.day
-wss://umbrel-app.tail10ad4.ts.net:4848
-wss://merrcurr.up.railway.app
-wss://nostr.zenon.info
-wss://relay.nostr.social
-wss://Nostr.mom
-wss://redgreenblue.click
-         wss://nostr.100p.org
+                                                   wss://nostr-pub.welllorder.net
+wss://nostr.100p.org
 wss://nostr.eaglebtm.com
 wss://nostr.bongbong.com
 wss://tail6452b.ts.net:4848
