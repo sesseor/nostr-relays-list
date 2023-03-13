@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -323,6 +323,7 @@ wss://nostr.w3ird.tech
 wss://relay.mynostr.fun
 wss://xnostr.geekgalaxy.com
 wss://nostr.Supremestack.xyz
+wss://nostr-usa.ka1gbeoa21bnm.us-west-2.cs.amazonlightsail.com
 wss://nostream-test.up.railway.app
 wss://nostrelay.rajabi.ca
 wss://nostr.coinsamba.com.br
@@ -1081,6 +1082,7 @@ wss://nostr-relay.freeberty.net
 wss://2b2bd5zc6lxzc4s3ufjgaw5zibexghmerwuh3ikqcwmvfjpzw5r5m6id.onion
 wss://nostr.delta9.tech
 wss://nostr-verified.wellorder.net
+wss://nostr.drss.lo
 wss://relay.nostr.ae
 wss://relay.nostrology.org
 wss://satsjar.local:4848
@@ -1458,12 +1460,7 @@ wss://nostr-relay.local:7443
 wss://paying-prancing.fractalnetworks.co
 wss://nostr.0xtr.dev
 wss://-pub.wellorder.net
-wss://nostr.mom
-wss://nostr2.acrn.io
-wss://bitcoin.social
-wss://nostr.ahaspharos.de
-wss://nostr.0ne.day
-wss://umbrel-app.tail10ad4.ts.net:4848
+                     wss://umbrel-app.tail10ad4.ts.net:4848
 wss://merrcurr.up.railway.app
 wss://nostr.zenon.info
 wss://relay.nostr.social
