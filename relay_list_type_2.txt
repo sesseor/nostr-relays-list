@@ -367,6 +367,7 @@ wss://umbrel.tail9dfb.ts.net:4848
 wss://nostr.actn.io
 wss://3einhalb.io
 wss://nostr.localhost.re
+wss://relay.runningnostr.lol
 wss://nostr.goller.net
 wss://rsr.uyky.net
 wss://nostr.cercatrova.me
@@ -1460,7 +1461,8 @@ wss://nostrich.site
 wss://nostr.phenomenon.space
 wss://nostr-relay.wolfandcrow.tech
 wss://nostrica.nostrnotes.com
-wss://nostr-us.coinfundit.comnostr.831.pp.ua
+
+wss://nostream-relay-nostr.831.pp.ua
 wss://nostr.walletofsatoshi.com
 wss://nostr.dvdt.dev
 wss://relay.mrjohnsson.netCheck
