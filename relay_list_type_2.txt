@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -360,6 +360,7 @@ wss://wiz.biz
 wss://brt.io
 wss://api.semisol.dev
 wss://relay.nostr3.io
+wss://umbrel.tail9dfb.ts.net:4848
 wss://nostr.actn.io
 wss://3einhalb.io
 wss://nostr.localhost.re
@@ -1195,8 +1196,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostream.gromeul.eu
 wss://nostr.pinkanki.org
+wss://nostream.gromeul.eu
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1461,7 +1462,7 @@ wss://nostr.21sats.org
 wss://nostr-relay.local:7443
 wss://paying-prancing.fractalnetworks.co
 wss://nostr.0xtr.dev
-      wss://nostr.mom
+tr.mom
 wss://nostr2.acrn.io
 wss://bitcoin.social
 wss://nostr.ahaspharos.de
@@ -1491,6 +1492,7 @@ wss://t540p.local:4848
 wss://nostr.relay.nokotaro.com
 wss://nostr.interwebcoding.com:4848
 wss://dublin.saoirse.dev
+wss://nostr.Inprivate.network
 wss://nostr-1.nbo.agani.co
 wss://relay.armnd.net
 wss://nostr-relay.ie9.org
