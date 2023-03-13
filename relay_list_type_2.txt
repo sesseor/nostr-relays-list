@@ -1242,6 +1242,7 @@ wss://Brb.io
 wss://nostr.v01.io
 wss://nostr.bridgey.dev
 wss://nostream-production-31f8.up.railway.app
+wss://Nostr.azte.co
 wss://nostr.test.aesyc.io
 wss://ryogrid.net:7777
 wss://nostr.codl.co
@@ -1466,8 +1467,7 @@ wss://relay.nostr.social
 wss://Nostr.mom
 wss://redgreenblue.click
 wss://nostr-pub.welllorder.net
-wss://nostr.100p.org
-wss://nostr.eaglebtm.com
+ wss://nostr.eaglebtm.com
 wss://nostr.bongbong.com
 wss://tail6452b.ts.net:4848
 wss://r.alphaama.com
