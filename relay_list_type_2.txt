@@ -594,6 +594,7 @@ wss://nostr.inosta.cc
 wss://nostr.interwebcoding.com
 wss://lzybsdznklr56a5qnvj6qy45xx7qeh73ckv6yrww5ehxofinqn7kydqd.onion
 wss://nostr.oooxxx.ml
+wss://BTC.kendazu.com
 wss://Nostrical.com
 wss://Nostr.relayer.se
 wss://relay.hrf.org
