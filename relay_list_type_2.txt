@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -523,6 +523,7 @@ wss://relay.nostr.net.in
 wss://nostr.frostr.xyz
 wss://relay.nostrify.io
 wss://relay.xuzmail.com
+wss://nostr.thesamecat.io
 wss://nostr.videre.net
 wss://umbrel.tail1d35e.ts.net:4848
 wss://relay.f7z.io
@@ -571,6 +572,7 @@ wss://nostr.fresheyesinc.com
 wss://ljjrqq6frnm56oeowjzqfzfniwqqpohyg4l6adawekgh4vligfcg2lyd.onion
 wss://relay.current.fyi
 wss://h3avzcsyhvpi2mtmh5d3yqhz65cwsmbdlud37hk5gbnxi2gkajwoczqd.onion
+wss://raspberrypi4.local:4848
 wss://rsslay.data.haus
 wss://3gkpphcfwb6w5iq6axnmlbvr7pz2t37uy4ofocyijzttzrbz4jy43fid.local
 wss://wine.Nostr
@@ -1213,8 +1215,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostr.pinkanki.org
 wss://nostream.gromeul.eu
+wss://nostr.pinkanki.org
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1456,9 +1458,8 @@ wss://tom-desktop.local:4848
 wss://nwmdev.com
 wss://vwy4pf523dmib4nny6l5slkghfx6yf3a2erfe4dygaa44hvyyhj4g2id.onion:4848
 wss://relay.r3d.red
-wss://nostr-verif.slothy.win
-wss://minds.com
-                wss://out.of.milk
+eam.kinchie.snowinning.com
+wss://out.of.milk
 wss://nostr.liberty.fans
 wss://nostr.5ub.net:8008
 wss://nostr.kimi.im
