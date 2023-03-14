@@ -1194,6 +1194,7 @@ wss://nostr.nodeofsven.com
 wss://relay.nostrcheck.com
 wss://nostr2.actn.io
 wss://nostr.Oxtr.dev
+wss://nostr-rs-relay.phamthanh.me
 wss://relay1.gems.xyz
 wss://klockenga.social
 wss://runingnostr.lol
@@ -1458,8 +1459,7 @@ wss://6gygg7t2ngtl6lvipwgbjwledrr6hnfuhufgijct3v425ba32n2scbid.onion
 wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
 wss://chad.polytechnic.com
 wss://nostr.com.de
-wss://Nostr.kollider.xyz
-wss://nostr.rewardsbunny.com
+tr.rewardsbunny.com
 wss://nost.wine
 wss://relay.nostr.distrl.net
 wss://nostream.lucas.snowinning.com
