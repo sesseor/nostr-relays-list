@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -1460,7 +1460,9 @@ wss://Bitcoiner.social
 wss://nostr-bg01.ciph.rs
 wss://nostr.whoop.ph
 wss://6gygg7t2ngtl6lvipwgbjwledrr6hnfuhufgijct3v425ba32n2scbid.onion
-   wss://nostr.com.de
+wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
+wss://chad.polytechnic.com
+wss://nostr.com.de
 wss://Nostr.kollider.xyz
 wss://nostr.rewardsbunny.com
 wss://nost.wine
