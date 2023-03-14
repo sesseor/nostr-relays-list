@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -1212,8 +1212,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostream.gromeul.eu
 wss://nostr.pinkanki.org
+wss://nostream.gromeul.eu
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1330,6 +1330,7 @@ wss://nostr.thesimplekid.com
 wss://nostr.lorentz.is
 wss://944e-54-211-137-55.ngrok.io
 wss://nostr.web3infra.xyz
+wss://relay.topaz.place
 wss://www.nostrweb.xyz
 wss://nostr.private.network
 wss://nostr.zebedee.cloud
@@ -1457,8 +1458,14 @@ wss://relay.r3d.red
 wss://nostr-verif.slothy.win
 wss://minds.com
 wss://nostream.kinchie.snowinning.com
-wss://out.of.milk
-                             wss://nostrica.nostrnotes.com
+nostr.liberty.fans
+wss://nostr.5ub.net:8008
+wss://nostr.kimi.im
+wss://nostr.merrcurr.com
+wss://nostrich.site
+wss://nostr.phenomenon.space
+wss://nostr-relay.wolfandcrow.tech
+wss://nostrica.nostrnotes.com
 wss://nostr-us.coinfundit.com
 wss://nostream-relay-nostr.831.pp.ua
 wss://nostr.walletofsatoshi.com
@@ -1520,6 +1527,7 @@ wss://relay.mynostr.id
 wss://No.str.cr
 wss://relay.nostrplebs.com
 wss://no-str.org
+wss://ln.runningnostr.lol
 wss://nostr-relay.j3s7m4n.com
 wss://relay.snort.social
 wss://nostr.yael.at
