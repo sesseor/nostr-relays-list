@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -76,6 +76,7 @@ wss://nostr.kollider.xyz
 wss://eden.nostr.space
 wss://nostr-relay.derekross.me
 wss://nostr.21crypto.ch
+wss://umbrel.tail6ec9a.ts.net:4848
 wss://nostr.256k1.dev
 wss://2g2jzcfgq5lcrceuq23lmya2drm3ku5qmqimr3bvu3amol55vidctrad.onion
 wss://puravida.nostrich.land
@@ -903,6 +904,7 @@ wss://nostrproxy-1.f7z.io
 wss://relay.oxtr.dev
 wss://nostr.0nyx.eu
 wss://7oqraq7546vmfhqn3bkvsbfpe2nbo4kzgddtouuajen7cqwumba72lyd.onion
+wss://tail5b79a.ts.net:4848
 wss://15171031.688.org
 wss://iris.to
 wss://nostr.volcanoco.in:9000
@@ -956,6 +958,7 @@ wss://nostr.uthark.com
 wss://nauka-relay.herokuapp.com
 wss://nostr-relay.bigsun.xyz
 wss://sebastix.dev
+wss://umbrel.tail5b79a.ts.net
 wss://relay.hammel.io
 wss://e45sscni6e6y64bmla3yznokekcco2jfldvh5ptkbd3ljqqj23zb5hid.onion
 wss://mastodon.cloud
@@ -1457,9 +1460,8 @@ wss://Bitcoiner.social
 wss://nostr-bg01.ciph.rs
 wss://nostr.whoop.ph
 wss://6gygg7t2ngtl6lvipwgbjwledrr6hnfuhufgijct3v425ba32n2scbid.onion
-wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
-wss://chad.polytechnic.com
-r.kollider.xyz
+   wss://nostr.com.de
+wss://Nostr.kollider.xyz
 wss://nostr.rewardsbunny.com
 wss://nost.wine
 wss://relay.nostr.distrl.net
