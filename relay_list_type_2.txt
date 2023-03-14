@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -538,6 +538,7 @@ wss://node01.notress.cc
 wss://nostr.rbel.co
 wss://home.manyjourneys.com:4848
 wss://nproxy.zerologin.co
+wss://relay.tnano.duckdns.org
 wss://wizards.wormrobot.org
 wss://nostr.robotechy.com
 wss://nostr.k3tan.com
@@ -1458,7 +1459,9 @@ wss://realy.nostr.band
 wss://zaprelay.com
 wss://z4mf4irie7bo3l6c24lqu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
 wss://Bitcoiner.social
-                                                                                   wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
+/nostr.whoop.ph
+wss://6gygg7t2ngtl6lvipwgbjwledrr6hnfuhufgijct3v425ba32n2scbid.onion
+wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
 wss://chad.polytechnic.com
 wss://nostr.com.de
 wss://Nostr.kollider.xyz
