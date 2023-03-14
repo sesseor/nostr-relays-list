@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -898,6 +898,7 @@ wss://iris.to
 wss://nostr.volcanoco.in:9000
 wss://relay.einundzwanzig.space
 wss://nostr.ch
+wss://relay.intify.io
 wss://nostr-01.dorafactory.org
 wss://lv3djqdyncc3gvjblf55hmbvyfnew3n57opsy4gpgkl25saupmvafeyd.onion
 wss://Nostr.cercatrova.me
@@ -1457,8 +1458,8 @@ wss://vwy4pf523dmib4nny6l5slkghfx6yf3a2erfe4dygaa44hvyyhj4g2id.onion:4848
 wss://relay.r3d.red
 wss://nostr-verif.slothy.win
 wss://minds.com
-wss://nostream.kinchie.snowinning.com
-nostr.liberty.fans
+                wss://out.of.milk
+wss://nostr.liberty.fans
 wss://nostr.5ub.net:8008
 wss://nostr.kimi.im
 wss://nostr.merrcurr.com
