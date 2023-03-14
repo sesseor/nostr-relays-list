@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -1459,7 +1459,10 @@ wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
 wss://chad.polytechnic.com
 wss://nostr.com.de
 wss://Nostr.kollider.xyz
-://nostream.lucas.snowinning.com
+wss://nostr.rewardsbunny.com
+wss://nost.wine
+wss://relay.nostr.distrl.net
+wss://nostream.lucas.snowinning.com
 wss://deschooling.us
 wss://nostr.lnbitcoin.cz
 wss://nostr.africa
