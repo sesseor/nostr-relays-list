@@ -125,6 +125,7 @@ wss://k65qz57zx4sw24fow2bvchjgmpjqljj4cp3oa7dtpbbprjifsdotggid.local
 wss://nostr.primedomain.fr
 wss://63ragcfwb5xhoe5gfflazfyrde3qjdo73cblhhmnbviizowdo2q5haid.onion:5051
 wss://nostr.drss.io
+wss://btcpay.kukks.org
 wss://nostr.lnprivate.network
 wss://middling.myddns.me:8080
 wss://nostrija-kari.heguro.com
@@ -251,6 +252,7 @@ wss://relay.ohbe.me
 wss://relay.orange-crush.com
 wss://nostr.jmdtx.com
 wss://tf2yfiqfzc2ybazi7ugmtub25gzjn3le7fetbajnrhdxtmecr2fqm7ad.onion
+wss://kukks.org
 wss://oarnx6xdrq5mygfdrbmzsvh3is3holefpz2x4qwbopwcicwd63gcivid.onion
 wss://carnivore-diet-relay.denizenid.com
 wss://spore.ws
@@ -558,6 +560,7 @@ wss://nostr.pcdkd.fyi
 wss://nostr.einundzwanzig.space
 wss://nostr.frennet.xyzl
 wss://Nostrica.com
+wss://welkinhere.githu
 wss://nostr-relay.bitcoin.ninja
 wss://ksd4653zuyclc3x4exxjsw5vhcxdb3z4ntwxtkchoamxhmkahgb2brid.onion:5051
 wss://nostr.nom
@@ -1175,6 +1178,7 @@ wss://relay.nostr.wf
 wss://relay.nostris.online
 wss://relay.nostrdocs.com
 wss://nostr-verif.slothy.com
+wss://Cash.app
 wss://relay.mrjohnsson.net
 wss://Nostr.Itssilvestre.com
 wss://nostr-relay.trustbtc.com
@@ -1455,10 +1459,11 @@ wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
 wss://chad.polytechnic.com
 wss://nostr.com.de
 wss://Nostr.kollider.xyz
-wss://nostr.rewardsbunny.com
-wss://nost.wine
-wss://relay.nostr.distrl.net
-   wss://zee-relay.fly.dev
+://nostream.lucas.snowinning.com
+wss://deschooling.us
+wss://nostr.lnbitcoin.cz
+wss://nostr.africa
+wss://zee-relay.fly.dev
 wss://tom-desktop.local:4848
 wss://nwmdev.com
 wss://vwy4pf523dmib4nny6l5slkghfx6yf3a2erfe4dygaa44hvyyhj4g2id.onion:4848
