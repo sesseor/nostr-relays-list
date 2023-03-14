@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -1013,6 +1013,7 @@ wss://relai.nostrati.com
 wss://relay.snort.wss
 wss://mostra.milou.lol
 wss://relay.thes.ai
+wss://nostramstersam.vpx.moe
 wss://pmm3lypla4y2ds5qyk35xkwdvh7ruhyxud6bz34rkvhfqyinhs4yasad.onion
 wss://nostr.wine
 wss://relay-jp.nostr.wirednet.jp
@@ -1458,8 +1459,8 @@ wss://nostr.whoop.ph
 wss://6gygg7t2ngtl6lvipwgbjwledrr6hnfuhufgijct3v425ba32n2scbid.onion
 wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
 wss://chad.polytechnic.com
-wss://nostr.com.de
-tr.rewardsbunny.com
+r.kollider.xyz
+wss://nostr.rewardsbunny.com
 wss://nost.wine
 wss://relay.nostr.distrl.net
 wss://nostream.lucas.snowinning.com
