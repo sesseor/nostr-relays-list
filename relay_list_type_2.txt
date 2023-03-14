@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -450,6 +450,7 @@ wss://lbrygen.xyz
 wss://rwlay.bigred.social
 wss://relay.nostrcheck.me
 wss://nostr1.starbackr.me
+wss://Adult.18plus.social
 wss://relay.current.fy
 wss://relay.nostrified.org
 wss://pow.nostrati.com
@@ -554,6 +555,7 @@ wss://nostr.totient.xyz
 wss://nostr.oragepill.dev
 wss://nostr.pcdkd.fyi
 wss://nostr.einundzwanzig.space
+wss://nostr.frennet.xyzl
 wss://Nostrica.com
 wss://nostr-relay.bitcoin.ninja
 wss://ksd4653zuyclc3x4exxjsw5vhcxdb3z4ntwxtkchoamxhmkahgb2brid.onion:5051
@@ -1045,6 +1047,7 @@ wss://relay.nostr.rocks
 wss://xmr.usenostr.org
 wss://relay.minds.com
 wss://club.unicornhunters.com
+wss://relay.relay.house
 wss://nostr.blockchaincaffe.it
 wss://rhs-umbrel-social.local:4848
 wss://nostr.xpersona.net
@@ -1216,8 +1219,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostream.gromeul.eu
 wss://nostr.pinkanki.org
+wss://nostream.gromeul.eu
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1455,10 +1458,7 @@ wss://nostream.lucas.snowinning.com
 wss://deschooling.us
 wss://nostr.lnbitcoin.cz
 wss://nostr.africa
-wss://zee-relay.fly.dev
-wss://tom-desktop.local:4848
-wss://nwmdev.com
-6l5slkghfx6yf3a2erfe4dygaa44hvyyhj4g2id.onion:4848
+/vwy4pf523dmib4nny6l5slkghfx6yf3a2erfe4dygaa44hvyyhj4g2id.onion:4848
 wss://relay.r3d.red
 wss://nostr-verif.slothy.win
 wss://minds.com
