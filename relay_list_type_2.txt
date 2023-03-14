@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -1216,8 +1216,8 @@ wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
 wss://nostr.gundersen.io:4848
-wss://nostr.pinkanki.org
 wss://nostream.gromeul.eu
+wss://nostr.pinkanki.org
 wss://nostr.brigtech.tk
 wss://nostream.dev.kronkltd.net
 wss://nostr.twork.ai
@@ -1353,6 +1353,7 @@ wss://nostr.bingtech.tk
 wss://4bqywujincjfxvlwfdpgkx73zeogc5fcf7ddsovw2ndktort5z2wzeid.onion
 wss://nostr.red
 wss://btc.klendazu.com
+wss://nostr.blipme.add
 wss://nostr.retroware.run.place
 wss://wss.nostr.pleb.network
 wss://nostrblip.app
@@ -1457,7 +1458,9 @@ wss://nostr.africa
 wss://zee-relay.fly.dev
 wss://tom-desktop.local:4848
 wss://nwmdev.com
-                    wss://nostr-verif.slothy.win
+6l5slkghfx6yf3a2erfe4dygaa44hvyyhj4g2id.onion:4848
+wss://relay.r3d.red
+wss://nostr-verif.slothy.win
 wss://minds.com
 wss://nostream.kinchie.snowinning.com
 wss://out.of.milk
