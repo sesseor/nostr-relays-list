@@ -914,6 +914,7 @@ wss://7oqraq7546vmfhqn3bkvsbfpe2nbo4kzgddtouuajen7cqwumba72lyd.onion
 wss://tail5b79a.ts.net:4848
 wss://15171031.688.org
 wss://iris.to
+wss://anonode.local:4848
 wss://nostr.volcanoco.in:9000
 wss://relay.einundzwanzig.space
 wss://nostr.ch
@@ -1460,9 +1461,8 @@ wss://nostr-relay.xbytez.io
 wss://nostr.v0l.io
 wss://relay.nostrpurple.com
 wss://relay.nostr.bitcoiner.social
-wss://dev.saoirse.dev
-wss://realy.nostr.band
-qu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
+                    wss://zaprelay.com
+wss://z4mf4irie7bo3l6c24lqu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
 wss://Bitcoiner.social
 wss://nostr-bg01.ciph.rs
 wss://nostr.whoop.ph
