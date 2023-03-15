@@ -462,6 +462,7 @@ wss://relay.nostrified.org
 wss://pow.nostrati.com
 wss://greenart7c3.dedyn.io
 wss://relay-dev.cowdle.gg
+wss://rsslay-production-1c45.up.railway.app
 wss://puravid.nostr.land
 wss://puravida.Nostr.land
 wss://games.gamertron.net:4848
@@ -1461,8 +1462,7 @@ wss://relay.nostrpurple.com
 wss://relay.nostr.bitcoiner.social
 wss://dev.saoirse.dev
 wss://realy.nostr.band
-wss://zaprelay.com
-wss://z4mf4irie7bo3l6c24lqu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
+qu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
 wss://Bitcoiner.social
 wss://nostr-bg01.ciph.rs
 wss://nostr.whoop.ph
