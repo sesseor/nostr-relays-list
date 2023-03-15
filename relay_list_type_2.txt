@@ -468,6 +468,7 @@ wss://games.gamertron.net:4848
 wss://relay.cirrent.fyi
 wss://realy.nostr.info
 wss://nostr.zue.news
+wss://relay.nostrplebs.co
 wss://wss.nostr.milou
 wss://nostriches.club
 wss://purevida.nostr.land
@@ -483,6 +484,7 @@ wss://nostr.fmt.wss
 wss://nostr-relay.Inmarkets.com
 wss://nostr.developer.li
 wss://mule.platanito.org
+wss://themasch.ddns.net:4848
 wss://astralbabes.pub
 wss://relayer.fiatjaff.com
 wss://nostr.snblago.com
@@ -1460,8 +1462,7 @@ wss://relay.nostr.bitcoiner.social
 wss://dev.saoirse.dev
 wss://realy.nostr.band
 wss://zaprelay.com
-wss://z4mf4irie7bo3l6c24lqu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
-wss://Bitcoiner.social
+              wss://Bitcoiner.social
 wss://nostr-bg01.ciph.rs
 wss://nostr.whoop.ph
 wss://6gygg7t2ngtl6lvipwgbjwledrr6hnfuhufgijct3v425ba32n2scbid.onion
