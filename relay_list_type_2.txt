@@ -506,6 +506,7 @@ wss://www.weixin.co
 wss://nostr.monostr.org
 wss://lnbits.anonymousgreen.com
 wss://nostr.anchel.nl
+wss://meta-relay-beta.nostr.wirednet.jp
 wss://btc.kendazu.com
 wss://nostr-relay-dev.wlvs.space
 wss://relay.orangepilldev.com
@@ -674,6 +675,7 @@ wss://6amyhf3sjvgxe5qzbx4xn52pcnqresdmi7szxurp6umkvz6mthxjdcad.onion
 wss://nostue.com
 wss://relay.nostriche.de
 wss://6amyhf3sjvgxe5qzbx4xn52pcnqresdmi7szxurp6umkvz6mthxjdcad.local
+wss://relay.nostrebs.com
 wss://vo3m7gv2xsjwzmby6aox5rgunwzkhzqbid57dgc5x6pf7rliemesbuid.onion
 wss://nor.st
 wss://Nostr-2.ZEBEDEE.cloud
@@ -731,6 +733,7 @@ wss://nostrgram.co
 wss://shireHODL.com
 wss://relay.nostr.info
 wss://nostr.h3y6e.com
+wss://izj3isbk3pmade74ontdijodhehsytnw2iokdhh6k3flk4mq2pau6sid.local
 wss://nostr.give.africa
 wss://nostr.fennel.org:7000
 wss://nostr.openchair.fr
@@ -1311,6 +1314,7 @@ wss://wkw43dwssaaan2dnowcxfk47zp5f2dsqkpoy3i6mkicav3kygvvgr6id.onion
 wss://relay.nostr.wirednet.jp
 wss://nostr.oxtr.dev
 wss://relay.nostriches.net
+wss://lnbits.sdbtc.org
 wss://relay.johnnyasantos.com
 wss://nostr.rikmeijer.nl
 wss://jsin5q3u2sxnea4kb2ykvml5dm5v3djkqdvor2vb3h35ey7ttnxdu3ad.onion
@@ -1454,13 +1458,13 @@ wss://nostr.africa.gives
 wss://nostr.aroundrockbitcoiners.com
 wss://nostr.fine
 wss://nostr.ftm.wiz.biz
-wss://relay.poster.place
-wss://relay.nostwss
-wss://nostr.p2sh.co
-wss://relay.nostr.lu
-wss://umbrel.merino-bee.ts.net
-wss://nostr.terminus.money
-   wss://dev.saoirse.dev
+mt.wiz.biz
+wss://translate.argosopentech.com
+wss://nostr-relay.xbytez.io
+wss://nostr.v0l.io
+wss://relay.nostrpurple.com
+wss://relay.nostr.bitcoiner.social
+wss://dev.saoirse.dev
 wss://realy.nostr.band
 wss://zaprelay.com
 wss://z4mf4irie7bo3l6c24lqu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
@@ -1504,6 +1508,7 @@ wss://relay.mrjohnsson.netCheck
 wss://nostr-check.me
 wss://7tdom3xuus7ekv423ul46w3j43zyixjj54yoe62bndpcrgii3adeppid.onion
 wss://Nostr.milou.lol
+wss://nostr.orangepillapp.com
 wss://tail8278a.ts.net
 wss://nostr-relay.wlvs.space
 wss://nostr.21sats.org
