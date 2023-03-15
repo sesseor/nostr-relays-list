@@ -296,6 +296,7 @@ wss://relat.nostrica.com
 wss://Eden.nostr.land
 wss://matty-precision-tower-3620.local:4848
 wss://nostr.malin.onl
+wss://asikaxym5knuxn7b7qynqdp7y2lvavtjmczd2kisc4fpgxhpaxizojyd.onion
 wss://nostr.holybea.com
 wss://fin-nostr.seekdisruption.com
 wss://pepere.hippogriff-shark.ts.net:4848
@@ -1454,10 +1455,7 @@ wss://atlas.nostr.land
 wss://caro-relay.fiatjaf.com
 wss://relay.nostr.com.au
 wss://nos.io
-wss://relay.zhix.in
-wss://relay.lacosanostr.com
-wss://nostr.africa.gives
-wss://nostr.aroundrockbitcoiners.com
+    wss://nostr.aroundrockbitcoiners.com
 wss://nostr.fine
 wss://nostr.ftm.wiz.biz
 wss://relay.poster.place
