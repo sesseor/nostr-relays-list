@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -1458,7 +1458,13 @@ wss://nostr.africa.gives
 wss://nostr.aroundrockbitcoiners.com
 wss://nostr.fine
 wss://nostr.ftm.wiz.biz
-mt.wiz.biz
+wss://relay.poster.place
+wss://relay.nostwss
+wss://nostr.p2sh.co
+wss://relay.nostr.lu
+wss://umbrel.merino-bee.ts.net
+wss://nostr.terminus.money
+wss://Nostr.fmt.wiz.biz
 wss://translate.argosopentech.com
 wss://nostr-relay.xbytez.io
 wss://nostr.v0l.io
