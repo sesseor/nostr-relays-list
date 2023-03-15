@@ -8,6 +8,7 @@ wss://nostr.btc-library.com
 wss://nostr-relay.australiaeast.cloudapp.azure.com
 wss://nostr.dumpit.top
 wss://nostr1676129486335.app.runonflux.io
+wss://mylife.nostress.cc
 wss://no-str.org
 
 wss://b4968f09859e.ngrok.io
@@ -1034,6 +1035,7 @@ wss://mostra.milou.lol
 wss://relay.thes.ai
 wss://nostramstersam.vpx.moe
 wss://pmm3lypla4y2ds5qyk35xkwdvh7ruhyxud6bz34rkvhfqyinhs4yasad.onion
+wss://relay.nos.lol
 wss://nostr.wine
 wss://relay-jp.nostr.wirednet.jp
 wss://relay.froth.zone
@@ -1455,10 +1457,7 @@ wss://nos.io
 wss://relay.zhix.in
 wss://relay.lacosanostr.com
 wss://nostr.africa.gives
-wss://nostr.aroundrockbitcoiners.com
-wss://nostr.fine
-wss://nostr.ftm.wiz.biz
-wss://relay.poster.place
+                                 wss://relay.poster.place
 wss://relay.nostwss
 wss://nostr.p2sh.co
 wss://relay.nostr.lu
