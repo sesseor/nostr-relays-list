@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -1462,7 +1462,8 @@ wss://relay.nostr.bitcoiner.social
 wss://dev.saoirse.dev
 wss://realy.nostr.band
 wss://zaprelay.com
-              wss://Bitcoiner.social
+wss://z4mf4irie7bo3l6c24lqu5stvgm5mfl5vuqjdc6mfhmddzzvcutvaqid.onion
+wss://Bitcoiner.social
 wss://nostr-bg01.ciph.rs
 wss://nostr.whoop.ph
 wss://6gygg7t2ngtl6lvipwgbjwledrr6hnfuhufgijct3v425ba32n2scbid.onion
