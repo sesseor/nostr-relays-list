@@ -1457,7 +1457,10 @@ wss://nos.io
 wss://relay.zhix.in
 wss://relay.lacosanostr.com
 wss://nostr.africa.gives
-                                 wss://relay.poster.place
+wss://nostr.aroundrockbitcoiners.com
+wss://nostr.fine
+wss://nostr.ftm.wiz.biz
+wss://relay.poster.place
 wss://relay.nostwss
 wss://nostr.p2sh.co
 wss://relay.nostr.lu
