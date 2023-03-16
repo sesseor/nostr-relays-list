@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -1456,7 +1456,11 @@ wss://nostr.satsophone.tk
 wss://nostr.Ethtozero.fr
 wss://reley.kronkltd.net
 wss://nostr.klabo.blog
-                                                                                         wss://hdd6dyp3zlacouocjjk4fix4wcd66dugibmyrfqqza6exnljr2fypxqd.onion
+wss://mrz2q7vklkwcpgojmcyuq4pstyiclcvkovvjfy2yfz3gznmsgsqafead.onion
+wss://nostr.mjman.net
+wss://nostr-pub.wellorder.net
+wss://next.nostr.watch
+wss://hdd6dyp3zlacouocjjk4fix4wcd66dugibmyrfqqza6exnljr2fypxqd.onion
 wss://jqiwgflfw4dezjsy42frompmknrlcfazoiyngftgknj7yrmnhtobd7id.local
 wss://atlas.nostr.land
 wss://caro-relay.fiatjaf.com
