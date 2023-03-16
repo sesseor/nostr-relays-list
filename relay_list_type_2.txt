@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -328,6 +328,7 @@ wss://nostr-Pub.semisol.dev
 wss://nostr3.action.io
 wss://relay.nostr.africa
 wss://mostr.snblago.com
+wss://satgag.site
 wss://relay.rip
 wss://nostr.coincreek.com
 wss://relay.vanderwarker.family
@@ -1455,7 +1456,7 @@ wss://atlas.nostr.land
 wss://caro-relay.fiatjaf.com
 wss://relay.nostr.com.au
 wss://nos.io
-wss://relay.zhix.in
+n
 wss://relay.lacosanostr.com
 wss://nostr.africa.gives
 wss://nostr.aroundrockbitcoiners.com
