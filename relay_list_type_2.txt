@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
@@ -268,6 +268,7 @@ wss://eosla.com
 wss://nostr.oxtr.dev
 
 wss://nostr.fredix.xyz
+wss://598e-189-250-106-103.ngrok.io
 wss://nostr.winer
 wss://relay.t5y.ca
 wss://ceqlikjd4qg7cyzhsmfnea3va7llwbgzh4h7fx5huw2qcpvbhkicllid.onion
@@ -899,6 +900,7 @@ wss://nostr.rocks
 wss://nostr.ownscale.org
 wss://nostr.dras.io
 wss://nostr.exposd
+wss://nostr.zbd.gg
 wss://nostr.cro.social
 wss://nostr.lol
 wss://relay.nostr.nu
@@ -1454,11 +1456,8 @@ wss://nostr.satsophone.tk
 wss://nostr.Ethtozero.fr
 wss://reley.kronkltd.net
 wss://nostr.klabo.blog
-wss://mrz2q7vklkwcpgojmcyuq4pstyiclcvkovvjfy2yfz3gznmsgsqafead.onion
-wss://nostr.mjman.net
-wss://nostr-pub.wellorder.net
-wss://next.nostr.watch
-frompmknrlcfazoiyngftgknj7yrmnhtobd7id.local
+                                                                                         wss://hdd6dyp3zlacouocjjk4fix4wcd66dugibmyrfqqza6exnljr2fypxqd.onion
+wss://jqiwgflfw4dezjsy42frompmknrlcfazoiyngftgknj7yrmnhtobd7id.local
 wss://atlas.nostr.land
 wss://caro-relay.fiatjaf.com
 wss://relay.nostr.com.au
