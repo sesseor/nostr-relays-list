@@ -1457,7 +1457,7 @@ wss://nostr.mjman.net
 wss://nostr-pub.wellorder.net
 wss://next.nostr.watch
 wss://hdd6dyp3zlacouocjjk4fix4wcd66dugibmyrfqqza6exnljr2fypxqd.onion
-zjsy42frompmknrlcfazoiyngftgknj7yrmnhtobd7id.local
+wss://jqiwgflfw4dezjsy42frompmknrlcfazoiyngftgknj7yrmnhtobd7id.local
 wss://atlas.nostr.land
 wss://caro-relay.fiatjaf.com
 wss://relay.nostr.com.au
