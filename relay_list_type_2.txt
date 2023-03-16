@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -975,6 +975,7 @@ wss://nostr.cizmar.net
 wss://Nostr.nostrelay.org
 wss://nostr.uthark.com
 wss://nauka-relay.herokuapp.com
+wss://paultodev.space
 wss://nostr-relay.bigsun.xyz
 wss://sebastix.dev
 wss://umbrel.tail5b79a.ts.net
@@ -1455,8 +1456,7 @@ wss://hdd6dyp3zlacouocjjk4fix4wcd66dugibmyrfqqza6exnljr2fypxqd.onion
 wss://jqiwgflfw4dezjsy42frompmknrlcfazoiyngftgknj7yrmnhtobd7id.local
 wss://atlas.nostr.land
 wss://caro-relay.fiatjaf.com
-wss://relay.nostr.com.au
-wss://nos.io
+   wss://nos.io
 wss://relay.zhix.in
 wss://relay.lacosanostr.com
 wss://nostr.africa.gives
