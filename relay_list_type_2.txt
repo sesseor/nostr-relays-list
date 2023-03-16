@@ -310,6 +310,7 @@ wss://nost.oxtr.dev
 wss://mustafa-esprimo-q920.local:4848
 wss://nos.tr.cr
 wss://gaqbphn4jnfloyppqjw6w3r6qdjvgyql7no3b4dcr22q7udveo34neid.onion
+wss://fnqdhz3df33da6wxg7jskvumd5rjn3nknln6ecun7uwwysc7vkwkjgid.onion
 wss://nostr.how
 wss://nostr-01.bolt.oberver
 wss://nr.yay.so
@@ -1448,6 +1449,7 @@ wss://zaplife.lol
 wss://relay.taldra.in
 wss://nostr.cryptojournaal.net
 wss://relay.utxo.com
+wss://nostrbounties.xyz
 wss://nostr.satsophone.tk
 wss://nostr.Ethtozero.fr
 wss://reley.kronkltd.net
@@ -1456,8 +1458,7 @@ wss://mrz2q7vklkwcpgojmcyuq4pstyiclcvkovvjfy2yfz3gznmsgsqafead.onion
 wss://nostr.mjman.net
 wss://nostr-pub.wellorder.net
 wss://next.nostr.watch
-wss://hdd6dyp3zlacouocjjk4fix4wcd66dugibmyrfqqza6exnljr2fypxqd.onion
-wss://jqiwgflfw4dezjsy42frompmknrlcfazoiyngftgknj7yrmnhtobd7id.local
+frompmknrlcfazoiyngftgknj7yrmnhtobd7id.local
 wss://atlas.nostr.land
 wss://caro-relay.fiatjaf.com
 wss://relay.nostr.com.au
