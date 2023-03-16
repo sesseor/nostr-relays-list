@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -1241,6 +1241,7 @@ wss://nostr.yuv.al
 wss://au4bcjeijqf2v45raa5hg36ifo3i2ezn62t5r264p6fhechy4vqx33qd.onion
 wss://relay.nostrgraph.net
 
+wss://relay.berserker.town
 wss://nfdn.testnet.dotalgo.io
 wss://nostr.fediverse.jp
 wss://relay.sandwich.farm
@@ -1455,8 +1456,7 @@ wss://next.nostr.watch
 wss://hdd6dyp3zlacouocjjk4fix4wcd66dugibmyrfqqza6exnljr2fypxqd.onion
 wss://jqiwgflfw4dezjsy42frompmknrlcfazoiyngftgknj7yrmnhtobd7id.local
 wss://atlas.nostr.land
-wss://caro-relay.fiatjaf.com
-wss://relay.nostr.com.au
+  wss://relay.nostr.com.au
 wss://nos.io
 wss://relay.zhix.in
 wss://relay.lacosanostr.com
