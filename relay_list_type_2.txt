@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -462,6 +462,7 @@ wss://pow32.nostr.land
 wss://relay.nort.social
 wss://jgqaglhautb4k6e6i2g34jakxiemqp6z4wynlirltuukgkft2xuglmqd.onion
 wss://nostr-pub.welloorder.net
+wss://Big.fist.black
 wss://nostrrr.bublina.eu.org
 wss://nostream.ocha.one
 wss://nostr.swiss-enigma.ch
@@ -555,6 +556,7 @@ wss://nostr.frostr.xyz
 wss://relay.nostrify.io
 wss://relay.xuzmail.com
 wss://nostr.thesamecat.io
+wss://ccdt5ch6lg66i7gsc6yuu5de2uumemqdhqfj4ys5tmipuczs4r5xe2ad.onion
 wss://nostr.videre.net
 wss://umbrel.tail1d35e.ts.net:4848
 wss://relay.f7z.io
@@ -1450,14 +1452,9 @@ wss://ib3kefulyelfjvvw6ooxj4gkbdkgt7f4ovb4mukhs2qxuaychpbayjid.onion
 wss://relay.pub
 wss://profiles.f7z.io
 wss://jax1028.ndscal.com:80
-wss://wcbli2ttxxqmx4oy3p6zbzrqbx47uyjsiv5iyyb2elvmpr2c2uiauqad.onion:5051
-wss://nostr.watch
-wss://zur.nostr.sx
-wss://hello.io
-wss://rsslay.ch3n2k.com
-wss://blg.nostr.sx
-wss://nostr.ibosilj.work
-//nostr-3.orba.ca
+                                                                                                        wss://nostr.exotr.dev
+wss://nostr.walletofsatoshi
+wss://nostr-3.orba.ca
 wss://nostr.citizenry.technology
 wss://Nostr.f44.dev
 wss://nostream.delta9.tech
