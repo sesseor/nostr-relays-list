@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -662,6 +662,7 @@ wss://relay.nostrica.com
 wss://nostr.1729.cloud
 wss://relay.strfry.net
 wss://Nostr.onsats.org
+wss://nostr1.tunnelsats.co
 wss://lrelay.sovereign-stack.org
 wss://relay.nostr.lucentlabs.co
 wss://nostr.bitcoiner.socail
@@ -839,6 +840,7 @@ wss://nostr.pcube.io
 wss://nostr.island.network
 wss://nostr.stereosteve.com
 wss://www.google.com
+wss://relay1.nostrchat.io
 wss://cloudnull.land
 wss://relayer.pleb.social
 wss://nostr.orangepill.dev
@@ -1222,6 +1224,7 @@ wss://nostr.walletofsatishi.com
 wss://nostr.delivery
 wss://runningnostr.lol
 wss://ufyirz4f5sn5gbsx4mfabooievm3lxcx6fnsh4udzx7silws6kbpypid.onion
+wss://relay2.nostrchat.io
 wss://rbr.bio
 wss://nostr.0x50.tech
 wss://nostr.sidnlabs.nl
@@ -1450,9 +1453,14 @@ wss://eden.nostry.land
 wss://7jfgu2smh6lvw2wfixartnjcvfgfk47m5elv2y4oimkpizkrn5saz3ad.onion
 wss://ib3kefulyelfjvvw6ooxj4gkbdkgt7f4ovb4mukhs2qxuaychpbayjid.onion
 wss://relay.pub
-wss://profiles.f7z.io
-wss://jax1028.ndscal.com:80
-                                                                                                        wss://nostr.exotr.dev
+wss://profiles.f7z.iopr2c2uiauqad.onion:5051
+wss://nostr.watch
+wss://zur.nostr.sx
+wss://hello.io
+wss://rsslay.ch3n2k.com
+wss://blg.nostr.sx
+wss://nostr.ibosilj.work
+wss://nostr.exotr.dev
 wss://nostr.walletofsatoshi
 wss://nostr-3.orba.ca
 wss://nostr.citizenry.technology
@@ -1534,6 +1542,7 @@ wss://nostr.5ub.net:8008
 wss://nostr.kimi.im
 wss://nostr.merrcurr.com
 wss://nostrich.site
+wss://rip.relay
 wss://nostr.phenomenon.space
 wss://nostr-relay.wolfandcrow.tech
 wss://nostrica.nostrnotes.com
