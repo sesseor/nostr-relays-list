@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -216,6 +216,7 @@ wss://nostr.zhix.in
 wss://freespeech.casa
 wss://nostr.nokotaro.com
 wss://nostr.bitcoinplebs.de
+wss://Black.nostrcity.club
 wss://h3avzcsyhvpi2mtmh5d3yqhz65cwsmbdlud37hk5gbnxi2gkajwoczqd.local
 wss://chase-umbrel.local:4848
 wss://nostrpro.xyz
@@ -772,6 +773,7 @@ wss://raspberrypi3.jay-chameleon.ts.net
 wss://nostr.vol.io
 wss://plebs.place
 wss://relay.nostrati.com
+wss://hungyhome.local:4848
 wss://nostr.21.crypto.ch
 wss://umha4zl6xk62a4dous6e7tq4qlmt462hlzs2su33en6qrvtvs3hkjgid.onion
 wss://nostr.8e23.net
@@ -1455,9 +1457,8 @@ wss://hello.io
 wss://rsslay.ch3n2k.com
 wss://blg.nostr.sx
 wss://nostr.ibosilj.work
-wss://nostr.exotr.dev
-wss://nostr.walletofsatoshi
-zenry.technology
+//nostr-3.orba.ca
+wss://nostr.citizenry.technology
 wss://Nostr.f44.dev
 wss://nostream.delta9.tech
 wss://relay.Dwadziesciajeden.pl
