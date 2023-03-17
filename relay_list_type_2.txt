@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -86,6 +86,7 @@ wss://msi-laptop.local:4848
 wss://relay.wellorder.net
 wss://nostream.git
 wss://nostr.badran.xyz
+wss://overhear-borax.fractalnetworks.co
 wss://relay.Nostrified.org
 wss://nostr.zebede.cloud
 wss://nostr.unknown.place
@@ -169,6 +170,7 @@ wss://nostr.21m.fr
 wss://nostr.one.re
 wss://nostr.truckenbucks.com
 wss://nostr.mwmdev.com
+wss://madrig.local:4848
 wss://umbrel.tail86021.ts.net:4848
 wss://nostre.cc
 wss://srelay.roli.social
@@ -439,6 +441,7 @@ wss://nostr.gundersen.io
 wss://nostr.btcmp.com
 wss://nostr.relay.damus.io
 wss://nostr-relay.nonce.academy
+wss://trilogy-tigress.fractalnetworks.co
 wss://nostr.mrbit.com
 wss://nostr.simatime.com
 wss://relay.nostr.land
@@ -503,6 +506,7 @@ wss://bitcoinmaximalists.online
 wss://peachy-1971.lhr.rocks
 wss://wss.nostr.uselessshit.co
 wss://nostr.Aroundrockbitcoiners.com
+wss://nostrcity.club
 wss://nostr1675998373522.app.runonflux.io
 wss://nostr.d11n.net
 wss://icpbkp4nagnwiamref4vn3unmuexj7hplf374mmjhcl6kayxnknky2qd.onion
@@ -1454,9 +1458,7 @@ wss://nostr.cryptojournaal.net
 wss://relay.utxo.com
 wss://nostrbounties.xyz
 wss://nostr.satsophone.tk
-wss://nostr.Ethtozero.fr
-wss://reley.kronkltd.net
-rz2q7vklkwcpgojmcyuq4pstyiclcvkovvjfy2yfz3gznmsgsqafead.onion
+sgsqafead.onion
 wss://nostr.mjman.net
 wss://nostr-pub.wellorder.net
 wss://next.nostr.watch
