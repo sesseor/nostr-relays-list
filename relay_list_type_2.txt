@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -294,6 +294,7 @@ wss://nostr-pub.liujiale.me
 wss://cequals.xyz
 wss://relay.cryptojournaal.net
 wss://nostr.mustardnodes.com
+wss://black.nostrcity.club
 wss://node.local:4848
 wss://nostr-2.afarazit.eu
 wss://relat.nostrica.com
@@ -855,6 +856,7 @@ wss://nostrPlebs.com
 wss://relay.nostr.blockhenge.com
 wss://nostr.azte.co
 wss://jqiwgflfw4dezjsy42frompmknrlcfazoiyngftgknj7yrmnhtobd7id.onion
+wss://big.fist.black
 wss://paid.nostrified.org
 wss://roundrockbitcoiners.com
 wss://frighteningdeafeningagent.nailuogg.repl.co
@@ -1457,7 +1459,8 @@ wss://relay.nostrprotocol.net
 wss://zaplife.lol
 wss://relay.taldra.in
 wss://nostr.cryptojournaal.net
-                                                  wss://nostr.Ethtozero.fr
+://nostr.satsophone.tk
+wss://nostr.Ethtozero.fr
 wss://reley.kronkltd.net
 wss://nostr.klabo.blog
 wss://mrz2q7vklkwcpgojmcyuq4pstyiclcvkovvjfy2yfz3gznmsgsqafead.onion
