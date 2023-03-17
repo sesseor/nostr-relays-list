@@ -1453,7 +1453,9 @@ wss://eden.nostry.land
 wss://7jfgu2smh6lvw2wfixartnjcvfgfk47m5elv2y4oimkpizkrn5saz3ad.onion
 wss://ib3kefulyelfjvvw6ooxj4gkbdkgt7f4ovb4mukhs2qxuaychpbayjid.onion
 wss://relay.pub
-wss://profiles.f7z.iopr2c2uiauqad.onion:5051
+wss://profiles.f7z.io
+wss://jax1028.ndscal.com:80
+wss://wcbli2ttxxqmx4oy3p6zbzrqbx47uyjsiv5iyyb2elvmpr2c2uiauqad.onion:5051
 wss://nostr.watch
 wss://zur.nostr.sx
 wss://hello.io
