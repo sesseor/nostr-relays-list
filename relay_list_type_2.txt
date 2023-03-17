@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -912,6 +912,7 @@ wss://nostr.exposd
 wss://nostr.zbd.gg
 wss://nostr.cro.social
 wss://nostr.lol
+wss://relayable.org
 wss://relay.nostr.nu
 wss://relay.nostr.lu.ke
 wss://nostril.frendship.tw
@@ -1459,7 +1460,9 @@ wss://relay.nostrprotocol.net
 wss://zaplife.lol
 wss://relay.taldra.in
 wss://nostr.cryptojournaal.net
-://nostr.satsophone.tk
+
+wss://nostrbounties.xyz
+wss://nostr.satsophone.tk
 wss://nostr.Ethtozero.fr
 wss://reley.kronkltd.net
 wss://nostr.klabo.blog
