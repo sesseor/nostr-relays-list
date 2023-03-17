@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1408,6 +1408,7 @@ wss://nostr.bitocial.xyz
 wss://relay1.nostrich.cloud
 wss://testnet.arkaitzj.com
 wss://jb55.com
+wss://ryuvhgmamy3vxufn7oqv7kphj54srcschmqs2fpsjbl6sxsimqglhjqd.onion
 wss://nostr.rdfriendl.com
 wss://relay.dumas.io
 wss://jiggytom.ddns.net
@@ -1456,9 +1457,7 @@ wss://nostr.walletofsatoshi
 wss://nostr-3.orba.ca
 wss://nostr.citizenry.technology
 wss://Nostr.f44.dev
-wss://nostream.delta9.tech
-wss://relay.Dwadziesciajeden.pl
-4uk4mu54mebynu2dj5fvid.onion
+43g76lfczosxso7tp7gcada6hge6uw4uk4mu54mebynu2dj5fvid.onion
 wss://ibz.me
 wss://nostr-ts-relay.ip.inf.br
 wss://nostr.bybieyang.com
