@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -112,6 +112,7 @@ wss://public.nostr.swissrouting.com
 wss://nostr.shroomslab.net
 wss://spleenrider.herokuapp.com
 wss://elay.nosbin.com
+wss://macdumpa.local:4848
 wss://deschooling.uh
 wss://Nostr.8E23.net
 wss://nostr.massimux.com
@@ -1456,9 +1457,7 @@ wss://nostr.ibosilj.work
 wss://nostr.exotr.dev
 wss://nostr.walletofsatoshi
 wss://nostr-3.orba.ca
-wss://nostr.citizenry.technology
-wss://Nostr.f44.dev
-delta9.tech
+                           wss://nostream.delta9.tech
 wss://relay.Dwadziesciajeden.pl
 wss://ab3w43g76lfczosxso7tp7gcada6hge6uw4uk4mu54mebynu2dj5fvid.onion
 wss://ibz.me
