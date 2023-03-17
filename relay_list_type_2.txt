@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
@@ -1460,7 +1460,7 @@ wss://relay.nostrprotocol.net
 wss://zaplife.lol
 wss://relay.taldra.in
 wss://nostr.cryptojournaal.net
-
+wss://relay.utxo.com
 wss://nostrbounties.xyz
 wss://nostr.satsophone.tk
 wss://nostr.Ethtozero.fr
@@ -1602,6 +1602,7 @@ wss://nostr.masmux.com
 wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
 wss://universe.nostrich.land
 wss://in.tips
+wss://zen.local:4848
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
 wss://nostr.poster.place
 wss://i.relay.boats
