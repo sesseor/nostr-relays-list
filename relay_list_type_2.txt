@@ -1,8 +1,9 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
+wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
 wss://nostr.btc-library.com
 wss://nostr-relay.australiaeast.cloudapp.azure.com
@@ -1032,6 +1033,7 @@ wss://5d3efa3pjyxkjfxfkisi5o6h2cviks6v7hidlrmzefebsn2p4ignisyd.onion
 wss://nostr.nakamotosatoshi.cf
 wss://nostr.laevateinn.org
 wss://umb.local:4848
+wss://nostr.swiss.enigma.ch
 wss://3l4xzaqii2bikx7bmjupu5chi5vn6vnehxc7whfx4zwt67tr6bcnx6qd.onion
 wss://slick.mjex.me
 wss://nostr.milou.land
@@ -1455,12 +1457,8 @@ wss://nostream.delta9.tech
 wss://relay.Dwadziesciajeden.pl
 wss://ab3w43g76lfczosxso7tp7gcada6hge6uw4uk4mu54mebynu2dj5fvid.onion
 wss://ibz.me
-wss://nostr-ts-relay.ip.inf.br
-wss://nostr.bybieyang.com
-wss://relay.nostrprotocol.net
-wss://zaplife.lol
-wss://relay.taldra.in
-   wss://relay.utxo.com
+                              wss://nostr.cryptojournaal.net
+wss://relay.utxo.com
 wss://nostrbounties.xyz
 wss://nostr.satsophone.tk
 wss://nostr.Ethtozero.fr
