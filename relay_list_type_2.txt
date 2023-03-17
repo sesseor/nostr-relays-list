@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1400,6 +1400,7 @@ wss://relay.topaz.place
 wss://www.nostrweb.xyz
 wss://nostr.private.network
 wss://nostr.zebedee.cloud
+wss://rick-ga-781mt-usb3-6-0.local:4848
 wss://nostr.supremestack.xyz
 wss://nos.lol
 wss://relay.nostr-sg.com
@@ -1457,7 +1458,7 @@ wss://nostr.citizenry.technology
 wss://Nostr.f44.dev
 wss://nostream.delta9.tech
 wss://relay.Dwadziesciajeden.pl
-7gcada6hge6uw4uk4mu54mebynu2dj5fvid.onion
+4uk4mu54mebynu2dj5fvid.onion
 wss://ibz.me
 wss://nostr-ts-relay.ip.inf.br
 wss://nostr.bybieyang.com
