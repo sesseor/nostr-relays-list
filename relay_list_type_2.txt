@@ -1439,6 +1439,7 @@ wss://nostr.prebchain.org
 wss://umbrel-2.local:4848
 wss://relay.got-relayed.com
 wss://nost.ratchat.nl
+wss://nostrproxy.bitcoinfixesthis.org
 wss://nostr01.opencult.com
 wss://nostr.rafriedi.com
 wss://eden.nostry.land
@@ -1456,8 +1457,7 @@ wss://blg.nostr.sx
 wss://nostr.ibosilj.work
 wss://nostr.exotr.dev
 wss://nostr.walletofsatoshi
-wss://nostr-3.orba.ca
-wss://nostr.citizenry.technology
+zenry.technology
 wss://Nostr.f44.dev
 wss://nostream.delta9.tech
 wss://relay.Dwadziesciajeden.pl
