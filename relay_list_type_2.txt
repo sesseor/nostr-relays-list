@@ -1459,7 +1459,8 @@ wss://nostr1.current.fyi
 wss://nostr.naut.social
 wss://nostr.prebchain.org
 wss://umbrel-2.local:4848
-tchat.nl
+wss://relay.got-relayed.com
+wss://nost.ratchat.nl
 wss://nostrproxy.bitcoinfixesthis.org
 wss://nostr01.opencult.com
 wss://nostr.rafriedi.com
