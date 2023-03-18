@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1138,6 +1138,7 @@ wss://Puravida.nostr.land
 wss://7tdom3xuus7ekv423ul46w3j43zyixjj54yoe62bndpcrgii3adeppid.local
 wss://relay.nostrid.com
 wss://txbg137zno7kqcjakic61te57emyncyacpgqazcksgfg4573yklke5ad.onion
+wss://reley.adieucord.com
 wss://umbrel.hyena-bee.ts.net:4848
 wss://Nostr.zebedee.cloud
 wss://nostr.bitcoinpuertori.co
@@ -1453,7 +1454,7 @@ wss://nostr01.opencult.com
 wss://nostr.rafriedi.com
 wss://eden.nostry.land
 wss://7jfgu2smh6lvw2wfixartnjcvfgfk47m5elv2y4oimkpizkrn5saz3ad.onion
-wss://ib3kefulyelfjvvw6ooxj4gkbdkgt7f4ovb4mukhs2qxuaychpbayjid.onion
+j4gkbdkgt7f4ovb4mukhs2qxuaychpbayjid.onion
 wss://relay.pub
 wss://profiles.f7z.io
 wss://jax1028.ndscal.com:80
