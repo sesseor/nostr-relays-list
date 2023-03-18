@@ -333,6 +333,7 @@ wss://nostr.openblock.vip
 wss://gjuce5evx3o7oeskvfa4ea3rwsz575tf4ya3gtcchdaz5utpziiix7ad.onion
 wss://nostrum.com
 wss://5rc7koxcex4fccyj7gb576tlbwfppyo3u4b4j5oekiiy5ncuscccvoad.onion
+wss://h3z.jp
 wss://fiatdenier.com
 wss://nostrzebedee.cloud
 wss://relay.nyc1.vinux.app
@@ -528,6 +529,7 @@ wss://lnbits.anonymousgreen.com
 wss://nostr.anchel.nl
 wss://meta-relay-beta.nostr.wirednet.jp
 wss://btc.kendazu.com
+wss://snowcait.gith
 wss://nostr-relay-dev.wlvs.space
 wss://relay.orangepilldev.com
 wss://nostr.zaprite.io
@@ -756,6 +758,7 @@ wss://relay.nostr.infowss
 wss://relay.blogstack.io
 wss://nostrgram.co
 wss://shireHODL.com
+wss://kpherox.dev
 wss://relay.nostr.info
 wss://nostr.h3y6e.com
 wss://izj3isbk3pmade74ontdijodhehsytnw2iokdhh6k3flk4mq2pau6sid.local
@@ -894,6 +897,7 @@ wss://metazoan.icp.der0pa.io:1323
 wss://nostr.roundrockbitcoiners.com
 wss://nostr.current.fyi
 wss://homesrv.taila0c4f.ts.net:4848
+wss://sb.nostr.band
 wss://relay.kronkltd.net
 wss://node01.nostress.cc
 wss://xaq4u4zuvmlgkdfjpkljli5lvecyobluu2565y772mtfxv3edwbk7eqd.onion
@@ -1046,6 +1050,7 @@ wss://nostr.nakamotosatoshi.cf
 wss://nostr.laevateinn.org
 wss://umb.local:4848
 wss://nostr.swiss.enigma.ch
+wss://mofumemo.com
 wss://3l4xzaqii2bikx7bmjupu5chi5vn6vnehxc7whfx4zwt67tr6bcnx6qd.onion
 wss://slick.mjex.me
 wss://nostr.milou.land
@@ -1290,6 +1295,7 @@ wss://vitorpamplona.co
 wss://Nostr.chaker.net
 wss://relay.truthsocial.com
 wss://unbrel.local:4848
+wss://murachue.cytes.net
 wss://nostr.gundersen.io:4848
 wss://nostr.pinkanki.org
 wss://nostream.gromeul.eu
@@ -1451,12 +1457,7 @@ wss://nostr1.current.fyi
 wss://nostr.naut.social
 wss://nostr.prebchain.org
 wss://umbrel-2.local:4848
-wss://relay.got-relayed.com
-wss://nost.ratchat.nl
-wss://nostrproxy.bitcoinfixesthis.org
-wss://nostr01.opencult.com
-wss://nostr.rafriedi.com
-land
+                         wss://eden.nostry.land
 wss://7jfgu2smh6lvw2wfixartnjcvfgfk47m5elv2y4oimkpizkrn5saz3ad.onion
 wss://ib3kefulyelfjvvw6ooxj4gkbdkgt7f4ovb4mukhs2qxuaychpbayjid.onion
 wss://relay.pub
