@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -860,6 +860,7 @@ wss://paid.nostried.org
 wss://relay.nostropolis.xyz
 wss://nostrv0l.io
 wss://nostr.bitcoiner.com
+wss://zbignjev-h97n-wifi.local:4848
 wss://nos.0ne.day
 wss://nostr.monostr.com
 wss://nostr.sectiontwo.org
@@ -1456,9 +1457,9 @@ wss://mumbs3cfaceofpnbwthjqwreffwkuj3l3cjyuyathbqag4hs6jol6oqd.onion
 wss://nostr-relay.digitalmob.ro
 wss://Relay.orangepill.dev
 wss://umbrel.tailnet-6ca2.ts.net:4848
-wss://nostr1.current.fyi
-wss://nostr.naut.social
-                   wss://relay.got-relayed.com
+             wss://nostr.prebchain.org
+wss://umbrel-2.local:4848
+wss://relay.got-relayed.com
 wss://nost.ratchat.nl
 wss://nostrproxy.bitcoinfixesthis.org
 wss://nostr01.opencult.com
