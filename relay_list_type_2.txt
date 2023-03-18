@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1458,7 +1458,8 @@ wss://nostream-production-ba43.up.railway.app
 wss://nostrial.com
 wss://mumbs3cfaceofpnbwthjqwreffwkuj3l3cjyuyathbqag4hs6jol6oqd.onion
 wss://nostr-relay.digitalmob.ro
-net-6ca2.ts.net:4848
+wss://Relay.orangepill.dev
+wss://umbrel.tailnet-6ca2.ts.net:4848
 wss://nostr1.current.fyi
 wss://nostr.naut.social
 wss://nostr.prebchain.org
