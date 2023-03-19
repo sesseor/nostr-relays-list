@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
@@ -1759,7 +1759,9 @@ wss://dev2.hazilitt.fiatjaf.com
 wss://nostr.1sat.org
 wss://nas.huxim.top:9292
 wss://nostr.bitcoin-basel.ch
-                   wss://nostr.wellorder.net
+wss://relay.zeh.app
+wss://Relay.damus.io
+wss://nostr.wellorder.net
 wss://nostr.tools.global.id
 wss://Nostr.nodeofsven.com
 wss://nostream.madbean.snowinning.com
