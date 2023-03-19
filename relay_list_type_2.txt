@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
@@ -1463,7 +1463,10 @@ wss://spicy-tray-3ghp3voydiwvmfm2ijur.wnext.app
 wss://nostr.bingtech.tk
 wss://4bqywujincjfxvlwfdpgkx73zeogc5fcf7ddsovw2ndktort5z2wzeid.onion
 wss://nostr.red
+wss://btc.klendazu.com
+wss://nostr.blipme.add
 wss://nostr.retroware.run.place
+wss://relav.nostr3.io
 wss://wss.nostr.pleb.network
 wss://nostrblip.app
 wss://nostr-relay.freedomnode.com
@@ -1654,6 +1657,7 @@ wss://brb.io
 wss://relay.nostrplebs.com
 wss://no-str.org
 wss://ln.runningnostr.lol
+wss://nostream-production-8a85.up.railway.app
 wss://nostr-relay.j3s7m4n.com
 wss://relay.snort.social
 wss://nostr.yael.at
