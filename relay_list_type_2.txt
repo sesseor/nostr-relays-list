@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
@@ -36,6 +36,7 @@ wss://nostr.cheeserobot.org
 wss://nostr.namek.link
 wss://nostr.ltbl.io
 wss://knostr.neutrine.com:8880
+wss://nostr.minimue81.selfhost.com
 wss://astral.swiss-enigma.ch
 wss://relay.damus.io
 
@@ -1757,9 +1758,7 @@ wss://filter.nostre.wine
 wss://relay.iris.to
 wss://dev2.hazilitt.fiatjaf.com
 wss://nostr.1sat.org
-wss://nas.huxim.top:9292
-wss://nostr.bitcoin-basel.ch
-wss://relay.zeh.app
+                   wss://relay.zeh.app
 wss://Relay.damus.io
 wss://nostr.wellorder.net
 wss://nostr.tools.global.id
