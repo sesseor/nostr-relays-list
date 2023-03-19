@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -78,6 +78,7 @@ wss://eelay.current.fyi
 wss://arnostr.permadao.io
 wss://nostr.kollider.xyz
 wss://eden.nostr.space
+wss://ssdasda.sdfs
 wss://nostr-relay.derekross.me
 wss://nostr.21crypto.ch
 wss://umbrel.tail6ec9a.ts.net:4848
@@ -440,6 +441,7 @@ wss://n.xmr.se
 wss://nostream.nostr.parts
 wss://notebook.taild34d0.ts.net
 wss://nproxy.cc
+wss://a.ou.dog:7777
 wss://nostr.xmrk.mooo.com
 wss://utxo.one
 wss://rsslay.fiatjaf.com
@@ -1463,7 +1465,11 @@ wss://nostr.chrissmith.site
 wss://nostr.allamericanmining.co
 wss://rsslay.nostr.moe
 wss://dev-vivre-card.puffinstudio.cn
-                        wss://Relay.orangepill.dev
+ay.app
+wss://nostrial.com
+wss://mumbs3cfaceofpnbwthjqwreffwkuj3l3cjyuyathbqag4hs6jol6oqd.onion
+wss://nostr-relay.digitalmob.ro
+wss://Relay.orangepill.dev
 wss://umbrel.tailnet-6ca2.ts.net:4848
 wss://nostr1.current.fyi
 wss://nostr.naut.social
@@ -1546,7 +1552,9 @@ wss://nostr.whoop.ph
 wss://6gygg7t2ngtl6lvipwgbjwledrr6hnfuhufgijct3v425ba32n2scbid.onion
 wss://btcqspp5dl4rlgl5pomcyv3odfeki7a5zrmjoekyu5vsoqz5bth4e7yd.onion
 wss://chad.polytechnic.com
+wss://nostr-relay.tango.prtl.cc
 wss://nostr.com.de
+wss://a.ou.dog
 wss://Nostr.kollider.xyz
 wss://nostr.rewardsbunny.com
 wss://nost.wine
@@ -1634,6 +1642,8 @@ wss://nostr.21l.st
 wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
 wss://No.str.cr
+wss://brb.io
+
 wss://relay.nostrplebs.com
 wss://no-str.org
 wss://ln.runningnostr.lol
@@ -1670,6 +1680,8 @@ wss://nostr.compile-error.net
 wss://relay.cryptocculture.com
 wss://nostr-relay.app.ikeji.ma
 wss://nostr.milou.com
+wss://nostr-pub.wellorder.net
+
 wss://nostr.lnnodeinsight.com
 wss://nostr.rocks
 
