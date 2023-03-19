@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
@@ -148,6 +148,7 @@ wss://nostro.online
 wss://nostr.Nikolaj.online
 wss://relay.emeralize.com
 wss://nostr.libertasprimordium.com
+wss://nostr-prob1.southflorida.ninja
 wss://relay.stoner.com
 wss://ch1.duno.com
 wss://relay.nostr.io
@@ -1461,7 +1462,13 @@ wss://btc.klendazu.com
 wss://nostr.blipme.add
 wss://nostr.retroware.run.place
 wss://wss.nostr.pleb.network
-                                                                                                                            wss://nostream-production-ba43.up.railway.app
+.freedomnode.com
+wss://Relay.nostr.bg
+wss://nostr.chrissmith.site
+wss://nostr.allamericanmining.co
+wss://rsslay.nostr.moe
+wss://dev-vivre-card.puffinstudio.cn
+wss://nostream-production-ba43.up.railway.app
 wss://nostrial.com
 wss://mumbs3cfaceofpnbwthjqwreffwkuj3l3cjyuyathbqag4hs6jol6oqd.onion
 wss://nostr-relay.digitalmob.ro
