@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1676,6 +1676,7 @@ wss://nostr-relay.j3s7m4n.com
 wss://relay.snort.social
 wss://nostr.yael.at
 wss://Lbrygen.xyz
+wss://nostrchack.me
 wss://nostr.gruntwerk.org
 wss://nostr.masmux.com
 wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
@@ -1757,8 +1758,7 @@ wss://relay.zeh.app
 wss://Relay.damus.io
 wss://nostr.wellorder.net
 wss://nostr.tools.global.id
-wss://Nostr.nodeofsven.com
-wss://nostream.madbean.snowinning.com
+       wss://nostream.madbean.snowinning.com
 wss://relay.damous.io
 wss://nostriches.org
 wss://relay.ryzizub.com
