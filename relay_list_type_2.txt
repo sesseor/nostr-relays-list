@@ -46,6 +46,7 @@ wss://nostr.multinywallet.com
 wss://relay.codl.co
 wss://nostr1.federated.computer
 wss://nostr.soscary.net
+wss://ahr999.com
 wss://nostrproxy-4.f7z.io
 wss://relay.nostr.co.jp
 wss://nostr.raitisoja.net
@@ -726,6 +727,7 @@ wss://nostr-test.elastos.io
 wss://nostr.mutinyawallet.com
 wss://relay.zerosequioso.com
 wss://nostr.13x.sh
+wss://realy.mostr.pub
 wss://umbrel.sphinx-turtle.ts.net:4848
 wss://nerostr.xmr.rocks
 wss://nostr.xmr.rocks
@@ -1462,7 +1464,8 @@ wss://4bqywujincjfxvlwfdpgkx73zeogc5fcf7ddsovw2ndktort5z2wzeid.onion
 wss://nostr.red
 wss://btc.klendazu.com
 wss://nostr.blipme.add
-strblip.app
+ss.nostr.pleb.network
+wss://nostrblip.app
 wss://nostr-relay.freedomnode.com
 wss://Relay.nostr.bg
 wss://nostr.chrissmith.site
