@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -853,6 +853,7 @@ wss://nostr21.com
 wss://Nostr.developer.li
 wss://nstrs.fly.dev
 wss://nostr.nymsrelay.com
+wss://nostr-relay-test.nokotaro.work
 wss://nostr.sethforprivacy.com
 wss://Gangstar.bitcoin.nostr.com
 wss://relay.beta.fogtype.com
@@ -891,6 +892,7 @@ wss://jqiwgflfw4dezjsy42frompmknrlcfazoiyngftgknj7yrmnhtobd7id.onion
 wss://big.fist.black
 wss://paid.nostrified.org
 wss://roundrockbitcoiners.com
+wss://nostr-relay.adieucord.com
 wss://frighteningdeafeningagent.nailuogg.repl.co
 wss://relay.sovereign-stack.org
 wss://d463rbo7dgbfuxvvxpory2og2etl4gttfzmqcixdq7rpts47lpgolkyd.onion
@@ -1460,9 +1462,8 @@ wss://4bqywujincjfxvlwfdpgkx73zeogc5fcf7ddsovw2ndktort5z2wzeid.onion
 wss://nostr.red
 wss://btc.klendazu.com
 wss://nostr.blipme.add
-wss://nostr.retroware.run.place
-wss://wss.nostr.pleb.network
-.freedomnode.com
+strblip.app
+wss://nostr-relay.freedomnode.com
 wss://Relay.nostr.bg
 wss://nostr.chrissmith.site
 wss://nostr.allamericanmining.co
