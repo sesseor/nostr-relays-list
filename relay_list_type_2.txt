@@ -1193,6 +1193,7 @@ wss://Nostr.walletofsatoshi.com
 wss://relay.nvote.co
 wss://relay.Sovereign-stack.org
 wss://latam1-nostr.stealthy.co
+wss://node.bonito-bonito.ts.net:4848
 wss://lotdkno.ws
 wss://umbrel.pinscher-justice.ts.net:4848
 wss://rly.social
@@ -1242,6 +1243,7 @@ wss://nostr-sandbox.minds.io
 wss://tsqdakwo4dh5ej3llsi52ftxfbialteu3jm4cmvxaksl3psbyeoyxxqd.onion
 wss://nostr.jolt.run
 wss://nostrwhoop.ph
+wss://umbrel.home.local:4848
 wss://nostr.vulpem
 wss://black.nostrscity.club
 wss://nostr.delo.software
@@ -1757,8 +1759,7 @@ wss://nostr.bitcoin-basel.ch
 wss://relay.zeh.app
 wss://Relay.damus.io
 wss://nostr.wellorder.net
-wss://nostr.tools.global.id
-       wss://nostream.madbean.snowinning.com
+eam.madbean.snowinning.com
 wss://relay.damous.io
 wss://nostriches.org
 wss://relay.ryzizub.com
