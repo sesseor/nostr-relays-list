@@ -191,6 +191,7 @@ wss://21mhodl.com:4848
 wss://nostr.rajabi.ca
 wss://nostr.theblockreward.com
 wss://relay.alien-sos.gov
+wss://relay.farscapian
 wss://nostr.600.wtf
 wss://relay.alxgsv.com
 wss://nostr.risa.zone
@@ -208,6 +209,8 @@ wss://nostr.satoshi.fun
 wss://relarelay.nosphr.com
 wss://za3.net
 wss://strfry.cryptocartel.social
+wss://nostr.fmt.wiz.biz
+
 wss://relay.valera.co
 wss://nostr01.vida.dev
 wss://syx.local:4848
@@ -525,6 +528,7 @@ wss://nostr.arguflow.gg
 wss://mutinywallet.com
 wss://nostr.uselessshit.co
 wss://www.weixin.co
+wss://relay.semaphore.life
 wss://nostr.monostr.org
 wss://lnbits.anonymousgreen.com
 wss://nostr.anchel.nl
@@ -701,6 +705,7 @@ wss://nostr.geekGalaxy.com
 wss://6amyhf3sjvgxe5qzbx4xn52pcnqresdmi7szxurp6umkvz6mthxjdcad.onion
 wss://nostue.com
 wss://relay.nostriche.de
+wss://h.ou.dog
 wss://6amyhf3sjvgxe5qzbx4xn52pcnqresdmi7szxurp6umkvz6mthxjdcad.local
 wss://relay.nostrebs.com
 wss://vo3m7gv2xsjwzmby6aox5rgunwzkhzqbid57dgc5x6pf7rliemesbuid.onion
@@ -1292,6 +1297,8 @@ wss://nfdn.testnet.dotalgo.io
 wss://nostr.fediverse.jp
 wss://relay.sandwich.farm
 wss://relay.grunch.dev
+wss://nostr-2.zebedee.cloud
+
 wss://bd5v35todu6bqqcn66tmlnfdbstabjp7xegqmur2reu3iz343oylz6ad.onion
 wss://nostrich.friendship.tw
 
@@ -1411,6 +1418,8 @@ wss://altcoinnect.xyz
 wss://relay.nosbin.com
 wss://nostr.dutch.cryptonews
 wss://nostr.easify.de
+wss://eden.nostr.land
+
 wss://nostr.relay.limo
 wss://lproxnb5xpeomugwmbhxywrihu46cimm2ikutcuvzkg4d7gvw5nn7sqd.onion
 wss://lchdldwpnkzugmipaxkzo5dazeblieegp5txcueryn7eqyjbpawaprid.onion
@@ -1454,11 +1463,7 @@ wss://nostr.chrissmith.site
 wss://nostr.allamericanmining.co
 wss://rsslay.nostr.moe
 wss://dev-vivre-card.puffinstudio.cn
-wss://nostream-production-ba43.up.railway.app
-wss://nostrial.com
-wss://mumbs3cfaceofpnbwthjqwreffwkuj3l3cjyuyathbqag4hs6jol6oqd.onion
-wss://nostr-relay.digitalmob.ro
-wss://Relay.orangepill.dev
+                        wss://Relay.orangepill.dev
 wss://umbrel.tailnet-6ca2.ts.net:4848
 wss://nostr1.current.fyi
 wss://nostr.naut.social
