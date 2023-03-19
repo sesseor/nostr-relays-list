@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1270,6 +1270,7 @@ wss://nostr.walletofsatishi.com
 wss://nostr.delivery
 wss://runningnostr.lol
 wss://ufyirz4f5sn5gbsx4mfabooievm3lxcx6fnsh4udzx7silws6kbpypid.onion
+wss://mrcx.local:4848
 wss://relay2.nostrchat.io
 wss://rbr.bio
 wss://nostr.0x50.tech
@@ -1758,9 +1759,8 @@ wss://dev2.hazilitt.fiatjaf.com
 wss://nostr.1sat.org
 wss://nas.huxim.top:9292
 wss://nostr.bitcoin-basel.ch
-wss://relay.zeh.app
-wss://Relay.damus.io
-
+                   wss://nostr.wellorder.net
+wss://nostr.tools.global.id
 wss://Nostr.nodeofsven.com
 wss://nostream.madbean.snowinning.com
 wss://relay.damous.io
