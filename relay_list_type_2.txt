@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -520,6 +520,7 @@ wss://nostr-relay.Inmarkets.com
 wss://nostr.developer.li
 wss://mule.platanito.org
 wss://themasch.ddns.net:4848
+wss://fmt.wiz.biz
 wss://astralbabes.pub
 wss://relayer.fiatjaff.com
 wss://nostr-rs-relay.tango.prtl.cc
@@ -552,6 +553,7 @@ wss://fishb.mailbf.org:4848
 wss://relay.nostr.ch
 wss://nostr.sactiontwo.org
 wss://nostr.naut.social.com
+wss://chalow.net
 wss://nostr.lingoh.dev
 wss://nostr.mjex.me
 wss://nostr.noones.com
@@ -586,6 +588,7 @@ wss://relay.tnano.duckdns.org
 wss://wizards.wormrobot.org
 wss://nostr.robotechy.com
 wss://nostr.k3tan.com
+wss://tigerville.no
 wss://relay.n057r.club
 wss://nostr.leximaster.com
 wss://fractalized.ovh
@@ -1078,6 +1081,7 @@ wss://nostr.nakamotosatoshi.cf
 wss://nostr.laevateinn.org
 wss://umb.local:4848
 wss://nostr.swiss.enigma.ch
+wss://thank.eu
 wss://mofumemo.com
 wss://3l4xzaqii2bikx7bmjupu5chi5vn6vnehxc7whfx4zwt67tr6bcnx6qd.onion
 wss://slick.mjex.me
@@ -1346,6 +1350,7 @@ wss://nostr.zenon.wtf
 wss://www.weixin.com
 wss://private.red.gb.net
 wss://nostr.bitcoiner.soical
+wss://weep.jp
 wss://nostr.wine.com
 wss://nostrcheck.me
 wss://relay.nostr.snblago.com
@@ -1753,9 +1758,7 @@ wss://Relay.damus.io
 wss://nostr.wellorder.net
 wss://nostr.tools.global.id
 wss://Nostr.nodeofsven.com
-wss://nostream.madbean.snowinning.com
-wss://relay.damous.io
-wss://nostriches.org
-wss://relay.ryzizub.com
-wss://nostr.gives.africa
-ss://nostr.messagepush.io
+                                              wss://nostrafrica.pcdkd.fvi
+wss://realy.damus.io
+wss://3gkpphcfwb6w5iq6axnmlbvr7pz2t37uy4ofocyijzttzrbz4jy43fid.onion
+wss://nostr.messagepush.io
