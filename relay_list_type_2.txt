@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -582,6 +582,7 @@ wss://nostr.videre.net
 wss://umbrel.tail1d35e.ts.net:4848
 wss://relay.f7z.io
 wss://nostr.reamde.dev
+wss://asats.io
 wss://node01.notress.cc
 wss://nostr.rbel.co
 wss://home.manyjourneys.com:4848
@@ -1011,6 +1012,7 @@ wss://colin-hp-elitedesk-800-g1-dm.local:4848
 wss://ralay.damus.io
 wss://paid-relay.nost.love
 wss://nostr.vulpem.com
+wss://vcgcgfajhyaj3rmh63v7ibyh5rkwl7lht7r2f2rag3pjb4omesseu7ad.onion
 wss://nostr.nosphr.com
 wss://Eden.nostraland
 wss://citadel.local:4848
@@ -1597,6 +1599,7 @@ wss://nostr.africa
 wss://zee-relay.fly.dev
 wss://tom-desktop.local:4848
 wss://nwmdev.com
+wss://frenstr.com
 wss://vwy4pf523dmib4nny6l5slkghfx6yf3a2erfe4dygaa44hvyyhj4g2id.onion:4848
 wss://relay.r3d.red
 wss://nostr-verif.slothy.win
@@ -1752,12 +1755,7 @@ wss://nostr-2.zebeedee.cloud
 wss://nostr.actin.io
 wss://14.rs
 wss://relay.roli.social
-wss://paid.spore.ws
-wss://anigma.io
-wss://nostr-mv.ashiroid.com
-wss://Nostr.mutinywallet.com
-wss://nostr.fmt.wis.biz
-wss://filter.nostre.wine
+               wss://filter.nostre.wine
 wss://relay.iris.to
 wss://dev2.hazilitt.fiatjaf.com
 wss://nostr.1sat.org
