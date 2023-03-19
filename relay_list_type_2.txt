@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -517,6 +517,7 @@ wss://mule.platanito.org
 wss://themasch.ddns.net:4848
 wss://astralbabes.pub
 wss://relayer.fiatjaff.com
+wss://nostr-rs-relay.tango.prtl.cc
 wss://nostr.snblago.com
 wss://bitcoinmaximalists.online
 wss://peachy-1971.lhr.rocks
@@ -643,6 +644,7 @@ wss://relay.dwzdziesciajeden.pl
 wss://feeds.simplecast.com
 wss://nostr.relayer.se
 
+wss://semaphore.life
 wss://ng4jk6yiqgfczo4wyxszuj7w6jok3fptehu533o3mlzs3vph3dvjfdid.onion
 wss://nostr.inosta.cc
 wss://nostr.interwebcoding.com
@@ -814,6 +816,7 @@ wss://member.cash
 wss://nproxy.kristapsk.lv
 wss://3d515c5277e9.ngrok.io
 wss://relay.bitid.nz
+wss://oooxxx.ml
 wss://nostr.net.in
 wss://habla.news
 wss://relay.nostrgraph.net
@@ -1458,14 +1461,7 @@ wss://btc.klendazu.com
 wss://nostr.blipme.add
 wss://nostr.retroware.run.place
 wss://wss.nostr.pleb.network
-wss://nostrblip.app
-wss://nostr-relay.freedomnode.com
-wss://Relay.nostr.bg
-wss://nostr.chrissmith.site
-wss://nostr.allamericanmining.co
-wss://rsslay.nostr.moe
-wss://dev-vivre-card.puffinstudio.cn
-ay.app
+                                                                                                                            wss://nostream-production-ba43.up.railway.app
 wss://nostrial.com
 wss://mumbs3cfaceofpnbwthjqwreffwkuj3l3cjyuyathbqag4hs6jol6oqd.onion
 wss://nostr-relay.digitalmob.ro
