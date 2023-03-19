@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -102,6 +102,7 @@ wss://d2uvu34fdj035j.cloudfront.net
 wss://relay.nosphr.com
 wss://nostr.sovbit.com
 wss://nostr.com.au
+wss://nostrpurple.co
 wss://nostr.current.fyo
 wss://nostring.deno.dev
 wss://tyiu.xyz
@@ -612,6 +613,7 @@ wss://nostr-relay.bitcoin.ninja
 wss://ksd4653zuyclc3x4exxjsw5vhcxdb3z4ntwxtkchoamxhmkahgb2brid.onion:5051
 wss://nostr.nom
 wss://nostr.easydns.ca
+wss://Nostr.Island.Network
 wss://ragner-relay.com
 wss://nostr-relay.untethr.me
 wss://nostr-relay.lnmarkets.com
@@ -939,6 +941,7 @@ wss://nostruselessshit.co
 wss://nostr-relay.digitamob.ro
 wss://filter.eden.nostr.land
 wss://relay.21spiritis.io
+wss://tsukemonogit.git
 wss://relay.lexingtonbitcoin.org
 wss://relay.plebstr.com
 wss://nostr.kawagarbo.xyz
@@ -946,6 +949,7 @@ wss://nostr.h4x0r.host
 wss://qy3nnwrgp4j2fqemgs6fzsu6vm6e3oqmmr2fvtbfset4cc4757xlsvyd.onion
 wss://nostr.rocks
 wss://nostr.ownscale.org
+wss://penpenpng.github.io
 wss://nostr.dras.io
 wss://nostr.exposd
 wss://nostr.zbd.gg
@@ -1408,6 +1412,7 @@ wss://noster.frennet.xyz
 wss://moauxczxwvggzqhtgjjyjqzmdmnwoxaa7mmgk5veljylj6yev4lqddad.onion
 wss://nostr.waveplatform.org
 wss://Nostr.einundzwazig.space
+wss://nostr.data.naus
 wss://nostr.hackerman.pro
 wss://relay.nostrgraph.dev
 wss://relay.21baiwan.com
@@ -1465,7 +1470,10 @@ wss://jiggytom.ddns.net
 wss://spicy-tray-3ghp3voydiwvmfm2ijur.wnext.app
 wss://nostr.bingtech.tk
 wss://4bqywujincjfxvlwfdpgkx73zeogc5fcf7ddsovw2ndktort5z2wzeid.onion
-tr.retroware.run.place
+wss://nostr.red
+wss://btc.klendazu.com
+wss://nostr.blipme.add
+wss://nostr.retroware.run.place
 wss://relav.nostr3.io
 wss://wss.nostr.pleb.network
 wss://nostrblip.app
@@ -1580,6 +1588,7 @@ wss://vwy4pf523dmib4nny6l5slkghfx6yf3a2erfe4dygaa44hvyyhj4g2id.onion:4848
 wss://relay.r3d.red
 wss://nostr-verif.slothy.win
 wss://minds.com
+wss://wmv-vm.local:4848
 wss://nostream.kinchie.snowinning.com
 wss://out.of.milk
 wss://nostr.liberty.fans
@@ -1749,7 +1758,4 @@ wss://relay.damous.io
 wss://nostriches.org
 wss://relay.ryzizub.com
 wss://nostr.gives.africa
-wss://nostrafrica.pcdkd.fvi
-wss://realy.damus.io
-wss://3gkpphcfwb6w5iq6axnmlbvr7pz2t37uy4ofocyijzttzrbz4jy43fid.onion
-wss://nostr.messagepush.io
+ss://nostr.messagepush.io
