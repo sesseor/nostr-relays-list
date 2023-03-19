@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -529,6 +529,7 @@ wss://bitcoinmaximalists.online
 wss://peachy-1971.lhr.rocks
 wss://wss.nostr.uselessshit.co
 wss://nostr.Aroundrockbitcoiners.com
+wss://Relay.nostr.scot
 wss://nostrcity.club
 wss://nostr1675998373522.app.runonflux.io
 wss://nostr.d11n.net
@@ -662,6 +663,7 @@ wss://nostr.oooxxx.ml
 wss://BTC.kendazu.com
 wss://Nostrical.com
 wss://Nostr.relayer.se
+wss://expensive-relay.fiatjaf
 wss://relay.hrf.org
 wss://umbrel.tailb9b2c.ts.net:4848
 wss://relay.nor.st
@@ -1758,8 +1760,9 @@ wss://nas.huxim.top:9292
 wss://nostr.bitcoin-basel.ch
 wss://relay.zeh.app
 wss://Relay.damus.io
-wss://nostr.wellorder.net
-eam.madbean.snowinning.com
+
+wss://Nostr.nodeofsven.com
+wss://nostream.madbean.snowinning.com
 wss://relay.damous.io
 wss://nostriches.org
 wss://relay.ryzizub.com
