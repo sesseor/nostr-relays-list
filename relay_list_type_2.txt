@@ -1757,7 +1757,8 @@ wss://anigma.io
 wss://nostr-mv.ashiroid.com
 wss://Nostr.mutinywallet.com
 wss://nostr.fmt.wis.biz
-      wss://relay.iris.to
+wss://filter.nostre.wine
+wss://relay.iris.to
 wss://dev2.hazilitt.fiatjaf.com
 wss://nostr.1sat.org
 wss://nas.huxim.top:9292
