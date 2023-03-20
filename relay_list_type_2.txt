@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -719,6 +719,7 @@ wss://relay1.easymeta.app
 wss://izj3isbk3pmade74ontdijodhehsytnw2iokdhh6k3flk4mq2pau6sid.onion
 wss://nostr.digitalreformation.info
 wss://quirky-bunch-isubghsvoi26fbbt3n7o.wnext.app
+wss://honeyroad.store
 wss://blogstack.io
 wss://nostr.dev.wellorder.net
 wss://relay.current.fyi
@@ -727,6 +728,7 @@ wss://Nostr.bongbong.com
 wss://nostr.bitmatk.io
 wss://nostr.geekGalaxy.com
 wss://6amyhf3sjvgxe5qzbx4xn52pcnqresdmi7szxurp6umkvz6mthxjdcad.onion
+wss://harlembitcoin.com
 wss://nostue.com
 wss://relay.nostriche.de
 wss://h.ou.dog
@@ -1024,6 +1026,7 @@ wss://vcgcgfajhyaj3rmh63v7ibyh5rkwl7lht7r2f2rag3pjb4omesseu7ad.onion
 wss://nostr.nosphr.com
 wss://Eden.nostraland
 wss://citadel.local:4848
+wss://jawsh.xyz
 wss://nostr-eu.coinfundit.com
 wss://jax1028.ndscal.com:8008
 wss://plebchain.org
@@ -1550,6 +1553,7 @@ wss://nostream.delta9.tech
 wss://relay.Dwadziesciajeden.pl
 wss://ab3w43g76lfczosxso7tp7gcada6hge6uw4uk4mu54mebynu2dj5fvid.onion
 wss://ibz.me
+wss://walletofsatoshi.com
 wss://nostr-ts-relay.ip.inf.br
 wss://nostr.bybieyang.com
 wss://relay.nostrprotocol.net
@@ -1566,6 +1570,7 @@ wss://mrz2q7vklkwcpgojmcyuq4pstyiclcvkovvjfy2yfz3gznmsgsqafead.onion
 wss://nostr.mjman.net
 wss://nostr-pub.wellorder.net
 wss://next.nostr.watch
+wss://circle-ay.info
 wss://hdd6dyp3zlacouocjjk4fix4wcd66dugibmyrfqqza6exnljr2fypxqd.onion
 wss://jqiwgflfw4dezjsy42frompmknrlcfazoiyngftgknj7yrmnhtobd7id.local
 wss://atlas.nostr.land
@@ -1712,6 +1717,7 @@ wss://zen.local:4848
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
 wss://nostr.poster.place
 wss://i.relay.boats
+wss://f7z.io
 wss://nostr.spleenrider.one
 wss://oxtr.dev
 wss://optiplex.wallaby-bass.ts.net:3333
@@ -1754,13 +1760,9 @@ wss://nostr.stashmx.com
 wss://nostr.robotesc.ro
 wss://yoshiki-optiplex-3050.local:4848
 wss://1f52b.xyz
-wss://7jdx65mkmffhghgihv26wuan6t2rl3u7ua65jgbtuvva226aeqhvqoad.onion
-wss://xjpv5c4sh2vtqy63ywvukyjajdn26pms6robbuy57iyyn557ibfwafid.onion
-wss://nostr.openordex.org
-wss://relay.nostrexplorer.com
-wss://brb.io
-wss://nostream.denizenid.com
-:4848
+                                                                                                                  wss://Mostr.pub
+wss://u-3ddc416ldv3lq.local:4848
+wss://homeserver.drake-carp.ts.net:4848
 wss://soullands.com
 wss://yosupp.app
 wss://ln.tips
