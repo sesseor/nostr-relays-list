@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1757,7 +1757,13 @@ wss://brb.io
 wss://nostream.denizenid.com
 wss://Mostr.pub
 wss://u-3ddc416ldv3lq.local:4848
-                                                                   wss://nostr.actin.io
+wss://homeserver.drake-carp.ts.net:4848
+wss://soullands.com
+wss://yosupp.app
+wss://ln.tips
+wss://nostr.radixrar.com
+wss://nostr-2.zebeedee.cloud
+wss://nostr.actin.io
 wss://14.rs
 wss://relay.roli.social
 wss://paid.spore.ws
