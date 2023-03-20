@@ -1757,7 +1757,7 @@ wss://nostr.radixrar.com
 wss://nostr-2.zebeedee.cloud
 wss://nostr.actin.io
 wss://14.rs
-l
+wss://relay.roli.social
 wss://paid.spore.ws
 wss://anigma.io
 wss://nostr-mv.ashiroid.com
