@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -636,6 +636,7 @@ wss://moonbreeze.richardbondi.net
 wss://bitcoinmaximalist.online
 wss://Nostr.rocks
 wss://relay.shitforce.one
+wss://nostr-swiss-enigma.ch
 wss://nostr.fresheyesinc.com
 wss://ljjrqq6frnm56oeowjzqfzfniwqqpohyg4l6adawekgh4vligfcg2lyd.onion
 wss://relay.current.fyi
@@ -1763,7 +1764,7 @@ wss://nostr.stashmx.com
 wss://nostr.robotesc.ro
 wss://yoshiki-optiplex-3050.local:4848
 wss://1f52b.xyz
-wss://7jdx65mkmffhghgihv26wuan6t2rl3u7ua65jgbtuvva226aeqhvqoad.onion
+an6t2rl3u7ua65jgbtuvva226aeqhvqoad.onion
 wss://xjpv5c4sh2vtqy63ywvukyjajdn26pms6robbuy57iyyn557ibfwafid.onion
 wss://nostr.openordex.org
 wss://relay.nostrexplorer.com
