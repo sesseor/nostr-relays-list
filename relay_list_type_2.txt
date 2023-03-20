@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -592,6 +592,7 @@ wss://nostr.rbel.co
 wss://home.manyjourneys.com:4848
 wss://nproxy.zerologin.co
 wss://relay.tnano.duckdns.org
+wss://nostdemo.dojotunnel.online
 wss://wizards.wormrobot.org
 wss://nostr.robotechy.com
 wss://nostr.k3tan.com
@@ -1093,6 +1094,7 @@ wss://test.nostr.0x50.tech
 wss://relay.reeve.cn
 wss://relay.damus.io
 wss://nostr.boring.surf
+wss://0x00.0x000.org
 wss://nostr.worldkey.io
 wss://ralay.orangepill.dev
 wss://5d3efa3pjyxkjfxfkisi5o6h2cviks6v7hidlrmzefebsn2p4ignisyd.onion
@@ -1760,7 +1762,7 @@ wss://nostr.stashmx.com
 wss://nostr.robotesc.ro
 wss://yoshiki-optiplex-3050.local:4848
 wss://1f52b.xyz
-wss://7jdx65mkmffhghgihv26wuan6t2rl3u7ua65jgbtuvva226aeqhvqoad.onion
+eqhvqoad.onion
 wss://xjpv5c4sh2vtqy63ywvukyjajdn26pms6robbuy57iyyn557ibfwafid.onion
 wss://nostr.openordex.org
 wss://relay.nostrexplorer.com
