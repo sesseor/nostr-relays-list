@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -538,6 +538,7 @@ wss://nostr.d11n.net
 wss://icpbkp4nagnwiamref4vn3unmuexj7hplf374mmjhcl6kayxnknky2qd.onion
 wss://nostr.arguflow.gg
 wss://mutinywallet.com
+wss://volcanoco.in
 wss://nostr.uselessshit.co
 wss://www.weixin.co
 wss://relay.semaphore.life
@@ -683,6 +684,7 @@ wss://nodeless.io
 wss://rsslay.wss
 wss://nostr.danvergara.com
 wss://relay.nostr.band
+wss://nostros.net
 wss://global-relay.cesc.trade
 wss://nostrafrica.pcdkd.fyi
 wss://nostrrelay.geforcy.com
@@ -1110,6 +1112,7 @@ wss://wine.nostr
 wss://replay.snort.social
 wss://nostr.portemonero.com
 wss://nostr.roytus.ai
+wss://ryumu.dev
 wss://relai.nostrati.com
 wss://relay.snort.wss
 wss://mostra.milou.lol
@@ -1359,6 +1362,7 @@ wss://nostr.bitcoiner.socia
 wss://nostr.zkid.social
 wss://nostr.zhongwen.world
 wss://relay.nostrichs.org
+wss://nostr.volcanoco.in
 wss://relay.honk.pw
 wss://nostr.laevateinn.org:4343
 wss://nostrproxy-3.f7z.io
@@ -1753,13 +1757,10 @@ wss://brb.io
 wss://nostream.denizenid.com
 wss://Mostr.pub
 wss://u-3ddc416ldv3lq.local:4848
-wss://homeserver.drake-carp.ts.net:4848
-wss://soullands.com
-wss://yosupp.app
-wss://ln.tips
-wss://nostr.radixrar.com
-wss://nostr-2.zebeedee.cloud
-pore.ws
+                                                                   wss://nostr.actin.io
+wss://14.rs
+wss://relay.roli.social
+wss://paid.spore.ws
 wss://anigma.io
 wss://nostr-mv.ashiroid.com
 wss://Nostr.mutinywallet.com
