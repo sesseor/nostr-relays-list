@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1197,6 +1197,7 @@ wss://arsip.ddns.net
 wss://nostr.bch.ninja
 wss://nostr.mnethome.de
 wss://nein.lol
+wss://lnbits.eldamar.icu
 wss://Nostr.walletofsatoshi.com
 wss://relay.nvote.co
 wss://relay.Sovereign-stack.org
@@ -1755,7 +1756,7 @@ wss://nostr.radixrar.com
 wss://nostr-2.zebeedee.cloud
 wss://nostr.actin.io
 wss://14.rs
-wss://relay.roli.social
+ss://paid.spore.ws
 wss://anigma.io
 wss://nostr-mv.ashiroid.com
 wss://Nostr.mutinywallet.com
