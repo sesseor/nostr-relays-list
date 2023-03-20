@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -239,6 +239,7 @@ wss://nostr-1.afarazit.eu
 wss://Merrcurr.up.railway.app
 wss://Inostr-1.nbo.angani.co
 wss://nostr.a-ef.org
+wss://hos.lol
 wss://nostr.zoomout.chat
 wss://nostr-pub.semisolv.dev
 wss://fiatjaf.com
@@ -653,6 +654,7 @@ wss://nostr.nemofin.com
 wss://nostr1676031941328.app.runonflux.io
 wss://jp-relay-nostr.invr.chat
 wss://relay.snort.io
+wss://133332.xyz
 wss://relay.dwzdziesciajeden.pl
 wss://feeds.simplecast.com
 wss://nostr.relayer.se
@@ -1132,6 +1134,7 @@ wss://node.james-trussy.com:4848
 wss://umbrel.tail3549e.ts.net:4848
 wss://relays.world
 wss://relay.fiatjaf.com
+wss://nostr.blimpme.app
 wss://nostr.randomdevelopment.biz
 wss://btc-italia.online
 wss://nostr.koning-degraaf.nl
@@ -1753,12 +1756,10 @@ wss://u-3ddc416ldv3lq.local:4848
 wss://homeserver.drake-carp.ts.net:4848
 wss://soullands.com
 wss://yosupp.app
+wss://ln.tips
 wss://nostr.radixrar.com
 wss://nostr-2.zebeedee.cloud
-wss://nostr.actin.io
-wss://14.rs
-wss://relay.roli.social
-wss://paid.spore.ws
+pore.ws
 wss://anigma.io
 wss://nostr-mv.ashiroid.com
 wss://Nostr.mutinywallet.com
