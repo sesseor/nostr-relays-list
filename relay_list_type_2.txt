@@ -183,6 +183,7 @@ wss://nostr.mwmdev.com
 wss://madrig.local:4848
 wss://umbrel.tail86021.ts.net:4848
 wss://nostre.cc
+wss://kunigaku.gith
 wss://srelay.roli.social
 wss://relay.cash.app
 wss://nostr-relay.gkbrk.com
@@ -453,6 +454,7 @@ wss://nostr.xmrk.mooo.com
 wss://utxo.one
 wss://rsslay.fiatjaf.com
 wss://nostr.foundrydigital.com
+wss://ogblock.xyz
 wss://nostr.freedom.fi
 wss://umbrelbox.local:4848
 wss://relay.nostrbr.online
@@ -1032,6 +1034,7 @@ wss://orange-crush.com
 wss://zi3ru4sltc2edwyobrjxswr672popzifucthcyigjjei6sovjwxv2aqd.onion
 wss://nostr1.actn.io
 wss://eyeswideshut.ath.cx
+wss://nodestrich.com
 wss://nostr.bolt.fun
 wss://nostr.jimc.me
 wss://relay.dev.kronkltd.net
@@ -1394,6 +1397,7 @@ wss://nostr.sebastix.dev
 wss://stonez.local:4848
 wss://foolay.nostr.moe
 wss://nostr.notmyhostna.me
+wss://nostr.21ideas.org
 wss://nostr-1.nbo.angani.co
 wss://relay.nostr.amane.moe
 wss://shroomslab.net
@@ -1756,9 +1760,7 @@ wss://nostr.openordex.org
 wss://relay.nostrexplorer.com
 wss://brb.io
 wss://nostream.denizenid.com
-wss://Mostr.pub
-wss://u-3ddc416ldv3lq.local:4848
-wss://homeserver.drake-carp.ts.net:4848
+:4848
 wss://soullands.com
 wss://yosupp.app
 wss://ln.tips
