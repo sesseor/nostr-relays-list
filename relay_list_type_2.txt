@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -309,6 +309,7 @@ wss://nostr.bitcoiner.social
 wss://wine.luxzao.com
 wss://jarvis.taild68e2.ts.net:4848
 wss://relay.fan
+wss://calle.wtf
 wss://I.relay.boats
 wss://nostr.coolamer.com
 wss://truthsocial.com
@@ -674,6 +675,7 @@ wss://jp-relay-nostr.invr.chat
 wss://relay.snort.io
 wss://133332.xyz
 wss://relay.dwzdziesciajeden.pl
+wss://nosr-pub.wellorder.net
 wss://feeds.simplecast.com
 wss://nostr.relayer.se
 
@@ -1764,9 +1766,9 @@ wss://macminiserver.local:4848
 wss://nostr.demovement.net
 wss://nostr.inprivate.network
 wss://relay.phone.home
-wss://notr.zaprite.io
-wss://nostr-proxy.h3z.jp
-ryptocculture.com
+  wss://nostr.zedebee.cloud
+wss://nostr.compile-error.net
+wss://relay.cryptocculture.com
 wss://nostr-relay.app.ikeji.ma
 wss://nostr.milou.com
 wss://nostr-pub.wellorder.net
