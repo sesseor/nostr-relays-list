@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -473,6 +473,7 @@ wss://nostr.simatime.com
 wss://relay.nostr.land
 wss://relay.dwadziesciajeden.pl
 wss://rumble.rely
+wss://thesimplekid.space
 wss://nostr.hushvault.ie
 wss://ubuntu-virtualbox.local:4848
 wss://nostr.middling.mydns.jp
@@ -1763,8 +1764,7 @@ wss://nostrpub.welliorder.net
 wss://homenode.local:4848
 wss://pone.welnick.net
 wss://nostr.datamagik.com
-p
-wss://nostr.stashmx.com
+ss://nostr.stashmx.com
 wss://nostr.robotesc.ro
 wss://yoshiki-optiplex-3050.local:4848
 wss://1f52b.xyz
