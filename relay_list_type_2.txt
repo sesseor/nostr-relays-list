@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
@@ -1762,7 +1762,12 @@ wss://nostrpub.welliorder.net
 wss://homenode.local:4848
 wss://pone.welnick.net
 wss://nostr.datamagik.com
-                                                               wss://7jdx65mkmffhghgihv26wuan6t2rl3u7ua65jgbtuvva226aeqhvqoad.onion
+wss://nostr-paid.h3z.jp
+wss://nostr.stashmx.com
+wss://nostr.robotesc.ro
+wss://yoshiki-optiplex-3050.local:4848
+wss://1f52b.xyz
+wss://7jdx65mkmffhghgihv26wuan6t2rl3u7ua65jgbtuvva226aeqhvqoad.onion
 wss://xjpv5c4sh2vtqy63ywvukyjajdn26pms6robbuy57iyyn557ibfwafid.onion
 wss://nostr.openordex.org
 wss://relay.nostrexplorer.com
