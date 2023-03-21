@@ -352,6 +352,7 @@ wss://nostr.openblock.vip
 wss://gjuce5evx3o7oeskvfa4ea3rwsz575tf4ya3gtcchdaz5utpziiix7ad.onion
 wss://nostrum.com
 wss://5rc7koxcex4fccyj7gb576tlbwfppyo3u4b4j5oekiiy5ncuscccvoad.onion
+wss://sgetzc5xa7cemaizxgje3m2ls3h7crgpymivfoocoaduja5ytbixbrad.onion
 wss://h3z.jp
 wss://fiatdenier.com
 wss://nostrzebedee.cloud
@@ -1765,9 +1766,8 @@ wss://nostr.inprivate.network
 wss://relay.phone.home
 wss://notr.zaprite.io
 wss://nostr-proxy.h3z.jp
-wss://nostr.zedebee.cloud
-wss://nostr.compile-error.net
-       wss://nostr-relay.app.ikeji.ma
+ryptocculture.com
+wss://nostr-relay.app.ikeji.ma
 wss://nostr.milou.com
 wss://nostr-pub.wellorder.net
 
