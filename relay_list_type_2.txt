@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
@@ -232,6 +232,7 @@ wss://nostr.nokotaro.com
 wss://nostr.bitcoinplebs.de
 wss://Black.nostrcity.club
 wss://h3avzcsyhvpi2mtmh5d3yqhz65cwsmbdlud37hk5gbnxi2gkajwoczqd.local
+wss://b.tc
 wss://chase-umbrel.local:4848
 wss://nostrpro.xyz
 wss://nostr.chainofimmortals.net
@@ -594,6 +595,7 @@ wss://nostr.videre.net
 wss://umbrel.tail1d35e.ts.net:4848
 wss://relay.f7z.io
 wss://nostr.reamde.dev
+wss://nostr.kojira.net
 wss://asats.io
 wss://node01.notress.cc
 wss://nostr.rbel.co
@@ -745,6 +747,7 @@ wss://relay.nostriche.de
 wss://h.ou.dog
 wss://6amyhf3sjvgxe5qzbx4xn52pcnqresdmi7szxurp6umkvz6mthxjdcad.local
 wss://relay.nostrebs.com
+wss://nostr.bch.ninia
 wss://vo3m7gv2xsjwzmby6aox5rgunwzkhzqbid57dgc5x6pf7rliemesbuid.onion
 wss://nor.st
 wss://Nostr-2.ZEBEDEE.cloud
@@ -1422,6 +1425,7 @@ wss://nostr.21ideas.org
 wss://nostr-1.nbo.angani.co
 wss://relay.nostr.amane.moe
 wss://shroomslab.net
+wss://nostr.fan
 wss://cercatrova.me
 wss://relay.milou.lol
 wss://zebeedee.cloud
@@ -1562,6 +1566,7 @@ wss://hello.io
 wss://rsslay.ch3n2k.com
 wss://blg.nostr.sx
 wss://nostr.ibosilj.work
+wss://nodedttich.com
 wss://nostr.exotr.dev
 wss://nostr.walletofsatoshi
 wss://nostr-3.orba.ca
@@ -1592,6 +1597,7 @@ wss://next.nostr.watch
 wss://circle-ay.info
 wss://hdd6dyp3zlacouocjjk4fix4wcd66dugibmyrfqqza6exnljr2fypxqd.onion
 wss://jqiwgflfw4dezjsy42frompmknrlcfazoiyngftgknj7yrmnhtobd7id.local
+wss://nostr-relay.pcokd.fyi
 wss://atlas.nostr.land
 wss://caro-relay.fiatjaf.com
 wss://relay.nostr.com.au
@@ -1682,10 +1688,12 @@ wss://merrcurr.up.railway.app
 wss://nostr.zenon.info
 wss://relay.nostr.social
 wss://Nostr.mom
+wss://wil.bio
 wss://redgreenblue.click
 wss://nostr-pub.welllorder.net
 wss://nostr.100p.org
 wss://nostr.eaglebtm.com
+wss://heguro.com
 wss://nostr.bongbong.com
 wss://tail6452b.ts.net:4848
 wss://r.alphaama.com
@@ -1759,15 +1767,9 @@ wss://nostr-proxy.h3z.jp
 wss://nostr.zedebee.cloud
 wss://nostr.compile-error.net
 wss://relay.cryptocculture.com
-wss://nostr-relay.app.ikeji.ma
-wss://nostr.milou.com
-wss://nostr-pub.wellorder.net
-
-wss://nostr.lnnodeinsight.com
-wss://nostr.rocks
-
-wss://relay.nostr.or.jp
-r.shawnyeager.net
+     wss://nostr.rdfriedl.com
+wss://bitcoiner.social
+wss://nostr.shawnyeager.net
 wss://nklxtre37s7h7bbrss4np35xutuo3gwqilzydk2gfakww6aamdrinnad.onion:4848
 wss://nostr1.tunnelsats.com
 wss://nostr.formigator.eu
