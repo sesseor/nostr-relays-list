@@ -299,6 +299,7 @@ wss://nostr.v0I.io
 wss://relay.nosterplebs.com
 wss://nostrsatva.net
 wss://private.red.gn.net
+wss://test.relays.world
 wss://relay-verified.deschooling.us
 wss://nostrrelay.com
 wss://nostr-relay.alekberg.net
@@ -1766,8 +1767,7 @@ wss://notr.zaprite.io
 wss://nostr-proxy.h3z.jp
 wss://nostr.zedebee.cloud
 wss://nostr.compile-error.net
-wss://relay.cryptocculture.com
-wss://nostr-relay.app.ikeji.ma
+       wss://nostr-relay.app.ikeji.ma
 wss://nostr.milou.com
 wss://nostr-pub.wellorder.net
 
