@@ -304,6 +304,7 @@ wss://nostr.bitcoiner.social
 
 wss://wine.luxzao.com
 wss://jarvis.taild68e2.ts.net:4848
+wss://relay.fan
 wss://I.relay.boats
 wss://truthsocial.com
 wss://Nostr.mado.io
@@ -1761,7 +1762,7 @@ wss://nostr.rdfriedl.com
 wss://bitcoiner.social
 wss://nostr.shawnyeager.net
 wss://nklxtre37s7h7bbrss4np35xutuo3gwqilzydk2gfakww6aamdrinnad.onion:4848
-wss://nostr1.tunnelsats.com
+nelsats.com
 wss://nostr.formigator.eu
 wss://nostrpub.welliorder.net
 wss://homenode.local:4848
