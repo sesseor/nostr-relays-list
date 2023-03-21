@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1216,6 +1216,7 @@ wss://nostrsxz4lbwe-nostr.functions.fnc.fr-par.scw.cloud
 wss://arsip.ddns.net
 wss://nostr.bch.ninja
 wss://nostr.mnethome.de
+wss://relay.nostr.pub
 wss://nein.lol
 wss://lnbits.eldamar.icu
 wss://Nostr.walletofsatoshi.com
@@ -1722,6 +1723,7 @@ wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
 wss://universe.nostrich.land
 wss://relay.nostr.wirednet.net
 wss://in.tips
+wss://kpa4k6acxzjv2m2p72keftbpaymwpq2h67jqnin3d4y3djxyheuifoqd.onion
 wss://zen.local:4848
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
 wss://nostr.poster.place
@@ -1761,10 +1763,8 @@ wss://nklxtre37s7h7bbrss4np35xutuo3gwqilzydk2gfakww6aamdrinnad.onion:4848
 wss://nostr1.tunnelsats.com
 wss://nostr.formigator.eu
 wss://nostrpub.welliorder.net
-wss://homenode.local:4848
-wss://pone.welnick.net
-wss://nostr.datamagik.com
-ss://nostr.stashmx.com
+.h3z.jp
+wss://nostr.stashmx.com
 wss://nostr.robotesc.ro
 wss://yoshiki-optiplex-3050.local:4848
 wss://1f52b.xyz
