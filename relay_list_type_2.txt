@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -632,6 +632,7 @@ wss://nostr.nom
 wss://nostr.easydns.ca
 wss://Nostr.Island.Network
 wss://ragner-relay.com
+wss://billert.xyz
 wss://nostr-relay.untethr.me
 wss://nostr-relay.lnmarkets.com
 wss://nostr.adpo.co
@@ -1621,6 +1622,7 @@ wss://nostr-relay.tango.prtl.cc
 wss://nostr.com.de
 wss://a.ou.dog
 wss://Nostr.kollider.xyz
+wss://nisshiee.org
 wss://nostr.rewardsbunny.com
 wss://nost.wine
 wss://relay.nostr.distrl.net
@@ -1762,8 +1764,8 @@ wss://relay.nostr.or.jp
 wss://nostr.rdfriedl.com
 wss://bitcoiner.social
 wss://nostr.shawnyeager.net
-wss://nklxtre37s7h7bbrss4np35xutuo3gwqilzydk2gfakww6aamdrinnad.onion:4848
-ormigator.eu
+                                     wss://nostr1.tunnelsats.com
+wss://nostr.formigator.eu
 wss://nostrpub.welliorder.net
 wss://homenode.local:4848
 wss://pone.welnick.net
