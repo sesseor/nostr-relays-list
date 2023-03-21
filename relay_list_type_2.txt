@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -632,6 +632,7 @@ wss://nostr.pcdkd.fyi
 wss://nostr.einundzwanzig.space
 wss://relay.gui.dog
 wss://nostr.frennet.xyzl
+wss://freefire.nostr
 wss://Nostrica.com
 wss://welkinhere.githu
 wss://nostr-relay.bitcoin.ninja
@@ -1582,6 +1583,7 @@ wss://relay.Dwadziesciajeden.pl
 wss://getalpy.com
 wss://ab3w43g76lfczosxso7tp7gcada6hge6uw4uk4mu54mebynu2dj5fvid.onion
 wss://ibz.me
+wss://d6qxo55dhms6revgrmbindvb5ejd3gw5hrji7ylkm6khghii3hjs3uyd.onion
 wss://walletofsatoshi.com
 wss://nostr-ts-relay.ip.inf.br
 wss://nostr.bybieyang.com
@@ -1763,10 +1765,8 @@ wss://base.trueprime.net
 wss://relay.nostr.vet
 wss://relay.lightninglinks.xyz
 wss://globals.fans
-wss://macminiserver.local:4848
-wss://nostr.demovement.net
-wss://nostr.inprivate.network
-   wss://notr.zaprite.io
+s://relay.phone.home
+wss://notr.zaprite.io
 wss://nostr-proxy.h3z.jp
 wss://nostr.zedebee.cloud
 wss://nostr.compile-error.net
