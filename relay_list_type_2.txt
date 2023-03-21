@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -25,6 +25,7 @@ wss://relay.lexongtonbitcoin.org
 wss://release.nostr.band
 wss://nostr.whoop.phnostr.whoop.ph
 wss://knostr.neutrine
+wss://nostr.pk
 wss://satstacker.cloud
 wss://nostr.Sectiontwo.org
 wss://nostrl.currentfyi
@@ -307,6 +308,7 @@ wss://wine.luxzao.com
 wss://jarvis.taild68e2.ts.net:4848
 wss://relay.fan
 wss://I.relay.boats
+wss://nostr.coolamer.com
 wss://truthsocial.com
 wss://Nostr.mado.io
 wss://freedom-relay.herokuapp.com
@@ -1350,6 +1352,7 @@ wss://no-str.wnhefei.cn:28443
 wss://nostr.fmt.wiz.biz
 wss://relay.cent2sat.com
 wss://Nostr.com.de
+wss://Ibrygen.xyz
 wss://nostr.yuv.al
 wss://au4bcjeijqf2v45raa5hg36ifo3i2ezn62t5r264p6fhechy4vqx33qd.onion
 wss://relay.nostrgraph.net
@@ -1764,8 +1767,8 @@ wss://nostr.lnnodeinsight.com
 wss://nostr.rocks
 
 wss://relay.nostr.or.jp
-wss://nostr.rdfriedl.com
-//nklxtre37s7h7bbrss4np35xutuo3gwqilzydk2gfakww6aamdrinnad.onion:4848
+r.shawnyeager.net
+wss://nklxtre37s7h7bbrss4np35xutuo3gwqilzydk2gfakww6aamdrinnad.onion:4848
 wss://nostr1.tunnelsats.com
 wss://nostr.formigator.eu
 wss://nostrpub.welliorder.net
