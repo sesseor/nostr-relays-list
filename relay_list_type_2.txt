@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -707,6 +707,8 @@ wss://nostr.gromeul.eu
 wss://nostr.nostrelay.org
 wss://nostr.lightning.contact
 wss://nostr.shadownode.org
+wss://nostr.beta3.dev
+
 wss://umbrel.local:4848
 wss://nodeless.io
 wss://rsslay.wss
@@ -1453,6 +1455,8 @@ wss://Brb.io
 wss://nostr.v01.io
 wss://nostr.bridgey.dev
 wss://nostream-production-31f8.up.railway.app
+wss://relay.nostrich.de
+
 wss://Nostr.azte.co
 wss://nostr.test.aesyc.io
 wss://ryogrid.net:7777
@@ -1761,8 +1765,8 @@ wss://Lbrygen.xyz
 wss://nostrchack.me
 wss://nostr.gruntwerk.org
 wss://nostr.masmux.com
-wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
-y.nostr.wirednet.net
+                     wss://universe.nostrich.land
+wss://relay.nostr.wirednet.net
 wss://in.tips
 wss://kpa4k6acxzjv2m2p72keftbpaymwpq2h67jqnin3d4y3djxyheuifoqd.onion
 wss://zen.local:4848
