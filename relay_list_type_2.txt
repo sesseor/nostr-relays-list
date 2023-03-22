@@ -701,6 +701,7 @@ wss://Nostr.relayer.se
 wss://expensive-relay.fiatjaf
 wss://relay.hrf.org
 wss://umbrel.tailb9b2c.ts.net:4848
+wss://nostr.gram
 wss://relay.nor.st
 wss://tail86021.ts.net:4848
 wss://lnurl-pay.me
@@ -1766,7 +1767,7 @@ wss://Lbrygen.xyz
 wss://nostrchack.me
 wss://nostr.gruntwerk.org
 wss://nostr.masmux.com
-wss://cseyux43cdiahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
+ahbpj6xnpsq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
 wss://universe.nostrich.land
 wss://relay.nostr.wirednet.net
 wss://in.tips
