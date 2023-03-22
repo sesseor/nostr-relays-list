@@ -268,6 +268,7 @@ wss://ragnar-relay.com
 wss://nostrati.com
 wss://nostream-production-b80e.up.railway.app
 wss://duffledpud.onrender.com
+wss://test.theglobalpersian.com
 wss://nostr.up.railway.app
 wss://relay.nostrich.de
 wss://plebstr.com
@@ -514,6 +515,8 @@ wss://relay.current.fy
 wss://relay-nostr.scot
 wss://relay.nostrified.org
 wss://pow.nostrati.com
+wss://nostr.bitcoinisrael.space
+
 wss://greenart7c3.dedyn.io
 wss://relay-dev.cowdle.gg
 wss://rsslay-production-1c45.up.railway.app
@@ -1760,10 +1763,8 @@ wss://relay.nostr.wirednet.net
 wss://in.tips
 wss://kpa4k6acxzjv2m2p72keftbpaymwpq2h67jqnin3d4y3djxyheuifoqd.onion
 wss://zen.local:4848
-wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
-wss://nostr.poster.place
-wss://i.relay.boats
-s://nostr.spleenrider.one
+                                                 wss://f7z.io
+wss://nostr.spleenrider.one
 wss://oxtr.dev
 wss://optiplex.wallaby-bass.ts.net:3333
 wss://nostrica.com
