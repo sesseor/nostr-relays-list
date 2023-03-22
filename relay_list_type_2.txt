@@ -98,6 +98,7 @@ wss://overhear-borax.fractalnetworks.co
 wss://relay.Nostrified.org
 wss://nostr.zebede.cloud
 wss://nostr.unknown.place
+wss://pub.deschooling.us
 wss://marcus.au:4848
 wss://nostr.buythisdip.com
 wss://nostr-relay.thefockinfury.wtf
@@ -1761,8 +1762,7 @@ wss://zen.local:4848
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
 wss://nostr.poster.place
 wss://i.relay.boats
-wss://f7z.io
-wss://nostr.spleenrider.one
+spleenrider.one
 wss://oxtr.dev
 wss://optiplex.wallaby-bass.ts.net:3333
 wss://nostrica.com
