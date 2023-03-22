@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -129,6 +129,7 @@ wss://relay.austrich.net
 wss://anon.computer
 wss://nostr.lordkno.ws
 wss://nostr.einundzwansig.space
+wss://stealth.wine
 wss://nostr.I00.org
 wss://einundzwanzig.relay.com
 wss://nostr.sandwich.pro
@@ -861,6 +862,7 @@ wss://nproxy.kristapsk.lv
 wss://3d515c5277e9.ngrok.io
 wss://relay.bitid.nz
 wss://oooxxx.ml
+wss://relay.nokotaro.com
 wss://nostr.net.in
 wss://habla.news
 wss://relay.nostrgraph.net
@@ -941,6 +943,7 @@ wss://nostr-relay.adieucord.com
 wss://frighteningdeafeningagent.nailuogg.repl.co
 wss://relay.sovereign-stack.org
 wss://d463rbo7dgbfuxvvxpory2og2etl4gttfzmqcixdq7rpts47lpgolkyd.onion
+wss://filter.stealth.wine
 wss://relay.nostr-latam.link
 wss://puravida.nostra.land
 wss://nostr.orba.ca
@@ -1759,13 +1762,9 @@ wss://i.relay.boats
 wss://f7z.io
 wss://nostr.spleenrider.one
 wss://oxtr.dev
-wss://optiplex.wallaby-bass.ts.net:3333
-wss://nostrica.com
-wss://btcpay.trustbtc.org
-wss://nuc32.local:4848
-wss://base.trueprime.net
-wss://relay.nostr.vet
-                wss://macminiserver.local:4848
+                                                                                     wss://relay.lightninglinks.xyz
+wss://globals.fans
+wss://macminiserver.local:4848
 wss://nostr.demovement.net
 wss://nostr.inprivate.network
 wss://relay.phone.home
