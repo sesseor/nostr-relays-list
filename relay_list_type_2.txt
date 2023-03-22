@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -108,6 +108,7 @@ wss://nostr.sovbit.com
 wss://nostr.com.au
 wss://nostrpurple.co
 wss://Nostr.minimue81.selfhost.co
+wss://nos..lol
 wss://nostr.current.fyo
 wss://nostring.deno.dev
 wss://tyiu.xyz
@@ -1762,7 +1763,7 @@ wss://zen.local:4848
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
 wss://nostr.poster.place
 wss://i.relay.boats
-spleenrider.one
+s://nostr.spleenrider.one
 wss://oxtr.dev
 wss://optiplex.wallaby-bass.ts.net:3333
 wss://nostrica.com
