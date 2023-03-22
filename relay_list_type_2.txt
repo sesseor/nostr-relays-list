@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -106,6 +106,7 @@ wss://relay.nosphr.com
 wss://nostr.sovbit.com
 wss://nostr.com.au
 wss://nostrpurple.co
+wss://Nostr.minimue81.selfhost.co
 wss://nostr.current.fyo
 wss://nostring.deno.dev
 wss://tyiu.xyz
@@ -1764,9 +1765,7 @@ wss://btcpay.trustbtc.org
 wss://nuc32.local:4848
 wss://base.trueprime.net
 wss://relay.nostr.vet
-wss://relay.lightninglinks.xyz
-wss://globals.fans
-4848
+                wss://macminiserver.local:4848
 wss://nostr.demovement.net
 wss://nostr.inprivate.network
 wss://relay.phone.home
