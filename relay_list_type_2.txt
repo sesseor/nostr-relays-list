@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1517,6 +1517,7 @@ wss://nostr.ZEBEDEE.cloud
 wss://nostr.blockpower.capital
 wss://altcoinnect.xyz
 wss://relay.nosbin.com
+wss://457a-200-229-144-129.ngrok.io
 wss://nostr.dutch.cryptonews
 wss://nostr.easify.de
 wss://eden.nostr.land
@@ -1541,6 +1542,7 @@ wss://nostr.zebedee.cloud
 wss://rick-ga-781mt-usb3-6-0.local:4848
 wss://nostr.supremestack.xyz
 wss://nos.lol
+wss://8.tcp.ngrok.io:19607
 wss://relay.nostr-sg.com
 wss://nostr.bitocial.xyz
 wss://relay1.nostrich.cloud
@@ -1610,6 +1612,7 @@ wss://d6qxo55dhms6revgrmbindvb5ejd3gw5hrji7ylkm6khghii3hjs3uyd.onion
 wss://walletofsatoshi.com
 wss://nostr-ts-relay.ip.inf.br
 wss://nostr.bybieyang.com
+wss://310b-200-229-144-129.ngrok.io
 wss://relay.nostrprotocol.net
 wss://zaplife.lol
 wss://relay.taldra.in
@@ -1765,10 +1768,7 @@ wss://nostr-relay.j3s7m4n.com
 wss://relay.snort.social
 wss://nostr.yael.at
 wss://Lbrygen.xyz
-wss://nostrchack.me
-wss://nostr.gruntwerk.org
-wss://nostr.masmux.com
-psq5kvwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
+vwfbnhdlmrppcqebe6uu3tii3itcyyid.onion
 wss://universe.nostrich.land
 wss://relay.nostr.wirednet.net
 wss://in.tips
