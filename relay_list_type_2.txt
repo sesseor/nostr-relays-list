@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1456,6 +1456,7 @@ wss://nostream-production-76b4.up.railway.app
 wss://relay.nostriches.net
 wss://lnbits.sdbtc.org
 wss://relay.johnnyasantos.com
+wss://lighteningrelay.com
 wss://nostr.rikmeijer.nl
 wss://jsin5q3u2sxnea4kb2ykvml5dm5v3djkqdvor2vb3h35ey7ttnxdu3ad.onion
 wss://nostr.openchain.fr
@@ -1765,7 +1766,7 @@ wss://base.trueprime.net
 wss://relay.nostr.vet
 wss://relay.lightninglinks.xyz
 wss://globals.fans
-wss://macminiserver.local:4848
+4848
 wss://nostr.demovement.net
 wss://nostr.inprivate.network
 wss://relay.phone.home
