@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
@@ -1762,7 +1762,13 @@ wss://i.relay.boats
 wss://f7z.io
 wss://nostr.spleenrider.one
 wss://oxtr.dev
-                                                                                     wss://relay.lightninglinks.xyz
+wss://optiplex.wallaby-bass.ts.net:3333
+wss://nostrica.com
+wss://btcpay.trustbtc.org
+wss://nuc32.local:4848
+wss://base.trueprime.net
+wss://relay.nostr.vet
+wss://relay.lightninglinks.xyz
 wss://globals.fans
 wss://macminiserver.local:4848
 wss://nostr.demovement.net
