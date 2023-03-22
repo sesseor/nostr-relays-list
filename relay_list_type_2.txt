@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
@@ -659,6 +659,7 @@ wss://relay.current.fyi
 wss://h3avzcsyhvpi2mtmh5d3yqhz65cwsmbdlud37hk5gbnxi2gkajwoczqd.onion
 wss://raspberrypi4.local:4848
 wss://rsslay.data.haus
+wss://477owryal642ydnsqwuznwxw6vsalcsdt7nag5s3xgkan4kopavrqcyd.onion
 wss://3gkpphcfwb6w5iq6axnmlbvr7pz2t37uy4ofocyijzttzrbz4jy43fid.local
 wss://wine.Nostr
 wss://relay.valireum.net
@@ -1565,6 +1566,7 @@ wss://nostrproxy.bitcoinfixesthis.org
 wss://nostr01.opencult.com
 wss://nostr.rafriedi.com
 wss://eden.nostry.land
+wss://nostr.moparisthe.best
 wss://7jfgu2smh6lvw2wfixartnjcvfgfk47m5elv2y4oimkpizkrn5saz3ad.onion
 wss://ib3kefulyelfjvvw6ooxj4gkbdkgt7f4ovb4mukhs2qxuaychpbayjid.onion
 wss://relay.pub
@@ -1759,11 +1761,7 @@ wss://zen.local:4848
 wss://akseuzyizvorpc6ndazpjmxuyi4kkp5lm6z7sfje6zvkfxg2em4cn7id.onion
 wss://nostr.poster.place
 wss://i.relay.boats
-wss://f7z.io
-wss://nostr.spleenrider.one
-wss://oxtr.dev
-wss://optiplex.wallaby-bass.ts.net:3333
-wss://nostrica.com
+ss://nostrica.com
 wss://btcpay.trustbtc.org
 wss://nuc32.local:4848
 wss://base.trueprime.net
