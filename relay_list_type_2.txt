@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1071,6 +1071,7 @@ wss://jawsh.xyz
 wss://nostr-eu.coinfundit.com
 wss://jax1028.ndscal.com:8008
 wss://plebchain.org
+wss://nostr-world.h3z.jp
 wss://nostr.onsat.org
 wss://homeserver.local:4848
 wss://relay.mostr.pub
@@ -1761,9 +1762,10 @@ wss://nostr.hrmb.org
 wss://paid.no.str.cr
 wss://nostr.ownbtc.online
 wss://nostr.21l.st
-wss://nostr.ncsa.illinois.edu
-wss://relay.mynostr.id
-//relay.nostrplebs.com
+                            wss://No.str.cr
+wss://brb.io
+
+wss://relay.nostrplebs.com
 wss://no-str.org
 wss://ln.runningnostr.lol
 wss://nostream-production-8a85.up.railway.app
