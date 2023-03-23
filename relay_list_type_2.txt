@@ -154,6 +154,7 @@ wss://nostrfoxden.ddns.net:4848
 wss://coracle.social
 wss://nostr2.sanhauf.com
 wss://nostr.bostonbtc.com
+wss://relay77-1-s2318898.deta.app
 wss://nostro.online
 wss://nostr.Nikolaj.online
 wss://relay.emeralize.com
@@ -1762,7 +1763,8 @@ wss://nostr.ownbtc.online
 wss://nostr.21l.st
 wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
-.org
+//relay.nostrplebs.com
+wss://no-str.org
 wss://ln.runningnostr.lol
 wss://nostream-production-8a85.up.railway.app
 wss://nostr-relay.j3s7m4n.com
