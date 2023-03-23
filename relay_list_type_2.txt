@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
@@ -851,6 +851,7 @@ wss://raspberrypi3.jay-chameleon.ts.net
 wss://nostr.vol.io
 wss://plebs.place
 wss://relay.nostrati.com
+wss://nostr.rly.social
 wss://hungyhome.local:4848
 wss://nostr.21.crypto.ch
 wss://umha4zl6xk62a4dous6e7tq4qlmt462hlzs2su33en6qrvtvs3hkjgid.onion
@@ -1763,10 +1764,8 @@ wss://relay.mynostr.id
 wss://No.str.cr
 wss://brb.io
 
-wss://relay.nostrplebs.com
-wss://no-str.org
-wss://ln.runningnostr.lol
-                                  
+                                               wss://nostream-production-8a85.up.railway.app
+wss://nostr-relay.j3s7m4n.com
 wss://relay.snort.social
 wss://nostr.yael.at
 wss://Lbrygen.xyz
