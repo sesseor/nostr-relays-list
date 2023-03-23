@@ -1760,7 +1760,12 @@ wss://relay.armnd.net
 wss://nostr-relay.ie9.org
 wss://nostr.forecastdao.com
 wss://coeditor-congested.fractalnetworks.co
-                                                                wss://nostr.ncsa.illinois.edu
+wss://nostr-pub.wellorder.dev
+wss://nostr.hrmb.org
+wss://paid.no.str.cr
+wss://nostr.ownbtc.online
+wss://nostr.21l.st
+wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
 wss://No.str.cr
 wss://brb.io
