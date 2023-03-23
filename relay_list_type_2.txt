@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -442,6 +442,7 @@ wss://nostr.alphapack.finance
 wss://nostr-ja-kari.heguro.com
 wss://rsslay.nostr.net
 wss://www.131.me
+wss://2035-200-229-144-129.ngrok.io
 wss://at.nostrwork.at
 wss://realy.snort.social
 wss://rsr.uyky.net:30443
@@ -1102,6 +1103,7 @@ wss://Nostr.bch.ninja
 wss://beta.nostr.v0l.io
 wss://nostr.semisol.dev
 wss://nostr.cizmar.net
+wss://relay.atlas.nostr.land
 wss://Nostr.nostrelay.org
 wss://nostr.uthark.com
 wss://nauka-relay.herokuapp.com
@@ -1758,11 +1760,8 @@ wss://t540p.local:4848
 wss://nostr.relay.nokotaro.com
 wss://relay.damus.com
 wss://nostr.interwebcoding.com:4848
-wss://dublin.saoirse.dev
-wss://nostr.Inprivate.network
-wss://nostr-1.nbo.agani.co
-wss://relay.armnd.net
-ss://nostr.forecastdao.com
+                                       wss://nostr-relay.ie9.org
+wss://nostr.forecastdao.com
 wss://coeditor-congested.fractalnetworks.co
 wss://nostr-pub.wellorder.dev
 wss://nostr.hrmb.org
