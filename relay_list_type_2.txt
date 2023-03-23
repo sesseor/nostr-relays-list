@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -373,6 +373,7 @@ wss://mostr.snblago.com
 wss://satgag.site
 wss://relay.rip
 wss://nostr.coincreek.com
+wss://jupiter.fritz.box
 wss://black.Nostrcity.club
 wss://relay.vanderwarker.family
 wss://nostr.slothy.win
@@ -1381,6 +1382,7 @@ wss://nostr.chatbett.de
 wss://nostr.milou.lol
 wss://relay01.apus.network
 wss://3u6dlcjuu4qzbeyqnddbnzv6dz4igwa5zzykzg6gxvhgf7zkpd7amjid.onion:5051
+wss://jupiter.fritz.box:6969
 wss://chad.polytechnic
 wss://no-str.wnhefei.cn:28443
 wss://nostr.fmt.wiz.biz
@@ -1758,12 +1760,7 @@ wss://relay.armnd.net
 wss://nostr-relay.ie9.org
 wss://nostr.forecastdao.com
 wss://coeditor-congested.fractalnetworks.co
-wss://nostr-pub.wellorder.dev
-wss://nostr.hrmb.org
-wss://paid.no.str.cr
-wss://nostr.ownbtc.online
-wss://nostr.21l.st
-wss://nostr.ncsa.illinois.edu
+                                                                wss://nostr.ncsa.illinois.edu
 wss://relay.mynostr.id
 wss://No.str.cr
 wss://brb.io
