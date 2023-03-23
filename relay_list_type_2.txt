@@ -1362,6 +1362,7 @@ wss://nostr-relay.trustbtc.com
 wss://getalby.com
 wss://umbrel.tail0fcd9.ts.net:4848
 wss://relay.dzwadziesciajeden.pl
+wss://server-pc.local:4848
 wss://nostr-rely.digitalmob.ro
 wss://relay.usenostr.org
 wss://arc1.arcadelabs.co
@@ -1761,7 +1762,8 @@ wss://nostr-1.nbo.agani.co
 wss://relay.armnd.net
 wss://nostr-relay.ie9.org
 wss://nostr.forecastdao.com
-       wss://nostr-pub.wellorder.dev
+actalnetworks.co
+wss://nostr-pub.wellorder.dev
 wss://nostr.hrmb.org
 wss://paid.no.str.cr
 wss://nostr.ownbtc.online
