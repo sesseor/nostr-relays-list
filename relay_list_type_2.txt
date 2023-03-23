@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -772,6 +772,7 @@ wss://relay.nostrebs.com
 wss://nostr.bch.ninia
 wss://vo3m7gv2xsjwzmby6aox5rgunwzkhzqbid57dgc5x6pf7rliemesbuid.onion
 wss://nor.st
+wss://example.com:1234
 wss://Nostr-2.ZEBEDEE.cloud
 wss://relay.dnet.run
 wss://jl-hp-elitebook-840-g2.local:4848
@@ -1762,7 +1763,7 @@ wss://nostr.hrmb.org
 wss://paid.no.str.cr
 wss://nostr.ownbtc.online
 wss://nostr.21l.st
-wss://nostr.ncsa.illinois.edu
+is.edu
 wss://relay.mynostr.id
 wss://No.str.cr
 wss://brb.io
