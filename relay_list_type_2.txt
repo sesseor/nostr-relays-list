@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -414,6 +414,7 @@ wss://pay.nostr-sg.com
 wss://nostr-relay.hzrd149.com
 wss://relay.futohq.com
 wss://nostr.lapalomilla.mx
+wss://nostr.bg
 wss://nostr.zerofiat.world
 wss://relay.snort.social
 
@@ -1682,6 +1683,7 @@ wss://nost.wine
 wss://relay.nostr.distrl.net
 wss://nostream.lucas.snowinning.com
 wss://deschooling.us
+wss://really.nostr.bg
 wss://nostr.lnbitcoin.cz
 wss://brouillette-vostro-3558.local:4848
 wss://nostr.africa
@@ -1759,8 +1761,7 @@ wss://nostr-1.nbo.agani.co
 wss://relay.armnd.net
 wss://nostr-relay.ie9.org
 wss://nostr.forecastdao.com
-wss://coeditor-congested.fractalnetworks.co
-wss://nostr-pub.wellorder.dev
+       wss://nostr-pub.wellorder.dev
 wss://nostr.hrmb.org
 wss://paid.no.str.cr
 wss://nostr.ownbtc.online
