@@ -1762,7 +1762,7 @@ wss://nostr-1.nbo.agani.co
 wss://relay.armnd.net
 wss://nostr-relay.ie9.org
 wss://nostr.forecastdao.com
-actalnetworks.co
+wss://coeditor-congested.fractalnetworks.co
 wss://nostr-pub.wellorder.dev
 wss://nostr.hrmb.org
 wss://paid.no.str.cr
