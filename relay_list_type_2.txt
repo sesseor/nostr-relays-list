@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -848,6 +848,7 @@ wss://nostr.lukeacl.com
 wss://ocha.one
 wss://nostr.pobblelabs.org
 wss://nostr.howtobitcoin.shop
+wss://3e32-200-229-144-129.ngrok.io
 wss://nostrua.com
 wss://relay.onsats.org
 wss://relay.Orangepill.dev
@@ -1761,8 +1762,7 @@ wss://nostr.Inprivate.network
 wss://nostr-1.nbo.agani.co
 wss://relay.armnd.net
 wss://nostr-relay.ie9.org
-wss://nostr.forecastdao.com
-wss://coeditor-congested.fractalnetworks.co
+editor-congested.fractalnetworks.co
 wss://nostr-pub.wellorder.dev
 wss://nostr.hrmb.org
 wss://paid.no.str.cr
