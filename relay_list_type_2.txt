@@ -1762,7 +1762,9 @@ wss://nostr.hrmb.org
 wss://paid.no.str.cr
 wss://nostr.ownbtc.online
 wss://nostr.21l.st
-                            wss://No.str.cr
+wss://nostr.ncsa.illinois.edu
+wss://relay.mynostr.id
+wss://No.str.cr
 wss://brb.io
 
 wss://relay.nostrplebs.com
