@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1070,6 +1070,7 @@ wss://nostr.zerofeerouting.com
 wss://ubuntu.local:4848
 wss://colin-hp-elitedesk-800-g1-dm.local:4848
 wss://ralay.damus.io
+wss://nnp4belzj6nc5m2iiwecbv3dwdbtzdzznjjaxryyugdemm5sjh7smyqd.onion
 wss://paid-relay.nost.love
 wss://nostr.vulpem.com
 wss://vcgcgfajhyaj3rmh63v7ibyh5rkwl7lht7r2f2rag3pjb4omesseu7ad.onion
@@ -1758,7 +1759,7 @@ wss://nostr.snort.social
 wss://relay.brb.io
 wss://nostr.argdx.net
 wss://nostr.blocs.fr
-wss://nostr-relay.trustbtc.org
+g5fmv6rv44duvcmhr5oc5vad.onion
 wss://nostr.herci.one
 wss://t540p.local:4848
 wss://nostr.relay.nokotaro.com
