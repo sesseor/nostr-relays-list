@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -497,6 +497,7 @@ wss://rumble.rely
 wss://thesimplekid.space
 wss://nostr.hushvault.ie
 wss://ubuntu-virtualbox.local:4848
+wss://relay.badgr.space
 wss://nostr.middling.mydns.jp
 wss://relay.nostr24.com
 wss://relay.cynsar.foundation
@@ -1485,6 +1486,7 @@ wss://nostr.test.aesyc.io
 wss://ryogrid.net:7777
 wss://nostr.codl.co
 wss://nostr.nordlysln.net:3241
+wss://Nostr.com.au
 wss://wagvwfrdrikrqzp7h3b5lwl6btyuttu7mqpeji35ljzq36ovzgjhsfqd.onion
 wss://nostr.rocketstyle.com.au
 wss://private-nostr.vOl.io
@@ -1757,8 +1759,6 @@ wss://cow-woodpecker.ts.net:4848
 wss://relay.austritch.net
 wss://nostr.snort.social
 wss://relay.brb.io
-wss://nostr.argdx.net
-wss://nostr.blocs.fr
 wss://nostr-relay.trustbtc.org
 wss://hw7ncgn7rojohajvtlezmhvadlfsk5yeg5fmv6rv44duvcmhr5oc5vad.onion
 wss://nostr.herci.one
