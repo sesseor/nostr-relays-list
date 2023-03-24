@@ -1,7 +1,7 @@
 
 wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -657,6 +657,7 @@ wss://nostr.nom
 wss://nostr.easydns.ca
 wss://Nostr.Island.Network
 wss://ragner-relay.com
+wss://relay.cureent.fyi
 wss://billert.xyz
 wss://nostr-relay.untethr.me
 wss://nostr-relay.lnmarkets.com
@@ -1758,10 +1759,7 @@ wss://nostr.argdx.net
 wss://nostr.blocs.fr
 wss://nostr-relay.trustbtc.org
 wss://hw7ncgn7rojohajvtlezmhvadlfsk5yeg5fmv6rv44duvcmhr5oc5vad.onion
-wss://nostr.herci.one
-wss://t540p.local:4848
-wss://nostr.relay.nokotaro.com
-wss://relay.damus.com
+                                                    wss://relay.damus.com
 wss://nostr.interwebcoding.com:4848
 wss://dublin.saoirse.dev
 wss://nostr.Inprivate.network
