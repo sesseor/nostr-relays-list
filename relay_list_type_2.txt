@@ -1759,7 +1759,10 @@ wss://nostr.argdx.net
 wss://nostr.blocs.fr
 wss://nostr-relay.trustbtc.org
 wss://hw7ncgn7rojohajvtlezmhvadlfsk5yeg5fmv6rv44duvcmhr5oc5vad.onion
-                                                    wss://relay.damus.com
+wss://nostr.herci.one
+wss://t540p.local:4848
+wss://nostr.relay.nokotaro.com
+wss://relay.damus.com
 wss://nostr.interwebcoding.com:4848
 wss://dublin.saoirse.dev
 wss://nostr.Inprivate.network
