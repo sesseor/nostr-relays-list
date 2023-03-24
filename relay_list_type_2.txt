@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -859,6 +859,7 @@ wss://raspberrypi3.jay-chameleon.ts.net
 wss://nostr.vol.io
 wss://plebs.place
 wss://relay.nostrati.com
+wss://dgi4mb7antpcmrx4rynm6xq52xzt5duvxa4iwucq4mszgpz6smrjajqd.onion
 wss://nostr.rly.social
 wss://hungyhome.local:4848
 wss://nostr.21.crypto.ch
@@ -1759,9 +1760,7 @@ wss://nostr.herci.one
 wss://t540p.local:4848
 wss://nostr.relay.nokotaro.com
 wss://relay.damus.com
-wss://nostr.interwebcoding.com:4848
-wss://dublin.saoirse.dev
-wss://nostr.Inprivate.network
+str.Inprivate.network
 wss://nostr-1.nbo.agani.co
 wss://relay.armnd.net
 wss://nostr-relay.ie9.org
