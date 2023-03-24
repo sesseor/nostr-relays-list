@@ -1,7 +1,7 @@
 
-wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
+wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1487,6 +1487,7 @@ wss://nostr.rocketstyle.com.au
 wss://private-nostr.vOl.io
 wss://CloudNull.land
 wss://wkw43dwssaaan2dnowcxfk47zp5f2dsqkpoy3i6mkicav3kygvvgr6id.onion
+wss://www.baidu.com
 wss://relay.nostr.wirednet.jp
 wss://nostr.oxtr.dev
 wss://nostream-production-76b4.up.railway.app
@@ -1760,8 +1761,7 @@ wss://hw7ncgn7rojohajvtlezmhvadlfsk5yeg5fmv6rv44duvcmhr5oc5vad.onion
 wss://nostr.herci.one
 wss://t540p.local:4848
 wss://nostr.relay.nokotaro.com
-wss://relay.damus.com
-ing.com:4848
+  wss://nostr.interwebcoding.com:4848
 wss://dublin.saoirse.dev
 wss://nostr.Inprivate.network
 wss://nostr-1.nbo.agani.co
