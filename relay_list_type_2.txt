@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1760,7 +1760,11 @@ wss://t540p.local:4848
 wss://nostr.relay.nokotaro.com
 wss://relay.damus.com
 wss://nostr.interwebcoding.com:4848
-                                       wss://nostr-relay.ie9.org
+wss://dublin.saoirse.dev
+wss://nostr.Inprivate.network
+wss://nostr-1.nbo.agani.co
+wss://relay.armnd.net
+wss://nostr-relay.ie9.org
 wss://nostr.forecastdao.com
 wss://coeditor-congested.fractalnetworks.co
 wss://nostr-pub.wellorder.dev
