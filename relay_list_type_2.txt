@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
@@ -706,6 +706,7 @@ wss://nostr.relayer.se
 
 wss://semaphore.life
 wss://ng4jk6yiqgfczo4wyxszuj7w6jok3fptehu533o3mlzs3vph3dvjfdid.onion
+wss://5redtookv57e6iyds5ipft3fhtitihx5mdmt63dmlqao5ol7u4oyocyd.onion
 wss://nostr.inosta.cc
 wss://nostr.interwebcoding.com
 wss://lzybsdznklr56a5qnvj6qy45xx7qeh73ckv6yrww5ehxofinqn7kydqd.onion
@@ -1748,11 +1749,12 @@ wss://paying-prancing.fractalnetworks.co
 wss://nostr.0xtr.dev
 wss://-pub.wellorder.net
 wss://nostr.mom
-wss://nostr2.acrn.io
-wss://bitcoin.social
-wss://nostr.ahaspharos.de
-wss://nostr.0ne.day
-                     wss://wil.bio
+                   wss://umbrel-app.tail10ad4.ts.net:4848
+wss://merrcurr.up.railway.app
+wss://nostr.zenon.info
+wss://relay.nostr.social
+wss://Nostr.mom
+wss://wil.bio
 wss://redgreenblue.click
 wss://nostr-pub.welllorder.net
 wss://nostr.100p.org
