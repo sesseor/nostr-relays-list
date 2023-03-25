@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
@@ -99,6 +99,7 @@ wss://nostream.git
 wss://nostr.badran.xyz
 wss://overhear-borax.fractalnetworks.co
 wss://relay.Nostrified.org
+wss://relay.snort.test
 wss://nostr.zebede.cloud
 wss://nostr.unknown.place
 wss://pub.deschooling.us
@@ -892,6 +893,7 @@ wss://relay.bitid.nz
 wss://oooxxx.ml
 wss://relay.nokotaro.com
 wss://nostr.net.in
+wss://z6nbwb23fuvoj63nv2a5x4eggnl4rfetfme4cdo5z2hluzqqzsgp4pid.onion
 wss://habla.news
 wss://relay.nostrgraph.net
 wss://nostr.corebreach.com
@@ -1752,10 +1754,11 @@ wss://merrcurr.up.railway.app
 wss://nostr.zenon.info
 wss://relay.nostr.social
 wss://Nostr.mom
-wss://wil.bio
-wss://redgreenblue.click
-wss://nostr-pub.welllorder.net
-                                               wss://r.alphaama.com
+ss://nostr.eaglebtm.com
+wss://heguro.com
+wss://nostr.bongbong.com
+wss://tail6452b.ts.net:4848
+wss://r.alphaama.com
 wss://cow-woodpecker.ts.net:4848
 wss://relay.austritch.net
 wss://nostr.snort.social
@@ -1774,6 +1777,7 @@ wss://nostr.Inprivate.network
 wss://nostr-1.nbo.agani.co
 wss://relay.armnd.net
 wss://nostr-relay.ie9.org
+wss://wcl2meyp236fa3dmfzfyq6aacbdoixrlocb6zozjs6xklxizschj2did.local
 wss://nostr.forecastdao.com
 wss://coeditor-congested.fractalnetworks.co
 wss://nostr-pub.wellorder.dev
