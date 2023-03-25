@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
@@ -1759,7 +1759,9 @@ wss://nostr.eaglebtm.com
 wss://heguro.com
 wss://nostr.bongbong.com
 wss://tail6452b.ts.net:4848
-          
+wss://r.alphaama.com
+wss://cow-woodpecker.ts.net:4848
+wss://relay.austritch.net
 wss://nostr.snort.social
 wss://relay.brb.io
 wss://nostr.argdx.net
@@ -1862,6 +1864,7 @@ wss://Mostr.pub
 wss://u-3ddc416ldv3lq.local:4848
 wss://homeserver.drake-carp.ts.net:4848
 wss://soullands.com
+wss://nostr.simplex.icu
 wss://yosupp.app
 wss://ln.tips
 wss://nostr.radixrar.com
