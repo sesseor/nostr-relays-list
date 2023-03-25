@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
@@ -624,6 +624,7 @@ wss://nproxy.zerologin.co
 wss://relay.tnano.duckdns.org
 wss://nostdemo.dojotunnel.online
 wss://wizards.wormrobot.org
+wss://rly.bopln.com
 wss://nostr.robotechy.com
 wss://nostr.k3tan.com
 wss://tigerville.no
@@ -1759,8 +1760,7 @@ wss://r.alphaama.com
 wss://cow-woodpecker.ts.net:4848
 wss://relay.austritch.net
 wss://nostr.snort.social
-wss://relay.brb.io
-wss://nostr.argdx.net
+ss://nostr.argdx.net
 wss://nostr.blocs.fr
 wss://nostr-relay.trustbtc.org
 wss://hw7ncgn7rojohajvtlezmhvadlfsk5yeg5fmv6rv44duvcmhr5oc5vad.onion
