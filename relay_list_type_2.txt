@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
@@ -1759,7 +1759,8 @@ wss://r.alphaama.com
 wss://cow-woodpecker.ts.net:4848
 wss://relay.austritch.net
 wss://nostr.snort.social
-/nostr.argdx.net
+wss://relay.brb.io
+wss://nostr.argdx.net
 wss://nostr.blocs.fr
 wss://nostr-relay.trustbtc.org
 wss://hw7ncgn7rojohajvtlezmhvadlfsk5yeg5fmv6rv44duvcmhr5oc5vad.onion
@@ -1868,6 +1869,7 @@ wss://14.rs
 wss://relay.roli.social
 wss://paid.spore.ws
 wss://anigma.io
+wss://nostr-proxy.inosta.cc
 wss://nostr-mv.ashiroid.com
 wss://Nostr.mutinywallet.com
 wss://nostr.fmt.wis.biz
