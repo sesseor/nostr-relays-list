@@ -1,6 +1,6 @@
 
-wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
+wss://monad.jb55.com:8080
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
@@ -1321,6 +1321,7 @@ wss://nostr-01.bolt.observer
 wss://relay.dutch.cryptonews
 wss://umbrel-node.dshq.ca:4848
 wss://nostr.cruncher.com
+wss://snort.fail
 wss://tmp-relay.cesc.trade
 wss://Nostr.oooxxx.ml
 wss://nostream-production-f83d.up.railway.app
@@ -1376,6 +1377,7 @@ wss://relay.mrjohnsson.net
 wss://Nostr.Itssilvestre.com
 wss://nostr-relay.trustbtc.com
 wss://getalby.com
+wss://nostr.rezhajulio.id
 wss://umbrel.tail0fcd9.ts.net:4848
 wss://relay.dzwadziesciajeden.pl
 wss://server-pc.local:4848
@@ -1598,6 +1600,7 @@ wss://nostr.chrissmith.site
 wss://nostr.allamericanmining.co
 wss://rsslay.nostr.moe
 wss://dev-vivre-card.puffinstudio.cn
+wss://t7jvqwu35hneszx7fihsprbcpwon1cfnsjr4xtn6shagwbv324w4gd1d.onion
 wss://nostream-production-ba43.up.railway.app
 wss://nostrial.com
 wss://mumbs3cfaceofpnbwthjqwreffwkuj3l3cjyuyathbqag4hs6jol6oqd.onion
@@ -1749,12 +1752,11 @@ wss://nostr2.acrn.io
 wss://bitcoin.social
 wss://nostr.ahaspharos.de
 wss://nostr.0ne.day
-wss://umbrel-app.tail10ad4.ts.net:4848
-wss://merrcurr.up.railway.app
-wss://nostr.zenon.info
-wss://relay.nostr.social
-wss://Nostr.mom
-ss://nostr.eaglebtm.com
+                     wss://wil.bio
+wss://redgreenblue.click
+wss://nostr-pub.welllorder.net
+wss://nostr.100p.org
+wss://nostr.eaglebtm.com
 wss://heguro.com
 wss://nostr.bongbong.com
 wss://tail6452b.ts.net:4848
