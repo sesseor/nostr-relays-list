@@ -89,6 +89,7 @@ wss://nostr-relay.derekross.me
 wss://nostr.21crypto.ch
 wss://umbrel.tail6ec9a.ts.net:4848
 wss://nostr.256k1.dev
+wss://relays.pro
 wss://2g2jzcfgq5lcrceuq23lmya2drm3ku5qmqimr3bvu3amol55vidctrad.onion
 wss://puravida.nostrich.land
 wss://relay.farscapian.com
@@ -1760,7 +1761,7 @@ wss://r.alphaama.com
 wss://cow-woodpecker.ts.net:4848
 wss://relay.austritch.net
 wss://nostr.snort.social
-wss://relay.brb.io
+o
 wss://nostr.argdx.net
 wss://nostr.blocs.fr
 wss://nostr-relay.trustbtc.org
