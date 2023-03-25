@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1006,6 +1006,7 @@ wss://nostr.fly.dev
 wss://hrxqtouyp7j3yqg4hsfde2hmjtkxltmyu64y3suk3dttcwjkdbapc4qd.onion:5051
 wss://puravida.nostr.land.com
 wss://relaynostr.joelsilva3.repl.co
+wss://nostr.relay.se
 wss://relau.zeh.app
 wss://nostr-z9tc.onrender.com
 wss://ibrygen.xyz
@@ -1750,7 +1751,9 @@ wss://nostr.21sats.org
 wss://nostr-relay.local:7443
 wss://paying-prancing.fractalnetworks.co
 wss://nostr.0xtr.dev
-                       wss://nostr2.acrn.io
+net
+wss://nostr.mom
+wss://nostr2.acrn.io
 wss://bitcoin.social
 wss://nostr.ahaspharos.de
 wss://nostr.0ne.day
