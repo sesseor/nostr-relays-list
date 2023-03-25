@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -336,6 +336,7 @@ wss://nostr-2.afarazit.eu
 wss://relat.nostrica.com
 wss://Eden.nostr.land
 wss://matty-precision-tower-3620.local:4848
+wss://rain8128.github.io
 wss://nostr.malin.onl
 wss://asikaxym5knuxn7b7qynqdp7y2lvavtjmczd2kisc4fpgxhpaxizojyd.onion
 wss://umbrel.tailb4987.ts.net:4848
@@ -1750,7 +1751,7 @@ wss://paying-prancing.fractalnetworks.co
 wss://nostr.0xtr.dev
 wss://-pub.wellorder.net
 wss://nostr.mom
-tcoin.social
+//bitcoin.social
 wss://nostr.ahaspharos.de
 wss://nostr.0ne.day
 wss://umbrel-app.tail10ad4.ts.net:4848
