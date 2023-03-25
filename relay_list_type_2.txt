@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.f44.dev
 wss://nostr.zxcvbn.space
+wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -986,6 +986,7 @@ wss://relay.taxi
 wss://nostr.vpn1.codingmerc.com
 wss://nostr.thomascdnns.com
 wss://nostr.illegalfreedom.xyz
+wss://rkdgwzgvcgrciemlnfsxqgyrv5whgpw44s6zycokmuchpq4ucflgjtqd.local
 wss://mulved.net
 wss://metazoan.icp.der0pa.io:1323
 wss://nostr.roundrockbitcoiners.com
@@ -1758,9 +1759,9 @@ wss://nostr.eaglebtm.com
 wss://heguro.com
 wss://nostr.bongbong.com
 wss://tail6452b.ts.net:4848
-wss://r.alphaama.com
-wss://cow-woodpecker.ts.net:4848
-wss://relay.austritch.net//relay.brb.io
+          
+wss://nostr.snort.social
+wss://relay.brb.io
 wss://nostr.argdx.net
 wss://nostr.blocs.fr
 wss://nostr-relay.trustbtc.org
