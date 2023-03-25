@@ -1,7 +1,7 @@
 
 wss://monad.jb55.com:8080
-wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -854,6 +854,7 @@ wss://relay-pub.deschooling.us
 wss://7fvtb63nbejaiuacmvllb3qatmkydtjxlxkvi3z7zsjoijcinyc3b6id.onion
 wss://brb.io.relay
 wss://offchain.pub
+wss://badges.page
 wss://lyf3gt3w5k4hyf6kwp4jmo2ypkbdgabbcp5i33axxhp6sar6id7gkcqd.onion
 wss://nostr.lukeacl.com
 wss://ocha.one
@@ -1749,13 +1750,13 @@ wss://nostr.21sats.org
 wss://nostr-relay.local:7443
 wss://paying-prancing.fractalnetworks.co
 wss://nostr.0xtr.dev
-wss://-pub.wellorder.net
-wss://nostr.mom
-//bitcoin.social
+                       wss://nostr2.acrn.io
+wss://bitcoin.social
 wss://nostr.ahaspharos.de
 wss://nostr.0ne.day
 wss://umbrel-app.tail10ad4.ts.net:4848
 wss://merrcurr.up.railway.app
+wss://yael.at
 wss://nostr.zenon.info
 wss://relay.nostr.social
 wss://Nostr.mom
