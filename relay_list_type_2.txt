@@ -1719,6 +1719,7 @@ wss://nostr.5ub.net:8008
 wss://nostr.kimi.im
 wss://nostr.merrcurr.com
 wss://nostrich.site
+wss://relay.nostr.wierdnet.jp
 wss://rip.relay
 wss://nostr.phenomenon.space
 wss://nostr-relay.wolfandcrow.tech
@@ -1759,9 +1760,7 @@ wss://nostr.bongbong.com
 wss://tail6452b.ts.net:4848
 wss://r.alphaama.com
 wss://cow-woodpecker.ts.net:4848
-wss://relay.austritch.net
-wss://nostr.snort.social
-wss://relay.brb.io
+wss://relay.austritch.net//relay.brb.io
 wss://nostr.argdx.net
 wss://nostr.blocs.fr
 wss://nostr-relay.trustbtc.org
