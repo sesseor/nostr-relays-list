@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
-wss://nostr.f44.dev
 wss://monad.jb55.com:8080
+wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1501,6 +1501,7 @@ wss://Brb.io
 wss://nostr.v01.io
 wss://nostr.bridgey.dev
 wss://nostream-production-31f8.up.railway.app
+wss://paladium.my:4848
 wss://relay.nostrich.de
 
 wss://Nostr.azte.co
@@ -1751,8 +1752,7 @@ wss://nostrica.nostrnotes.com
 wss://nostr-us.coinfundit.com
 wss://nostream-relay-nostr.831.pp.ua
 wss://nostr.walletofsatoshi.com
-wss://nostr.dvdt.dev
-n.netCheck
+s://relay.mrjohnsson.netCheck
 wss://nostr-check.me
 wss://7tdom3xuus7ekv423ul46w3j43zyixjj54yoe62bndpcrgii3adeppid.onion
 wss://Nostr.milou.lol
