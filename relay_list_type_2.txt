@@ -1748,7 +1748,11 @@ wss://nostr.walletofsatoshi.com
 wss://nostr.dvdt.dev
 wss://relay.mrjohnsson.netCheck
 wss://nostr-check.me
-                                                                                                                               wss://nostr-relay.wlvs.space
+wss://7tdom3xuus7ekv423ul46w3j43zyixjj54yoe62bndpcrgii3adeppid.onion
+wss://Nostr.milou.lol
+wss://nostr.orangepillapp.com
+wss://tail8278a.ts.net
+wss://nostr-relay.wlvs.space
 wss://nostr.21sats.org
 wss://nostr-relay.local:7443
 wss://paying-prancing.fractalnetworks.co
