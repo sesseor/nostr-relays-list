@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -234,6 +234,7 @@ wss://nostr-pub.seminol.dev
 wss://syx.local:4848
 wss://mindmachine.688.org
 wss://relay.bitcoiner.social
+wss://sonzai.net
 wss://nostrrelay.maciejz.net
 wss://nostr-rs-relay.cryptoassetssubledger.com
 wss://nostr.zhix.in
@@ -1747,11 +1748,12 @@ wss://nostr.walletofsatoshi.com
 wss://nostr.dvdt.dev
 wss://relay.mrjohnsson.netCheck
 wss://nostr-check.me
-wss://7tdom3xuus7ekv423ul46w3j43zyixjj54yoe62bndpcrgii3adeppid.onion
-wss://Nostr.milou.lol
-wss://nostr.orangepillapp.com
-wss://tail8278a.ts.net
-ub.wellorder.net
+                                                                                                                               wss://nostr-relay.wlvs.space
+wss://nostr.21sats.org
+wss://nostr-relay.local:7443
+wss://paying-prancing.fractalnetworks.co
+wss://nostr.0xtr.dev
+wss://-pub.wellorder.net
 wss://nostr.mom
 wss://nostr2.acrn.io
 wss://bitcoin.social
@@ -1911,3 +1913,4 @@ wss://nostrafrica.pcdkd.fvi
 wss://realy.damus.io
 wss://3gkpphcfwb6w5iq6axnmlbvr7pz2t37uy4ofocyijzttzrbz4jy43fid.onion
 wss://nostr.messagepush.io
+wss://nostr.eunundzwanzig.space
