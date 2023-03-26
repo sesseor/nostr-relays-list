@@ -1,7 +1,7 @@
 
+wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
-wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -230,6 +230,7 @@ wss://nostr.fmt.wiz.biz
 
 wss://relay.valera.co
 wss://nostr01.vida.dev
+wss://nostr-pub.seminol.dev
 wss://syx.local:4848
 wss://mindmachine.688.org
 wss://relay.bitcoiner.social
@@ -324,6 +325,7 @@ wss://I.relay.boats
 wss://nostr.coolamer.com
 wss://wss.nostrgram.co:444
 wss://truthsocial.com
+wss://nostr-pub.wellorder.netwss
 wss://Nostr.mado.io
 wss://freedom-relay.herokuapp.com
 wss://nostr-pub.liujiale.me
@@ -690,6 +692,7 @@ wss://relay.alien.blue
 wss://nost.vip
 wss://Iris.to
 wss://adult.18plus.social
+wss://nostr.bitcoinet.social
 wss://eden.nost.land
 wss://nostr.dojotunnel.online
 wss://f7f4-200-229-144-129.ngrok.io
@@ -1597,6 +1600,7 @@ wss://btc.klendazu.com
 wss://nostr.blipme.add
 wss://nostr.retroware.run.place
 wss://relav.nostr3.io
+wss://nostr-2.zebedee.cloudwss
 wss://wss.nostr.pleb.network
 wss://nostrblip.app
 wss://nostr-relay.freedomnode.com
@@ -1671,6 +1675,7 @@ wss://jqiwgflfw4dezjsy42frompmknrlcfazoiyngftgknj7yrmnhtobd7id.local
 wss://nostr-relay.pcokd.fyi
 wss://atlas.nostr.land
 wss://caro-relay.fiatjaf.com
+wss://nostr-relay.untether.me
 wss://relay.nostr.com.au
 wss://nos.io
 wss://relay.zhix.in
@@ -1746,12 +1751,7 @@ wss://7tdom3xuus7ekv423ul46w3j43zyixjj54yoe62bndpcrgii3adeppid.onion
 wss://Nostr.milou.lol
 wss://nostr.orangepillapp.com
 wss://tail8278a.ts.net
-wss://nostr-relay.wlvs.space
-wss://nostr.21sats.org
-wss://nostr-relay.local:7443
-wss://paying-prancing.fractalnetworks.co
-wss://nostr.0xtr.dev
-wss://-pub.wellorder.net
+ub.wellorder.net
 wss://nostr.mom
 wss://nostr2.acrn.io
 wss://bitcoin.social
