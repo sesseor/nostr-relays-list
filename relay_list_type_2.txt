@@ -1,7 +1,7 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
 wss://nostr.f44.dev
+wss://nostr.zxcvbn.space
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -955,6 +955,7 @@ wss://nostr.or.jp
 wss://nostr.handyjunkie.com
 wss://nostr-relay.nokotaro.com
 wss://uxc-vm.local:4848
+wss://relay.snort.com
 wss://paid.nostried.org
 wss://relay.nostropolis.xyz
 wss://nostrv0l.io
@@ -1750,7 +1751,7 @@ wss://nostr.walletofsatoshi.com
 wss://nostr.dvdt.dev
 wss://relay.mrjohnsson.netCheck
 wss://nostr-check.me
-wss://7tdom3xuus7ekv423ul46w3j43zyixjj54yoe62bndpcrgii3adeppid.onion
+3ul46w3j43zyixjj54yoe62bndpcrgii3adeppid.onion
 wss://Nostr.milou.lol
 wss://nostr.orangepillapp.com
 wss://tail8278a.ts.net
