@@ -1065,6 +1065,7 @@ wss://relay.utxo.one
 wss://7nj3e5opqjcpyaoxi56c5yvgzc3b3dmubbk4c6nrdq5lnzn64g5jwuad.onion
 wss://Node01.nostress.CC
 wss://nostrproxy-1.f7z.io
+wss://nostr.steken.xyz
 wss://relay.oxtr.dev
 wss://nostr.0nyx.eu
 wss://7oqraq7546vmfhqn3bkvsbfpe2nbo4kzgddtouuajen7cqwumba72lyd.onion
@@ -1751,7 +1752,7 @@ wss://nostr.phenomenon.space
 wss://nostr-relay.wolfandcrow.tech
 wss://nostrica.nostrnotes.com
 wss://nostr-us.coinfundit.com
-wss://nostream-relay-nostr.831.pp.ua
+str.831.pp.ua
 wss://nostr.walletofsatoshi.com
 wss://nostr.dvdt.dev
 wss://relay.mrjohnsson.netCheck
