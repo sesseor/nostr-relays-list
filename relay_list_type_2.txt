@@ -777,6 +777,7 @@ wss://quirky-bunch-isubghsvoi26fbbt3n7o.wnext.app
 wss://honeyroad.store
 wss://blogstack.io
 wss://nostr.dev.wellorder.net
+wss://ephemerelay.mostr.pub
 wss://relay.current.fyi
 
 wss://Nostr.bongbong.com
@@ -1750,9 +1751,7 @@ wss://nostrich.site
 wss://relay.nostr.wierdnet.jp
 wss://rip.relay
 wss://nostr.phenomenon.space
-wss://nostr-relay.wolfandcrow.tech
-wss://nostrica.nostrnotes.com
-wss://nostr-us.coinfundit.com
+                                     wss://nostr-us.coinfundit.com
 wss://nostream-relay-nostr.831.pp.ua
 wss://nostr.walletofsatoshi.com
 wss://nostr.dvdt.dev
@@ -1800,6 +1799,7 @@ wss://nostr.herci.one
 wss://t540p.local:4848
 wss://nostr.relay.nokotaro.com
 wss://relay.damus.com
+wss://s1.wonder3.org
 wss://nostr.interwebcoding.com:4848
 wss://dublin.saoirse.dev
 wss://nostr.Inprivate.network
