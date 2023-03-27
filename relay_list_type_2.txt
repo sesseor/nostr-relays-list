@@ -1261,6 +1261,7 @@ wss://phxgsswgip2vjrkqcxenzsfe3j4pvhqsgnz5dhqoewwmhgtwmiema3id.onion
 wss://swc6ieyosnb6vmiz3mxg3wbfbgifmw6atsssjonnwljhaon3zs5pkdad.onion
 wss://nostr.vOl.io
 wss://radixrat.com
+wss://nostr-relay-dev.nisshiee.org
 wss://relay.honk
 wss://nostr.chainbits.co.uk
 wss://nostr.enigma-swiss.ch
@@ -1750,8 +1751,7 @@ wss://nostr.5ub.net:8008
 wss://nostr.kimi.im
 wss://nostr.merrcurr.com
 wss://nostrich.site
-.jp
-wss://rip.relay
+/rip.relay
 wss://nostr.phenomenon.space
 wss://nostr-relay.wolfandcrow.tech
 wss://nostrica.nostrnotes.com
