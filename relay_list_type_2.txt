@@ -1,7 +1,7 @@
 
+wss://monad.jb55.com:8080
 wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
-wss://monad.jb55.com:8080
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
 wss://no-str.wnhefei.cn
@@ -1057,6 +1057,7 @@ wss://relay.nostrich.land
 wss://nostr.21sats.net
 wss://i6adjqrnqagzghleyrn24y2euzuy2fvfqacryuo7qh3zy2e2jg2jxdid.onion
 wss://relayer.ocha.one
+wss://nostr.schorsch.fans
 wss://nostream-production-9458.up.railway.app
 wss://relay.whoop.ph
 wss://yttmdhxezyfu2mjzbtynxw3gpjpg5qql6aazphiajlz24zd7omwr5dqd.onion:5051
@@ -1749,7 +1750,7 @@ wss://nostr.5ub.net:8008
 wss://nostr.kimi.im
 wss://nostr.merrcurr.com
 wss://nostrich.site
-wss://relay.nostr.wierdnet.jp
+.jp
 wss://rip.relay
 wss://nostr.phenomenon.space
 wss://nostr-relay.wolfandcrow.tech
