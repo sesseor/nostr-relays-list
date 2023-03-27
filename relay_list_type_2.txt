@@ -1,6 +1,6 @@
 
-wss://nostr.zxcvbn.space
 wss://monad.jb55.com:8080
+wss://nostr.zxcvbn.space
 wss://nostr.f44.dev
 wss://nostr.bitcoin.sex
 wss://pl2qmvbi6y5yoxy5dfzgd7x4moq7afcg7b7hsvwtl7ttgdefred6coqd.onion
@@ -1609,6 +1609,7 @@ wss://nostr.bingtech.tk
 wss://4bqywujincjfxvlwfdpgkx73zeogc5fcf7ddsovw2ndktort5z2wzeid.onion
 wss://nostr.red
 wss://btc.klendazu.com
+wss://7si6co27cvaw5yjyx6asvxfmaw5ah2arywwgrem4y5svi5ntskoeb5id.onion
 wss://nostr.blipme.add
 wss://nostr.retroware.run.place
 wss://relav.nostr3.io
@@ -1748,10 +1749,9 @@ wss://nostr.5ub.net:8008
 wss://nostr.kimi.im
 wss://nostr.merrcurr.com
 wss://nostrich.site
-wss://relay.nostr.wierdnet.jp
-wss://rip.relay
-wss://nostr.phenomenon.space
-                                     wss://nostr-us.coinfundit.com
+      wss://nostr-relay.wolfandcrow.tech
+wss://nostrica.nostrnotes.com
+wss://nostr-us.coinfundit.com
 wss://nostream-relay-nostr.831.pp.ua
 wss://nostr.walletofsatoshi.com
 wss://nostr.dvdt.dev
@@ -1786,6 +1786,7 @@ wss://nostr.eaglebtm.com
 wss://heguro.com
 wss://nostr.bongbong.com
 wss://tail6452b.ts.net:4848
+wss://byc.klendazu.com
 wss://r.alphaama.com
 wss://cow-woodpecker.ts.net:4848
 wss://relay.austritch.net
