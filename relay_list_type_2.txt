@@ -976,6 +976,7 @@ wss://nostr.swiss-enigma.me
 wss://nostr.ono.re
 wss://nostr-zu01.ciph.rs
 wss://nostrPlebs.com
+wss://nostr.global.fans
 wss://relay.nostr.blockhenge.com
 wss://nostr.azte.co
 wss://jqiwgflfw4dezjsy42frompmknrlcfazoiyngftgknj7yrmnhtobd7id.onion
@@ -1751,8 +1752,7 @@ wss://rip.relay
 wss://nostr.phenomenon.space
 wss://nostr-relay.wolfandcrow.tech
 wss://nostrica.nostrnotes.com
-wss://nostr-us.coinfundit.com
-wss://nostream-relay-nostr.831.pp.ua
+      wss://nostream-relay-nostr.831.pp.ua
 wss://nostr.walletofsatoshi.com
 wss://nostr.dvdt.dev
 wss://relay.mrjohnsson.netCheck
