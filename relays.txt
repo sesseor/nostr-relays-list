@@ -2155,3 +2155,16 @@ wss://lvl01.tater.ninja
 wss://kinky.business
 wss://relay.bitblockboom.com
 wss://fedi.omada.cafe
+wss://social.secret-wg.org
+wss://celebrity.social
+wss://weirdo.network
+wss://mastodon.design
+wss://berlin.social
+wss://misskey.yukineko.me
+wss://mindmachine.688.org
+wss://sackheads.social
+wss://a.farook.org
+wss://social.ridetrans.it
+wss://nostr-2.crypticthreadz.com
+wss://test.itas.li
+wss://fashionsocial.host
