@@ -1799,3 +1799,15 @@ wss://darkleaf-wot.libretechsystems.xyz
 wss://tekkadan.mycelium.social
 wss://dm.mycelium.social
 wss://freedom-relay.herokuapp.com
+wss://nostr.derogab.com
+wss://relay-nostr-br.com.br:4848
+wss://bostr.bitcoinxoko.com
+wss://relay.nostr.pt
+wss://cm9s0sxyo000q10rzob96hjez-haven.eggstr.com
+wss://relay.nostrava.xyz
+wss://192.168.1.243
+wss://relay.towardsliberty.com
+wss://ribo.af.nostria.app
+wss://realy.nostr.net
+wss://n.oko.org
+wss://realv.nostr.net
